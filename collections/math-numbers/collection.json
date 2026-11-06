@@ -1,0 +1,1048 @@
+{
+  "localization": {
+    "translations": {
+      "ko": {
+        "title": "수학 · 수와 연산",
+        "description": "수의 표현부터 분수·소수·백분율과 비례식까지 익힙니다. 선수 개념과 계산 예제를 연결한 입문 과정입니다."
+      },
+      "en-US": {
+        "title": "Mathematics · Numbers and operations",
+        "description": "Explore number representations, fractions, decimals, percentages and proportions. An introductory path linking prerequisites and worked examples."
+      },
+      "ja": {
+        "title": "数学 · 数と計算",
+        "description": "数の表し方から分数・小数・百分率・比例式まで学びます。前提概念と計算例を結ぶ入門コースです。"
+      },
+      "zh-TW": {
+        "title": "數學 · 數與運算",
+        "description": "從數的表示法學到分數、小數、百分率及比例式，以先備概念連結計算例子的入門課程。"
+      }
+    }
+  },
+  "viewMode": "both",
+  "tags": [
+    "knowledge",
+    "graph"
+  ],
+  "topics": [
+    "수학"
+  ],
+  "customRelations": [
+    {
+      "localizedLabels": {
+        "ko": "권장 다음 학습",
+        "en-US": "Suggested next topic",
+        "ja": "次のおすすめ学習",
+        "zh-TW": "建議接續學習"
+      },
+      "id": "custom:recommended-next",
+      "label": "권장 다음 학습"
+    }
+  ],
+  "protocolVersion": 2,
+  "collectionId": "builtin-math-numbers",
+  "title": "수학 · 수와 연산",
+  "description": "수의 표현부터 분수·소수·백분율과 비례식까지 익힙니다. 선수 개념과 계산 예제를 연결한 입문 과정입니다.",
+  "publishedAt": "2026-10-31T00:00:00.000Z",
+  "contentVersion": "learning-flow-76df3127f8e9",
+  "assets": [],
+  "cards": [
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "0과 양의 정수",
+            "description": "**물건의 개수처럼 0부터 하나씩 세는 수입니다.**\n\n### 상황에서 이해하기\n\n빈 상자에는 공이 0개 있고, 한 개씩 넣을 때마다 1개, 2개, 3개가 됩니다. 이렇게 나눌 필요 없는 물건의 개수를 세는 데 0과 양의 정수를 사용합니다.\n\n### 예제\n\n```text\n0, 1, 2, 3, …\n```\n\n### 예제 풀이\n\n목록의 …는 같은 방식으로 끝없이 계속된다는 뜻입니다. 0은 ‘기록하지 않음’이 아니라 개수가 없다는 정확한 값입니다. 공 2개에 1개를 더하면 3개가 되므로 이 수들은 덧셈으로 개수를 합칠 때도 편리합니다. 하지만 공 1개를 둘이 똑같이 나눈 한 몫인 1/2은 이 목록에 없습니다. 음수도 포함하지 않습니다. 어떤 교재는 자연수를 1부터, 다른 교재는 0부터 시작하므로 이름보다 정의를 먼저 확인하세요.\n\n### 주의\n\n자연수에 0을 포함하는지는 관례마다 다릅니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Whole numbers",
+            "description": "**The counting numbers together with zero.**\n\n### Context\n\nAn empty box contains zero balls. Add balls one at a time and its counts become 1, 2, 3 and so on. Whole numbers are useful when counting separate objects without dividing them into pieces.\n\n### Example\n\n```text\n0, 1, 2, 3, …\n```\n\n### Working through the example\n\nThe dots mean the sequence continues indefinitely by adding one. Zero is an exact count, not a missing record. Combining two balls with one more gives three, so these numbers also describe addition of counts. But half of one object, 1/2, is absent from this list, as are negative numbers. The boundary matters: a count of whole objects cannot be −1. Some books start the natural numbers at 1 and others at 0, so check the stated definition rather than relying on the name alone.\n\n### Watch out\n\nWhether natural numbers include zero varies by convention.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "0と正の整数",
+            "description": "**個数を表すように0から一つずつ数える数です。**\n\n### 場面から考える\n\n空の箱にはボールが0個あります。1個ずつ入れると1個、2個、3個と増えます。このように物を分割せずに個数を数えるとき、0と正の整数が役立ちます。\n\n### 例\n\n```text\n0, 1, 2, 3, …\n```\n\n### 例を読み解く\n\n…は1ずつ増やす並びが限りなく続くことを示します。0は記録漏れではなく、何もないという正確な個数です。2個に1個を加えると3個となり、個数の合算も表せます。ただし1個を2人で等分した1/2はこの並びにありません。負の数も含まず、物の個数が−1になることはありません。自然数を1から始める本と0から始める本があるため、名前だけでなく定義を確認しましょう。\n\n### 注意\n\n自然数に0を含めるかは流儀で異なります。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "非負整數",
+            "description": "**從 0 開始逐一增加，可用來表示數量。**\n\n### 情境理解\n\n空盒子裡有0顆球，每次放入1顆，數量依序成為1、2、3。計算不切分的獨立物件時，非負整數很有用。\n\n### 例子\n\n```text\n0, 1, 2, 3, …\n```\n\n### 例題解析\n\n省略號表示每次加1的數列會無限繼續。0是精確的數量，不是漏記。2顆再加1顆得到3顆，因此這些數也能描述數量的合併。不過，把1個物件平分成兩份後的一份是1/2，不在這個列表中；負數也不在其中。完整物件的數量不能是−1。有些書把自然數從1開始，有些從0開始，所以要確認定義，不能只看名稱。\n\n### 注意\n\n自然數是否包含 0 依慣例而異。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-whole",
+      "role": "instance",
+      "title": "0과 양의 정수",
+      "description": "**물건의 개수처럼 0부터 하나씩 세는 수입니다.**\n\n### 상황에서 이해하기\n\n빈 상자에는 공이 0개 있고, 한 개씩 넣을 때마다 1개, 2개, 3개가 됩니다. 이렇게 나눌 필요 없는 물건의 개수를 세는 데 0과 양의 정수를 사용합니다.\n\n### 예제\n\n```text\n0, 1, 2, 3, …\n```\n\n### 예제 풀이\n\n목록의 …는 같은 방식으로 끝없이 계속된다는 뜻입니다. 0은 ‘기록하지 않음’이 아니라 개수가 없다는 정확한 값입니다. 공 2개에 1개를 더하면 3개가 되므로 이 수들은 덧셈으로 개수를 합칠 때도 편리합니다. 하지만 공 1개를 둘이 똑같이 나눈 한 몫인 1/2은 이 목록에 없습니다. 음수도 포함하지 않습니다. 어떤 교재는 자연수를 1부터, 다른 교재는 0부터 시작하므로 이름보다 정의를 먼저 확인하세요.\n\n### 주의\n\n자연수에 0을 포함하는지는 관례마다 다릅니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": []
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "자릿값",
+            "description": "**십진법에서는 숫자의 위치가 나타내는 크기를 정합니다.**\n\n### 상황에서 이해하기\n\n4,072를 읽을 때 네 개의 숫자를 따로 더하면 13이지만, 실제 수는 4천72입니다. 숫자의 위치가 값의 크기를 정하기 때문입니다.\n\n### 예제\n\n```text\n4,072 = 4 × 1000 + 0 × 100 + 7 × 10 + 2\n```\n\n### 예제 풀이\n\n4는 천의 자리에 있어 4 × 1000 = 4000, 0은 백의 자리, 7은 십의 자리에 있어 70, 2는 일의 자리에 있어 2입니다. 이를 합치면 4000 + 0 + 70 + 2 = 4072입니다. 왼쪽으로 한 자리 이동하면 자리 단위가 10배 커집니다. 0을 지워 472로 쓰면 4가 백의 자리로 이동해 전혀 다른 수가 됩니다. 0은 아무것도 더하지 않지만 다른 숫자의 위치를 지키는 중요한 표시입니다.\n\n### 주의\n\n0도 빈 자리를 표시하는 역할을 합니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Place value",
+            "description": "**In base ten, a digit's position determines its value.**\n\n### Context\n\nThe digits in 4,072 add to 13, but the number itself is four thousand seventy-two. Position determines how much each digit contributes.\n\n### Example\n\n```text\n4,072 = 4 × 1000 + 0 × 100 + 7 × 10 + 2\n```\n\n### Working through the example\n\nThe 4 occupies the thousands place and contributes 4000. The 0 contributes no hundreds, the 7 contributes seven tens or 70, and the 2 contributes two ones. Adding these contributions gives 4000 + 0 + 70 + 2 = 4072. Moving one place left makes the place unit ten times larger. Deleting the zero would produce 472, moving the 4 into the hundreds place and changing the number. Zero adds nothing here, but it preserves the positions of the other digits. Reading a number by place helps explain carrying and borrowing later.\n\n### Watch out\n\nZero can act as a placeholder.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "位取り",
+            "description": "**十進法では数字の位置が値を決めます。**\n\n### 場面から考える\n\n4,072の数字だけを足すと13ですが、数そのものは四千七十二です。数字の位置によって表す大きさが決まるためです。\n\n### 例\n\n```text\n4,072 = 4 × 1000 + 0 × 100 + 7 × 10 + 2\n```\n\n### 例を読み解く\n\n4は千の位で4000、0は百の位で0、7は十の位で70、2は一の位で2を表します。合計は4000 + 0 + 70 + 2 = 4072です。1つ左へ移ると位の単位は10倍になります。0を消して472と書くと、4が百の位に移り別の数になります。0自体は何も加えませんが、他の数字の位置を保つ大切な役割があります。位で読むことは、後で繰り上がりや繰り下がりを理解する助けにもなります。\n\n### 注意\n\n0は空いている位を示す役割も持ちます。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "位值",
+            "description": "**十進位中，數字的位置決定其數值。**\n\n### 情境理解\n\n4,072的各個數字相加是13，但這個數本身是四千零七十二，因為位置決定每個數字代表的大小。\n\n### 例子\n\n```text\n4,072 = 4 × 1000 + 0 × 100 + 7 × 10 + 2\n```\n\n### 例題解析\n\n4在千位，表示4000；0在百位，表示沒有整百；7在十位，表示70；2在個位，表示2。合計4000 + 0 + 70 + 2 = 4072。每向左一位，位值單位就變成10倍。若刪掉0而寫成472，4會移到百位，數值完全不同。0本身沒有增加數量，卻保留其他數字的位置。按位值讀數，也能幫助理解以後的進位與借位。\n\n### 注意\n\n0 也有占位的作用。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-place",
+      "role": "instance",
+      "title": "자릿값",
+      "description": "**십진법에서는 숫자의 위치가 나타내는 크기를 정합니다.**\n\n### 상황에서 이해하기\n\n4,072를 읽을 때 네 개의 숫자를 따로 더하면 13이지만, 실제 수는 4천72입니다. 숫자의 위치가 값의 크기를 정하기 때문입니다.\n\n### 예제\n\n```text\n4,072 = 4 × 1000 + 0 × 100 + 7 × 10 + 2\n```\n\n### 예제 풀이\n\n4는 천의 자리에 있어 4 × 1000 = 4000, 0은 백의 자리, 7은 십의 자리에 있어 70, 2는 일의 자리에 있어 2입니다. 이를 합치면 4000 + 0 + 70 + 2 = 4072입니다. 왼쪽으로 한 자리 이동하면 자리 단위가 10배 커집니다. 0을 지워 472로 쓰면 4가 백의 자리로 이동해 전혀 다른 수가 됩니다. 0은 아무것도 더하지 않지만 다른 숫자의 위치를 지키는 중요한 표시입니다.\n\n### 주의\n\n0도 빈 자리를 표시하는 역할을 합니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-whole"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "덧셈",
+            "description": "**두 양을 합친 값을 구합니다.**\n\n### 상황에서 이해하기\n\n책이 8권 있는 선반에 5권을 더 놓으면 모두 몇 권일까요? 덧셈은 같은 단위의 두 양을 합친 전체를 구합니다.\n\n### 예제\n\n```text\n8 + 5 = 13\n```\n\n### 예제 풀이\n\n8에 5를 더할 때 5를 2와 3으로 나누면 편합니다. 먼저 8 + 2 = 10, 남은 3을 더하면 13입니다. 이렇게 10을 만드는 방법은 받아올림의 원리와 연결됩니다. 일의 자리 합이 10 이상이면 10개의 낱개를 십의 자리 하나로 바꿉니다. 예를 들어 28 + 5에서는 일의 자리 8 + 5 = 13에서 1십을 올려 33이 됩니다. 13 − 5 = 8로 원래 양이 돌아오는지도 확인할 수 있습니다.\n\n### 주의\n\n자리별 계산에서는 받아올림을 확인합니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Addition",
+            "description": "**Finds the combined value of two quantities.**\n\n### Context\n\nA shelf holds eight books and you add five more. Addition finds the combined amount, provided you are combining compatible units such as books with books.\n\n### Example\n\n```text\n8 + 5 = 13\n```\n\n### Working through the example\n\nSplit 5 into 2 and 3 to make the calculation easier. First 8 + 2 = 10, then add the remaining 3 to obtain 13. Making a ten explains carrying in written addition: ten ones can be exchanged for one ten without changing the total. For example, in 28 + 5, the ones add to 13, so carry one ten and leave three ones, giving 33. You can check the original example by reversing it: 13 − 5 = 8. The answer represents the total number of books, not just the newly added books.\n\n### Watch out\n\nCheck carrying when calculating by place value.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "足し算",
+            "description": "**二つの量を合わせた値を求めます。**\n\n### 場面から考える\n\n棚に8冊の本があり、さらに5冊置くと全部で何冊でしょうか。足し算は本と本のように同じ単位の量を合わせ、全体を求めます。\n\n### 例\n\n```text\n8 + 5 = 13\n```\n\n### 例を読み解く\n\n5を2と3に分けると、まず8 + 2 = 10、残りの3を加えて13となります。10を作る方法は繰り上がりの原理につながります。一の位が10以上になったら、10個の一を1個の十に交換します。例えば28 + 5では、一の位の8 + 5 = 13から十を1つ繰り上げ、33になります。元の例は13 − 5 = 8と逆算して確認できます。答えは追加分だけでなく、本の総数です。\n\n### 注意\n\n筆算では繰り上がりを確認します。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "加法",
+            "description": "**求兩個量合併後的值。**\n\n### 情境理解\n\n書架原有8本書，再放上5本，總共幾本？加法把相容單位的量合併，例如書本與書本。\n\n### 例子\n\n```text\n8 + 5 = 13\n```\n\n### 例題解析\n\n把5拆成2和3比較容易算：先算8 + 2 = 10，再加剩下的3，得到13。湊成10也能解釋直式加法的進位：10個一可換成1個十，總量不變。例如28 + 5的個位數8 + 5 = 13，向十位進1，留下3個一，得到33。原例可用13 − 5 = 8反向檢查。答案表示全部書本的數量，不只是新加入的5本。\n\n### 注意\n\n直式計算時須注意進位。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-add",
+      "role": "instance",
+      "title": "덧셈",
+      "description": "**두 양을 합친 값을 구합니다.**\n\n### 상황에서 이해하기\n\n책이 8권 있는 선반에 5권을 더 놓으면 모두 몇 권일까요? 덧셈은 같은 단위의 두 양을 합친 전체를 구합니다.\n\n### 예제\n\n```text\n8 + 5 = 13\n```\n\n### 예제 풀이\n\n8에 5를 더할 때 5를 2와 3으로 나누면 편합니다. 먼저 8 + 2 = 10, 남은 3을 더하면 13입니다. 이렇게 10을 만드는 방법은 받아올림의 원리와 연결됩니다. 일의 자리 합이 10 이상이면 10개의 낱개를 십의 자리 하나로 바꿉니다. 예를 들어 28 + 5에서는 일의 자리 8 + 5 = 13에서 1십을 올려 33이 됩니다. 13 − 5 = 8로 원래 양이 돌아오는지도 확인할 수 있습니다.\n\n### 주의\n\n자리별 계산에서는 받아올림을 확인합니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-whole"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "뺄셈",
+            "description": "**차이나 남은 양을 구합니다.**\n\n### 상황에서 이해하기\n\n책 13권 중 5권을 빌려주면 남은 책은 몇 권일까요? 뺄셈은 남은 양을 구할 뿐 아니라 두 양이 얼마나 다른지도 나타냅니다.\n\n### 예제\n\n```text\n13 − 5 = 8\n```\n\n### 예제 풀이\n\n13 − 5는 13에서 3을 빼 10을 만들고, 나머지 2를 빼서 8로 계산할 수 있습니다. 또는 5에 얼마를 더해야 13인지 물어도 됩니다. 5 + 8 = 13이므로 차이는 8입니다. 이처럼 덧셈으로 검산할 수 있습니다. 순서를 바꾸면 5 − 13 = −8이 되어 같은 답이 아닙니다. 문제에서 전체, 뺀 양, 남은 양 중 무엇을 알고 무엇을 찾는지 먼저 정리하면 식의 순서를 결정하기 쉽습니다.\n\n### 주의\n\n일반적으로 순서를 바꾸면 결과가 달라집니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Subtraction",
+            "description": "**Finds a difference or a remaining amount.**\n\n### Context\n\nIf five of thirteen books are lent out, how many remain? Subtraction can describe a remainder or the difference between two quantities.\n\n### Example\n\n```text\n13 − 5 = 8\n```\n\n### Working through the example\n\nOne method is to split 5 into 3 and 2: subtract 3 from 13 to reach 10, then subtract 2 to reach 8. Another is to ask what must be added to 5 to make 13. Since 5 + 8 = 13, the difference is 8. This addition also checks the subtraction. Order matters: 5 − 13 = −8, not 8. Before writing a subtraction, identify the starting total and the amount removed, or decide which quantity is being compared with which. The story determines the order of the operands.\n\n### Watch out\n\nChanging the order usually changes the result.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "引き算",
+            "description": "**差や残りの量を求めます。**\n\n### 場面から考える\n\n13冊の本から5冊貸すと何冊残るでしょうか。引き算は残りの量にも、2つの量の差にも使えます。\n\n### 例\n\n```text\n13 − 5 = 8\n```\n\n### 例を読み解く\n\n5を3と2に分け、13から3を引いて10、さらに2を引いて8と計算できます。また、5に何を足せば13になるかと考えてもよく、5 + 8 = 13から差は8です。この足し算で検算もできます。順序を逆にすると5 − 13 = −8で、8ではありません。式を書く前に、最初の全体と取り除く量、または何を何と比較するかを確認しましょう。状況が数の順序を決めます。\n\n### 注意\n\n通常、順序を変えると結果も変わります。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "減法",
+            "description": "**求差或剩餘的量。**\n\n### 情境理解\n\n13本書借出5本，還剩幾本？減法既能描述剩餘量，也能比較兩個量的差。\n\n### 例子\n\n```text\n13 − 5 = 8\n```\n\n### 例題解析\n\n可以把5拆成3和2：13先減3到10，再減2得到8。也可以問5要加多少才會變成13；因為5 + 8 = 13，所以差是8，這也能驗算減法。順序很重要，5 − 13 = −8，不是8。列式前，先辨認原有總量與移除的量，或確認正在用哪個量與哪個量比較。題目情境決定兩數的順序。\n\n### 注意\n\n交換順序通常會改變結果。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-subtract",
+      "role": "instance",
+      "title": "뺄셈",
+      "description": "**차이나 남은 양을 구합니다.**\n\n### 상황에서 이해하기\n\n책 13권 중 5권을 빌려주면 남은 책은 몇 권일까요? 뺄셈은 남은 양을 구할 뿐 아니라 두 양이 얼마나 다른지도 나타냅니다.\n\n### 예제\n\n```text\n13 − 5 = 8\n```\n\n### 예제 풀이\n\n13 − 5는 13에서 3을 빼 10을 만들고, 나머지 2를 빼서 8로 계산할 수 있습니다. 또는 5에 얼마를 더해야 13인지 물어도 됩니다. 5 + 8 = 13이므로 차이는 8입니다. 이처럼 덧셈으로 검산할 수 있습니다. 순서를 바꾸면 5 − 13 = −8이 되어 같은 답이 아닙니다. 문제에서 전체, 뺀 양, 남은 양 중 무엇을 알고 무엇을 찾는지 먼저 정리하면 식의 순서를 결정하기 쉽습니다.\n\n### 주의\n\n일반적으로 순서를 바꾸면 결과가 달라집니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-add"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "곱셈",
+            "description": "**자연수에서는 같은 크기의 묶음을 합치는 계산입니다.**\n\n### 상황에서 이해하기\n\n한 상자에 6개씩 담긴 물건이 4상자 있다면, 6을 네 번 더할 수 있습니다. 곱셈은 같은 크기의 묶음을 빠르게 계산하게 해 줍니다.\n\n### 예제\n\n```text\n4 × 6 = 24\n```\n\n### 예제 풀이\n\n4 × 6은 여기서 6 + 6 + 6 + 6 = 24입니다. 4행에 6개씩 점을 그리면 전체 24개가 눈에 보입니다. 배열을 다른 방향으로 읽으면 6행에 4개씩이므로 6 × 4도 24임을 이해할 수 있습니다. 다만 묶음의 수와 한 묶음의 크기는 이야기에서 서로 다른 역할입니다. 또 분수 곱셈에서는 ‘어떤 양의 일부’라는 해석이 필요합니다. 1/2 × 6은 6의 절반인 3이므로 곱하면 항상 커진다는 규칙은 없습니다.\n\n### 주의\n\n이 해석을 분수 곱셈에 그대로 제한하지 마세요.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Multiplication",
+            "description": "**For counting numbers, it combines equal-sized groups.**\n\n### Context\n\nFour boxes contain six items each. Instead of adding six repeatedly, multiplication records the equal-group structure.\n\n### Example\n\n```text\n4 × 6 = 24\n```\n\n### Working through the example\n\nHere 4 × 6 means 6 + 6 + 6 + 6 = 24. Draw four rows of six dots to see all twenty-four items. Reading the same array in the other direction gives six rows of four, explaining why 6 × 4 has the same product. However, the number of groups and the size of each group still have different roles in the story. Repeated addition is useful for whole numbers but should not restrict your understanding of multiplication. With fractions, multiplication can mean taking part of a quantity: 1/2 × 6 = 3. Multiplication therefore does not always make a quantity larger.\n\n### Watch out\n\nFraction multiplication requires a broader interpretation.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "掛け算",
+            "description": "**数を数える場面では同じ大きさの組を合わせます。**\n\n### 場面から考える\n\n1箱に6個ずつ入った物が4箱あるなら、6を4回足せます。掛け算は同じ大きさのまとまりを簡潔に表します。\n\n### 例\n\n```text\n4 × 6 = 24\n```\n\n### 例を読み解く\n\nここでは4 × 6は6 + 6 + 6 + 6 = 24です。6個ずつ4行に点を並べると24個が見えます。別の方向から読むと4個ずつ6行なので、6 × 4も同じ積になる理由が分かります。ただし場面の中では、組の数と1組の大きさの役割は異なります。繰り返す足し算は整数には便利ですが、掛け算をそれだけに限定しないでください。分数なら量の一部を取る意味もあり、1/2 × 6 = 3です。掛け算で必ず大きくなるわけではありません。\n\n### 注意\n\n分数の掛け算にはより広い解釈が必要です。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "乘法",
+            "description": "**在計數情境中，可表示合併等量的組。**\n\n### 情境理解\n\n4箱物品，每箱6個，可以把6重複相加。乘法簡潔地記錄這種相同大小的組。\n\n### 例子\n\n```text\n4 × 6 = 24\n```\n\n### 例題解析\n\n此處4 × 6就是6 + 6 + 6 + 6 = 24。畫出4排、每排6個點，就能看到24個物品；從另一方向看，成為6排、每排4個，說明6 × 4也有相同乘積。不過，在情境中「組數」與「每組大小」仍是不同角色。重複相加適合解釋整數乘法，卻不能限制所有乘法。分數乘法也可表示取某個量的一部分，例如1/2 × 6 = 3。因此相乘不一定使數量增加。\n\n### 注意\n\n分數乘法需要更廣的解釋。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-multiply",
+      "role": "instance",
+      "title": "곱셈",
+      "description": "**자연수에서는 같은 크기의 묶음을 합치는 계산입니다.**\n\n### 상황에서 이해하기\n\n한 상자에 6개씩 담긴 물건이 4상자 있다면, 6을 네 번 더할 수 있습니다. 곱셈은 같은 크기의 묶음을 빠르게 계산하게 해 줍니다.\n\n### 예제\n\n```text\n4 × 6 = 24\n```\n\n### 예제 풀이\n\n4 × 6은 여기서 6 + 6 + 6 + 6 = 24입니다. 4행에 6개씩 점을 그리면 전체 24개가 눈에 보입니다. 배열을 다른 방향으로 읽으면 6행에 4개씩이므로 6 × 4도 24임을 이해할 수 있습니다. 다만 묶음의 수와 한 묶음의 크기는 이야기에서 서로 다른 역할입니다. 또 분수 곱셈에서는 ‘어떤 양의 일부’라는 해석이 필요합니다. 1/2 × 6은 6의 절반인 3이므로 곱하면 항상 커진다는 규칙은 없습니다.\n\n### 주의\n\n이 해석을 분수 곱셈에 그대로 제한하지 마세요.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-add"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "나눗셈",
+            "description": "**똑같이 나눈 한 몫이나 묶음의 수를 구합니다.**\n\n### 상황에서 이해하기\n\n24개를 6명에게 똑같이 나누는 문제와 24개를 6개씩 묶는 문제는 모두 24 ÷ 6으로 나타낼 수 있습니다. 하지만 답이 가리키는 것은 다릅니다.\n\n### 예제\n\n```text\n24 ÷ 6 = 4\n```\n\n### 예제 풀이\n\n첫 문제에서 4는 한 명이 받는 개수이고, 둘째 문제에서는 묶음의 수입니다. 어느 해석이든 6 × 4 = 24이므로 나눗셈을 곱셈으로 확인할 수 있습니다. 나눗셈은 곱셈의 한 인수를 찾는 과정이라고 볼 수 있습니다. 24 ÷ 0에 답 q가 있다면 0 × q = 24여야 하지만 어떤 수 q도 이를 만족하지 않습니다. 0 ÷ 0도 하나의 답을 정할 수 없으므로 0으로 나누는 연산은 정의하지 않습니다.\n\n### 주의\n\n0으로 나누는 것은 정의되지 않습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Division",
+            "description": "**Finds the size of an equal share or the number of groups.**\n\n### Context\n\nSharing twenty-four items among six people and forming groups of six from twenty-four items both use 24 ÷ 6. The meaning of the answer differs.\n\n### Example\n\n```text\n24 ÷ 6 = 4\n```\n\n### Working through the example\n\nIn the sharing question, 4 is the number each person receives. In the grouping question, 4 is the number of groups. Either interpretation can be checked using 6 × 4 = 24: division finds a missing factor in a multiplication. Think about units before labeling the answer. Why exclude zero as a divisor? A quotient q for 24 ÷ 0 would have to satisfy 0 × q = 24, which no number does. For 0 ÷ 0, multiplication would not determine a unique answer either. Division by zero is therefore left undefined.\n\n### Watch out\n\nDivision by zero is undefined.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "割り算",
+            "description": "**等分した一つ分の大きさや組の数を求めます。**\n\n### 場面から考える\n\n24個を6人に等分する問題と、24個を6個ずつの組にする問題は、どちらも24 ÷ 6で表せます。ただし答えの意味は違います。\n\n### 例\n\n```text\n24 ÷ 6 = 4\n```\n\n### 例を読み解く\n\n等分では4は1人が受け取る個数、組分けでは4は組の数です。どちらも6 × 4 = 24で確認でき、割り算は掛け算の未知の因数を求めることと考えられます。答えの単位を確かめましょう。24 ÷ 0の答えqがあるなら0 × q = 24が必要ですが、そのような数はありません。0 ÷ 0も掛け算から答えを1つに決められません。そのため0で割る計算は定義しません。\n\n### 注意\n\n0で割ることは定義されません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "除法",
+            "description": "**求平均分配的一份大小或組數。**\n\n### 情境理解\n\n把24個物品平分給6人，或把24個物品每6個分成一組，都可用24 ÷ 6表示，但答案的意義不同。\n\n### 例子\n\n```text\n24 ÷ 6 = 4\n```\n\n### 例題解析\n\n平分問題的4是每人得到的個數；分組問題的4則是組數。兩者都可用6 × 4 = 24檢查，因此除法可看成尋找乘法中未知的因數。寫答案前先確認單位。為何不能除以0？若24 ÷ 0的商是q，就必須有0 × q = 24，但沒有數能滿足。0 ÷ 0也無法由乘法決定唯一答案，因此除以0不予定義。\n\n### 注意\n\n除以 0 未定義。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-divide",
+      "role": "instance",
+      "title": "나눗셈",
+      "description": "**똑같이 나눈 한 몫이나 묶음의 수를 구합니다.**\n\n### 상황에서 이해하기\n\n24개를 6명에게 똑같이 나누는 문제와 24개를 6개씩 묶는 문제는 모두 24 ÷ 6으로 나타낼 수 있습니다. 하지만 답이 가리키는 것은 다릅니다.\n\n### 예제\n\n```text\n24 ÷ 6 = 4\n```\n\n### 예제 풀이\n\n첫 문제에서 4는 한 명이 받는 개수이고, 둘째 문제에서는 묶음의 수입니다. 어느 해석이든 6 × 4 = 24이므로 나눗셈을 곱셈으로 확인할 수 있습니다. 나눗셈은 곱셈의 한 인수를 찾는 과정이라고 볼 수 있습니다. 24 ÷ 0에 답 q가 있다면 0 × q = 24여야 하지만 어떤 수 q도 이를 만족하지 않습니다. 0 ÷ 0도 하나의 답을 정할 수 없으므로 0으로 나누는 연산은 정의하지 않습니다.\n\n### 주의\n\n0으로 나누는 것은 정의되지 않습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-multiply"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "정수",
+            "description": "**양의 정수, 0, 음의 정수를 합친 수의 범위입니다.**\n\n### 상황에서 이해하기\n\n온도가 0도보다 낮거나 위치가 기준점 왼쪽일 때는 음수가 필요합니다. 정수는 0을 가운데 두고 양쪽으로 한 칸씩 이어지는 수들입니다.\n\n### 예제\n\n```text\n−4 + 7 = 3\n```\n\n### 예제 풀이\n\n−4 + 7은 −4에서 오른쪽으로 7칸 이동하는 것입니다. 4칸 가면 0에 도착하고, 남은 3칸을 가면 3입니다. 음수는 ‘수의 크기가 없다’는 뜻이 아니라 기준보다 어느 방향에 있는지를 표시합니다. −4는 −1보다 왼쪽이므로 더 작습니다. 하지만 0에서의 거리는 더 큽니다. 1.5처럼 두 정수 사이에 있는 수는 정수가 아닙니다. 정수의 합과 차, 곱은 정수이지만 3 ÷ 2 = 1.5처럼 나눗셈 결과는 아닐 수 있습니다.\n\n### 주의\n\n분수 부분이 있는 1.5는 정수가 아닙니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Integers",
+            "description": "**Include positive whole numbers, zero and their negatives.**\n\n### Context\n\nNegative temperatures or positions to the left of a reference point require numbers below zero. Integers extend whole-number steps in both directions from zero.\n\n### Example\n\n```text\n−4 + 7 = 3\n```\n\n### Working through the example\n\nFor −4 + 7, start at −4 on a number line and move seven units right. Four steps reach zero, and the remaining three reach 3. A negative sign identifies a position relative to the reference; it does not mean the number has no magnitude. Thus −4 is smaller than −1 even though it is farther from zero. A number such as 1.5 lies between adjacent integers and is not an integer. Adding, subtracting or multiplying integers stays within the integers, but division may not: 3 ÷ 2 = 1.5.\n\n### Watch out\n\n1.5 is not an integer.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "整数",
+            "description": "**正の整数、0、負の整数を合わせた数の範囲です。**\n\n### 場面から考える\n\n0度より低い温度や基準点の左側の位置には負の数が必要です。整数は0から両方向へ1ずつ続く数です。\n\n### 例\n\n```text\n−4 + 7 = 3\n```\n\n### 例を読み解く\n\n−4 + 7は数直線の−4から右へ7進む計算です。4進むと0、残り3で3に着きます。負の符号は基準に対する位置を示すもので、大きさがないという意味ではありません。−4は−1より小さい一方、0からの距離は大きいです。1.5のように隣り合う整数の間にある数は整数ではありません。整数の和・差・積は整数ですが、3 ÷ 2 = 1.5のように商は整数とは限りません。\n\n### 注意\n\n1.5は整数ではありません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "整數",
+            "description": "**包含正整數、0 與負整數。**\n\n### 情境理解\n\n低於0度的溫度，或基準點左側的位置，都需要負數。整數從0向兩個方向，以1為單位延伸。\n\n### 例子\n\n```text\n−4 + 7 = 3\n```\n\n### 例題解析\n\n計算−4 + 7時，從數線的−4向右走7格：先走4格到0，再走3格到3。負號表示相對於基準的位置，不是表示沒有大小。因此−4比−1小，卻離0更遠。像1.5這種位於相鄰整數之間的數，不是整數。整數相加、相減、相乘仍是整數，但相除未必，例如3 ÷ 2 = 1.5。\n\n### 注意\n\n1.5 不是整數。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-integer",
+      "role": "instance",
+      "title": "정수",
+      "description": "**양의 정수, 0, 음의 정수를 합친 수의 범위입니다.**\n\n### 상황에서 이해하기\n\n온도가 0도보다 낮거나 위치가 기준점 왼쪽일 때는 음수가 필요합니다. 정수는 0을 가운데 두고 양쪽으로 한 칸씩 이어지는 수들입니다.\n\n### 예제\n\n```text\n−4 + 7 = 3\n```\n\n### 예제 풀이\n\n−4 + 7은 −4에서 오른쪽으로 7칸 이동하는 것입니다. 4칸 가면 0에 도착하고, 남은 3칸을 가면 3입니다. 음수는 ‘수의 크기가 없다’는 뜻이 아니라 기준보다 어느 방향에 있는지를 표시합니다. −4는 −1보다 왼쪽이므로 더 작습니다. 하지만 0에서의 거리는 더 큽니다. 1.5처럼 두 정수 사이에 있는 수는 정수가 아닙니다. 정수의 합과 차, 곱은 정수이지만 3 ÷ 2 = 1.5처럼 나눗셈 결과는 아닐 수 있습니다.\n\n### 주의\n\n분수 부분이 있는 1.5는 정수가 아닙니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-whole"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-subtract"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "절댓값",
+            "description": "**수직선에서 0까지의 거리입니다.**\n\n### 상황에서 이해하기\n\n기준점에서 동쪽으로 8m 간 위치를 +8, 서쪽으로 8m 간 위치를 −8이라 합시다. 방향은 반대지만 기준점에서 떨어진 거리는 둘 다 8m입니다.\n\n### 예제\n\n```text\n｜−8｜ = 8\n```\n\n### 예제 풀이\n\n그래서 ｜−8｜ = 8이고 ｜8｜ = 8입니다. 절댓값은 수직선에서 0까지의 거리이므로 음수가 될 수 없습니다. 0의 절댓값은 0입니다. 음수에 적용하면 부호가 바뀐 것처럼 보이지만 양수에 적용하면 그대로이므로 무조건 부호를 뒤집는 규칙은 틀립니다. 두 점 사이의 거리는 차의 절댓값으로 구할 수 있습니다. 예를 들어 −3과 5 사이 거리는 ｜5 − (−3)｜ = 8입니다. 여기서는 먼저 괄호 안의 차이를 계산한 뒤 거리를 취합니다.\n\n### 주의\n\n부호를 무조건 바꾸는 연산이 아닙니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Absolute value",
+            "description": "**The distance from zero on the number line.**\n\n### Context\n\nLet +8 describe a position eight meters east of a reference point and −8 a position eight meters west. Their directions differ, but both are eight meters from the reference.\n\n### Example\n\n```text\n｜−8｜ = 8\n```\n\n### Working through the example\n\nAccordingly, ｜−8｜ = 8 and ｜8｜ = 8. Absolute value measures distance from zero, so it cannot be negative; the absolute value of zero is zero. For a negative input it may look like a sign reversal, but a positive input stays unchanged. “Always change the sign” is therefore incorrect. You can also find the distance between two points by taking the absolute value of their difference. For −3 and 5, that is ｜5 − (−3)｜ = 8. Evaluate the expression inside the bars before taking its distance from zero.\n\n### Watch out\n\nIt does not mean always changing the sign.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "絶対値",
+            "description": "**数直線上で0からの距離です。**\n\n### 場面から考える\n\n基準点から東へ8mの位置を+8、西へ8mを−8とします。方向は反対ですが、基準点からの距離はどちらも8mです。\n\n### 例\n\n```text\n｜−8｜ = 8\n```\n\n### 例を読み解く\n\nそのため｜−8｜ = 8、｜8｜ = 8です。絶対値は0からの距離なので負にならず、0の絶対値は0です。負の入力では符号を反転したように見えますが、正の入力は変わりません。「必ず符号を変える」という規則は誤りです。2点間の距離も差の絶対値で求められます。−3と5なら｜5 − (−3)｜ = 8です。縦線の中の式を先に計算してから、0からの距離を求めましょう。\n\n### 注意\n\n常に符号を変える操作ではありません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "絕對值",
+            "description": "**數線上到 0 的距離。**\n\n### 情境理解\n\n以+8表示基準點東方8公尺，−8表示西方8公尺。方向相反，但兩者距離基準點都是8公尺。\n\n### 例子\n\n```text\n｜−8｜ = 8\n```\n\n### 例題解析\n\n因此｜−8｜ = 8，｜8｜ = 8。絕對值表示到0的距離，不會是負數；0的絕對值是0。負數輸入看起來像變號，正數卻保持不變，所以「一律變號」是錯誤規則。兩點之間的距離也可用差的絕對值求得，例如−3與5之間是｜5 − (−3)｜ = 8。要先計算直線內的式子，再求它與0的距離。\n\n### 注意\n\n不是一律改變正負號。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-absolute",
+      "role": "instance",
+      "title": "절댓값",
+      "description": "**수직선에서 0까지의 거리입니다.**\n\n### 상황에서 이해하기\n\n기준점에서 동쪽으로 8m 간 위치를 +8, 서쪽으로 8m 간 위치를 −8이라 합시다. 방향은 반대지만 기준점에서 떨어진 거리는 둘 다 8m입니다.\n\n### 예제\n\n```text\n｜−8｜ = 8\n```\n\n### 예제 풀이\n\n그래서 ｜−8｜ = 8이고 ｜8｜ = 8입니다. 절댓값은 수직선에서 0까지의 거리이므로 음수가 될 수 없습니다. 0의 절댓값은 0입니다. 음수에 적용하면 부호가 바뀐 것처럼 보이지만 양수에 적용하면 그대로이므로 무조건 부호를 뒤집는 규칙은 틀립니다. 두 점 사이의 거리는 차의 절댓값으로 구할 수 있습니다. 예를 들어 −3과 5 사이 거리는 ｜5 − (−3)｜ = 8입니다. 여기서는 먼저 괄호 안의 차이를 계산한 뒤 거리를 취합니다.\n\n### 주의\n\n부호를 무조건 바꾸는 연산이 아닙니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-integer"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "연산 순서",
+            "description": "**괄호와 거듭제곱을 먼저, 곱셈·나눗셈을 덧셈·뺄셈보다 먼저 계산합니다.**\n\n### 상황에서 이해하기\n\n6개가 따로 있고 5개짜리 묶음이 2개 더 있다면 전체는 6 + 2 × 5입니다. 식을 읽는 공통 규칙이 없다면 같은 식에서 다른 답이 나올 수 있습니다.\n\n### 예제\n\n```text\n6 + 2 × 5 = 6 + 10 = 16\n```\n\n### 예제 풀이\n\n묶음의 양인 2 × 5 = 10을 먼저 계산한 뒤 6을 더해 16입니다. 왼쪽부터 무조건 계산해 (6 + 2) × 5 = 40으로 만들면 다른 문제를 푼 것입니다. 괄호, 거듭제곱, 곱셈·나눗셈, 덧셈·뺄셈 순으로 계산합니다. 곱셈·나눗셈끼리는 왼쪽부터 처리하므로 12 ÷ 3 × 2 = 4 × 2 = 8입니다. 곱셈을 나눗셈보다 항상 먼저 하는 것은 아닙니다. 덧셈과 뺄셈끼리도 왼쪽부터 계산합니다.\n\n### 주의\n\n같은 우선순위의 곱셈·나눗셈은 왼쪽부터 계산합니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Order of operations",
+            "description": "**Evaluate grouping and powers first, then multiplication/division before addition/subtraction.**\n\n### Context\n\nSuppose there are six loose items plus two packs of five. The total is 6 + 2 × 5. A shared order of operations ensures that everyone reads this expression the same way.\n\n### Example\n\n```text\n6 + 2 × 5 = 6 + 10 = 16\n```\n\n### Working through the example\n\nCalculate the packed items first: 2 × 5 = 10. Then add the six loose items to get 16. Calculating (6 + 2) × 5 = 40 changes the grouping and answers a different question. Evaluate parentheses, then powers, then multiplication and division, then addition and subtraction. For multiplication and division, work left to right: 12 ÷ 3 × 2 = 4 × 2 = 8. Multiplication does not automatically precede division. For addition and subtraction, also work left to right. Use parentheses when you intend a different grouping.\n\n### Watch out\n\nMultiplication and division at the same level proceed left to right.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "計算の順序",
+            "description": "**括弧と累乗を先に、掛け算・割り算を足し算・引き算より先に計算します。**\n\n### 場面から考える\n\nばらの6個と5個入りの袋が2つあるなら、合計は6 + 2 × 5です。共通の計算順序があれば、誰でも同じように式を読めます。\n\n### 例\n\n```text\n6 + 2 × 5 = 6 + 10 = 16\n```\n\n### 例を読み解く\n\n袋の分の2 × 5 = 10を先に計算し、6を加えて16です。(6 + 2) × 5 = 40とすると括り方が変わり、別の問題になります。括弧、累乗、掛け算・割り算、足し算・引き算の順です。掛け算・割り算どうしは左から計算し、12 ÷ 3 × 2 = 4 × 2 = 8です。掛け算が必ず割り算より先ではありません。足し算・引き算どうしも左から計算します。異なる括り方を意図するときは括弧を使いましょう。\n\n### 注意\n\n同順位の掛け算・割り算は左から計算します。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "運算順序",
+            "description": "**先處理括號與次方，再先乘除後加減。**\n\n### 情境理解\n\n有零散的6個物品，另外有2包、每包5個，總數是6 + 2 × 5。共同的運算順序讓大家對同一算式有相同理解。\n\n### 例子\n\n```text\n6 + 2 × 5 = 6 + 10 = 16\n```\n\n### 例題解析\n\n先算包裝內的數量2 × 5 = 10，再加零散的6個，得到16。若算成(6 + 2) × 5 = 40，就改變了分組，回答的是另一個問題。順序是括號、次方、乘除、加減。乘法與除法之間由左到右計算，例如12 ÷ 3 × 2 = 4 × 2 = 8。乘法不一定先於除法；加法與減法之間也由左到右計算。若想採不同分組，應明確使用括號。\n\n### 注意\n\n同一層級的乘除由左至右計算。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-order",
+      "role": "instance",
+      "title": "연산 순서",
+      "description": "**괄호와 거듭제곱을 먼저, 곱셈·나눗셈을 덧셈·뺄셈보다 먼저 계산합니다.**\n\n### 상황에서 이해하기\n\n6개가 따로 있고 5개짜리 묶음이 2개 더 있다면 전체는 6 + 2 × 5입니다. 식을 읽는 공통 규칙이 없다면 같은 식에서 다른 답이 나올 수 있습니다.\n\n### 예제\n\n```text\n6 + 2 × 5 = 6 + 10 = 16\n```\n\n### 예제 풀이\n\n묶음의 양인 2 × 5 = 10을 먼저 계산한 뒤 6을 더해 16입니다. 왼쪽부터 무조건 계산해 (6 + 2) × 5 = 40으로 만들면 다른 문제를 푼 것입니다. 괄호, 거듭제곱, 곱셈·나눗셈, 덧셈·뺄셈 순으로 계산합니다. 곱셈·나눗셈끼리는 왼쪽부터 처리하므로 12 ÷ 3 × 2 = 4 × 2 = 8입니다. 곱셈을 나눗셈보다 항상 먼저 하는 것은 아닙니다. 덧셈과 뺄셈끼리도 왼쪽부터 계산합니다.\n\n### 주의\n\n같은 우선순위의 곱셈·나눗셈은 왼쪽부터 계산합니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-add"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-subtract"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-multiply"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-divide"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-power"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "약수",
+            "description": "**정수를 나누어떨어지게 하는 정수입니다.**\n\n### 상황에서 이해하기\n\n18개를 남김없이 같은 크기의 묶음으로 나누려면 한 묶음에 몇 개씩 담을 수 있을까요? 이때 가능한 묶음 크기가 18의 양의 약수입니다.\n\n### 예제\n\n```text\n18 = 1 × 18 = 2 × 9 = 3 × 6\n```\n\n### 예제 풀이\n\n1 × 18, 2 × 9, 3 × 6이라는 짝에서 1, 2, 3, 6, 9, 18을 찾습니다. 각 수로 18을 나누면 나머지가 0입니다. 반면 4로 나누면 4묶음을 만들고 2개가 남으므로 4는 약수가 아닙니다. 약수를 찾을 때 곱의 짝으로 정리하면 작은 약수와 큰 약수를 함께 찾을 수 있습니다. 이 카드에서는 양의 정수의 양의 약수만 다룹니다. 일반적인 정수 나눗셈의 정의에서는 음의 약수도 말할 수 있으므로 범위를 확인하세요.\n\n### 주의\n\n여기서는 양의 정수의 양의 약수를 다룹니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Factor",
+            "description": "**An integer that divides another integer without remainder.**\n\n### Context\n\nHow many items can go in each equal-sized group if eighteen items must be arranged without leftovers? The possible positive group sizes are factors of 18.\n\n### Example\n\n```text\n18 = 1 × 18 = 2 × 9 = 3 × 6\n```\n\n### Working through the example\n\nThe pairs 1 × 18, 2 × 9 and 3 × 6 reveal the factors 1, 2, 3, 6, 9 and 18. Dividing 18 by any of these leaves remainder zero. By contrast, groups of four leave two items over, so 4 is not a factor. Organizing a search into factor pairs finds a small factor and its matching large factor together. Keep the scope clear: this card considers positive factors of positive integers. A broader definition of integer divisibility can also include negative factors. Factors help with equal grouping and later with simplifying fractions.\n\n### Watch out\n\nHere we consider positive factors of positive integers.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "約数",
+            "description": "**ある整数を余りなく割り切る整数です。**\n\n### 場面から考える\n\n18個を余りなく同じ大きさの組に分けるには、1組を何個にできるでしょうか。その可能な正の個数が18の正の約数です。\n\n### 例\n\n```text\n18 = 1 × 18 = 2 × 9 = 3 × 6\n```\n\n### 例を読み解く\n\n1 × 18、2 × 9、3 × 6の組から、1、2、3、6、9、18が見つかります。どれで18を割っても余りは0です。4個ずつでは2個余るので4は約数ではありません。積の組に整理すると、小さい約数と対応する大きい約数を一緒に探せます。このカードは正の整数の正の約数に範囲を限っています。整数の整除を広く考えると負の約数も使うため、範囲を確認しましょう。約数は等分や分数の約分に役立ちます。\n\n### 注意\n\nここでは正の整数の正の約数を扱います。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "因數",
+            "description": "**可將另一整數整除的整數。**\n\n### 情境理解\n\n18個物品要平均分組且沒有剩餘，每組可以有幾個？所有可能的正整數組大小，就是18的正因數。\n\n### 例子\n\n```text\n18 = 1 × 18 = 2 × 9 = 3 × 6\n```\n\n### 例題解析\n\n從1 × 18、2 × 9、3 × 6得到1、2、3、6、9、18。18除以這些數，餘數都是0。若每組4個，會剩下2個，所以4不是因數。用因數配對整理，可同時找出較小因數及對應的較大因數。本卡只討論正整數的正因數；更廣義的整數整除也可包含負因數，所以要確認範圍。因數可用於平均分組，以及之後的分數約分。\n\n### 注意\n\n此處討論正整數的正因數。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-factor",
+      "role": "instance",
+      "title": "약수",
+      "description": "**정수를 나누어떨어지게 하는 정수입니다.**\n\n### 상황에서 이해하기\n\n18개를 남김없이 같은 크기의 묶음으로 나누려면 한 묶음에 몇 개씩 담을 수 있을까요? 이때 가능한 묶음 크기가 18의 양의 약수입니다.\n\n### 예제\n\n```text\n18 = 1 × 18 = 2 × 9 = 3 × 6\n```\n\n### 예제 풀이\n\n1 × 18, 2 × 9, 3 × 6이라는 짝에서 1, 2, 3, 6, 9, 18을 찾습니다. 각 수로 18을 나누면 나머지가 0입니다. 반면 4로 나누면 4묶음을 만들고 2개가 남으므로 4는 약수가 아닙니다. 약수를 찾을 때 곱의 짝으로 정리하면 작은 약수와 큰 약수를 함께 찾을 수 있습니다. 이 카드에서는 양의 정수의 양의 약수만 다룹니다. 일반적인 정수 나눗셈의 정의에서는 음의 약수도 말할 수 있으므로 범위를 확인하세요.\n\n### 주의\n\n여기서는 양의 정수의 양의 약수를 다룹니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-divide"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "배수",
+            "description": "**어떤 수에 정수를 곱해서 얻는 수입니다.**\n\n### 상황에서 이해하기\n\n한 묶음에 7개씩 있다면 1묶음, 2묶음, 3묶음의 전체는 7, 14, 21개입니다. 이처럼 7의 정수배를 7의 배수라고 합니다.\n\n### 예제\n\n```text\n7, 14, 21, 28, …\n```\n\n### 예제 풀이\n\n목록은 7 × 1, 7 × 2, 7 × 3, 7 × 4로 만들어지며 다음 양의 배수는 35입니다. 연속한 항의 차이가 7이라는 규칙도 보입니다. 어떤 수가 7의 배수인지 확인하려면 7로 나눈 결과가 정수인지 보면 됩니다. 28 ÷ 7 = 4이므로 28은 배수지만 30은 아닙니다. 예에 나온 것은 양의 배수입니다. 7 × 0 = 0이므로 0도 정수배이며, 정수배 전체를 다루면 −7, −14 같은 음의 배수도 포함됩니다.\n\n### 주의\n\n표시한 예는 양의 배수이며 0도 정수배입니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Multiple",
+            "description": "**A number obtained by multiplying a given number by an integer.**\n\n### Context\n\nIf a pack holds seven items, one, two and three packs contain 7, 14 and 21 items. These totals are multiples of seven.\n\n### Example\n\n```text\n7, 14, 21, 28, …\n```\n\n### Working through the example\n\nThe list comes from 7 × 1, 7 × 2, 7 × 3 and 7 × 4; its next positive term is 35. Successive listed totals differ by seven. To test whether a number is a multiple of seven, check whether dividing it by seven gives an integer. Since 28 ÷ 7 = 4, 28 qualifies; 30 does not. The example lists positive multiples only. Zero also qualifies because 7 × 0 = 0, and the full set of integer multiples includes negative values such as −7 and −14. This distinction prevents the displayed list from being mistaken for the complete definition.\n\n### Watch out\n\nThe example lists positive multiples; zero is also an integer multiple.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "倍数",
+            "description": "**ある数に整数を掛けて得る数です。**\n\n### 場面から考える\n\n1組7個なら、1組、2組、3組の合計は7、14、21個です。これらは7の倍数です。\n\n### 例\n\n```text\n7, 14, 21, 28, …\n```\n\n### 例を読み解く\n\n一覧は7 × 1、7 × 2、7 × 3、7 × 4からでき、次の正の項は35です。隣り合う値の差が7であることも分かります。7の倍数かを調べるには、7で割った結果が整数になるか確認します。28 ÷ 7 = 4なので28は倍数ですが30は違います。例にあるのは正の倍数だけです。7 × 0 = 0なので0も整数倍であり、整数倍全体なら−7や−14なども含みます。表示された一覧と定義全体を区別しましょう。\n\n### 注意\n\n例は正の倍数ですが0も整数倍です。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "倍數",
+            "description": "**一個數乘以整數所得的數。**\n\n### 情境理解\n\n每包7個物品，1包、2包、3包的總數就是7、14、21，這些都是7的倍數。\n\n### 例子\n\n```text\n7, 14, 21, 28, …\n```\n\n### 例題解析\n\n列表來自7 × 1、7 × 2、7 × 3、7 × 4，下一個正倍數是35。相鄰項的差都是7。檢查某數是否為7的倍數，可看它除以7後是否為整數：28 ÷ 7 = 4，所以28是，30則不是。例子只列出正倍數。因為7 × 0 = 0，0也是整數倍；若討論所有整數倍，還包含−7、−14等負值。不要把顯示的列表誤當成完整定義。\n\n### 注意\n\n例子列出正倍數，0 也是整數倍。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-multiple",
+      "role": "instance",
+      "title": "배수",
+      "description": "**어떤 수에 정수를 곱해서 얻는 수입니다.**\n\n### 상황에서 이해하기\n\n한 묶음에 7개씩 있다면 1묶음, 2묶음, 3묶음의 전체는 7, 14, 21개입니다. 이처럼 7의 정수배를 7의 배수라고 합니다.\n\n### 예제\n\n```text\n7, 14, 21, 28, …\n```\n\n### 예제 풀이\n\n목록은 7 × 1, 7 × 2, 7 × 3, 7 × 4로 만들어지며 다음 양의 배수는 35입니다. 연속한 항의 차이가 7이라는 규칙도 보입니다. 어떤 수가 7의 배수인지 확인하려면 7로 나눈 결과가 정수인지 보면 됩니다. 28 ÷ 7 = 4이므로 28은 배수지만 30은 아닙니다. 예에 나온 것은 양의 배수입니다. 7 × 0 = 0이므로 0도 정수배이며, 정수배 전체를 다루면 −7, −14 같은 음의 배수도 포함됩니다.\n\n### 주의\n\n표시한 예는 양의 배수이며 0도 정수배입니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-multiply"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "소수",
+            "description": "**1보다 큰 양의 정수 중 양의 약수가 1과 자신뿐인 수입니다.**\n\n### 상황에서 이해하기\n\n물건을 직사각형으로 배열할 때, 6개는 1 × 6뿐 아니라 2 × 3으로도 놓을 수 있습니다. 반면 5개는 양의 정수 변 길이로 1 × 5밖에 만들 수 없습니다. 이 차이가 소수를 이해하는 출발점입니다.\n\n### 예제\n\n```text\n2, 3, 5, 7, 11, …\n```\n\n### 예제 풀이\n\n목록의 각 수는 양의 약수가 정확히 두 개입니다. 2의 약수는 1과 2, 7의 약수는 1과 7입니다. 2는 유일한 짝수 소수입니다. 2보다 큰 짝수는 2로 나누어져 다른 약수가 있기 때문입니다. 1은 약수가 하나뿐이므로 소수가 아닙니다. 소수는 정수의 곱셈 구조를 이루는 기본 재료입니다. 예를 들어 12 = 2 × 2 × 3으로 소수들의 곱으로 쓸 수 있습니다. 홀수라고 모두 소수는 아닙니다. 9는 홀수지만 약수 3이 있습니다.\n\n### 주의\n\n1은 소수가 아닙니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Prime number",
+            "description": "**An integer greater than 1 whose only positive factors are 1 and itself.**\n\n### Context\n\nSix objects can form a 1-by-6 rectangle or a 2-by-3 rectangle. Five objects have only the 1-by-5 option when side lengths must be positive integers. This difference motivates prime numbers.\n\n### Example\n\n```text\n2, 3, 5, 7, 11, …\n```\n\n### Working through the example\n\nEach listed prime has exactly two positive factors. The factors of 2 are 1 and 2; those of 7 are 1 and 7. Two is the only even prime, because every larger even number has 2 as an additional factor. One is not prime: it has just one positive factor, not two. Primes are useful building blocks for multiplication. For example, 12 = 2 × 2 × 3 expresses a composite number as a product of primes. Do not confuse “prime” with “odd”: 9 is odd but has factor 3.\n\n### Watch out\n\n1 is not prime.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "素数",
+            "description": "**1より大きく、正の約数が1と自分だけの整数です。**\n\n### 場面から考える\n\n6個の物は1 × 6だけでなく2 × 3の長方形にも並べられます。5個なら、辺を正の整数にすると1 × 5しかありません。この違いが素数を理解する入口です。\n\n### 例\n\n```text\n2, 3, 5, 7, 11, …\n```\n\n### 例を読み解く\n\n一覧の素数はそれぞれ正の約数がちょうど2つです。2なら1と2、7なら1と7です。2は唯一の偶数の素数で、2より大きい偶数には2という別の約数があります。1は正の約数が1つしかないため素数ではありません。素数は掛け算の基本材料として役立ちます。例えば12 = 2 × 2 × 3は合成数を素数の積にした形です。奇数なら素数というわけではなく、9には約数3があります。\n\n### 注意\n\n1は素数ではありません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "質數",
+            "description": "**大於 1，且正因數只有 1 和本身的整數。**\n\n### 情境理解\n\n6個物品可排成1 × 6或2 × 3的長方形；5個物品若邊長必須是正整數，就只有1 × 5。這個差別是理解質數的起點。\n\n### 例子\n\n```text\n2, 3, 5, 7, 11, …\n```\n\n### 例題解析\n\n列表中的每個質數都恰有兩個正因數。2的因數是1和2，7的是1和7。2是唯一的偶質數，因為更大的偶數還有2這個額外因數。1只有一個正因數，所以不是質數。質數是乘法結構的基本材料，例如12 = 2 × 2 × 3，把合數寫成質數的乘積。不要把質數與奇數混淆：9是奇數，但有因數3。\n\n### 注意\n\n1 不是質數。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-prime",
+      "role": "instance",
+      "title": "소수",
+      "description": "**1보다 큰 양의 정수 중 양의 약수가 1과 자신뿐인 수입니다.**\n\n### 상황에서 이해하기\n\n물건을 직사각형으로 배열할 때, 6개는 1 × 6뿐 아니라 2 × 3으로도 놓을 수 있습니다. 반면 5개는 양의 정수 변 길이로 1 × 5밖에 만들 수 없습니다. 이 차이가 소수를 이해하는 출발점입니다.\n\n### 예제\n\n```text\n2, 3, 5, 7, 11, …\n```\n\n### 예제 풀이\n\n목록의 각 수는 양의 약수가 정확히 두 개입니다. 2의 약수는 1과 2, 7의 약수는 1과 7입니다. 2는 유일한 짝수 소수입니다. 2보다 큰 짝수는 2로 나누어져 다른 약수가 있기 때문입니다. 1은 약수가 하나뿐이므로 소수가 아닙니다. 소수는 정수의 곱셈 구조를 이루는 기본 재료입니다. 예를 들어 12 = 2 × 2 × 3으로 소수들의 곱으로 쓸 수 있습니다. 홀수라고 모두 소수는 아닙니다. 9는 홀수지만 약수 3이 있습니다.\n\n### 주의\n\n1은 소수가 아닙니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-factor"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "분수",
+            "description": "**분모가 0이 아닌 두 정수의 비로 수를 나타냅니다.**\n\n### 상황에서 이해하기\n\n길이 1m인 끈을 5등분하여 그중 3조각을 취하면 길이는 3/5m입니다. 분수는 정수만으로 나타내기 어려운 몫과 부분의 양을 표현합니다.\n\n### 예제\n\n```text\n3/5 = 3 ÷ 5\n```\n\n### 예제 풀이\n\n분모 5는 한 단위를 같은 크기로 나눈 수이고 분자 3은 그런 조각을 세는 수입니다. 한 조각이 1/5m이므로 세 조각은 3 × 1/5m입니다. 같은 수 3/5를 3m의 끈을 5명에게 똑같이 나눈 한 사람의 몫으로도 해석할 수 있습니다. 그래서 3/5 = 3 ÷ 5입니다. 분자와 분모를 바꾼 5/3은 다른 몫이며 1보다 큽니다. 이 카드에서 분수는 두 정수의 비이고 분모는 0일 수 없습니다.\n\n### 주의\n\n분자와 분모의 순서를 바꾸면 일반적으로 값이 달라집니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Fraction",
+            "description": "**Represents a number as a ratio of integers with nonzero denominator.**\n\n### Context\n\nCut a one-meter ribbon into five equal pieces and take three. Their total length is 3/5 of a meter. Fractions describe shares and quotients that whole numbers alone cannot express.\n\n### Example\n\n```text\n3/5 = 3 ÷ 5\n```\n\n### Working through the example\n\nThe denominator 5 specifies how many equal parts make one unit, and the numerator 3 counts those parts. Each piece is 1/5 of a meter, so three pieces measure 3 × 1/5 meters. The same number also describes each person’s share when three meters of ribbon are divided equally among five people. That connects the two readings: 3/5 = 3 ÷ 5. Swapping numerator and denominator gives 5/3, a different quotient greater than one. Here fractions are ratios of integers, with a nonzero denominator. Equal parts and a clear reference unit make the picture meaningful.\n\n### Watch out\n\nSwapping numerator and denominator generally changes the value.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "分数",
+            "description": "**分母が0でない二つの整数の比で数を表します。**\n\n### 場面から考える\n\n1mのリボンを5等分し、その3切れを取ると長さは3/5mです。分数は整数だけでは表せない分け前や商を表します。\n\n### 例\n\n```text\n3/5 = 3 ÷ 5\n```\n\n### 例を読み解く\n\n分母5は1単位を等分する数、分子3はその部分を数える数です。1切れが1/5mなので3切れは3 × 1/5mです。同じ3/5は、3mを5人で等分した1人分としても読めます。そのため3/5 = 3 ÷ 5です。分子と分母を交換した5/3は別の商で、1より大きくなります。このカードでは分数を整数どうしの比として扱い、分母は0にできません。等しい部分と明確な1単位を意識しましょう。\n\n### 注意\n\n分子と分母を逆にすると通常は値が変わります。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "分數",
+            "description": "**以分母不為 0 的兩整數之比表示數。**\n\n### 情境理解\n\n把1公尺緞帶平均切成5段，取其中3段，總長就是3/5公尺。分數能表示單靠整數無法表達的份量與商。\n\n### 例子\n\n```text\n3/5 = 3 ÷ 5\n```\n\n### 例題解析\n\n分母5指定一個單位被平分成幾份，分子3計算取了幾份。每段是1/5公尺，三段就是3 × 1/5公尺。同一個3/5也可表示把3公尺緞帶平分給5人後，每人得到的長度，因此3/5 = 3 ÷ 5。交換分子與分母得到5/3，是另一個大於1的商。本卡將分數視為兩整數之比，分母不得為0。圖像解釋必須有相等的分割與明確的單位整體。\n\n### 注意\n\n分子分母互換通常會改變數值。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-fraction",
+      "role": "instance",
+      "title": "분수",
+      "description": "**분모가 0이 아닌 두 정수의 비로 수를 나타냅니다.**\n\n### 상황에서 이해하기\n\n길이 1m인 끈을 5등분하여 그중 3조각을 취하면 길이는 3/5m입니다. 분수는 정수만으로 나타내기 어려운 몫과 부분의 양을 표현합니다.\n\n### 예제\n\n```text\n3/5 = 3 ÷ 5\n```\n\n### 예제 풀이\n\n분모 5는 한 단위를 같은 크기로 나눈 수이고 분자 3은 그런 조각을 세는 수입니다. 한 조각이 1/5m이므로 세 조각은 3 × 1/5m입니다. 같은 수 3/5를 3m의 끈을 5명에게 똑같이 나눈 한 사람의 몫으로도 해석할 수 있습니다. 그래서 3/5 = 3 ÷ 5입니다. 분자와 분모를 바꾼 5/3은 다른 몫이며 1보다 큽니다. 이 카드에서 분수는 두 정수의 비이고 분모는 0일 수 없습니다.\n\n### 주의\n\n분자와 분모의 순서를 바꾸면 일반적으로 값이 달라집니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-divide"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "동치 분수",
+            "description": "**모양이 달라도 같은 수를 나타내는 분수입니다.**\n\n### 상황에서 이해하기\n\n같은 리본의 3/5을 색칠한 뒤 각 조각을 다시 2등분하면 색칠된 길이가 바뀔까요? 조각은 더 많아지지만 전체와 색칠한 양은 그대로입니다.\n\n### 예제\n\n```text\n3/5 = 6/10 = 9/15\n```\n\n### 예제 풀이\n\n전체 5조각은 10조각이 되고, 색칠한 3조각은 6조각이 되므로 3/5 = 6/10입니다. 대신 원래의 5조각을 각각 3등분하면 9/15가 됩니다. 분자와 분모에 같은 수를 곱하면 나눗셈의 비율이 유지됩니다. 반대로 공통인 수로 나누어도 같습니다. 단, 그 수가 0이면 분모가 0이 되거나 0으로 나누게 되므로 허용되지 않습니다. 분자와 분모에 같은 수를 더하는 것은 다른 규칙입니다. 3/5에 각각 1을 더한 4/6은 같은 값이 아닙니다.\n\n### 주의\n\n분자와 분모에 같은 0이 아닌 수를 곱하거나 나눕니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Equivalent fractions",
+            "description": "**Different fractions that represent the same number.**\n\n### Context\n\nColor 3/5 of a ribbon, then split every original piece into two equal pieces. Does the colored length change? There are more pieces, but the amount stays the same.\n\n### Example\n\n```text\n3/5 = 6/10 = 9/15\n```\n\n### Working through the example\n\nThe five original pieces become ten, and the three colored pieces become six. Thus 3/5 = 6/10. Splitting each original piece into three gives 9/15 instead. Multiplying numerator and denominator by the same nonzero number preserves their ratio; dividing both by the same valid common factor does too. Zero is excluded because it would create a zero denominator or require division by zero. Adding the same number is a different operation and generally changes the value: 4/6 is not equivalent to 3/5. Equivalent fractions rename an amount using a different-sized fractional unit.\n\n### Watch out\n\nMultiply or divide numerator and denominator by the same nonzero number.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "同値な分数",
+            "description": "**形が違っても同じ数を表す分数です。**\n\n### 場面から考える\n\nリボンの3/5を塗り、元の各部分をさらに2等分したら、塗った長さは変わるでしょうか。部分の数は増えますが量は同じです。\n\n### 例\n\n```text\n3/5 = 6/10 = 9/15\n```\n\n### 例を読み解く\n\n全体の5部分は10部分に、塗った3部分は6部分になるので3/5 = 6/10です。代わりに元の5部分をそれぞれ3等分すれば9/15になります。分子と分母に同じ0でない数を掛けると比が保たれ、共通の因数で両方を割っても同じです。0は分母を0にしたり0で割ったりするため使えません。同じ数を足す操作は別で、3/5の両方に1を足した4/6は等しくありません。同値分数は、同じ量を異なる大きさの単位で言い直しています。\n\n### 注意\n\n分子と分母に同じ0以外の数を掛けるか割ります。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "等值分數",
+            "description": "**寫法不同但表示相同數值的分數。**\n\n### 情境理解\n\n把緞帶的3/5塗色，再把原來每一段平分成兩段，塗色長度會改變嗎？段數增加了，量卻沒變。\n\n### 例子\n\n```text\n3/5 = 6/10 = 9/15\n```\n\n### 例題解析\n\n原來的5段變成10段，塗色的3段變成6段，因此3/5 = 6/10。若改把原來的5段各平分成三段，就得到9/15。分子與分母同乘一個非零數會保持比值；同除以有效的公因數也一樣。不能用0，否則會產生零分母或除以0。兩邊同加一個數則是另一種運算，通常會改變值：4/6並不等於3/5。等值分數是用不同大小的分數單位，重新命名同一個量。\n\n### 注意\n\n分子與分母同乘或同除以相同的非零數。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-equivalent",
+      "role": "instance",
+      "title": "동치 분수",
+      "description": "**모양이 달라도 같은 수를 나타내는 분수입니다.**\n\n### 상황에서 이해하기\n\n같은 리본의 3/5을 색칠한 뒤 각 조각을 다시 2등분하면 색칠된 길이가 바뀔까요? 조각은 더 많아지지만 전체와 색칠한 양은 그대로입니다.\n\n### 예제\n\n```text\n3/5 = 6/10 = 9/15\n```\n\n### 예제 풀이\n\n전체 5조각은 10조각이 되고, 색칠한 3조각은 6조각이 되므로 3/5 = 6/10입니다. 대신 원래의 5조각을 각각 3등분하면 9/15가 됩니다. 분자와 분모에 같은 수를 곱하면 나눗셈의 비율이 유지됩니다. 반대로 공통인 수로 나누어도 같습니다. 단, 그 수가 0이면 분모가 0이 되거나 0으로 나누게 되므로 허용되지 않습니다. 분자와 분모에 같은 수를 더하는 것은 다른 규칙입니다. 3/5에 각각 1을 더한 4/6은 같은 값이 아닙니다.\n\n### 주의\n\n분자와 분모에 같은 0이 아닌 수를 곱하거나 나눕니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-fraction"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-multiply"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "약분",
+            "description": "**분자와 분모를 공약수로 나누어 간단히 합니다.**\n\n### 상황에서 이해하기\n\n18칸 중 12칸을 색칠한 비율은 12/18입니다. 칸을 같은 크기의 큰 묶음으로 다시 묶으면 더 작은 수로 같은 비율을 표현할 수 있습니다.\n\n### 예제\n\n```text\n12/18 = 2/3\n```\n\n### 예제 풀이\n\n분자 12와 분모 18의 공약수 중 가장 큰 것은 6입니다. 12 ÷ 6 = 2, 18 ÷ 6 = 3이므로 12/18 = 2/3입니다. 전체를 6칸짜리 3묶음으로 보면 그중 2묶음이 색칠된 셈입니다. 2와 3에는 1보다 큰 공약수가 없으므로 더 약분할 수 없습니다. 처음부터 최대공약수를 찾지 않아도 12/18 → 6/9 → 2/3처럼 단계적으로 나눌 수 있습니다. 매번 분자와 분모를 같은 수로 나누어야 값이 유지됩니다.\n\n### 주의\n\n분자나 분모 중 하나만 나누면 값이 달라집니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Simplifying fractions",
+            "description": "**Divide numerator and denominator by a common factor.**\n\n### Context\n\nTwelve colored squares out of eighteen give the fraction 12/18. Regrouping into larger equal units can express the same share with smaller numbers.\n\n### Example\n\n```text\n12/18 = 2/3\n```\n\n### Working through the example\n\nThe greatest common factor of 12 and 18 is 6. Dividing both by 6 gives numerator 2 and denominator 3, so 12/18 = 2/3. Picture the eighteen squares as three groups of six: two groups are colored. Since 2 and 3 have no common factor greater than one, the result is in lowest terms. You need not find the greatest common factor immediately; 12/18 → 6/9 → 2/3 also works. At every step, divide both parts by the same common factor. Dividing just one part changes the share rather than simplifying its representation.\n\n### Watch out\n\nDividing just one of them changes the value.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "約分",
+            "description": "**分子と分母を公約数で割って簡単にします。**\n\n### 場面から考える\n\n18マスのうち12マスを塗ると割合は12/18です。同じ大きさの大きな組にまとめ直せば、小さい数で同じ割合を表せます。\n\n### 例\n\n```text\n12/18 = 2/3\n```\n\n### 例を読み解く\n\n12と18の最大公約数は6です。12 ÷ 6 = 2、18 ÷ 6 = 3なので12/18 = 2/3です。18マスを6マスずつ3組と見ると、その2組が塗られています。2と3には1より大きい公約数がないため、これ以上約分できません。最初から最大公約数を使わず、12/18 → 6/9 → 2/3と段階的に割っても構いません。各段階で両方を同じ公約数で割ります。片方だけを割ると表し方だけでなく量が変わってしまいます。\n\n### 注意\n\n片方だけを割ると値が変わります。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "約分",
+            "description": "**分子與分母同除以公因數以簡化。**\n\n### 情境理解\n\n18格中塗了12格，比例是12/18。把格子重新分成相同大小的大組，就能用較小的數表示同一份量。\n\n### 例子\n\n```text\n12/18 = 2/3\n```\n\n### 例題解析\n\n12和18的最大公因數是6。兩者都除以6，分子得到2、分母得到3，因此12/18 = 2/3。可把18格想成3組、每組6格，其中2組被塗色。2和3沒有大於1的公因數，所以已是最簡分數。不必一開始就找到最大公因數，也可逐步做12/18 → 6/9 → 2/3。每一步都要將分子與分母同除以相同公因數；只除其中一邊會改變份量，而不只是簡化表示法。\n\n### 注意\n\n只除其中一個會改變數值。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-reduce",
+      "role": "instance",
+      "title": "약분",
+      "description": "**분자와 분모를 공약수로 나누어 간단히 합니다.**\n\n### 상황에서 이해하기\n\n18칸 중 12칸을 색칠한 비율은 12/18입니다. 칸을 같은 크기의 큰 묶음으로 다시 묶으면 더 작은 수로 같은 비율을 표현할 수 있습니다.\n\n### 예제\n\n```text\n12/18 = 2/3\n```\n\n### 예제 풀이\n\n분자 12와 분모 18의 공약수 중 가장 큰 것은 6입니다. 12 ÷ 6 = 2, 18 ÷ 6 = 3이므로 12/18 = 2/3입니다. 전체를 6칸짜리 3묶음으로 보면 그중 2묶음이 색칠된 셈입니다. 2와 3에는 1보다 큰 공약수가 없으므로 더 약분할 수 없습니다. 처음부터 최대공약수를 찾지 않아도 12/18 → 6/9 → 2/3처럼 단계적으로 나눌 수 있습니다. 매번 분자와 분모를 같은 수로 나누어야 값이 유지됩니다.\n\n### 주의\n\n분자나 분모 중 하나만 나누면 값이 달라집니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-equivalent"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-factor"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "분수 덧셈",
+            "description": "**분모를 같게 맞추고 분자를 더합니다.**\n\n### 상황에서 이해하기\n\n같은 크기의 피자에서 1/3판과 1/6판을 합치려면 조각의 크기를 먼저 맞춰야 합니다. 서로 다른 크기의 조각 수를 그대로 더할 수는 없습니다.\n\n### 예제\n\n```text\n1/3 + 1/6 = 2/6 + 1/6 = 1/2\n```\n\n### 예제 풀이\n\n1/3을 2/6으로 바꾸면 두 양을 모두 1/6판 단위로 셀 수 있습니다. 2조각과 1조각을 합쳐 3조각이므로 2/6 + 1/6 = 3/6이고 약분하면 1/2입니다. 분모 6은 조각의 크기를 정하므로 덧셈 뒤에도 유지합니다. 분모까지 더한 2/9는 올바른 합이 아닙니다. 공통분모는 꼭 가장 작을 필요는 없습니다. 12를 사용하면 4/12 + 2/12 = 6/12로 같은 답이 됩니다. 단, 두 분수가 같은 전체를 기준으로 하는지도 확인하세요.\n\n### 주의\n\n분모끼리 더하지 않습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Adding fractions",
+            "description": "**Use a common denominator, then add numerators.**\n\n### Context\n\nTo combine 1/3 of a pizza with 1/6 of an equally sized pizza, first use pieces of the same size. Counts of differently sized pieces cannot simply be combined.\n\n### Example\n\n```text\n1/3 + 1/6 = 2/6 + 1/6 = 1/2\n```\n\n### Working through the example\n\nRewrite 1/3 as 2/6. Now both quantities are measured in sixths: two pieces plus one piece make three pieces, giving 3/6, which reduces to 1/2. The denominator stays 6 because the size of each piece has not changed. Adding the denominators to obtain 2/9 would describe a different fractional unit and the wrong total. The common denominator need not be the smallest possible one: 4/12 + 2/12 = 6/12 gives the same answer. Also confirm that both fractions refer to the same-sized whole before interpreting the sum as an amount.\n\n### Watch out\n\nDo not add the denominators.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "分数の足し算",
+            "description": "**通分して分子を足します。**\n\n### 場面から考える\n\n同じ大きさのピザの1/3枚と1/6枚を合わせるには、切れの大きさをそろえます。大きさの違う切れの個数はそのまま足せません。\n\n### 例\n\n```text\n1/3 + 1/6 = 2/6 + 1/6 = 1/2\n```\n\n### 例を読み解く\n\n1/3を2/6に直すと、両方とも1/6枚を単位に数えられます。2切れと1切れで3切れなので3/6、約分して1/2です。切れの大きさは変わらないため分母6は保ちます。分母まで足して2/9にすると別の単位になり、合計も誤ります。共通分母は最小でなくてもよく、4/12 + 2/12 = 6/12でも同じ答えです。量として解釈するときは、両方が同じ大きさの全体を基準にしていることも確認しましょう。\n\n### 注意\n\n分母どうしを足しません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "分數加法",
+            "description": "**通分後將分子相加。**\n\n### 情境理解\n\n把同樣大小披薩的1/3與1/6合起來，必須先統一切片大小。大小不同的切片不能直接把片數相加。\n\n### 例子\n\n```text\n1/3 + 1/6 = 2/6 + 1/6 = 1/2\n```\n\n### 例題解析\n\n把1/3改寫為2/6後，兩個量都以六分之一為單位：2片加1片是3片，得到3/6，約分為1/2。每片大小沒變，所以分母仍是6。若連分母也相加而得到2/9，就換成了不同單位，總量也錯了。公分母不必是最小的，4/12 + 2/12 = 6/12也有相同答案。把分數和解讀成實際量時，還要確認兩者的整體大小相同。\n\n### 注意\n\n不可把分母直接相加。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-fraction-add",
+      "role": "instance",
+      "title": "분수 덧셈",
+      "description": "**분모를 같게 맞추고 분자를 더합니다.**\n\n### 상황에서 이해하기\n\n같은 크기의 피자에서 1/3판과 1/6판을 합치려면 조각의 크기를 먼저 맞춰야 합니다. 서로 다른 크기의 조각 수를 그대로 더할 수는 없습니다.\n\n### 예제\n\n```text\n1/3 + 1/6 = 2/6 + 1/6 = 1/2\n```\n\n### 예제 풀이\n\n1/3을 2/6으로 바꾸면 두 양을 모두 1/6판 단위로 셀 수 있습니다. 2조각과 1조각을 합쳐 3조각이므로 2/6 + 1/6 = 3/6이고 약분하면 1/2입니다. 분모 6은 조각의 크기를 정하므로 덧셈 뒤에도 유지합니다. 분모까지 더한 2/9는 올바른 합이 아닙니다. 공통분모는 꼭 가장 작을 필요는 없습니다. 12를 사용하면 4/12 + 2/12 = 6/12로 같은 답이 됩니다. 단, 두 분수가 같은 전체를 기준으로 하는지도 확인하세요.\n\n### 주의\n\n분모끼리 더하지 않습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-equivalent"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-add"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "분수 곱셈",
+            "description": "**분자끼리, 분모끼리 곱합니다.**\n\n### 상황에서 이해하기\n\n길이 3/7m인 리본의 2/3만 사용한다면 얼마나 쓸까요? 여기서는 곱셈을 ‘어떤 양의 일부를 취하기’로 이해할 수 있습니다.\n\n### 예제\n\n```text\n2/3 × 3/7 = 6/21 = 2/7\n```\n\n### 예제 풀이\n\n3/7m를 똑같이 3부분으로 나누면 한 부분은 1/7m입니다. 그중 2부분이므로 2/7m입니다. 계산 규칙으로는 분자를 곱해 2 × 3 = 6, 분모를 곱해 3 × 7 = 21을 얻고 6/21을 약분해 2/7로 만듭니다. 답 2/7은 처음 길이 3/7보다 작습니다. 양수에 0과 1 사이의 수를 곱하면 그 양의 일부만 취하기 때문입니다. 분수 덧셈과 달리 곱셈에서는 먼저 공통분모를 만들 필요가 없습니다.\n\n### 주의\n\n양수에 1보다 작은 양수를 곱하면 작아집니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Multiplying fractions",
+            "description": "**Multiply numerators and multiply denominators.**\n\n### Context\n\nHow much ribbon is used if you take 2/3 of a strip measuring 3/7 of a meter? Here multiplication means taking a part of an existing quantity.\n\n### Example\n\n```text\n2/3 × 3/7 = 6/21 = 2/7\n```\n\n### Working through the example\n\nDivide the 3/7-meter strip into three equal portions. Each portion measures 1/7 of a meter, so two portions measure 2/7. The numerical rule agrees: multiply the numerators to get 2 × 3 = 6 and the denominators to get 3 × 7 = 21, then reduce 6/21 to 2/7. The result is smaller than the original 3/7 because multiplying a positive quantity by a positive number below one keeps only part of it. Unlike fraction addition, fraction multiplication does not require finding a common denominator first. The contextual interpretation provides a useful check on the answer’s size.\n\n### Watch out\n\nMultiplying a positive number by a positive fraction below 1 makes it smaller.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "分数の掛け算",
+            "description": "**分子どうし、分母どうしを掛けます。**\n\n### 場面から考える\n\n3/7mのリボンの2/3を使うと、長さはいくらでしょうか。ここでは掛け算を、ある量の一部を取ることと考えます。\n\n### 例\n\n```text\n2/3 × 3/7 = 6/21 = 2/7\n```\n\n### 例を読み解く\n\n3/7mを3等分すると1部分は1/7mです。その2部分なので2/7mになります。計算規則でも、分子は2 × 3 = 6、分母は3 × 7 = 21となり、6/21を約分して2/7です。正の量に0と1の間の数を掛けると一部だけを取るため、答えは元の3/7より小さくなります。分数の足し算と異なり、掛け算では先に共通分母を作る必要はありません。場面での意味を考えると答えの大きさを確認できます。\n\n### 注意\n\n正の数に0より大きく1より小さい数を掛けると小さくなります。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "分數乘法",
+            "description": "**分子相乘，分母相乘。**\n\n### 情境理解\n\n一段緞帶長3/7公尺，只用其中2/3，會用多少？這裡的乘法表示取既有數量的一部分。\n\n### 例子\n\n```text\n2/3 × 3/7 = 6/21 = 2/7\n```\n\n### 例題解析\n\n把3/7公尺平分成3份，每份是1/7公尺，取2份就是2/7公尺。計算規則也相同：分子相乘得2 × 3 = 6，分母相乘得3 × 7 = 21，再把6/21約分為2/7。答案比原來的3/7小，因為正數乘以0與1之間的正數，只保留其中一部分。與分數加法不同，分數乘法不必先通分。情境中的意義也能用來檢查答案大小是否合理。\n\n### 注意\n\n正數乘以介於 0 與 1 之間的數會變小。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-fraction-multiply",
+      "role": "instance",
+      "title": "분수 곱셈",
+      "description": "**분자끼리, 분모끼리 곱합니다.**\n\n### 상황에서 이해하기\n\n길이 3/7m인 리본의 2/3만 사용한다면 얼마나 쓸까요? 여기서는 곱셈을 ‘어떤 양의 일부를 취하기’로 이해할 수 있습니다.\n\n### 예제\n\n```text\n2/3 × 3/7 = 6/21 = 2/7\n```\n\n### 예제 풀이\n\n3/7m를 똑같이 3부분으로 나누면 한 부분은 1/7m입니다. 그중 2부분이므로 2/7m입니다. 계산 규칙으로는 분자를 곱해 2 × 3 = 6, 분모를 곱해 3 × 7 = 21을 얻고 6/21을 약분해 2/7로 만듭니다. 답 2/7은 처음 길이 3/7보다 작습니다. 양수에 0과 1 사이의 수를 곱하면 그 양의 일부만 취하기 때문입니다. 분수 덧셈과 달리 곱셈에서는 먼저 공통분모를 만들 필요가 없습니다.\n\n### 주의\n\n양수에 1보다 작은 양수를 곱하면 작아집니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-fraction"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-multiply"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "역수",
+            "description": "**곱해서 1이 되는 짝인 수입니다.**\n\n### 상황에서 이해하기\n\n어떤 수를 곱한 효과를 되돌리려면 무엇을 곱해야 할까요? 0이 아닌 수에 대해 곱을 1로 만드는 짝이 역수입니다.\n\n### 예제\n\n```text\n3/7 × 7/3 = 1\n```\n\n### 예제 풀이\n\n3/7에 7/3을 곱하면 분자와 분모가 모두 21이 되어 1입니다. 그래서 7/3은 3/7의 역수이고 그 반대도 성립합니다. 정수 5는 5/1이므로 역수는 1/5입니다. 역수는 음수로 만드는 것과 다릅니다. 3/7의 덧셈 역원인 −3/7은 더해서 0을 만들지만, 역수 7/3은 곱해서 1을 만듭니다. 어떤 수를 0에 곱해도 0이므로 0에는 역수가 없습니다. 역수는 분수 나눗셈을 곱셈으로 바꾸는 데 쓰입니다.\n\n### 주의\n\n0에는 역수가 없습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Reciprocal",
+            "description": "**A number that multiplies with the original to give 1.**\n\n### Context\n\nWhat multiplication would undo multiplication by a particular nonzero number? Its reciprocal is the partner that makes their product one.\n\n### Example\n\n```text\n3/7 × 7/3 = 1\n```\n\n### Working through the example\n\nMultiplying 3/7 by 7/3 gives 21/21 = 1, so each is the other’s reciprocal. For an integer such as 5, write 5/1 first; its reciprocal is 1/5. A reciprocal is different from an additive opposite. The opposite −3/7 adds to 3/7 to make zero, whereas the reciprocal 7/3 multiplies with it to make one. Zero has no reciprocal because multiplying zero by any number still gives zero, never one. This idea explains why division by a nonzero fraction can be replaced with multiplication by its reciprocal. Checking that the product is one is safer than merely memorizing “flip it.”\n\n### Watch out\n\nZero has no reciprocal.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "逆数",
+            "description": "**元の数と掛けて1になる数です。**\n\n### 場面から考える\n\nある0でない数を掛けた効果を打ち消すには、何を掛ければよいでしょうか。積を1にする相手が逆数です。\n\n### 例\n\n```text\n3/7 × 7/3 = 1\n```\n\n### 例を読み解く\n\n3/7に7/3を掛けると21/21 = 1なので、互いに逆数です。整数5は5/1と書けば、逆数は1/5です。逆数は加法の逆元とは異なります。−3/7は3/7に足すと0になりますが、7/3は掛けると1になります。0はどの数を掛けても0なので逆数を持ちません。この考えが、0でない分数で割ることを逆数の掛け算に置き換える理由になります。単に「上下を逆にする」と覚えるだけでなく、積が1になるか確認しましょう。\n\n### 注意\n\n0に逆数はありません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "倒數",
+            "description": "**與原數相乘等於 1 的數。**\n\n### 情境理解\n\n要抵消乘上一個非零數的效果，應再乘什麼？能讓乘積成為1的配對數，就是倒數。\n\n### 例子\n\n```text\n3/7 × 7/3 = 1\n```\n\n### 例題解析\n\n3/7乘以7/3得到21/21 = 1，所以兩者互為倒數。整數5先寫成5/1，就可看出倒數是1/5。倒數不同於相反數：−3/7與3/7相加得到0，而倒數7/3與它相乘得到1。0乘任何數仍是0，不可能得到1，所以0沒有倒數。這個概念能解釋為何除以非零分數可改成乘以其倒數。比起只背「上下顛倒」，檢查乘積是否為1更可靠。\n\n### 注意\n\n0 沒有倒數。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-reciprocal",
+      "role": "instance",
+      "title": "역수",
+      "description": "**곱해서 1이 되는 짝인 수입니다.**\n\n### 상황에서 이해하기\n\n어떤 수를 곱한 효과를 되돌리려면 무엇을 곱해야 할까요? 0이 아닌 수에 대해 곱을 1로 만드는 짝이 역수입니다.\n\n### 예제\n\n```text\n3/7 × 7/3 = 1\n```\n\n### 예제 풀이\n\n3/7에 7/3을 곱하면 분자와 분모가 모두 21이 되어 1입니다. 그래서 7/3은 3/7의 역수이고 그 반대도 성립합니다. 정수 5는 5/1이므로 역수는 1/5입니다. 역수는 음수로 만드는 것과 다릅니다. 3/7의 덧셈 역원인 −3/7은 더해서 0을 만들지만, 역수 7/3은 곱해서 1을 만듭니다. 어떤 수를 0에 곱해도 0이므로 0에는 역수가 없습니다. 역수는 분수 나눗셈을 곱셈으로 바꾸는 데 쓰입니다.\n\n### 주의\n\n0에는 역수가 없습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-fraction-multiply"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "분수 나눗셈",
+            "description": "**나누는 수의 역수를 곱합니다.**\n\n### 상황에서 이해하기\n\n한 병에 4/5L가 들어간다면 2/3L는 그 병 몇 병 분량일까요? 나눗셈은 한 병의 양을 기준으로 현재 양을 비교합니다.\n\n### 예제\n\n```text\n2/3 ÷ 4/5 = 2/3 × 5/4 = 5/6\n```\n\n### 예제 풀이\n\n답을 q라 하면 q × 4/5 = 2/3이어야 합니다. 양쪽에 5/4를 곱하면 4/5 × 5/4 = 1이 되어 q = 2/3 × 5/4입니다. 분자를 곱해 10, 분모를 곱해 12를 얻고 약분하면 5/6병 분량입니다. 2/3L가 4/5L보다 작으므로 답이 1병보다 작다는 점도 맞습니다. 역수로 바꾸는 것은 기준이 되는 나누는 수 4/5입니다. 원래 양 2/3을 뒤집지 않으며, 나누는 수는 0일 수 없습니다. 5/6에 4/5를 곱하여 2/3으로 돌아오는지 확인할 수도 있습니다.\n\n### 주의\n\n역수로 바꾸는 것은 나누어지는 수가 아니라 나누는 수입니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Dividing fractions",
+            "description": "**Multiply by the reciprocal of the divisor.**\n\n### Context\n\nA full bottle holds 4/5 of a liter. What fraction of that bottle is filled by 2/3 of a liter? Division compares the available amount with the amount defined as one bottle.\n\n### Example\n\n```text\n2/3 ÷ 4/5 = 2/3 × 5/4 = 5/6\n```\n\n### Working through the example\n\nLet the answer be q. Then q × 4/5 = 2/3. Multiplying both sides by 5/4 turns 4/5 × 5/4 into 1, leaving q = 2/3 × 5/4. Multiply to obtain 10/12, then reduce to 5/6 of a bottle. Since 2/3 liter is less than the bottle’s 4/5-liter capacity, an answer below one bottle makes sense. Take the reciprocal of the divisor, 4/5, not the dividend, 2/3. The divisor must be nonzero. Multiplying 5/6 by 4/5 recovers 2/3 and checks the result.\n\n### Watch out\n\nInvert the divisor, not the dividend.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "分数の割り算",
+            "description": "**割る数の逆数を掛けます。**\n\n### 場面から考える\n\n1本に4/5L入る瓶があります。2/3Lは何本分でしょうか。割り算は、1本分と決めた量に対して今の量を比較します。\n\n### 例\n\n```text\n2/3 ÷ 4/5 = 2/3 × 5/4 = 5/6\n```\n\n### 例を読み解く\n\n答えをqとするとq × 4/5 = 2/3です。両辺に5/4を掛ければ4/5 × 5/4 = 1となり、q = 2/3 × 5/4です。計算して10/12、約分して5/6本分になります。2/3Lは容量4/5Lより少ないので、答えが1本未満なのも妥当です。逆数にするのは割る数4/5で、割られる数2/3ではありません。割る数は0にできません。5/6に4/5を掛けて2/3に戻ることでも確認できます。\n\n### 注意\n\n逆数にするのは割られる数ではなく割る数です。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "分數除法",
+            "description": "**乘以除數的倒數。**\n\n### 情境理解\n\n一瓶可裝4/5公升，2/3公升相當於幾瓶？除法是把現有量與定義為一瓶的量相比。\n\n### 例子\n\n```text\n2/3 ÷ 4/5 = 2/3 × 5/4 = 5/6\n```\n\n### 例題解析\n\n令答案為q，則q × 4/5 = 2/3。兩邊同乘5/4，使4/5 × 5/4 = 1，留下q = 2/3 × 5/4。相乘得10/12，再約分為5/6瓶。因為2/3公升少於一瓶容量4/5公升，答案小於1瓶是合理的。取倒數的是除數4/5，不是被除數2/3，而且除數不能是0。把5/6再乘以4/5，會回到2/3，可用來驗算。\n\n### 注意\n\n要取倒數的是除數，不是被除數。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-fraction-divide",
+      "role": "instance",
+      "title": "분수 나눗셈",
+      "description": "**나누는 수의 역수를 곱합니다.**\n\n### 상황에서 이해하기\n\n한 병에 4/5L가 들어간다면 2/3L는 그 병 몇 병 분량일까요? 나눗셈은 한 병의 양을 기준으로 현재 양을 비교합니다.\n\n### 예제\n\n```text\n2/3 ÷ 4/5 = 2/3 × 5/4 = 5/6\n```\n\n### 예제 풀이\n\n답을 q라 하면 q × 4/5 = 2/3이어야 합니다. 양쪽에 5/4를 곱하면 4/5 × 5/4 = 1이 되어 q = 2/3 × 5/4입니다. 분자를 곱해 10, 분모를 곱해 12를 얻고 약분하면 5/6병 분량입니다. 2/3L가 4/5L보다 작으므로 답이 1병보다 작다는 점도 맞습니다. 역수로 바꾸는 것은 기준이 되는 나누는 수 4/5입니다. 원래 양 2/3을 뒤집지 않으며, 나누는 수는 0일 수 없습니다. 5/6에 4/5를 곱하여 2/3으로 돌아오는지 확인할 수도 있습니다.\n\n### 주의\n\n역수로 바꾸는 것은 나누어지는 수가 아니라 나누는 수입니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-reciprocal"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-divide"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "소수 표기",
+            "description": "**소수점 아래에서 10분의 1, 100분의 1 등의 자릿값을 사용합니다.**\n\n### 상황에서 이해하기\n\n분수를 소수로 바꾸면 자릿값을 이용해 크기를 비교하거나 측정값을 기록하기 편합니다. 소수점 오른쪽도 십진법의 자리 체계가 계속됩니다.\n\n### 예제\n\n```text\n7/20 = 35/100 = 0.35\n```\n\n### 예제 풀이\n\n7/20의 분자와 분모에 5를 곱하면 35/100이므로 0.35입니다. 소수 첫째 자리 3은 3/10, 둘째 자리 5는 5/100을 뜻하며 합은 35/100입니다. 끝에 0을 붙인 0.350도 350/1000으로 같은 값입니다. 하지만 0.305는 305/1000이므로 다릅니다. 위치가 중요합니다. 모든 분수가 이렇게 끝나는 것은 아닙니다. 예를 들어 1/3 = 0.333…은 3이 끝없이 반복됩니다. 이를 0.33으로 잘라 쓰면 정확한 값이 아니라 근삿값입니다.\n\n### 주의\n\n순환소수도 있으며 모든 소수가 유한하게 끝나지는 않습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Decimal notation",
+            "description": "**Uses tenths, hundredths and further base-ten places.**\n\n### Context\n\nDecimal notation makes place value useful for comparing quantities and recording measurements. The base-ten place system continues to the right of the decimal point.\n\n### Example\n\n```text\n7/20 = 35/100 = 0.35\n```\n\n### Working through the example\n\nMultiply numerator and denominator of 7/20 by 5 to obtain 35/100, or 0.35. The 3 means three tenths, and the 5 means five hundredths; together they make thirty-five hundredths. Adding a trailing zero gives 0.350 = 350/1000, the same value. Inserting a zero inside the digits gives 0.305 instead, which is different: position matters. Not every fraction produces a terminating decimal. For example, 1/3 = 0.333… repeats forever. Writing 0.33 gives an approximation rather than the exact value. Keep the distinction between a number and its rounded display clear.\n\n### Watch out\n\nSome decimals repeat or continue indefinitely.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "小数表記",
+            "description": "**小数点以下に十分の一、百分の一などの位を使います。**\n\n### 場面から考える\n\n小数表記では位取りを使って量を比較したり測定値を記録したりできます。小数点の右側でも十進法の位が続きます。\n\n### 例\n\n```text\n7/20 = 35/100 = 0.35\n```\n\n### 例を読み解く\n\n7/20の分子と分母に5を掛けると35/100、つまり0.35です。3は十分の3、5は百分の5で、合わせて百分の35になります。末尾に0を足した0.350は350/1000なので同じ値です。しかし途中に0を入れた0.305は別の値です。位置が重要なのです。すべての分数が有限小数になるわけではなく、1/3 = 0.333…は3が無限に繰り返されます。0.33と書けば正確な値ではなく近似です。数そのものと丸めた表示を区別しましょう。\n\n### 注意\n\n循環小数もあり、すべてが有限ではありません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "小數記法",
+            "description": "**小數點後使用十分位、百分位等十進位位值。**\n\n### 情境理解\n\n小數表示法利用位值，方便比較數量與記錄測量結果。十進位系統在小數點右側仍然延續。\n\n### 例子\n\n```text\n7/20 = 35/100 = 0.35\n```\n\n### 例題解析\n\n7/20的分子與分母同乘5，得到35/100，也就是0.35。3表示十分之三，5表示百分之五，合起來是百分之三十五。末尾加0成為0.350 = 350/1000，值不變；在中間插入0成為0.305，值就不同，因為位置很重要。不是每個分數都能化成有限小數，例如1/3 = 0.333…會無限循環。寫成0.33只是近似值，不是精確值。要區分數本身與四捨五入後的顯示。\n\n### 注意\n\n有些小數會循環或無限延續。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-decimal",
+      "role": "instance",
+      "title": "소수 표기",
+      "description": "**소수점 아래에서 10분의 1, 100분의 1 등의 자릿값을 사용합니다.**\n\n### 상황에서 이해하기\n\n분수를 소수로 바꾸면 자릿값을 이용해 크기를 비교하거나 측정값을 기록하기 편합니다. 소수점 오른쪽도 십진법의 자리 체계가 계속됩니다.\n\n### 예제\n\n```text\n7/20 = 35/100 = 0.35\n```\n\n### 예제 풀이\n\n7/20의 분자와 분모에 5를 곱하면 35/100이므로 0.35입니다. 소수 첫째 자리 3은 3/10, 둘째 자리 5는 5/100을 뜻하며 합은 35/100입니다. 끝에 0을 붙인 0.350도 350/1000으로 같은 값입니다. 하지만 0.305는 305/1000이므로 다릅니다. 위치가 중요합니다. 모든 분수가 이렇게 끝나는 것은 아닙니다. 예를 들어 1/3 = 0.333…은 3이 끝없이 반복됩니다. 이를 0.33으로 잘라 쓰면 정확한 값이 아니라 근삿값입니다.\n\n### 주의\n\n순환소수도 있으며 모든 소수가 유한하게 끝나지는 않습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-place"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-fraction"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "백분율",
+            "description": "**비율을 100을 기준으로 나타냅니다.**\n\n### 상황에서 이해하기\n\n전체 수가 다른 두 집단을 비교할 때 개수만 보면 오해할 수 있습니다. 백분율은 전체를 100으로 환산해 부분의 비율을 보여 줍니다.\n\n### 예제\n\n```text\n0.35 = 35/100 = 35%\n```\n\n### 예제 풀이\n\n0.35는 35/100이므로 35%입니다. 실제 집단이 200개라면 35%에 해당하는 수는 200 × 0.35 = 70개입니다. 반대로 70개가 200개 중 차지하는 백분율은 70 ÷ 200 = 0.35 = 35%입니다. 전체가 달라지면 같은 35%도 다른 개수가 됩니다. 또 35%에서 40%로 바뀌면 5퍼센트포인트 오른 것이지 상대적으로 5% 증가한 것은 아닙니다. 상대 증가율은 5/35 ≈ 0.143 = 14.3%입니다. 비율을 읽을 때 어떤 전체를 기준으로 했는지 확인하세요.\n\n### 주의\n\n전체의 35%는 전체에 0.35를 곱해 구합니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Percentage",
+            "description": "**Expresses a proportion per hundred.**\n\n### Context\n\nRaw counts can mislead when comparing groups of different sizes. A percentage expresses a share relative to a reference whole of one hundred.\n\n### Example\n\n```text\n0.35 = 35/100 = 35%\n```\n\n### Working through the example\n\nThe decimal 0.35 equals 35/100, hence 35%. For a real group of 200 items, the corresponding count is 200 × 0.35 = 70. In the reverse direction, 70 out of 200 gives 70 ÷ 200 = 0.35 = 35%. The same percentage can therefore represent different counts when the total changes. Also distinguish percentage points from relative percentage change: moving from 35% to 40% is a rise of 5 percentage points, while the relative increase is 5/35 ≈ 0.143 = 14.3%. Always identify the reference whole before calculating or interpreting a percentage.\n\n### Watch out\n\nFind 35% of a total by multiplying it by 0.35.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "百分率",
+            "description": "**割合を100を基準に表します。**\n\n### 場面から考える\n\n大きさの違う集団を比べるとき、個数だけでは誤解することがあります。百分率は全体を100として部分の割合を表します。\n\n### 例\n\n```text\n0.35 = 35/100 = 35%\n```\n\n### 例を読み解く\n\n0.35は35/100なので35%です。実際の集団が200個なら、該当数は200 × 0.35 = 70個です。逆に200個中70個の百分率は70 ÷ 200 = 0.35 = 35%です。全体が変われば同じ35%でも個数は変わります。また、35%から40%への変化は5パーセントポイントの上昇です。相対的な増加率は5/35 ≈ 0.143 = 14.3%であり、5%増とは異なります。計算や解釈の前に、何を基準の全体としているか確認しましょう。\n\n### 注意\n\n全体の35%は全体に0.35を掛けて求めます。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "百分率",
+            "description": "**以每一百份表示比例。**\n\n### 情境理解\n\n比較大小不同的群體時，只看個數可能誤導。百分率把整體換算成100，表達部分所占比例。\n\n### 例子\n\n```text\n0.35 = 35/100 = 35%\n```\n\n### 例題解析\n\n0.35等於35/100，所以是35%。若實際群體有200個，對應個數是200 × 0.35 = 70。反過來，200個中有70個，其百分率為70 ÷ 200 = 0.35 = 35%。整體改變時，相同百分率可能代表不同個數。也要區分百分點與相對百分比變化：從35%升到40%是增加5個百分點；相對增幅則是5/35 ≈ 0.143 = 14.3%，不是5%。計算或解讀前，務必確認參照的整體。\n\n### 注意\n\n求總量的 35% 時，將總量乘以 0.35。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-percent",
+      "role": "instance",
+      "title": "백분율",
+      "description": "**비율을 100을 기준으로 나타냅니다.**\n\n### 상황에서 이해하기\n\n전체 수가 다른 두 집단을 비교할 때 개수만 보면 오해할 수 있습니다. 백분율은 전체를 100으로 환산해 부분의 비율을 보여 줍니다.\n\n### 예제\n\n```text\n0.35 = 35/100 = 35%\n```\n\n### 예제 풀이\n\n0.35는 35/100이므로 35%입니다. 실제 집단이 200개라면 35%에 해당하는 수는 200 × 0.35 = 70개입니다. 반대로 70개가 200개 중 차지하는 백분율은 70 ÷ 200 = 0.35 = 35%입니다. 전체가 달라지면 같은 35%도 다른 개수가 됩니다. 또 35%에서 40%로 바뀌면 5퍼센트포인트 오른 것이지 상대적으로 5% 증가한 것은 아닙니다. 상대 증가율은 5/35 ≈ 0.143 = 14.3%입니다. 비율을 읽을 때 어떤 전체를 기준으로 했는지 확인하세요.\n\n### 주의\n\n전체의 35%는 전체에 0.35를 곱해 구합니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-decimal"
+        },
+        {
+          "type": "custom:recommended-next",
+          "targetCardId": "math-numbers-ratio"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "비",
+            "description": "**두 양을 순서대로 비교합니다.**\n\n### 상황에서 이해하기\n\n빨간 구슬 6개와 파란 구슬 9개의 구성을 비교하려면 빨강 대 파랑의 비를 6 : 9로 씁니다. 순서가 어느 양을 먼저 비교하는지 알려 줍니다.\n\n### 예제\n\n```text\n6 : 9 = 2 : 3\n```\n\n### 예제 풀이\n\n두 수를 공통인 3으로 나누면 2 : 3입니다. 즉 같은 구성의 작은 묶음은 빨강 2개와 파랑 3개로 만들 수 있습니다. 원래 구슬이 줄었다는 뜻이 아니라 비교 관계를 간단히 쓴 것입니다. 전체는 6 + 9 = 15개이므로 빨강 대 전체는 6 : 15 = 2 : 5입니다. 2 : 3을 보고 빨강이 전체의 2/3이라고 하면 잘못입니다. 비교 순서를 바꾸면 파랑 대 빨강은 3 : 2가 됩니다. 무엇 대 무엇인지 이름을 붙여 읽으세요.\n\n### 주의\n\n부분 대 부분의 비와 부분 대 전체의 비를 구별하세요.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Ratio",
+            "description": "**Compares two quantities in a specified order.**\n\n### Context\n\nSix red beads and nine blue beads have a red-to-blue ratio of 6 : 9. The order tells you which quantity is being compared with which.\n\n### Example\n\n```text\n6 : 9 = 2 : 3\n```\n\n### Working through the example\n\nDivide both numbers by their common factor 3 to obtain 2 : 3. A smaller batch with the same composition would contain two red beads for every three blue beads. Simplifying the ratio does not remove any actual beads; it renames the relationship. The original total is 6 + 9 = 15, so the red-to-total ratio is 6 : 15 = 2 : 5. Reading 2 : 3 as “red is two thirds of all beads” would confuse a part-to-part ratio with a part-to-whole ratio. Reversing the labels gives blue-to-red = 3 : 2.\n\n### Watch out\n\nDistinguish part-to-part from part-to-whole ratios.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "比",
+            "description": "**二つの量を順序を保って比較します。**\n\n### 場面から考える\n\n赤いビーズ6個と青いビーズ9個なら、赤対青の比は6 : 9です。順序が何を何と比較するかを示します。\n\n### 例\n\n```text\n6 : 9 = 2 : 3\n```\n\n### 例を読み解く\n\n両方を公約数3で割ると2 : 3です。同じ構成の小さな組なら赤2個に対して青3個となります。比を簡単にしても実際のビーズが減るのではなく、関係を言い換えています。全体は6 + 9 = 15個なので、赤対全体は6 : 15 = 2 : 5です。2 : 3を「赤が全体の2/3」と読むと、部分対部分と部分対全体を混同します。順序を逆にした青対赤は3 : 2です。比の両側に名前を付けて読みましょう。\n\n### 注意\n\n部分対部分と部分対全体を区別します。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "比",
+            "description": "**依指定順序比較兩個量。**\n\n### 情境理解\n\n6顆紅珠與9顆藍珠，紅對藍的比是6 : 9。順序指出正在用哪個量與哪個量比較。\n\n### 例子\n\n```text\n6 : 9 = 2 : 3\n```\n\n### 例題解析\n\n兩數同除以公因數3，得到2 : 3；相同組成的小組可由2顆紅珠與3顆藍珠構成。化簡比不會減少實際珠子，只是重新表達關係。原來總數是6 + 9 = 15，所以紅珠對總數之比為6 : 15 = 2 : 5。若把2 : 3解讀成紅珠占全部的2/3，就混淆了部分對部分與部分對整體。反轉標籤後，藍對紅是3 : 2。閱讀時應說清楚「什麼對什麼」。\n\n### 注意\n\n須區分部分對部分與部分對整體的比。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-ratio",
+      "role": "instance",
+      "title": "비",
+      "description": "**두 양을 순서대로 비교합니다.**\n\n### 상황에서 이해하기\n\n빨간 구슬 6개와 파란 구슬 9개의 구성을 비교하려면 빨강 대 파랑의 비를 6 : 9로 씁니다. 순서가 어느 양을 먼저 비교하는지 알려 줍니다.\n\n### 예제\n\n```text\n6 : 9 = 2 : 3\n```\n\n### 예제 풀이\n\n두 수를 공통인 3으로 나누면 2 : 3입니다. 즉 같은 구성의 작은 묶음은 빨강 2개와 파랑 3개로 만들 수 있습니다. 원래 구슬이 줄었다는 뜻이 아니라 비교 관계를 간단히 쓴 것입니다. 전체는 6 + 9 = 15개이므로 빨강 대 전체는 6 : 15 = 2 : 5입니다. 2 : 3을 보고 빨강이 전체의 2/3이라고 하면 잘못입니다. 비교 순서를 바꾸면 파랑 대 빨강은 3 : 2가 됩니다. 무엇 대 무엇인지 이름을 붙여 읽으세요.\n\n### 주의\n\n부분 대 부분의 비와 부분 대 전체의 비를 구별하세요.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-fraction"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "비례식",
+            "description": "**두 비가 같다는 등식입니다.**\n\n### 상황에서 이해하기\n\n배합을 같은 비율로 늘렸는지 확인할 때 비례식을 사용할 수 있습니다. 작은 배합의 비가 2 : 3이고 큰 배합이 8 : 12라면 두 비가 같은지 묻는 것입니다.\n\n### 예제\n\n```text\n2/3 = 8/12 → 2 × 12 = 3 × 8\n```\n\n### 예제 풀이\n\n2와 3에 각각 4를 곱하면 8과 12가 되므로 같은 비입니다. 분수로 2/3 = 8/12라고 쓸 수 있습니다. 양쪽에 3 × 12를 곱하면 분모가 사라져 2 × 12 = 3 × 8, 즉 24 = 24를 얻습니다. 이것이 교차 곱을 비교하는 이유입니다. 미지수가 있으면 같은 원리로 2/3 = x/12에서 24 = 3x, x = 8을 구할 수 있습니다. 단, 원래 비의 분모들은 0이 아니어야 합니다.\n\n### 주의\n\n분모가 0이 아닐 때 교차 곱을 비교할 수 있습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Proportion",
+            "description": "**An equation stating that two ratios are equal.**\n\n### Context\n\nA proportion can check whether a recipe has been scaled without changing its mixture. Compare a small-batch ratio of 2 : 3 with a larger-batch ratio of 8 : 12.\n\n### Example\n\n```text\n2/3 = 8/12 → 2 × 12 = 3 × 8\n```\n\n### Working through the example\n\nMultiplying both 2 and 3 by 4 gives 8 and 12, so the ratios agree. Written as fractions, 2/3 = 8/12. Multiplying both sides by 3 × 12 clears the denominators and gives 2 × 12 = 3 × 8, or 24 = 24. This explains cross multiplication rather than treating it as an unexplained trick. The same reasoning finds an unknown: 2/3 = x/12 gives 24 = 3x, hence x = 8. The original denominators must be nonzero; cross products do not make an undefined fraction valid.\n\n### Watch out\n\nCross products may be compared when denominators are nonzero.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "比例式",
+            "description": "**二つの比が等しいことを表す等式です。**\n\n### 場面から考える\n\n配合を同じ割合のまま増やせたか確認するには比例式が使えます。小さい配合の比2 : 3と、大きい配合8 : 12を比べてみます。\n\n### 例\n\n```text\n2/3 = 8/12 → 2 × 12 = 3 × 8\n```\n\n### 例を読み解く\n\n2と3をそれぞれ4倍すると8と12なので同じ比です。分数では2/3 = 8/12と書けます。両辺に3 × 12を掛けると分母が消えて2 × 12 = 3 × 8、つまり24 = 24になります。これが交差する積を比べられる理由です。未知数も同じ考えで、2/3 = x/12から24 = 3x、x = 8と求められます。ただし元の分母は0でないことが必要です。交差積を作っても未定義の分数が有効になるわけではありません。\n\n### 注意\n\n分母が0でないとき交差する積を比較できます。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "比例式",
+            "description": "**表示兩個比相等的等式。**\n\n### 情境理解\n\n檢查配方放大後是否保持相同比例，可使用比例式。比較小份配方的2 : 3與大份的8 : 12。\n\n### 例子\n\n```text\n2/3 = 8/12 → 2 × 12 = 3 × 8\n```\n\n### 例題解析\n\n2與3各乘4得到8與12，因此兩比相等，可寫成2/3 = 8/12。兩邊同乘3 × 12消去分母，得到2 × 12 = 3 × 8，也就是24 = 24。這說明了交叉相乘的理由，而非只把它當技巧。求未知數也一樣：2/3 = x/12可得24 = 3x，所以x = 8。原來的分母必須非零；交叉相乘不會讓未定義的分數變得有效。\n\n### 注意\n\n分母非零時，可比較交叉相乘的積。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-proportion",
+      "role": "instance",
+      "title": "비례식",
+      "description": "**두 비가 같다는 등식입니다.**\n\n### 상황에서 이해하기\n\n배합을 같은 비율로 늘렸는지 확인할 때 비례식을 사용할 수 있습니다. 작은 배합의 비가 2 : 3이고 큰 배합이 8 : 12라면 두 비가 같은지 묻는 것입니다.\n\n### 예제\n\n```text\n2/3 = 8/12 → 2 × 12 = 3 × 8\n```\n\n### 예제 풀이\n\n2와 3에 각각 4를 곱하면 8과 12가 되므로 같은 비입니다. 분수로 2/3 = 8/12라고 쓸 수 있습니다. 양쪽에 3 × 12를 곱하면 분모가 사라져 2 × 12 = 3 × 8, 즉 24 = 24를 얻습니다. 이것이 교차 곱을 비교하는 이유입니다. 미지수가 있으면 같은 원리로 2/3 = x/12에서 24 = 3x, x = 8을 구할 수 있습니다. 단, 원래 비의 분모들은 0이 아니어야 합니다.\n\n### 주의\n\n분모가 0이 아닐 때 교차 곱을 비교할 수 있습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-ratio"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-equivalent"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "거듭제곱",
+            "description": "**양의 정수 지수는 같은 밑을 인수로 몇 개 곱하는지 나타냅니다.**\n\n### 상황에서 이해하기\n\n한 변에 작은 정육면체가 5개씩 놓이는 큰 정육면체를 만들면 몇 개가 필요할까요? 한 층은 5 × 5개이고 그런 층이 5개이므로 5를 세 번 곱합니다.\n\n### 예제\n\n```text\n5³ = 5 × 5 × 5 = 125\n```\n\n### 예제 풀이\n\n5³에서 밑 5는 반복되는 인수이고 지수 3은 인수의 개수입니다. 먼저 5 × 5 = 25, 다시 5를 곱해 125개입니다. 5 × 3 = 15는 5를 세 번 더한 것이므로 다릅니다. 양의 정수 지수는 반복 곱셈으로 설명하지만 0이나 음의 지수는 별도로 확장합니다. 예를 들어 밑이 0이 아닐 때 a⁰ = 1, a⁻¹ = 1/a로 정의하여 지수 법칙을 유지합니다. 따라서 5⁰는 0이 아니며, 음의 지수도 결과가 음수라는 뜻은 아닙니다.\n\n### 주의\n\n0제곱과 음의 지수는 별도의 정의로 확장합니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Powers",
+            "description": "**A positive integer exponent counts repeated factors of the base.**\n\n### Context\n\nHow many small cubes make a larger cube with five small cubes along each edge? Each layer contains 5 × 5 cubes, and there are five layers.\n\n### Example\n\n```text\n5³ = 5 × 5 × 5 = 125\n```\n\n### Working through the example\n\nThe base 5 in 5³ is the repeated factor; the exponent 3 counts the factors. First 5 × 5 = 25, then multiply by 5 again to obtain 125. This differs from 5 × 3 = 15, which adds three copies of 5. Repeated multiplication explains positive integer exponents, but zero and negative exponents require an extension. For a nonzero base a, defining a⁰ = 1 and a⁻¹ = 1/a preserves the familiar exponent laws. Thus 5⁰ is not zero, and a negative exponent does not by itself make a result negative. Check the base and exponent separately.\n\n### Watch out\n\nZero and negative exponents require extended definitions.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "累乗",
+            "description": "**正の整数の指数は同じ数を掛ける個数を表します。**\n\n### 場面から考える\n\n各辺に小さな立方体が5個並ぶ大きな立方体には、何個必要でしょうか。1層は5 × 5個で、それが5層あるので5を3回掛けます。\n\n### 例\n\n```text\n5³ = 5 × 5 × 5 = 125\n```\n\n### 例を読み解く\n\n5³の底5は繰り返す因数、指数3は因数の個数です。まず5 × 5 = 25、さらに5を掛けて125個です。5 × 3 = 15は5を3回足す計算なので別物です。正の整数の指数は繰り返す掛け算ですが、0や負の指数は定義を拡張します。0でない底aならa⁰ = 1、a⁻¹ = 1/aと定め、指数法則を保ちます。したがって5⁰は0ではなく、指数が負だからといって結果が負になるわけでもありません。底と指数を別々に確認しましょう。\n\n### 注意\n\n0乗や負の指数は定義を拡張して扱います。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "次方",
+            "description": "**正整數指數表示底數重複相乘的個數。**\n\n### 情境理解\n\n一個大立方體的每條邊排5個小立方體，總共需要幾個？每層有5 × 5個，共5層，因此要把5乘三次。\n\n### 例子\n\n```text\n5³ = 5 × 5 × 5 = 125\n```\n\n### 例題解析\n\n5³的底數5是重複的因數，指數3表示因數個數。先算5 × 5 = 25，再乘5得到125。這與5 × 3 = 15不同，後者把3個5相加。正整數指數可用重複相乘解釋，零與負指數則需要延伸定義。當底數a非零時，定義a⁰ = 1、a⁻¹ = 1/a，以維持指數律。因此5⁰不是0，負指數也不表示結果一定是負數。應分別檢查底數與指數。\n\n### 注意\n\n零次方及負指數需延伸定義。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-power",
+      "role": "instance",
+      "title": "거듭제곱",
+      "description": "**양의 정수 지수는 같은 밑을 인수로 몇 개 곱하는지 나타냅니다.**\n\n### 상황에서 이해하기\n\n한 변에 작은 정육면체가 5개씩 놓이는 큰 정육면체를 만들면 몇 개가 필요할까요? 한 층은 5 × 5개이고 그런 층이 5개이므로 5를 세 번 곱합니다.\n\n### 예제\n\n```text\n5³ = 5 × 5 × 5 = 125\n```\n\n### 예제 풀이\n\n5³에서 밑 5는 반복되는 인수이고 지수 3은 인수의 개수입니다. 먼저 5 × 5 = 25, 다시 5를 곱해 125개입니다. 5 × 3 = 15는 5를 세 번 더한 것이므로 다릅니다. 양의 정수 지수는 반복 곱셈으로 설명하지만 0이나 음의 지수는 별도로 확장합니다. 예를 들어 밑이 0이 아닐 때 a⁰ = 1, a⁻¹ = 1/a로 정의하여 지수 법칙을 유지합니다. 따라서 5⁰는 0이 아니며, 음의 지수도 결과가 음수라는 뜻은 아닙니다.\n\n### 주의\n\n0제곱과 음의 지수는 별도의 정의로 확장합니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-multiply"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "제곱근",
+            "description": "**제곱해서 주어진 수가 되는 수입니다.**\n\n### 상황에서 이해하기\n\n정사각형의 넓이가 64cm²라면 한 변은 몇 cm일까요? 한 변을 s라 하면 s² = 64이므로 제곱하는 계산을 거꾸로 생각합니다.\n\n### 예제\n\n```text\n8² = 64 → √64 = 8\n```\n\n### 예제 풀이\n\n8 × 8 = 64이므로 한 변 길이는 8cm입니다. 하지만 수에 대한 방정식 x² = 64에는 −8도 해입니다. (−8) × (−8) = 64이기 때문입니다. 그래서 64의 제곱근은 8과 −8 두 개이고, 기호 √64는 그중 음이 아닌 값 8만 뜻합니다. 길이 문제에서는 음의 해가 맥락에 맞지 않아 제외됩니다. 모든 제곱근이 정수인 것은 아닙니다. 7² < 50 < 8²이므로 √50은 7과 8 사이에 있습니다. 실수 범위에서 음수의 제곱근은 없습니다.\n\n### 주의\n\n64의 제곱근은 ±8이지만 √64는 8입니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "Square roots",
+            "description": "**Numbers whose squares equal the given number.**\n\n### Context\n\nA square has area 64 square centimeters. What is its side length? If the side is s, then s² = 64, so you need to reverse squaring.\n\n### Example\n\n```text\n8² = 64 → √64 = 8\n```\n\n### Working through the example\n\nBecause 8 × 8 = 64, the side length is 8 centimeters. But the numerical equation x² = 64 also has solution −8, since (−8) × (−8) = 64. Thus 64 has two square roots, 8 and −8, while the notation √64 selects only the nonnegative one, 8. The negative solution is unsuitable for a physical length. Not every square root is an integer: 7² < 50 < 8² shows that √50 lies between 7 and 8. Within the real numbers, a negative number has no square root because every real square is nonnegative.\n\n### Watch out\n\n64 has roots ±8, but √64 denotes 8.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "平方根",
+            "description": "**二乗すると与えられた数になる数です。**\n\n### 場面から考える\n\n面積64cm²の正方形の一辺は何cmでしょうか。一辺をsとするとs² = 64なので、2乗を逆にたどります。\n\n### 例\n\n```text\n8² = 64 → √64 = 8\n```\n\n### 例を読み解く\n\n8 × 8 = 64だから長さは8cmです。ただし数の方程式x² = 64には−8も解です。(−8) × (−8) = 64だからです。したがって64の平方根は8と−8の2つですが、√64という記号は負でない方の8だけを選びます。長さの問題では負の解は状況に合いません。平方根が必ず整数とは限らず、7² < 50 < 8²から√50は7と8の間です。実数の2乗は非負なので、実数の範囲で負の数の平方根はありません。\n\n### 注意\n\n64の平方根は±8ですが√64は8です。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "平方根",
+            "description": "**平方後等於給定數的數。**\n\n### 情境理解\n\n正方形面積為64平方公分，邊長是多少？令邊長為s，則s² = 64，需要反過來思考平方運算。\n\n### 例子\n\n```text\n8² = 64 → √64 = 8\n```\n\n### 例題解析\n\n因為8 × 8 = 64，所以邊長是8公分。但純數值方程式x² = 64也有−8這個解，因為(−8) × (−8) = 64。因此64有8與−8兩個平方根，而√64只選取非負的8。實際長度不適用負解。平方根也不一定是整數：由7² < 50 < 8²可知√50位於7與8之間。在實數範圍中，負數沒有平方根，因為任何實數的平方都非負。\n\n### 注意\n\n64 的平方根為 ±8，但 √64 表示 8。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-numbers-sqrt",
+      "role": "instance",
+      "title": "제곱근",
+      "description": "**제곱해서 주어진 수가 되는 수입니다.**\n\n### 상황에서 이해하기\n\n정사각형의 넓이가 64cm²라면 한 변은 몇 cm일까요? 한 변을 s라 하면 s² = 64이므로 제곱하는 계산을 거꾸로 생각합니다.\n\n### 예제\n\n```text\n8² = 64 → √64 = 8\n```\n\n### 예제 풀이\n\n8 × 8 = 64이므로 한 변 길이는 8cm입니다. 하지만 수에 대한 방정식 x² = 64에는 −8도 해입니다. (−8) × (−8) = 64이기 때문입니다. 그래서 64의 제곱근은 8과 −8 두 개이고, 기호 √64는 그중 음이 아닌 값 8만 뜻합니다. 길이 문제에서는 음의 해가 맥락에 맞지 않아 제외됩니다. 모든 제곱근이 정수인 것은 아닙니다. 7² < 50 < 8²이므로 √50은 7과 8 사이에 있습니다. 실수 범위에서 음수의 제곱근은 없습니다.\n\n### 주의\n\n64의 제곱근은 ±8이지만 √64는 8입니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-numbers-power"
+        }
+      ]
+    }
+  ]
+}

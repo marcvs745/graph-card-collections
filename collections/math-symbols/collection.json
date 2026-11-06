@@ -1,0 +1,1245 @@
+{
+  "localization": {
+    "translations": {
+      "ko": {
+        "title": "수학 · 기호",
+        "description": "연산·대수·집합·함수의 기호를 뜻과 예제로 익힙니다. 연결된 선수 지식을 따라 복습할 수 있습니다."
+      },
+      "en-US": {
+        "title": "Mathematics · Symbols",
+        "description": "Learn arithmetic, algebra, set and function notation through meanings and examples. Follow prerequisite links to review."
+      },
+      "ja": {
+        "title": "数学 · 記号",
+        "description": "演算・代数・集合・関数の記号を意味と例で学びます。前提知識へのリンクで復習できます。"
+      },
+      "zh-TW": {
+        "title": "數學 · 符號",
+        "description": "透過意義與例子學習運算、代數、集合及函數記號，並沿先備知識連結複習。"
+      }
+    }
+  },
+  "viewMode": "both",
+  "tags": [
+    "knowledge",
+    "graph"
+  ],
+  "topics": [
+    "수학"
+  ],
+  "customRelations": [],
+  "protocolVersion": 2,
+  "collectionId": "builtin-math-symbols",
+  "title": "수학 · 기호",
+  "description": "연산·대수·집합·함수의 기호를 뜻과 예제로 익힙니다. 연결된 선수 지식을 따라 복습할 수 있습니다.",
+  "publishedAt": "2026-10-31T00:00:00.000Z",
+  "contentVersion": "learning-flow-5bdc1245f5a1",
+  "assets": [],
+  "cards": [
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "+",
+            "description": "**더하기**\n\n### 의미\n\n두 수의 합을 나타냅니다.\n\n### 상황에서 이해하기\n\n연필 7자루에 4자루를 더 받으면 모두 몇 자루일까요? +는 두 양을 합쳐 전체를 구할 때 읽는 기호입니다.\n\n### 예제\n\n```text\n7 + 4 = 11\n```\n\n### 예제 풀이\n\n7에서 시작해 4만큼 늘리면 11입니다. 식의 7과 4는 합치는 양, 11은 합계입니다. 수직선에서는 오른쪽으로 4칸 이동한다고 볼 수 있습니다. 한편 +4처럼 수 앞에 혼자 붙은 +는 덧셈할 두 번째 수를 요구하는 것이 아니라 양수라는 부호입니다.\n\n### 주의\n\n양수의 부호로도 쓰입니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "+",
+            "description": "**Plus**\n\n### Meaning\n\nIndicates the sum of two numbers.\n\n### Context\n\nIf you have seven pencils and receive four more, how many do you have altogether? The + sign tells you to combine the two quantities.\n\n### Example\n\n```text\n7 + 4 = 11\n```\n\n### Working through the example\n\nStart with 7 and increase it by 4 to reach 11. Here 7 and 4 are the amounts being added, and 11 is their sum. On a number line, this addition is a move four units to the right. Notice the position of the symbol: in +4, it labels a positive number rather than joining two quantities. The same printed sign can therefore have different jobs.\n\n### Watch out\n\nIt can also mark a positive number.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "+",
+            "description": "**加算**\n\n### 意味\n\n2つの数の和を表します。\n\n### 場面から考える\n\n鉛筆が7本あり、さらに4本もらうと全部で何本でしょうか。+は2つの量を合わせて全体を求める記号です。\n\n### 例\n\n```text\n7 + 4 = 11\n```\n\n### 例を読み解く\n\n7から4だけ増やすと11になります。7と4は合わせる量、11は和です。数直線では右へ4進むと考えられます。ただし、+4のように数の前に付く+は、2つの量を足す指示ではなく正の数であることを示す符号です。記号の位置にも注目しましょう。\n\n### 注意\n\n正の数の符号にも使います。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "+",
+            "description": "**加號**\n\n### 意義\n\n表示兩數相加。\n\n### 情境理解\n\n有7枝鉛筆，又收到4枝，總共有幾枝？+表示把兩個量合起來求總量。\n\n### 例子\n\n```text\n7 + 4 = 11\n```\n\n### 例題解析\n\n從7增加4就得到11。7和4是相加的數，11是它們的和。在數線上，可以想成向右移動4個單位。不過，+4中放在數字前面的+表示正數，並不是連接兩個量的加法運算。同一個符號的用途要由它的位置判斷。\n\n### 注意\n\n也可表示正數的符號。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-add",
+      "role": "instance",
+      "title": "+",
+      "description": "**더하기**\n\n### 의미\n\n두 수의 합을 나타냅니다.\n\n### 상황에서 이해하기\n\n연필 7자루에 4자루를 더 받으면 모두 몇 자루일까요? +는 두 양을 합쳐 전체를 구할 때 읽는 기호입니다.\n\n### 예제\n\n```text\n7 + 4 = 11\n```\n\n### 예제 풀이\n\n7에서 시작해 4만큼 늘리면 11입니다. 식의 7과 4는 합치는 양, 11은 합계입니다. 수직선에서는 오른쪽으로 4칸 이동한다고 볼 수 있습니다. 한편 +4처럼 수 앞에 혼자 붙은 +는 덧셈할 두 번째 수를 요구하는 것이 아니라 양수라는 부호입니다.\n\n### 주의\n\n양수의 부호로도 쓰입니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": []
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "−",
+            "description": "**빼기**\n\n### 의미\n\n두 수의 차를 나타냅니다.\n\n### 상황에서 이해하기\n\n7장 중 4장을 사용하면 몇 장이 남을까요? −는 남은 양이나 두 양의 차이를 구할 때 씁니다.\n\n### 예제\n\n```text\n7 − 4 = 3\n```\n\n### 예제 풀이\n\n7에서 4를 빼면 3이 남습니다. 반대로 4 − 7은 −3이므로 순서는 중요합니다. 7 − 4의 −는 두 수 사이의 연산이고, −4의 −는 한 수가 음수임을 나타내는 부호입니다. −3은 수직선에서 0보다 왼쪽에 3만큼 있는 수입니다.\n\n### 주의\n\n−4에서는 음수의 부호입니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "−",
+            "description": "**Minus**\n\n### Meaning\n\nIndicates the difference of two numbers.\n\n### Context\n\nYou use four of seven sheets of paper. The − sign lets you describe how many remain, or the difference between two amounts.\n\n### Example\n\n```text\n7 − 4 = 3\n```\n\n### Working through the example\n\nRemoving 4 from 7 leaves 3. Reversing the order gives 4 − 7 = −3, so subtraction depends on order. In 7 − 4, the sign connects two numbers as an operation. In −4, it belongs to one number and marks it as negative. A negative result such as −3 lies three units to the left of zero on a number line.\n\n### Watch out\n\nIn −4 it is the negative sign.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "−",
+            "description": "**減算**\n\n### 意味\n\n2つの数の差を表します。\n\n### 場面から考える\n\n7枚の紙のうち4枚を使うと何枚残るでしょうか。−は残りの量や2つの量の差を表します。\n\n### 例\n\n```text\n7 − 4 = 3\n```\n\n### 例を読み解く\n\n7から4を引くと3です。順序を逆にした4 − 7は−3なので、順序は重要です。7 − 4の−は2つの数の間の演算ですが、−4の−は1つの数が負であることを示す符号です。−3は数直線で0の左側に3離れた数です。\n\n### 注意\n\n−4では負の符号です。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "−",
+            "description": "**減號**\n\n### 意義\n\n表示兩數相減。\n\n### 情境理解\n\n7張紙用了4張，還剩幾張？−可以表示剩餘量，也可以表示兩個量的差。\n\n### 例子\n\n```text\n7 − 4 = 3\n```\n\n### 例題解析\n\n7減去4剩下3。若交換順序，4 − 7 = −3，因此順序很重要。7 − 4中的−是連接兩數的運算；−4中的−則是標示負數的符號。−3在數線上位於0的左邊，相距3個單位。\n\n### 注意\n\n在 −4 中表示負號。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-subtract",
+      "role": "instance",
+      "title": "−",
+      "description": "**빼기**\n\n### 의미\n\n두 수의 차를 나타냅니다.\n\n### 상황에서 이해하기\n\n7장 중 4장을 사용하면 몇 장이 남을까요? −는 남은 양이나 두 양의 차이를 구할 때 씁니다.\n\n### 예제\n\n```text\n7 − 4 = 3\n```\n\n### 예제 풀이\n\n7에서 4를 빼면 3이 남습니다. 반대로 4 − 7은 −3이므로 순서는 중요합니다. 7 − 4의 −는 두 수 사이의 연산이고, −4의 −는 한 수가 음수임을 나타내는 부호입니다. −3은 수직선에서 0보다 왼쪽에 3만큼 있는 수입니다.\n\n### 주의\n\n−4에서는 음수의 부호입니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-add"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "×",
+            "description": "**곱하기**\n\n### 의미\n\n두 수의 곱을 나타냅니다.\n\n### 상황에서 이해하기\n\n상자 3개에 사과가 각각 4개씩 있다면, 같은 크기의 묶음을 ×로 간단히 나타낼 수 있습니다.\n\n### 예제\n\n```text\n3 × 4 = 12\n```\n\n### 예제 풀이\n\n3 × 4는 여기서 4 + 4 + 4이므로 사과는 12개입니다. 3과 4를 인수, 12를 곱이라고 합니다. 곱셈 기호 ×는 모양이 비슷한 문자 x와 다릅니다. 예를 들어 3 × x에서 ×는 연산이고 x는 어떤 수를 나타냅니다. 같은 크기의 묶음은 이 정수 예제를 설명하지만 곱셈은 분수 등에도 적용됩니다.\n\n### 주의\n\n문자 x와 구별하세요.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "×",
+            "description": "**Times**\n\n### Meaning\n\nIndicates a product.\n\n### Context\n\nThree boxes each hold four apples. Multiplication notation is a compact way to combine equal groups.\n\n### Example\n\n```text\n3 × 4 = 12\n```\n\n### Working through the example\n\nHere 3 × 4 means 4 + 4 + 4, giving 12 apples. The numbers 3 and 4 are factors; 12 is the product. Distinguish the multiplication sign × from the letter x. In 3 × x, the first symbol is an instruction to multiply, while x stands for a number. The equal-groups picture explains this whole-number example; multiplication also applies to fractions and other numbers.\n\n### Watch out\n\nDistinguish it from the letter x.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "×",
+            "description": "**乗算**\n\n### 意味\n\n積を表します。\n\n### 場面から考える\n\n3箱にそれぞれ4個のりんごが入っています。同じ大きさのまとまりを合わせる計算を×で短く書けます。\n\n### 例\n\n```text\n3 × 4 = 12\n```\n\n### 例を読み解く\n\nここでは3 × 4は4 + 4 + 4を表し、合計は12個です。3と4は因数、12は積です。記号×と文字xを区別しましょう。3 × xでは×は掛け算、xは数を表します。同じ大きさのまとまりという見方はこの整数の例に役立ちますが、掛け算は分数などにも使えます。\n\n### 注意\n\n文字 x と区別します。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "×",
+            "description": "**乘號**\n\n### 意義\n\n表示相乘。\n\n### 情境理解\n\n3盒蘋果，每盒4顆，可以用×簡潔地表示合併相同大小的組。\n\n### 例子\n\n```text\n3 × 4 = 12\n```\n\n### 例題解析\n\n在這裡，3 × 4就是4 + 4 + 4，共12顆。3和4是因數，12是乘積。乘號×與字母x不同：在3 × x中，×表示相乘，x代表一個數。相同大小的組能解釋這個整數例子，但乘法也適用於分數等其他數。\n\n### 注意\n\n注意與字母 x 區分。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-multiply",
+      "role": "instance",
+      "title": "×",
+      "description": "**곱하기**\n\n### 의미\n\n두 수의 곱을 나타냅니다.\n\n### 상황에서 이해하기\n\n상자 3개에 사과가 각각 4개씩 있다면, 같은 크기의 묶음을 ×로 간단히 나타낼 수 있습니다.\n\n### 예제\n\n```text\n3 × 4 = 12\n```\n\n### 예제 풀이\n\n3 × 4는 여기서 4 + 4 + 4이므로 사과는 12개입니다. 3과 4를 인수, 12를 곱이라고 합니다. 곱셈 기호 ×는 모양이 비슷한 문자 x와 다릅니다. 예를 들어 3 × x에서 ×는 연산이고 x는 어떤 수를 나타냅니다. 같은 크기의 묶음은 이 정수 예제를 설명하지만 곱셈은 분수 등에도 적용됩니다.\n\n### 주의\n\n문자 x와 구별하세요.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-add"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "÷",
+            "description": "**나누기**\n\n### 의미\n\n한 수를 다른 수로 나눈 몫입니다.\n\n### 상황에서 이해하기\n\n사탕 12개를 3명에게 똑같이 나누면 한 명이 몇 개씩 받을까요? ÷는 같은 몫을 구하는 계산을 나타냅니다.\n\n### 예제\n\n```text\n12 ÷ 3 = 4\n```\n\n### 예제 풀이\n\n12 ÷ 3 = 4이므로 한 명당 4개입니다. 3 × 4 = 12로 확인할 수 있습니다. 같은 식을 12개를 3개씩 묶으면 4묶음이라고 읽을 수도 있습니다. 무엇을 한 묶음으로 정하는지에 따라 답의 단위가 달라집니다. 0으로 나누는 연산은 정의되지 않습니다.\n\n### 주의\n\n0으로 나눌 수 없습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "÷",
+            "description": "**Divided by**\n\n### Meaning\n\nIndicates a quotient.\n\n### Context\n\nHow many sweets does each person get when twelve sweets are shared equally among three people? The ÷ sign expresses division.\n\n### Example\n\n```text\n12 ÷ 3 = 4\n```\n\n### Working through the example\n\nThe result is 4 sweets per person. Check it by multiplying: 3 × 4 = 12 recovers the original total. The same equation can answer a different question: how many groups of three fit into twelve? Then the answer is 4 groups. Identify the unit of your answer from the question. Division by zero is undefined; it does not produce an ordinary numerical quotient.\n\n### Watch out\n\nDivision by zero is undefined.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "÷",
+            "description": "**除算**\n\n### 意味\n\nある数を別の数で割った商を表します。\n\n### 場面から考える\n\n12個のあめを3人で等しく分けると、1人分はいくつでしょうか。÷は割り算を表します。\n\n### 例\n\n```text\n12 ÷ 3 = 4\n```\n\n### 例を読み解く\n\n答えは1人4個です。3 × 4 = 12と掛け算で元の個数に戻ることを確認できます。同じ式を「12個を3個ずつ分けると4組」と読むこともできます。問題で何を1組とするかによって答えの単位が変わります。0で割る計算は定義されていません。\n\n### 注意\n\n0では割れません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "÷",
+            "description": "**除號**\n\n### 意義\n\n表示相除所得的商。\n\n### 情境理解\n\n12顆糖果平分給3人，每人得到幾顆？÷表示除法。\n\n### 例子\n\n```text\n12 ÷ 3 = 4\n```\n\n### 例題解析\n\n每人得到4顆，因為3 × 4 = 12，可以乘回去檢查總數。同一個算式也能問：12顆糖果每3顆一組，可以分成幾組？答案是4組。題目決定答案的單位是「每人幾顆」還是「幾組」。除以0沒有定義，不能得到一般的數值商。\n\n### 注意\n\n不能除以 0。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-divide",
+      "role": "instance",
+      "title": "÷",
+      "description": "**나누기**\n\n### 의미\n\n한 수를 다른 수로 나눈 몫입니다.\n\n### 상황에서 이해하기\n\n사탕 12개를 3명에게 똑같이 나누면 한 명이 몇 개씩 받을까요? ÷는 같은 몫을 구하는 계산을 나타냅니다.\n\n### 예제\n\n```text\n12 ÷ 3 = 4\n```\n\n### 예제 풀이\n\n12 ÷ 3 = 4이므로 한 명당 4개입니다. 3 × 4 = 12로 확인할 수 있습니다. 같은 식을 12개를 3개씩 묶으면 4묶음이라고 읽을 수도 있습니다. 무엇을 한 묶음으로 정하는지에 따라 답의 단위가 달라집니다. 0으로 나누는 연산은 정의되지 않습니다.\n\n### 주의\n\n0으로 나눌 수 없습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-multiply"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "=",
+            "description": "**같음**\n\n### 의미\n\n양쪽이 같은 값을 나타냅니다.\n\n### 상황에서 이해하기\n\n같은 양을 서로 다른 방식으로 쓸 수 있습니다. =는 왼쪽 표현과 오른쪽 표현의 값이 같다는 관계를 나타냅니다.\n\n### 예제\n\n```text\n4 + 5 = 9\n```\n\n### 예제 풀이\n\n4 + 5를 계산하면 9이므로 두 쪽은 같은 양입니다. 9 = 4 + 5나 4 + 5 = 6 + 3도 참입니다. 등호 오른쪽이 반드시 계산 결과 하나일 필요는 없습니다. 여러 등호를 이어 쓸 때는 연결된 모든 표현의 값이 같아야 합니다.\n\n### 주의\n\n계산을 시작하라는 지시가 아닙니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "=",
+            "description": "**Equals**\n\n### Meaning\n\nBoth sides have the same value.\n\n### Context\n\nTwo expressions can look different while representing the same amount. The equals sign asserts that their values agree.\n\n### Example\n\n```text\n4 + 5 = 9\n```\n\n### Working through the example\n\nThe left side, 4 + 5, has value 9, matching the right side. Both 9 = 4 + 5 and 4 + 5 = 6 + 3 are also true. Equality works in either direction; it is not a command meaning “now calculate.” If you write a chain of equals signs, every expression in the chain must have the same value. This makes = useful for checking each step of a calculation.\n\n### Watch out\n\nIt is not an instruction to start calculating.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "=",
+            "description": "**等号**\n\n### 意味\n\n両辺が同じ値を表します。\n\n### 場面から考える\n\n見た目の違う式でも同じ量を表せます。=は左右の式の値が等しいという関係を示します。\n\n### 例\n\n```text\n4 + 5 = 9\n```\n\n### 例を読み解く\n\n左側の4 + 5を計算すると9なので、右側と一致します。9 = 4 + 5や4 + 5 = 6 + 3も正しい式です。等号はどちら向きにも読め、「ここから計算せよ」という指示ではありません。等号を続けて書くときは、つながるすべての式の値が同じでなければなりません。\n\n### 注意\n\n計算開始の指示ではありません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "=",
+            "description": "**等號**\n\n### 意義\n\n表示兩邊的值相同。\n\n### 情境理解\n\n外觀不同的式子也能表示相同的量。=表示左右兩邊的值相等。\n\n### 例子\n\n```text\n4 + 5 = 9\n```\n\n### 例題解析\n\n左邊4 + 5的值是9，與右邊相同。9 = 4 + 5和4 + 5 = 6 + 3也都成立。等號可以從兩個方向閱讀，並不是「現在開始計算」的指令。若把多個等號連在一起，每個式子的值都必須相同，這也能幫助檢查計算步驟。\n\n### 注意\n\n不是開始計算的指令。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-equal",
+      "role": "instance",
+      "title": "=",
+      "description": "**같음**\n\n### 의미\n\n양쪽이 같은 값을 나타냅니다.\n\n### 상황에서 이해하기\n\n같은 양을 서로 다른 방식으로 쓸 수 있습니다. =는 왼쪽 표현과 오른쪽 표현의 값이 같다는 관계를 나타냅니다.\n\n### 예제\n\n```text\n4 + 5 = 9\n```\n\n### 예제 풀이\n\n4 + 5를 계산하면 9이므로 두 쪽은 같은 양입니다. 9 = 4 + 5나 4 + 5 = 6 + 3도 참입니다. 등호 오른쪽이 반드시 계산 결과 하나일 필요는 없습니다. 여러 등호를 이어 쓸 때는 연결된 모든 표현의 값이 같아야 합니다.\n\n### 주의\n\n계산을 시작하라는 지시가 아닙니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": []
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "≠",
+            "description": "**같지 않음**\n\n### 의미\n\n양쪽 값이 다릅니다.\n\n### 상황에서 이해하기\n\n두 답이 서로 일치하지 않는다는 사실만 표현하고 싶다면 ≠를 씁니다.\n\n### 예제\n\n```text\n4 ≠ 9\n```\n\n### 예제 풀이\n\n4와 9는 다른 수이므로 4 ≠ 9입니다. 순서를 바꾼 9 ≠ 4도 참입니다. 이 기호 자체는 어느 쪽이 큰지 말하지 않습니다. 크기의 방향까지 나타내려면 4 < 9 또는 9 > 4처럼 씁니다. x ≠ 4라는 조건은 4를 제외하지만 3이나 5처럼 양쪽에 있는 수는 허용합니다.\n\n### 주의\n\n어느 쪽이 큰지는 알려주지 않습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "≠",
+            "description": "**Not equal**\n\n### Meaning\n\nThe values differ.\n\n### Context\n\nUse ≠ when the important information is that two values do not match.\n\n### Example\n\n```text\n4 ≠ 9\n```\n\n### Working through the example\n\nSince 4 and 9 are different numbers, 4 ≠ 9 is true. Reversing the statement to 9 ≠ 4 is also true. Unlike < or >, this sign does not specify which value is larger. If a condition says x ≠ 4, it excludes 4 but allows values on either side of 4, such as 3 and 5. Read it as “not equal to,” not as a directional comparison.\n\n### Watch out\n\nIt does not say which is greater.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "≠",
+            "description": "**不等**\n\n### 意味\n\n両辺の値が異なります。\n\n### 場面から考える\n\n2つの値が一致しないことを表したいときに≠を使います。\n\n### 例\n\n```text\n4 ≠ 9\n```\n\n### 例を読み解く\n\n4と9は違う数なので4 ≠ 9です。逆にした9 ≠ 4も成り立ちます。<や>と違い、どちらが大きいかは示しません。x ≠ 4という条件は4を除外しますが、3や5のように4の両側の値を許します。「等しくない」と読みましょう。\n\n### 注意\n\n大小の向きは示しません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "≠",
+            "description": "**不等於**\n\n### 意義\n\n表示兩邊的值不同。\n\n### 情境理解\n\n只想表示兩個值不一致時，可以使用≠。\n\n### 例子\n\n```text\n4 ≠ 9\n```\n\n### 例題解析\n\n4和9是不同的數，因此4 ≠ 9成立；反過來寫9 ≠ 4也成立。與<或>不同，≠沒有指出哪一邊比較大。條件x ≠ 4排除了4，但仍允許3或5等位於4兩側的值。它的意思是「不等於」，不是有方向的大小比較。\n\n### 注意\n\n不表示哪邊較大。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-unequal",
+      "role": "instance",
+      "title": "≠",
+      "description": "**같지 않음**\n\n### 의미\n\n양쪽 값이 다릅니다.\n\n### 상황에서 이해하기\n\n두 답이 서로 일치하지 않는다는 사실만 표현하고 싶다면 ≠를 씁니다.\n\n### 예제\n\n```text\n4 ≠ 9\n```\n\n### 예제 풀이\n\n4와 9는 다른 수이므로 4 ≠ 9입니다. 순서를 바꾼 9 ≠ 4도 참입니다. 이 기호 자체는 어느 쪽이 큰지 말하지 않습니다. 크기의 방향까지 나타내려면 4 < 9 또는 9 > 4처럼 씁니다. x ≠ 4라는 조건은 4를 제외하지만 3이나 5처럼 양쪽에 있는 수는 허용합니다.\n\n### 주의\n\n어느 쪽이 큰지는 알려주지 않습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-equal"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "<",
+            "description": "**작음**\n\n### 의미\n\n왼쪽 값이 오른쪽보다 작습니다.\n\n### 상황에서 이해하기\n\n4개와 9개 중 어느 쪽이 적은지 나타낼 때 <를 씁니다.\n\n### 예제\n\n```text\n4 < 9\n```\n\n### 예제 풀이\n\n4 < 9는 왼쪽의 4가 오른쪽의 9보다 작다는 뜻입니다. 뾰족한 쪽이 작은 수를 향합니다. 수직선에서는 4가 9보다 왼쪽에 있습니다. x < 9라는 조건에는 8이 들어가지만 9는 들어가지 않습니다. 경계까지 허용하려면 ≤가 필요합니다. 수의 순서를 바꾸면 기호도 뒤집어 9 > 4로 써야 합니다.\n\n### 주의\n\n같은 값은 포함하지 않습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "<",
+            "description": "**Less than**\n\n### Meaning\n\nThe left value is smaller.\n\n### Context\n\nTo say which of two amounts is smaller, use a comparison with a direction.\n\n### Example\n\n```text\n4 < 9\n```\n\n### Working through the example\n\nRead 4 < 9 as “four is less than nine.” The pointed end faces the smaller value. On a number line, 4 lies to the left of 9. A restriction such as x < 9 permits 8 but excludes 9 itself. This is a strict inequality: equality does not count. Use ≤ instead when a boundary value is allowed. Reversing the order requires reversing the sign: 9 > 4.\n\n### Watch out\n\nEquality is excluded.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "<",
+            "description": "**より小さい**\n\n### 意味\n\n左辺が右辺より小さいことを示します。\n\n### 場面から考える\n\n4個と9個のどちらが少ないかを表すには、向きのある比較を使います。\n\n### 例\n\n```text\n4 < 9\n```\n\n### 例を読み解く\n\n4 < 9は「4は9より小さい」です。尖った側が小さい数を向きます。数直線では4は9の左側です。x < 9なら8は許されますが、9自体は含みません。境界の値も含めるなら≤を使います。左右を入れ替えるときは記号も反転し、9 > 4と書きます。\n\n### 注意\n\n等しい場合は含みません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "<",
+            "description": "**小於**\n\n### 意義\n\n左邊的值比右邊小。\n\n### 情境理解\n\n比較4個與9個哪一邊比較少時，需要有方向的大小關係。\n\n### 例子\n\n```text\n4 < 9\n```\n\n### 例題解析\n\n4 < 9讀作「4小於9」，尖端朝向較小的數。在數線上，4位於9的左邊。條件x < 9允許8，但不包含9本身。若連邊界值也允許，就要使用≤。交換左右兩數時，符號也要反轉，成為9 > 4。\n\n### 注意\n\n不包含相等。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-less",
+      "role": "instance",
+      "title": "<",
+      "description": "**작음**\n\n### 의미\n\n왼쪽 값이 오른쪽보다 작습니다.\n\n### 상황에서 이해하기\n\n4개와 9개 중 어느 쪽이 적은지 나타낼 때 <를 씁니다.\n\n### 예제\n\n```text\n4 < 9\n```\n\n### 예제 풀이\n\n4 < 9는 왼쪽의 4가 오른쪽의 9보다 작다는 뜻입니다. 뾰족한 쪽이 작은 수를 향합니다. 수직선에서는 4가 9보다 왼쪽에 있습니다. x < 9라는 조건에는 8이 들어가지만 9는 들어가지 않습니다. 경계까지 허용하려면 ≤가 필요합니다. 수의 순서를 바꾸면 기호도 뒤집어 9 > 4로 써야 합니다.\n\n### 주의\n\n같은 값은 포함하지 않습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": []
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "≤",
+            "description": "**작거나 같음**\n\n### 의미\n\n왼쪽 값이 더 작거나 같습니다.\n\n### 상황에서 이해하기\n\n최대 4개까지 가져갈 수 있다면 3개뿐 아니라 정확히 4개도 허용됩니다. 이때 ≤로 경계를 포함합니다.\n\n### 예제\n\n```text\n4 ≤ 4\n```\n\n### 예제 풀이\n\n4 ≤ 4는 두 값이 같아서 참입니다. ≤는 ‘작다’와 ‘같다’ 중 어느 하나만 성립해도 됩니다. x ≤ 4에는 3과 4가 들어가지만 5는 들어가지 않습니다. 수직선에 표시한다면 4에 채운 점을 찍고 왼쪽 값을 포함합니다.\n\n### 주의\n\n<와 달리 경곗값을 포함합니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "≤",
+            "description": "**Less than or equal to**\n\n### Meaning\n\nThe left value is smaller or equal.\n\n### Context\n\nA rule allowing at most four items includes taking exactly four. The sign ≤ includes that boundary.\n\n### Example\n\n```text\n4 ≤ 4\n```\n\n### Working through the example\n\nThe example 4 ≤ 4 is true because the values are equal. “Less than or equal to” requires either a smaller value or an equal one; it does not require both at once. Thus x ≤ 4 allows 3 and 4 but excludes 5. On a number line, a filled point at 4 indicates that the endpoint is included, with allowed values extending leftward. Compare x < 4, which excludes the endpoint.\n\n### Watch out\n\nUnlike <, it includes the boundary.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "≤",
+            "description": "**以下**\n\n### 意味\n\n左辺が右辺より小さいか等しいことを示します。\n\n### 場面から考える\n\n「4個まで」という規則なら、ちょうど4個も許されます。≤はその境界を含める記号です。\n\n### 例\n\n```text\n4 ≤ 4\n```\n\n### 例を読み解く\n\n4 ≤ 4は両側が等しいので正しい文です。「小さいか等しい」はどちらか一方が成り立てばよく、両方を同時に要求しません。x ≤ 4には3と4が含まれ、5は含まれません。数直線なら4を塗りつぶした点で示し、その左側を含めます。x < 4では端の4を除きます。\n\n### 注意\n\n<と違い境界値を含みます。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "≤",
+            "description": "**小於或等於**\n\n### 意義\n\n左邊的值較小或相等。\n\n### 情境理解\n\n「最多4個」也允許剛好4個。≤就是把這個邊界包含進來的符號。\n\n### 例子\n\n```text\n4 ≤ 4\n```\n\n### 例題解析\n\n4 ≤ 4成立，因為兩邊相等。「小於或等於」只要其中一種情況成立，不需要同時成立。因此x ≤ 4允許3和4，但不允許5。在數線上可用4位置的實心點表示包含端點，再標出左側。相較之下，x < 4會排除4。\n\n### 注意\n\n與 < 不同，包含邊界值。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-leq",
+      "role": "instance",
+      "title": "≤",
+      "description": "**작거나 같음**\n\n### 의미\n\n왼쪽 값이 더 작거나 같습니다.\n\n### 상황에서 이해하기\n\n최대 4개까지 가져갈 수 있다면 3개뿐 아니라 정확히 4개도 허용됩니다. 이때 ≤로 경계를 포함합니다.\n\n### 예제\n\n```text\n4 ≤ 4\n```\n\n### 예제 풀이\n\n4 ≤ 4는 두 값이 같아서 참입니다. ≤는 ‘작다’와 ‘같다’ 중 어느 하나만 성립해도 됩니다. x ≤ 4에는 3과 4가 들어가지만 5는 들어가지 않습니다. 수직선에 표시한다면 4에 채운 점을 찍고 왼쪽 값을 포함합니다.\n\n### 주의\n\n<와 달리 경곗값을 포함합니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-less"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-equal"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": ">",
+            "description": "**큼**\n\n### 의미\n\n왼쪽 값이 오른쪽보다 큽니다.\n\n### 상황에서 이해하기\n\n9개가 4개보다 많다는 비교를 짧게 쓰려면 >를 사용합니다.\n\n### 예제\n\n```text\n9 > 4\n```\n\n### 예제 풀이\n\n9 > 4는 왼쪽 값이 더 크다는 뜻입니다. 벌어진 쪽이 큰 수를 향합니다. x > 4에는 5가 포함되지만 4는 포함되지 않습니다. ‘4보다 많다’와 ‘4 이상이다’를 구별하세요. 후자는 4도 허용하므로 ≥로 씁니다. 같은 뜻으로 4 < 9라고 쓸 때는 수의 순서와 기호의 방향을 함께 바꿉니다.\n\n### 주의\n\n같은 값은 포함하지 않습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": ">",
+            "description": "**Greater than**\n\n### Meaning\n\nThe left value is larger.\n\n### Context\n\nUse > to express that one amount exceeds another.\n\n### Example\n\n```text\n9 > 4\n```\n\n### Working through the example\n\nThe statement 9 > 4 says that the left-hand value is greater. The wide end faces the larger number. A condition x > 4 includes 5 but not 4 itself. “More than four” therefore differs from “at least four”: the latter includes equality and uses ≥. You can rewrite the example as 4 < 9 without changing its meaning, provided you reverse both the order of the numbers and the direction of the sign.\n\n### Watch out\n\nEquality is excluded.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": ">",
+            "description": "**より大きい**\n\n### 意味\n\n左辺が右辺より大きいことを示します。\n\n### 場面から考える\n\n9個が4個より多いことを短く書くには>を使います。\n\n### 例\n\n```text\n9 > 4\n```\n\n### 例を読み解く\n\n9 > 4は左側の値が大きいという意味です。開いた側が大きい数を向きます。x > 4には5は含まれますが、4は含まれません。「4より大きい」と「4以上」を区別しましょう。後者は等しい場合も含めるので≥を使います。例を4 < 9と書き換えるときは、数の順序と記号の向きを両方変えます。\n\n### 注意\n\n等しい場合は含みません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": ">",
+            "description": "**大於**\n\n### 意義\n\n左邊的值比右邊大。\n\n### 情境理解\n\n要簡短表示9個比4個多，可以使用>。\n\n### 例子\n\n```text\n9 > 4\n```\n\n### 例題解析\n\n9 > 4表示左邊的值較大，開口朝向較大的數。條件x > 4包含5，卻不包含4。「大於4」與「至少4」不同；後者包含相等的情況，應使用≥。把例子改寫成4 < 9時，必須同時交換數的順序及符號方向，意思才會保持相同。\n\n### 注意\n\n不包含相等。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-greater",
+      "role": "instance",
+      "title": ">",
+      "description": "**큼**\n\n### 의미\n\n왼쪽 값이 오른쪽보다 큽니다.\n\n### 상황에서 이해하기\n\n9개가 4개보다 많다는 비교를 짧게 쓰려면 >를 사용합니다.\n\n### 예제\n\n```text\n9 > 4\n```\n\n### 예제 풀이\n\n9 > 4는 왼쪽 값이 더 크다는 뜻입니다. 벌어진 쪽이 큰 수를 향합니다. x > 4에는 5가 포함되지만 4는 포함되지 않습니다. ‘4보다 많다’와 ‘4 이상이다’를 구별하세요. 후자는 4도 허용하므로 ≥로 씁니다. 같은 뜻으로 4 < 9라고 쓸 때는 수의 순서와 기호의 방향을 함께 바꿉니다.\n\n### 주의\n\n같은 값은 포함하지 않습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": []
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "≥",
+            "description": "**크거나 같음**\n\n### 의미\n\n왼쪽 값이 더 크거나 같습니다.\n\n### 상황에서 이해하기\n\n최소 9점이 필요하다면 9점도 통과입니다. ≥는 기준보다 크거나 기준과 같은 값을 포함합니다.\n\n### 예제\n\n```text\n9 ≥ 9\n```\n\n### 예제 풀이\n\n9 ≥ 9는 같은 경우이므로 참입니다. x ≥ 9에는 9와 10이 포함되지만 8은 제외됩니다. >로 바꾸면 정확히 9인 경우를 잘못 제외하게 됩니다. 수직선에서는 9에 채운 점을 찍고 오른쪽 값을 포함합니다. 제한 조건을 읽을 때 ‘이상’, ‘최소’, ‘적어도’가 경계를 포함하는지 확인하세요.\n\n### 주의\n\n>와 달리 경곗값을 포함합니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "≥",
+            "description": "**Greater than or equal to**\n\n### Meaning\n\nThe left value is larger or equal.\n\n### Context\n\nIf a score of at least nine is required, a score of exactly nine qualifies. The sign ≥ includes equality.\n\n### Example\n\n```text\n9 ≥ 9\n```\n\n### Working through the example\n\nThe statement 9 ≥ 9 is true because both values are the same. The condition x ≥ 9 accepts 9 and 10 but rejects 8. Replacing ≥ with > would incorrectly exclude exactly 9. In a number-line picture, fill the point at 9 and include values to its right. Words such as “at least” and “minimum” help you decide whether the endpoint belongs in the allowed range.\n\n### Watch out\n\nUnlike >, it includes the boundary.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "≥",
+            "description": "**以上**\n\n### 意味\n\n左辺が右辺より大きいか等しいことを示します。\n\n### 場面から考える\n\n最低9点が必要なら、ちょうど9点でも条件を満たします。≥は等しい場合も含めます。\n\n### 例\n\n```text\n9 ≥ 9\n```\n\n### 例を読み解く\n\n9 ≥ 9は両側が等しいので正しい文です。x ≥ 9には9と10が含まれ、8は含まれません。>に変えると9を誤って除外してしまいます。数直線では9を塗りつぶした点にし、その右側を含めます。「以上」「最低」「少なくとも」という言葉が境界を含むことに注目しましょう。\n\n### 注意\n\n>と違い境界値を含みます。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "≥",
+            "description": "**大於或等於**\n\n### 意義\n\n左邊的值較大或相等。\n\n### 情境理解\n\n若要求至少9分，剛好9分也符合條件。≥包含相等的情況。\n\n### 例子\n\n```text\n9 ≥ 9\n```\n\n### 例題解析\n\n9 ≥ 9成立，因為兩邊相等。條件x ≥ 9接受9和10，但排除8。若改成>，就會錯誤地排除剛好9分。在數線上可把9標成實心點，並包含右側的值。「至少」和「最低」等用語有助於判斷是否應包含邊界。\n\n### 注意\n\n與 > 不同，包含邊界值。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-geq",
+      "role": "instance",
+      "title": "≥",
+      "description": "**크거나 같음**\n\n### 의미\n\n왼쪽 값이 더 크거나 같습니다.\n\n### 상황에서 이해하기\n\n최소 9점이 필요하다면 9점도 통과입니다. ≥는 기준보다 크거나 기준과 같은 값을 포함합니다.\n\n### 예제\n\n```text\n9 ≥ 9\n```\n\n### 예제 풀이\n\n9 ≥ 9는 같은 경우이므로 참입니다. x ≥ 9에는 9와 10이 포함되지만 8은 제외됩니다. >로 바꾸면 정확히 9인 경우를 잘못 제외하게 됩니다. 수직선에서는 9에 채운 점을 찍고 오른쪽 값을 포함합니다. 제한 조건을 읽을 때 ‘이상’, ‘최소’, ‘적어도’가 경계를 포함하는지 확인하세요.\n\n### 주의\n\n>와 달리 경곗값을 포함합니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-greater"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-equal"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "≈",
+            "description": "**근사적으로 같음**\n\n### 의미\n\n정확히 같지는 않지만 가까운 값입니다.\n\n### 상황에서 이해하기\n\n계산기로 얻은 긴 소수를 짧게 쓸 때, 반올림한 값과 정확한 값을 구별해야 합니다.\n\n### 예제\n\n```text\n1/7 ≈ 0.143\n```\n\n### 예제 풀이\n\n1을 7로 나누면 0.142857…이 반복됩니다. 소수 셋째 자리까지 반올림하면 0.143이므로 ≈를 씁니다. 0.143 × 7 = 1.001이지 정확히 1은 아닙니다. 작은 차이라도 여러 계산에서 누적될 수 있으므로 필요한 정밀도를 생각하고, 가능하면 중간 계산에서는 정확한 분수를 유지하세요.\n\n### 주의\n\n정확한 등호로 바꾸지 마세요.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "≈",
+            "description": "**Approximately equal**\n\n### Meaning\n\nThe values are close, not asserted exactly equal.\n\n### Context\n\nWhen a long decimal is shortened, notation should distinguish the rounded value from the exact one.\n\n### Example\n\n```text\n1/7 ≈ 0.143\n```\n\n### Working through the example\n\nDividing 1 by 7 gives the repeating decimal 0.142857…. Rounded to three decimal places, this is 0.143, so the example uses ≈. Check the difference: 0.143 × 7 = 1.001, not exactly 1. Approximation may be useful and sufficiently accurate, but it is still not equality. Choose a precision appropriate to the task and, when possible, keep exact fractions during intermediate calculations before rounding the final answer.\n\n### Watch out\n\nDo not replace this with an exact equality.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "≈",
+            "description": "**近似的に等しい**\n\n### 意味\n\n厳密な等しさではなく近い値を示します。\n\n### 場面から考える\n\n長い小数を短く書くときは、丸めた値と正確な値を記号で区別します。\n\n### 例\n\n```text\n1/7 ≈ 0.143\n```\n\n### 例を読み解く\n\n1を7で割ると0.142857…が繰り返されます。小数第3位まで四捨五入すると0.143なので≈を使います。0.143 × 7 = 1.001であり、正確に1ではありません。近似は便利でも等号とは異なります。目的に合う精度を選び、可能なら途中では正確な分数を保ち、最後に丸めましょう。\n\n### 注意\n\n等号と置き換えないでください。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "≈",
+            "description": "**約等於**\n\n### 意義\n\n表示數值接近，而非斷言完全相等。\n\n### 情境理解\n\n把很長的小數寫短時，要區分近似值與精確值。\n\n### 例子\n\n```text\n1/7 ≈ 0.143\n```\n\n### 例題解析\n\n1除以7得到循環小數0.142857…。四捨五入到小數第3位是0.143，因此使用≈。檢查可得0.143 × 7 = 1.001，並不精確等於1。近似可能很實用，仍不能當成相等。應依用途選擇精度；可以的話，中間步驟保留精確分數，最後再四捨五入。\n\n### 注意\n\n不可任意改成等號。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-approx",
+      "role": "instance",
+      "title": "≈",
+      "description": "**근사적으로 같음**\n\n### 의미\n\n정확히 같지는 않지만 가까운 값입니다.\n\n### 상황에서 이해하기\n\n계산기로 얻은 긴 소수를 짧게 쓸 때, 반올림한 값과 정확한 값을 구별해야 합니다.\n\n### 예제\n\n```text\n1/7 ≈ 0.143\n```\n\n### 예제 풀이\n\n1을 7로 나누면 0.142857…이 반복됩니다. 소수 셋째 자리까지 반올림하면 0.143이므로 ≈를 씁니다. 0.143 × 7 = 1.001이지 정확히 1은 아닙니다. 작은 차이라도 여러 계산에서 누적될 수 있으므로 필요한 정밀도를 생각하고, 가능하면 중간 계산에서는 정확한 분수를 유지하세요.\n\n### 주의\n\n정확한 등호로 바꾸지 마세요.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-equal"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "a/b",
+            "description": "**분수 표기**\n\n### 의미\n\n분자를 분모로 나눈 수입니다.\n\n### 상황에서 이해하기\n\n피자 한 판을 4등분하여 3조각을 먹었다면 먹은 양은 3/4판입니다. 분모는 같은 크기로 나눈 조각 수, 분자는 선택한 조각 수로 읽을 수 있습니다.\n\n### 예제\n\n```text\n3/4 = 0.75\n```\n\n### 예제 풀이\n\n3 ÷ 4를 계산하면 0.75이므로 두 표기는 같은 수입니다. a/b는 일반적으로 a를 b로 나누라는 뜻이며, 꼭 전체보다 작은 수일 필요는 없습니다. 5/4는 1보다 큽니다. 분모를 0으로 두면 나눗셈 자체가 정의되지 않습니다.\n\n### 주의\n\n분모 b는 0이 아니어야 합니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "a/b",
+            "description": "**Fraction notation**\n\n### Meaning\n\nThe numerator is divided by the denominator.\n\n### Context\n\nIf a pizza is cut into four equal pieces and you eat three, your share is 3/4 of the pizza. The denominator names the equal parts; the numerator counts them.\n\n### Example\n\n```text\n3/4 = 0.75\n```\n\n### Working through the example\n\nComputing 3 ÷ 4 gives 0.75, so the fraction and decimal represent the same number. More generally, a/b means a divided by b. A fraction need not be smaller than one: 5/4 exceeds one whole. The denominator cannot be zero because division by zero is undefined. Equal-sized parts matter when using a picture to interpret the notation.\n\n### Watch out\n\nThe denominator b must be nonzero.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "a/b",
+            "description": "**分数表記**\n\n### 意味\n\n分子を分母で割った数を表します。\n\n### 場面から考える\n\nピザを同じ大きさの4切れに分け、そのうち3切れを食べたら、食べた量は3/4枚です。分母は等分した数、分子は選んだ部分の数を表します。\n\n### 例\n\n```text\n3/4 = 0.75\n```\n\n### 例を読み解く\n\n3 ÷ 4 = 0.75なので、分数と小数は同じ数です。一般にa/bはaをbで割る意味で、必ず1より小さいわけではありません。5/4は1を超えます。分母を0にすると割り算が定義されません。図で考えるときは等しい大きさに分けることが重要です。\n\n### 注意\n\n分母 b は0以外です。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "a/b",
+            "description": "**分數記號**\n\n### 意義\n\n表示分子除以分母。\n\n### 情境理解\n\n把一個披薩平均切成4片，吃掉3片，就是吃了3/4個。分母表示等分的份數，分子表示取了幾份。\n\n### 例子\n\n```text\n3/4 = 0.75\n```\n\n### 例題解析\n\n3 ÷ 4 = 0.75，因此分數與小數表示同一個數。一般而言，a/b表示a除以b。分數不一定小於1，例如5/4就超過一個整體。分母不能是0，因為除以0沒有定義。用圖形理解時，各份必須大小相等。\n\n### 注意\n\n分母 b 不可為 0。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-fraction",
+      "role": "instance",
+      "title": "a/b",
+      "description": "**분수 표기**\n\n### 의미\n\n분자를 분모로 나눈 수입니다.\n\n### 상황에서 이해하기\n\n피자 한 판을 4등분하여 3조각을 먹었다면 먹은 양은 3/4판입니다. 분모는 같은 크기로 나눈 조각 수, 분자는 선택한 조각 수로 읽을 수 있습니다.\n\n### 예제\n\n```text\n3/4 = 0.75\n```\n\n### 예제 풀이\n\n3 ÷ 4를 계산하면 0.75이므로 두 표기는 같은 수입니다. a/b는 일반적으로 a를 b로 나누라는 뜻이며, 꼭 전체보다 작은 수일 필요는 없습니다. 5/4는 1보다 큽니다. 분모를 0으로 두면 나눗셈 자체가 정의되지 않습니다.\n\n### 주의\n\n분모 b는 0이 아니어야 합니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-divide"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "aⁿ",
+            "description": "**거듭제곱**\n\n### 의미\n\n양의 정수 n에서는 a를 n번 곱합니다.\n\n### 상황에서 이해하기\n\n한 단계마다 양이 3배가 되는 과정을 네 번 반복하면, 같은 수를 여러 번 곱해야 합니다. 이를 지수로 짧게 적습니다.\n\n### 예제\n\n```text\n3⁴ = 3 × 3 × 3 × 3 = 81\n```\n\n### 예제 풀이\n\n3⁴에서 3은 밑, 4는 지수입니다. 3을 네 번 곱해 9, 27, 81을 얻습니다. 3 × 4 = 12는 3을 네 번 더한 것이므로 전혀 다른 계산입니다. 여기서 반복 곱셈 설명은 양의 정수 지수에 대한 것이며, 다른 지수는 정의를 확장하여 다룹니다.\n\n### 주의\n\na × n과 다릅니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "aⁿ",
+            "description": "**Power**\n\n### Meaning\n\nFor a positive integer n, multiply n copies of a.\n\n### Context\n\nWhen a quantity is multiplied by three at each of four stages, a power records the repeated multiplication compactly.\n\n### Example\n\n```text\n3⁴ = 3 × 3 × 3 × 3 = 81\n```\n\n### Working through the example\n\nIn 3⁴, the base is 3 and the exponent is 4. Multiplying four copies of 3 gives intermediate products 9 and 27, then 81. This differs from 3 × 4 = 12, which adds four copies of 3. Count the factors, not just the multiplication signs: four factors use three signs. This repeated-factor explanation applies to positive integer exponents; other exponents require extended definitions.\n\n### Watch out\n\nThis is different from a × n.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "aⁿ",
+            "description": "**累乗**\n\n### 意味\n\n正の整数 n では a を n 個掛けます。\n\n### 場面から考える\n\n各段階で3倍になる操作を4回繰り返すとき、同じ数の掛け算を累乗で短く表せます。\n\n### 例\n\n```text\n3⁴ = 3 × 3 × 3 × 3 = 81\n```\n\n### 例を読み解く\n\n3⁴の3は底、4は指数です。3を4個掛けると、途中で9、27を経て81になります。3 × 4 = 12は3を4個足す計算なので別物です。掛け算記号ではなく因数の個数を数えましょう。4個の因数には3個の記号を使います。この説明は正の整数の指数に対するもので、他の指数には定義の拡張が必要です。\n\n### 注意\n\na × n とは異なります。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "aⁿ",
+            "description": "**次方**\n\n### 意義\n\n當 n 是正整數時，表示 n 個 a 相乘。\n\n### 情境理解\n\n某個量每一步變成3倍，重複4步時，可以用次方簡潔記錄重複相乘。\n\n### 例子\n\n```text\n3⁴ = 3 × 3 × 3 × 3 = 81\n```\n\n### 例題解析\n\n3⁴的底數是3，指數是4。把4個3相乘，依序得到9、27、81。這與3 × 4 = 12不同，後者是把4個3相加。要數的是因數的個數；4個因數只需要3個乘號。這種重複相乘的說明適用於正整數指數，其他指數需要延伸定義。\n\n### 注意\n\n與 a × n 不同。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-power",
+      "role": "instance",
+      "title": "aⁿ",
+      "description": "**거듭제곱**\n\n### 의미\n\n양의 정수 n에서는 a를 n번 곱합니다.\n\n### 상황에서 이해하기\n\n한 단계마다 양이 3배가 되는 과정을 네 번 반복하면, 같은 수를 여러 번 곱해야 합니다. 이를 지수로 짧게 적습니다.\n\n### 예제\n\n```text\n3⁴ = 3 × 3 × 3 × 3 = 81\n```\n\n### 예제 풀이\n\n3⁴에서 3은 밑, 4는 지수입니다. 3을 네 번 곱해 9, 27, 81을 얻습니다. 3 × 4 = 12는 3을 네 번 더한 것이므로 전혀 다른 계산입니다. 여기서 반복 곱셈 설명은 양의 정수 지수에 대한 것이며, 다른 지수는 정의를 확장하여 다룹니다.\n\n### 주의\n\na × n과 다릅니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-multiply"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "√x",
+            "description": "**제곱근 기호**\n\n### 의미\n\n실수 x ≥ 0의 음이 아닌 제곱근입니다.\n\n### 상황에서 이해하기\n\n넓이가 49인 정사각형의 한 변 길이는 얼마일까요? 길이 s는 s² = 49를 만족하며, 길이는 음수가 될 수 없습니다.\n\n### 예제\n\n```text\n√49 = 7\n```\n\n### 예제 풀이\n\n7 × 7 = 49이므로 √49 = 7입니다. −7도 제곱하면 49이지만 √ 기호는 음이 아닌 제곱근 하나를 지정합니다. 따라서 x² = 49의 해는 ±7이고 √49의 값은 7입니다. 실수 범위에서는 √x의 입력 x가 0 이상이어야 합니다.\n\n### 주의\n\n√49는 ±7이 아니라 7입니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "√x",
+            "description": "**Principal square root**\n\n### Meaning\n\nFor real x ≥ 0, this is the nonnegative square root.\n\n### Context\n\nWhat is the side length of a square with area 49? Its length s satisfies s² = 49, and a length cannot be negative.\n\n### Example\n\n```text\n√49 = 7\n```\n\n### Working through the example\n\nSince 7 × 7 = 49, the principal square root √49 equals 7. Although (−7)² also equals 49, the radical symbol selects the nonnegative root. Thus solving x² = 49 gives two solutions, ±7, while evaluating √49 gives one value, 7. For a real-valued square root, the input must satisfy x ≥ 0. The distinction is between solving an equation and evaluating a symbol.\n\n### Watch out\n\n√49 is 7, not ±7.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "√x",
+            "description": "**平方根記号**\n\n### 意味\n\n実数 x ≥ 0 の非負の平方根を表します。\n\n### 場面から考える\n\n面積49の正方形の一辺はどれだけでしょうか。長さsはs² = 49を満たし、負にはなりません。\n\n### 例\n\n```text\n√49 = 7\n```\n\n### 例を読み解く\n\n7 × 7 = 49なので√49 = 7です。(−7)²も49ですが、根号は負でない平方根を1つ選びます。したがってx² = 49の解は±7、√49の値は7です。実数の範囲では入力xは0以上でなければなりません。方程式を解くことと記号の値を求めることを区別しましょう。\n\n### 注意\n\n√49は±7ではなく7です。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "√x",
+            "description": "**平方根符號**\n\n### 意義\n\n表示實數 x ≥ 0 的非負平方根。\n\n### 情境理解\n\n面積為49的正方形，邊長是多少？邊長s滿足s² = 49，而且長度不能為負。\n\n### 例子\n\n```text\n√49 = 7\n```\n\n### 例題解析\n\n因為7 × 7 = 49，所以主平方根√49等於7。雖然(−7)²也等於49，根號只選取非負的平方根。因此解x² = 49會得到±7，但計算√49只得到7。在實數範圍中，輸入必須滿足x ≥ 0。解方程式與計算根號的值是不同的事。\n\n### 注意\n\n√49 是 7，不是 ±7。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-sqrt",
+      "role": "instance",
+      "title": "√x",
+      "description": "**제곱근 기호**\n\n### 의미\n\n실수 x ≥ 0의 음이 아닌 제곱근입니다.\n\n### 상황에서 이해하기\n\n넓이가 49인 정사각형의 한 변 길이는 얼마일까요? 길이 s는 s² = 49를 만족하며, 길이는 음수가 될 수 없습니다.\n\n### 예제\n\n```text\n√49 = 7\n```\n\n### 예제 풀이\n\n7 × 7 = 49이므로 √49 = 7입니다. −7도 제곱하면 49이지만 √ 기호는 음이 아닌 제곱근 하나를 지정합니다. 따라서 x² = 49의 해는 ±7이고 √49의 값은 7입니다. 실수 범위에서는 √x의 입력 x가 0 이상이어야 합니다.\n\n### 주의\n\n√49는 ±7이 아니라 7입니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-power"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "｜x｜",
+            "description": "**절댓값**\n\n### 의미\n\n실수 x와 0 사이의 거리입니다.\n\n### 상황에서 이해하기\n\n0에서 왼쪽으로 6만큼 떨어진 점의 위치는 −6이지만, 거리는 6입니다. 절댓값 기호는 방향을 제외한 거리를 읽게 합니다.\n\n### 예제\n\n```text\n｜−6｜ = 6\n```\n\n### 예제 풀이\n\n｜−6｜ = 6이고 ｜6｜도 6입니다. ｜0｜는 0입니다. 따라서 절댓값이 항상 양수인 것은 아니지만 음수가 되지는 않습니다. 양수에 적용하면 그대로이므로 ‘무조건 부호를 바꾸기’로 외우지 마세요. 실수 x에서 두 세로선 안의 전체 표현이 대상입니다. 예를 들어 ｜2 − 8｜은 먼저 안쪽을 −6으로 계산한 다음 거리 6을 구합니다.\n\n### 주의\n\n실수의 절댓값은 음수가 아닙니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "｜x｜",
+            "description": "**Absolute value**\n\n### Meaning\n\nThe distance of a real number x from zero.\n\n### Context\n\nA point six units left of zero has coordinate −6, but its distance from zero is 6. Absolute-value bars ask for that distance.\n\n### Example\n\n```text\n｜−6｜ = 6\n```\n\n### Working through the example\n\nBoth ｜−6｜ and ｜6｜ equal 6, whereas ｜0｜ = 0. Absolute value is therefore nonnegative, not necessarily strictly positive. It leaves positive inputs unchanged, so “always flip the sign” is an unreliable rule. Read everything inside the bars as the input. For example, ｜2 − 8｜ first evaluates the inside to −6, then gives the distance 6.\n\n### Watch out\n\nA real absolute value is never negative.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "｜x｜",
+            "description": "**絶対値**\n\n### 意味\n\n実数 x と0の距離を表します。\n\n### 場面から考える\n\n0の左側に6離れた点の座標は−6ですが、0からの距離は6です。絶対値の縦線はその距離を表します。\n\n### 例\n\n```text\n｜−6｜ = 6\n```\n\n### 例を読み解く\n\n｜−6｜も｜6｜も6で、｜0｜は0です。絶対値は負にはなりませんが、必ず正とは限りません。正の入力は変わらないため「いつも符号を反転する」と覚えるのは誤りです。縦線内全体が入力です。｜2 − 8｜なら、まず中を−6と計算し、その距離6を求めます。\n\n### 注意\n\n実数の絶対値は負になりません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "｜x｜",
+            "description": "**絕對值**\n\n### 意義\n\n表示實數 x 到 0 的距離。\n\n### 情境理解\n\n位於0左側6個單位的點，座標是−6，與0的距離卻是6。絕對值符號表示這個距離。\n\n### 例子\n\n```text\n｜−6｜ = 6\n```\n\n### 例題解析\n\n｜−6｜與｜6｜都等於6，而｜0｜ = 0。因此絕對值非負，但不一定嚴格大於0。正數輸入會保持不變，所以不能記成「一律變號」。兩條直線內的整個式子才是輸入，例如｜2 − 8｜先算出−6，再取距離得到6。\n\n### 注意\n\n實數的絕對值不會是負數。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-absolute",
+      "role": "instance",
+      "title": "｜x｜",
+      "description": "**절댓값**\n\n### 의미\n\n실수 x와 0 사이의 거리입니다.\n\n### 상황에서 이해하기\n\n0에서 왼쪽으로 6만큼 떨어진 점의 위치는 −6이지만, 거리는 6입니다. 절댓값 기호는 방향을 제외한 거리를 읽게 합니다.\n\n### 예제\n\n```text\n｜−6｜ = 6\n```\n\n### 예제 풀이\n\n｜−6｜ = 6이고 ｜6｜도 6입니다. ｜0｜는 0입니다. 따라서 절댓값이 항상 양수인 것은 아니지만 음수가 되지는 않습니다. 양수에 적용하면 그대로이므로 ‘무조건 부호를 바꾸기’로 외우지 마세요. 실수 x에서 두 세로선 안의 전체 표현이 대상입니다. 예를 들어 ｜2 − 8｜은 먼저 안쪽을 −6으로 계산한 다음 거리 6을 구합니다.\n\n### 주의\n\n실수의 절댓값은 음수가 아닙니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-subtract"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "%",
+            "description": "**퍼센트**\n\n### 의미\n\n100분의 몇인지를 나타냅니다.\n\n### 상황에서 이해하기\n\n100개 중 35개가 해당한다면 비율을 35%로 쓸 수 있습니다. %는 비교 기준을 100으로 맞추는 기호입니다.\n\n### 예제\n\n```text\n35% = 35/100 = 0.35\n```\n\n### 예제 풀이\n\n35%는 35/100, 즉 0.35입니다. 전체가 200개라면 200 × 0.35 = 70개가 됩니다. 35%가 늘 35개라는 뜻은 아닙니다. 반드시 무엇의 35%인지 기준 전체를 확인하고, 수식에 곱할 때는 35가 아닌 0.35를 사용하세요.\n\n### 주의\n\n35%를 수로 계산할 때는 0.35입니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "%",
+            "description": "**Percent**\n\n### Meaning\n\nMeans parts per hundred.\n\n### Context\n\nWhen 35 out of 100 items qualify, the proportion can be written as 35%. The symbol uses a reference total of one hundred.\n\n### Example\n\n```text\n35% = 35/100 = 0.35\n```\n\n### Working through the example\n\nThe example converts 35% into 35/100 and then 0.35. If the actual total is 200 items, the corresponding amount is 200 × 0.35 = 70 items. A percentage is not a fixed count: 35% does not always mean 35 items. Identify the whole being compared, and multiply by 0.35 rather than 35 when calculating 35% of that whole.\n\n### Watch out\n\nUse 0.35 when calculating with 35%.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "%",
+            "description": "**パーセント**\n\n### 意味\n\n100分のいくつかを表します。\n\n### 場面から考える\n\n100個中35個が当てはまるなら、その割合を35%と書けます。%は基準を100にそろえる記号です。\n\n### 例\n\n```text\n35% = 35/100 = 0.35\n```\n\n### 例を読み解く\n\n35%は35/100、つまり0.35です。実際の全体が200個なら200 × 0.35 = 70個になります。割合は固定した個数ではなく、35%がいつも35個とは限りません。何を全体としているかを確認し、その35%を計算するときは35ではなく0.35を掛けます。\n\n### 注意\n\n35%は計算では0.35です。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "%",
+            "description": "**百分比**\n\n### 意義\n\n表示每一百份中的份數。\n\n### 情境理解\n\n100個項目中有35個符合條件，可以寫成35%。%把比較基準統一為100。\n\n### 例子\n\n```text\n35% = 35/100 = 0.35\n```\n\n### 例題解析\n\n35%等於35/100，也就是0.35。若實際總數是200個，對應數量就是200 × 0.35 = 70個。百分比不是固定數量，35%並非永遠是35個。計算前要確認「整體」是什麼，求整體的35%時應乘以0.35，而不是35。\n\n### 注意\n\n35% 換成數值為 0.35。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-percent",
+      "role": "instance",
+      "title": "%",
+      "description": "**퍼센트**\n\n### 의미\n\n100분의 몇인지를 나타냅니다.\n\n### 상황에서 이해하기\n\n100개 중 35개가 해당한다면 비율을 35%로 쓸 수 있습니다. %는 비교 기준을 100으로 맞추는 기호입니다.\n\n### 예제\n\n```text\n35% = 35/100 = 0.35\n```\n\n### 예제 풀이\n\n35%는 35/100, 즉 0.35입니다. 전체가 200개라면 200 × 0.35 = 70개가 됩니다. 35%가 늘 35개라는 뜻은 아닙니다. 반드시 무엇의 35%인지 기준 전체를 확인하고, 수식에 곱할 때는 35가 아닌 0.35를 사용하세요.\n\n### 주의\n\n35%를 수로 계산할 때는 0.35입니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-fraction"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "x",
+            "description": "**변수·미지수**\n\n### 의미\n\n문자는 수를 나타내며 문맥에 따라 역할이 달라집니다.\n\n### 상황에서 이해하기\n\n어떤 수에 4를 더하면 10이 될까요? 아직 모르는 수에 x라는 이름을 붙이면 질문을 식으로 나타낼 수 있습니다.\n\n### 예제\n\n```text\nx + 4 = 10 → x = 6\n```\n\n### 예제 풀이\n\n양쪽에서 4를 빼면 x = 6입니다. 다시 넣어 보면 6 + 4 = 10이므로 확인됩니다. 이 방정식에서는 x가 찾아야 할 미지수입니다. 반면 y = 2x 같은 관계에서는 x를 여러 값으로 바꿔 볼 수 있습니다. 어느 경우든 한 식에서 같은 x는 같은 값을 뜻합니다.\n\n### 주의\n\n같은 식 안의 같은 문자는 같은 값을 뜻합니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "x",
+            "description": "**Variable or unknown**\n\n### Meaning\n\nA letter represents a number with a context-dependent role.\n\n### Context\n\nWhat number becomes ten when four is added? Naming the unknown number x turns the question into an equation.\n\n### Example\n\n```text\nx + 4 = 10 → x = 6\n```\n\n### Working through the example\n\nSubtract 4 from both sides to obtain x = 6. Substitution checks the result: 6 + 4 = 10. Here x is an unknown to be found. In a relationship such as y = 2x, x may instead vary over allowed input values. Its role depends on context, but repeated occurrences of the same letter within an expression refer to the same value. You cannot choose a different value for each occurrence.\n\n### Watch out\n\nThe same letter has the same value within a given expression.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "x",
+            "description": "**変数・未知数**\n\n### 意味\n\n文字は数を表し、役割は文脈で変わります。\n\n### 場面から考える\n\nある数に4を足すと10になります。その未知の数をxと名付けると、問いを方程式にできます。\n\n### 例\n\n```text\nx + 4 = 10 → x = 6\n```\n\n### 例を読み解く\n\n両辺から4を引くとx = 6です。代入して6 + 4 = 10となるので確認できます。ここでxは求める未知数です。一方、y = 2xのような関係では、許される範囲でxを変えて考えられます。役割は文脈によりますが、1つの式の中の同じ文字は同じ値を指し、出現箇所ごとに別の値にはできません。\n\n### 注意\n\n同じ式の同じ文字は同じ値を表します。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "x",
+            "description": "**變數或未知數**\n\n### 意義\n\n字母代表數，其角色取決於情境。\n\n### 情境理解\n\n哪個數加4會得到10？把未知的數命名為x，就能把問題寫成方程式。\n\n### 例子\n\n```text\nx + 4 = 10 → x = 6\n```\n\n### 例題解析\n\n兩邊都減4，得到x = 6；代回去有6 + 4 = 10，可確認答案。在這個方程式裡，x是待求的未知數；在y = 2x這種關係中，x則可在允許的範圍內改變。角色依情境而定，但同一式子中的同一字母必須代表相同的值，不能每出現一次就換一個值。\n\n### 注意\n\n同一式子中的同一字母代表相同的值。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-variable",
+      "role": "instance",
+      "title": "x",
+      "description": "**변수·미지수**\n\n### 의미\n\n문자는 수를 나타내며 문맥에 따라 역할이 달라집니다.\n\n### 상황에서 이해하기\n\n어떤 수에 4를 더하면 10이 될까요? 아직 모르는 수에 x라는 이름을 붙이면 질문을 식으로 나타낼 수 있습니다.\n\n### 예제\n\n```text\nx + 4 = 10 → x = 6\n```\n\n### 예제 풀이\n\n양쪽에서 4를 빼면 x = 6입니다. 다시 넣어 보면 6 + 4 = 10이므로 확인됩니다. 이 방정식에서는 x가 찾아야 할 미지수입니다. 반면 y = 2x 같은 관계에서는 x를 여러 값으로 바꿔 볼 수 있습니다. 어느 경우든 한 식에서 같은 x는 같은 값을 뜻합니다.\n\n### 주의\n\n같은 식 안의 같은 문자는 같은 값을 뜻합니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": []
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "aₙ",
+            "description": "**첨자**\n\n### 의미\n\n수열 등에서 항의 위치나 구분을 나타냅니다.\n\n### 상황에서 이해하기\n\n날마다 기록한 값을 구별하려면 값에 순서표를 붙일 수 있습니다. aₙ의 아래쪽 n은 n번째 항을 가리키는 첨자입니다.\n\n### 예제\n\n```text\na₁ = 4, a₂ = 8\n```\n\n### 예제 풀이\n\na₁ = 4는 첫째 항이 4, a₂ = 8은 둘째 항이 8이라는 뜻입니다. 첨자 2는 a를 제곱하라는 뜻이 아니므로 a₂와 a²를 구별하세요. 이 두 항만으로 셋째 항이 12라고 확정할 수는 없습니다. 다음 값을 정하려면 수열의 규칙도 필요합니다.\n\n### 주의\n\n첨자 n은 거듭제곱 지수가 아닙니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "aₙ",
+            "description": "**Subscript**\n\n### Meaning\n\nLabels a term or position, for example in a sequence.\n\n### Context\n\nTo distinguish values recorded in sequence, attach an index to a shared name. The subscript n in aₙ labels the nth term.\n\n### Example\n\n```text\na₁ = 4, a₂ = 8\n```\n\n### Working through the example\n\nThe example says that the first term is 4 and the second term is 8. The subscript 2 does not instruct you to square a, so a₂ and a² have different meanings. Nor do these two terms prove that the next term is 12: many different sequences begin with 4 and 8. You need an additional rule to determine later terms. An index identifies an item; it need not describe a calculation.\n\n### Watch out\n\nThe subscript n is not an exponent.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "aₙ",
+            "description": "**添字**\n\n### 意味\n\n数列の項の位置などを示します。\n\n### 場面から考える\n\n順に記録した値を区別するには、共通の名前に番号を添えます。aₙの下付きのnは第n項を示します。\n\n### 例\n\n```text\na₁ = 4, a₂ = 8\n```\n\n### 例を読み解く\n\na₁ = 4は第1項が4、a₂ = 8は第2項が8という意味です。下付きの2はaを2乗する指示ではないので、a₂とa²を区別しましょう。この2項だけでは次が12とは確定できません。4と8で始まる数列は多数あり、後の項を決めるには規則が必要です。添字は項の識別に使います。\n\n### 注意\n\n添字 n は累乗の指数ではありません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "aₙ",
+            "description": "**下標**\n\n### 意義\n\n用來標示數列項的位置等資訊。\n\n### 情境理解\n\n要區分依序記錄的值，可以在共同名稱旁加上索引。aₙ下方的n表示第n項。\n\n### 例子\n\n```text\na₁ = 4, a₂ = 8\n```\n\n### 例題解析\n\na₁ = 4表示第1項是4，a₂ = 8表示第2項是8。下標2並不是把a平方，因此a₂與a²不同。光憑這兩項，也不能確定下一項是12：許多不同數列都能以4和8開頭。要決定後面的值，還需要數列規則。下標用來識別項目，不一定表示計算。\n\n### 注意\n\n下標 n 不是次方的指數。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-index",
+      "role": "instance",
+      "title": "aₙ",
+      "description": "**첨자**\n\n### 의미\n\n수열 등에서 항의 위치나 구분을 나타냅니다.\n\n### 상황에서 이해하기\n\n날마다 기록한 값을 구별하려면 값에 순서표를 붙일 수 있습니다. aₙ의 아래쪽 n은 n번째 항을 가리키는 첨자입니다.\n\n### 예제\n\n```text\na₁ = 4, a₂ = 8\n```\n\n### 예제 풀이\n\na₁ = 4는 첫째 항이 4, a₂ = 8은 둘째 항이 8이라는 뜻입니다. 첨자 2는 a를 제곱하라는 뜻이 아니므로 a₂와 a²를 구별하세요. 이 두 항만으로 셋째 항이 12라고 확정할 수는 없습니다. 다음 값을 정하려면 수열의 규칙도 필요합니다.\n\n### 주의\n\n첨자 n은 거듭제곱 지수가 아닙니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-variable"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "∈",
+            "description": "**원소이다**\n\n### 의미\n\n왼쪽 대상이 오른쪽 집합의 원소입니다.\n\n### 상황에서 이해하기\n\n허용된 수가 {2, 4, 6}일 때 4를 골라도 되는지 확인하려면 원소 관계를 읽습니다.\n\n### 예제\n\n```text\n4 ∈ {2, 4, 6}\n```\n\n### 예제 풀이\n\n중괄호 안에 4가 있으므로 4 ∈ {2, 4, 6}은 참입니다. 왼쪽은 여기서 수 하나, 오른쪽은 집합입니다. {4}는 수 4 자체가 아니라 원소가 하나인 집합이므로 {4} ⊆ {2, 4, 6}처럼 부분집합으로 비교합니다. ∈와 ⊆가 질문하는 대상이 다릅니다.\n\n### 주의\n\n집합끼리의 포함 관계 ⊆와 다릅니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "∈",
+            "description": "**Is an element of**\n\n### Meaning\n\nThe left object belongs to the set on the right.\n\n### Context\n\nIf the allowed values are {2, 4, 6}, is choosing 4 permitted? Membership notation answers whether an object belongs to a set.\n\n### Example\n\n```text\n4 ∈ {2, 4, 6}\n```\n\n### Working through the example\n\nBecause 4 appears among the listed elements, 4 ∈ {2, 4, 6} is true. Here the left side is a number and the right side is a set. By contrast, {4} is a set containing one number. To compare that set with the larger set, write {4} ⊆ {2, 4, 6}. Membership ∈ and inclusion ⊆ ask different questions; the braces change the object being discussed.\n\n### Watch out\n\nThis differs from subset inclusion ⊆.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "∈",
+            "description": "**属する**\n\n### 意味\n\n左の対象が右の集合の要素であることを示します。\n\n### 場面から考える\n\n許される値が{2, 4, 6}なら、4を選んでもよいでしょうか。所属の記号は、対象が集合の要素かを示します。\n\n### 例\n\n```text\n4 ∈ {2, 4, 6}\n```\n\n### 例を読み解く\n\n列挙された要素に4があるので、4 ∈ {2, 4, 6}は正しい文です。ここでは左が数、右が集合です。一方、{4}は数4そのものではなく、1つの要素を持つ集合です。その包含関係は{4} ⊆ {2, 4, 6}と書きます。波括弧の有無で対象が変わり、∈と⊆の役割も異なります。\n\n### 注意\n\n集合の包含関係 ⊆ とは異なります。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "∈",
+            "description": "**屬於**\n\n### 意義\n\n左邊的對象是右邊集合的元素。\n\n### 情境理解\n\n允許的值是{2, 4, 6}時，可以選4嗎？隸屬符號用來回答某個對象是否為集合的元素。\n\n### 例子\n\n```text\n4 ∈ {2, 4, 6}\n```\n\n### 例題解析\n\n列出的元素中有4，因此4 ∈ {2, 4, 6}成立。這裡左邊是數，右邊是集合。相較之下，{4}是只含一個數的集合，不是數4本身。比較集合的包含關係應寫成{4} ⊆ {2, 4, 6}。大括號改變了討論的對象，∈與⊆也回答不同問題。\n\n### 注意\n\n與子集合關係 ⊆ 不同。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-member",
+      "role": "instance",
+      "title": "∈",
+      "description": "**원소이다**\n\n### 의미\n\n왼쪽 대상이 오른쪽 집합의 원소입니다.\n\n### 상황에서 이해하기\n\n허용된 수가 {2, 4, 6}일 때 4를 골라도 되는지 확인하려면 원소 관계를 읽습니다.\n\n### 예제\n\n```text\n4 ∈ {2, 4, 6}\n```\n\n### 예제 풀이\n\n중괄호 안에 4가 있으므로 4 ∈ {2, 4, 6}은 참입니다. 왼쪽은 여기서 수 하나, 오른쪽은 집합입니다. {4}는 수 4 자체가 아니라 원소가 하나인 집합이므로 {4} ⊆ {2, 4, 6}처럼 부분집합으로 비교합니다. ∈와 ⊆가 질문하는 대상이 다릅니다.\n\n### 주의\n\n집합끼리의 포함 관계 ⊆와 다릅니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": []
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "⊆",
+            "description": "**부분집합**\n\n### 의미\n\n왼쪽 집합의 모든 원소가 오른쪽에도 있습니다.\n\n### 상황에서 이해하기\n\n작은 명단의 모든 항목이 큰 명단에도 있는지 확인하는 관계가 부분집합입니다.\n\n### 예제\n\n```text\n{2, 4} ⊆ {2, 4, 6}\n```\n\n### 예제 풀이\n\n왼쪽의 2와 4가 모두 오른쪽에 있으므로 식이 참입니다. 오른쪽에 6이 더 있어도 괜찮습니다. 한편 {2, 4} ⊆ {2, 4}도 참이므로 ⊆가 반드시 더 작은 집합을 뜻하지는 않습니다. 왼쪽에서 하나라도 오른쪽에 없는 원소를 찾으면 부분집합이 아님을 알 수 있습니다.\n\n### 주의\n\n두 집합이 같아도 성립합니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "⊆",
+            "description": "**Is a subset of**\n\n### Meaning\n\nEvery element of the left set is also in the right set.\n\n### Context\n\nSubset notation checks whether every entry in one set is also present in another.\n\n### Example\n\n```text\n{2, 4} ⊆ {2, 4, 6}\n```\n\n### Working through the example\n\nBoth 2 and 4 from the left-hand set occur in the right-hand set, so the statement is true. The extra element 6 on the right causes no problem. Equality is allowed too: {2, 4} ⊆ {2, 4} is true. Thus ⊆ does not necessarily mean a strictly smaller set. To disprove a proposed subset relationship, find just one element on the left that is absent from the right.\n\n### Watch out\n\nThe sets may be equal.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "⊆",
+            "description": "**部分集合**\n\n### 意味\n\n左の集合の全要素が右の集合にも属します。\n\n### 場面から考える\n\nある集合のすべての要素が別の集合にも入っているかを調べるのが部分集合の関係です。\n\n### 例\n\n```text\n{2, 4} ⊆ {2, 4, 6}\n```\n\n### 例を読み解く\n\n左の2と4は両方とも右にあるので式は正しいです。右に6が余分にあっても構いません。{2, 4} ⊆ {2, 4}も成り立ち、等しい集合も許されます。したがって⊆は必ず小さい集合という意味ではありません。左にあって右にない要素を1つ見つければ、部分集合ではないと示せます。\n\n### 注意\n\n同じ集合でも成り立ちます。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "⊆",
+            "description": "**子集合**\n\n### 意義\n\n左邊集合的每個元素都在右邊集合中。\n\n### 情境理解\n\n子集符號檢查一個集合的每個元素，是否也都出現在另一個集合中。\n\n### 例子\n\n```text\n{2, 4} ⊆ {2, 4, 6}\n```\n\n### 例題解析\n\n左邊的2和4都在右邊，所以式子成立。右邊多了6沒有關係。相等也可以：{2, 4} ⊆ {2, 4}同樣成立。因此⊆不一定表示嚴格較小的集合。若要否定某個子集關係，只要找出一個在左邊、卻不在右邊的元素即可。\n\n### 注意\n\n兩個集合可以相等。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-subset",
+      "role": "instance",
+      "title": "⊆",
+      "description": "**부분집합**\n\n### 의미\n\n왼쪽 집합의 모든 원소가 오른쪽에도 있습니다.\n\n### 상황에서 이해하기\n\n작은 명단의 모든 항목이 큰 명단에도 있는지 확인하는 관계가 부분집합입니다.\n\n### 예제\n\n```text\n{2, 4} ⊆ {2, 4, 6}\n```\n\n### 예제 풀이\n\n왼쪽의 2와 4가 모두 오른쪽에 있으므로 식이 참입니다. 오른쪽에 6이 더 있어도 괜찮습니다. 한편 {2, 4} ⊆ {2, 4}도 참이므로 ⊆가 반드시 더 작은 집합을 뜻하지는 않습니다. 왼쪽에서 하나라도 오른쪽에 없는 원소를 찾으면 부분집합이 아님을 알 수 있습니다.\n\n### 주의\n\n두 집합이 같아도 성립합니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-member"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "∪",
+            "description": "**합집합**\n\n### 의미\n\n어느 한쪽에라도 속하는 원소를 모읍니다.\n\n### 상황에서 이해하기\n\n두 명단 중 어느 한쪽에라도 있는 항목을 모으려면 합집합을 구합니다. 여기서 ‘어느 한쪽’은 양쪽 모두에 있는 경우도 포함합니다.\n\n### 예제\n\n```text\n{2, 4} ∪ {4, 6} = {2, 4, 6}\n```\n\n### 예제 풀이\n\n첫 집합에서 2와 4를 모으고 둘째 집합의 6을 추가합니다. 4는 이미 있으므로 다시 쓰지 않아 결과는 {2, 4, 6}입니다. 집합은 출현 횟수가 아니라 어떤 원소가 있는지를 기록합니다. 그래서 두 집합의 원소 수를 단순히 더하면 중복을 두 번 셀 수 있습니다.\n\n### 주의\n\n중복된 원소는 한 번만 적습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "∪",
+            "description": "**Union**\n\n### Meaning\n\nContains elements belonging to either set.\n\n### Context\n\nTo collect everything appearing on either of two lists, take their union. Here “either” includes elements appearing on both lists.\n\n### Example\n\n```text\n{2, 4} ∪ {4, 6} = {2, 4, 6}\n```\n\n### Working through the example\n\nStart with 2 and 4 from the first set, then add 6 from the second. The element 4 is already present, so it is written only once. The result is {2, 4, 6}. Sets track which elements occur, not how many times they were listed. Adding the two set sizes directly would count the shared 4 twice, giving 4 instead of the union’s actual size, 3.\n\n### Watch out\n\nWrite repeated elements only once.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "∪",
+            "description": "**和集合**\n\n### 意味\n\nどちらかの集合に属する要素を集めます。\n\n### 場面から考える\n\n2つの一覧の少なくとも一方にある項目を集めるには和集合を取ります。両方にあるものも含めます。\n\n### 例\n\n```text\n{2, 4} ∪ {4, 6} = {2, 4, 6}\n```\n\n### 例を読み解く\n\n最初の集合の2と4を集め、次の集合から6を追加します。4はすでにあるので1回だけ書き、結果は{2, 4, 6}です。集合が記録するのは出現回数ではなく、どの要素があるかです。両集合の要素数をそのまま足すと共通の4を二重に数え、正しい3ではなく4になってしまいます。\n\n### 注意\n\n重複する要素は一度だけ書きます。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "∪",
+            "description": "**聯集**\n\n### 意義\n\n包含屬於任一集合的元素。\n\n### 情境理解\n\n要收集兩份名單中至少出現於其中一份的項目，就取聯集；同時出現在兩份中的項目也包含在內。\n\n### 例子\n\n```text\n{2, 4} ∪ {4, 6} = {2, 4, 6}\n```\n\n### 例題解析\n\n先收集第一個集合的2和4，再從第二個集合加入6。4已經存在，只寫一次，所以結果是{2, 4, 6}。集合記錄有哪些元素，而不是出現次數。直接把兩個集合的元素數相加，會把共同的4重複計算，得到4而非正確的3。\n\n### 注意\n\n重複元素只列一次。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-union",
+      "role": "instance",
+      "title": "∪",
+      "description": "**합집합**\n\n### 의미\n\n어느 한쪽에라도 속하는 원소를 모읍니다.\n\n### 상황에서 이해하기\n\n두 명단 중 어느 한쪽에라도 있는 항목을 모으려면 합집합을 구합니다. 여기서 ‘어느 한쪽’은 양쪽 모두에 있는 경우도 포함합니다.\n\n### 예제\n\n```text\n{2, 4} ∪ {4, 6} = {2, 4, 6}\n```\n\n### 예제 풀이\n\n첫 집합에서 2와 4를 모으고 둘째 집합의 6을 추가합니다. 4는 이미 있으므로 다시 쓰지 않아 결과는 {2, 4, 6}입니다. 집합은 출현 횟수가 아니라 어떤 원소가 있는지를 기록합니다. 그래서 두 집합의 원소 수를 단순히 더하면 중복을 두 번 셀 수 있습니다.\n\n### 주의\n\n중복된 원소는 한 번만 적습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-member"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "∩",
+            "description": "**교집합**\n\n### 의미\n\n양쪽 집합에 모두 속하는 원소를 모읍니다.\n\n### 상황에서 이해하기\n\n두 조건을 동시에 만족하는 대상을 찾을 때 교집합을 생각할 수 있습니다. 한쪽에만 있는 원소는 제외합니다.\n\n### 예제\n\n```text\n{2, 4} ∩ {4, 6} = {4}\n```\n\n### 예제 풀이\n\n2는 첫 집합에만 있고 6은 둘째 집합에만 있습니다. 4만 양쪽에 있으므로 결과는 {4}입니다. 결과는 숫자 4가 아니라 4를 원소로 가진 집합입니다. 공통 원소가 없다면 결과는 ∅이고, 이는 0이 들어 있는 집합 {0}과 다릅니다.\n\n### 주의\n\n공통 원소가 없으면 공집합입니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "∩",
+            "description": "**Intersection**\n\n### Meaning\n\nContains elements belonging to both sets.\n\n### Context\n\nIntersection helps when an object must satisfy two conditions at once. An element belonging to only one set is excluded.\n\n### Example\n\n```text\n{2, 4} ∩ {4, 6} = {4}\n```\n\n### Working through the example\n\nThe number 2 occurs only in the first set, and 6 only in the second. Only 4 occurs in both, so the result is {4}. The result is a set containing 4, not the number 4 by itself. If no element is shared, the intersection is the empty set ∅. This differs from {0}, which is not empty: it contains the number zero.\n\n### Watch out\n\nWith no common elements, it is empty.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "∩",
+            "description": "**共通部分**\n\n### 意味\n\n両方の集合に属する要素を集めます。\n\n### 場面から考える\n\n2つの条件を同時に満たす対象を探すとき、共通部分を考えます。片方にしかない要素は除きます。\n\n### 例\n\n```text\n{2, 4} ∩ {4, 6} = {4}\n```\n\n### 例を読み解く\n\n2は最初の集合だけ、6は次の集合だけにあります。4だけが両方にあるので結果は{4}です。結果は数4そのものではなく、4を含む集合です。共通の要素がなければ空集合∅になります。これは{0}とは異なります。{0}は数0を1つ含むため空ではありません。\n\n### 注意\n\n共通要素がなければ空集合です。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "∩",
+            "description": "**交集**\n\n### 意義\n\n包含同時屬於兩個集合的元素。\n\n### 情境理解\n\n對象必須同時滿足兩個條件時，可以取交集。只屬於其中一個集合的元素會被排除。\n\n### 例子\n\n```text\n{2, 4} ∩ {4, 6} = {4}\n```\n\n### 例題解析\n\n2只在第一個集合，6只在第二個集合，只有4同時出現，所以結果是{4}。結果是包含4的集合，不是數4本身。沒有共同元素時，交集是空集合∅。它與{0}不同，因為{0}還含有一個元素：數字0。\n\n### 注意\n\n沒有共同元素時為空集合。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-intersection",
+      "role": "instance",
+      "title": "∩",
+      "description": "**교집합**\n\n### 의미\n\n양쪽 집합에 모두 속하는 원소를 모읍니다.\n\n### 상황에서 이해하기\n\n두 조건을 동시에 만족하는 대상을 찾을 때 교집합을 생각할 수 있습니다. 한쪽에만 있는 원소는 제외합니다.\n\n### 예제\n\n```text\n{2, 4} ∩ {4, 6} = {4}\n```\n\n### 예제 풀이\n\n2는 첫 집합에만 있고 6은 둘째 집합에만 있습니다. 4만 양쪽에 있으므로 결과는 {4}입니다. 결과는 숫자 4가 아니라 4를 원소로 가진 집합입니다. 공통 원소가 없다면 결과는 ∅이고, 이는 0이 들어 있는 집합 {0}과 다릅니다.\n\n### 주의\n\n공통 원소가 없으면 공집합입니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-member"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "｜A｜",
+            "description": "**집합의 크기**\n\n### 의미\n\n유한 집합 A의 원소 개수입니다.\n\n### 상황에서 이해하기\n\n집합 안의 수를 더하는 것이 아니라 서로 다른 원소가 몇 개인지 알고 싶을 때 ｜A｜를 씁니다.\n\n### 예제\n\n```text\nA = {2, 4, 6} → ｜A｜ = 3\n```\n\n### 예제 풀이\n\nA에는 2, 4, 6이라는 세 원소가 있으므로 ｜A｜ = 3입니다. 합계 12를 구하는 연산이 아닙니다. 같은 원소를 반복해서 적어도 집합의 크기는 늘지 않습니다. 세로선은 실수 주위에서는 절댓값, 여기처럼 집합 주위에서는 원소 개수를 뜻하므로 안의 대상부터 확인하세요.\n\n### 주의\n\n실수의 절댓값과 모양은 같지만 용법이 다릅니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "｜A｜",
+            "description": "**Cardinality**\n\n### Meaning\n\nFor a finite set A, this is its number of elements.\n\n### Context\n\nUse ｜A｜ when you want to count the distinct elements of a finite set rather than add their values.\n\n### Example\n\n```text\nA = {2, 4, 6} → ｜A｜ = 3\n```\n\n### Working through the example\n\nThe set A contains three elements: 2, 4 and 6. Therefore ｜A｜ = 3, not their sum, 12. Listing an element again would not increase the set’s size. Vertical bars also denote absolute value when placed around a real number, so inspect the enclosed object. Around the set A they give cardinality; around the number −3 they give its distance from zero. Context determines the operation.\n\n### Watch out\n\nThe bars resemble absolute value but have a different use.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "｜A｜",
+            "description": "**集合の要素数**\n\n### 意味\n\n有限集合 A に含まれる要素の個数です。\n\n### 場面から考える\n\n有限集合の中の数を足すのでなく、異なる要素が何個あるかを知りたいときに｜A｜を使います。\n\n### 例\n\n```text\nA = {2, 4, 6} → ｜A｜ = 3\n```\n\n### 例を読み解く\n\nAには2、4、6の3要素があるので｜A｜ = 3です。合計12を求める演算ではありません。同じ要素を重ねて書いても集合の大きさは増えません。縦線は実数を囲むと絶対値、集合を囲むと要素数を表すため、中の対象を確認しましょう。−3を囲めば0からの距離を求めます。\n\n### 注意\n\n絶対値と同じ形でも用途は異なります。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "｜A｜",
+            "description": "**集合的元素個數**\n\n### 意義\n\n表示有限集合 A 的元素數量。\n\n### 情境理解\n\n想知道有限集合中有幾個不同元素，而不是把元素值相加時，使用｜A｜。\n\n### 例子\n\n```text\nA = {2, 4, 6} → ｜A｜ = 3\n```\n\n### 例題解析\n\nA包含2、4、6三個元素，因此｜A｜ = 3，不是它們的總和12。重複列出同一元素不會增加集合大小。直線圍住實數時也可表示絕對值，因此要先看裡面的對象。圍住集合A表示元素個數；圍住−3則表示它到0的距離。用途取決於情境。\n\n### 注意\n\n外形與絕對值相似，但用途不同。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-cardinality",
+      "role": "instance",
+      "title": "｜A｜",
+      "description": "**집합의 크기**\n\n### 의미\n\n유한 집합 A의 원소 개수입니다.\n\n### 상황에서 이해하기\n\n집합 안의 수를 더하는 것이 아니라 서로 다른 원소가 몇 개인지 알고 싶을 때 ｜A｜를 씁니다.\n\n### 예제\n\n```text\nA = {2, 4, 6} → ｜A｜ = 3\n```\n\n### 예제 풀이\n\nA에는 2, 4, 6이라는 세 원소가 있으므로 ｜A｜ = 3입니다. 합계 12를 구하는 연산이 아닙니다. 같은 원소를 반복해서 적어도 집합의 크기는 늘지 않습니다. 세로선은 실수 주위에서는 절댓값, 여기처럼 집합 주위에서는 원소 개수를 뜻하므로 안의 대상부터 확인하세요.\n\n### 주의\n\n실수의 절댓값과 모양은 같지만 용법이 다릅니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-member"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "∀",
+            "description": "**모든**\n\n### 의미\n\n지정된 범위의 모든 대상에 대한 명제입니다.\n\n### 상황에서 이해하기\n\n몇 개만 확인한 사실과 모든 대상에 대해 성립하는 사실은 다릅니다. ∀는 정한 범위의 예외가 하나도 없다는 주장을 표시합니다.\n\n### 예제\n\n```text\n∀x ∈ {1, 2}, x < 3\n```\n\n### 예제 풀이\n\n범위는 {1, 2}입니다. 1 < 3이고 2 < 3이므로 모든 원소가 조건을 만족합니다. 범위를 {1, 2, 3}으로 바꾸면 3 < 3이 거짓이므로 전체 주장은 거짓입니다. 반례 하나면 ‘모든’이라는 주장을 깨뜨릴 수 있지만, 큰 범위에서 예 몇 개만 확인했다고 증명이 되지는 않습니다.\n\n### 주의\n\n대상의 범위를 함께 확인하세요.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "∀",
+            "description": "**For all**\n\n### Meaning\n\nMakes a statement about every object in a specified domain.\n\n### Context\n\nChecking a few cases differs from claiming that every allowed case works. The symbol ∀ makes a statement about all objects in a specified domain.\n\n### Example\n\n```text\n∀x ∈ {1, 2}, x < 3\n```\n\n### Working through the example\n\nHere the domain is {1, 2}. Both 1 < 3 and 2 < 3 are true, so the universal statement holds. If the domain changes to {1, 2, 3}, the case 3 < 3 is false and defeats the claim. One counterexample is enough to disprove a universal statement. Conversely, checking a few examples does not establish a claim about a larger domain.\n\n### Watch out\n\nAlways check the domain.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "∀",
+            "description": "**すべての**\n\n### 意味\n\n指定された範囲のすべての対象について述べます。\n\n### 場面から考える\n\nいくつかの例で成り立つことと、すべての場合で成り立つことは異なります。∀は指定した範囲のすべての対象について述べる記号です。\n\n### 例\n\n```text\n∀x ∈ {1, 2}, x < 3\n```\n\n### 例を読み解く\n\n範囲は{1, 2}です。1 < 3も2 < 3も正しいので主張は成り立ちます。範囲を{1, 2, 3}にすると3 < 3が誤りなので、全体の主張は偽になります。反例は1つあれば十分です。一方、広い範囲についての主張を、少数の例だけで証明することはできません。\n\n### 注意\n\n対象の範囲を確認します。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "∀",
+            "description": "**對所有**\n\n### 意義\n\n表示敘述適用於指定範圍內的每個對象。\n\n### 情境理解\n\n驗證幾個例子，與主張所有允許的情況都成立，是不同的事。∀表示對指定範圍內的每個對象做出主張。\n\n### 例子\n\n```text\n∀x ∈ {1, 2}, x < 3\n```\n\n### 例題解析\n\n這裡範圍是{1, 2}。1 < 3和2 < 3都成立，因此全稱敘述成立。若範圍改成{1, 2, 3}，3 < 3不成立，整個主張就為假。一個反例足以推翻「所有」的主張；反過來，只檢查少數例子不能證明更大範圍的主張。\n\n### 注意\n\n須確認對象的範圍。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-forall",
+      "role": "instance",
+      "title": "∀",
+      "description": "**모든**\n\n### 의미\n\n지정된 범위의 모든 대상에 대한 명제입니다.\n\n### 상황에서 이해하기\n\n몇 개만 확인한 사실과 모든 대상에 대해 성립하는 사실은 다릅니다. ∀는 정한 범위의 예외가 하나도 없다는 주장을 표시합니다.\n\n### 예제\n\n```text\n∀x ∈ {1, 2}, x < 3\n```\n\n### 예제 풀이\n\n범위는 {1, 2}입니다. 1 < 3이고 2 < 3이므로 모든 원소가 조건을 만족합니다. 범위를 {1, 2, 3}으로 바꾸면 3 < 3이 거짓이므로 전체 주장은 거짓입니다. 반례 하나면 ‘모든’이라는 주장을 깨뜨릴 수 있지만, 큰 범위에서 예 몇 개만 확인했다고 증명이 되지는 않습니다.\n\n### 주의\n\n대상의 범위를 함께 확인하세요.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-variable"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-member"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "∃",
+            "description": "**존재한다**\n\n### 의미\n\n조건을 만족하는 대상이 적어도 하나 있습니다.\n\n### 상황에서 이해하기\n\n조건을 만족하는 예를 하나라도 찾을 수 있는지를 표현하려면 ∃를 씁니다. 모든 대상이 조건을 만족할 필요는 없습니다.\n\n### 예제\n\n```text\n∃x ∈ {1, 2}, x = 2\n```\n\n### 예제 풀이\n\n{1, 2}에서 2를 고르면 x = 2가 참이므로 주장이 성립합니다. 이때 2는 주장을 뒷받침하는 구체적인 예입니다. ∃ 자체는 ‘정확히 하나’라는 뜻이 아닙니다. ∃x ∈ {1, 2}, x < 3도 참이며 이 경우에는 두 원소 모두 조건을 만족합니다. 존재를 보이려면 유효한 예 하나로 충분하지만, 존재를 부정하려면 허용된 모든 대상이 실패해야 합니다.\n\n### 주의\n\n유일하다는 뜻은 아닙니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "∃",
+            "description": "**There exists**\n\n### Meaning\n\nAt least one object satisfies the condition.\n\n### Context\n\nThe symbol ∃ asks whether at least one allowed object satisfies a condition. Not every object needs to work.\n\n### Example\n\n```text\n∃x ∈ {1, 2}, x = 2\n```\n\n### Working through the example\n\nChoose 2 from {1, 2}; it satisfies x = 2, so the statement is true. This specific successful choice is a witness. The symbol itself does not assert that the successful choice is unique. For example, ∃x ∈ {1, 2}, x < 3 is also true, even though both elements satisfy the condition. To establish existence, one valid witness suffices; to deny it, every allowed choice must fail.\n\n### Watch out\n\nIt does not mean exactly one.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "∃",
+            "description": "**存在する**\n\n### 意味\n\n条件を満たす対象が少なくとも一つあります。\n\n### 場面から考える\n\n条件を満たす対象が少なくとも1つあることを表すには∃を使います。すべての対象が満たす必要はありません。\n\n### 例\n\n```text\n∃x ∈ {1, 2}, x = 2\n```\n\n### 例を読み解く\n\n{1, 2}から2を選ぶとx = 2を満たすので主張は真です。この2が具体的な裏付けになります。∃自体は唯一であることを意味しません。∃x ∈ {1, 2}, x < 3も真で、この場合は両方が条件を満たします。存在を示すには有効な例1つで十分ですが、否定するには許された選択がすべて失敗しなければなりません。\n\n### 注意\n\n唯一であるという意味ではありません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "∃",
+            "description": "**存在**\n\n### 意義\n\n至少有一個對象滿足條件。\n\n### 情境理解\n\n∃表示允許的對象中，至少有一個滿足條件，不要求每個都符合。\n\n### 例子\n\n```text\n∃x ∈ {1, 2}, x = 2\n```\n\n### 例題解析\n\n從{1, 2}選出2，就滿足x = 2，因此敘述為真。這個成功的選擇就是具體見證。∃本身不表示唯一，例如∃x ∈ {1, 2}, x < 3也成立，而且兩個元素都符合。要證明存在，一個有效例子就夠；要否定存在，則必須讓所有允許的選擇都不符合條件。\n\n### 注意\n\n不代表恰好只有一個。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-exists",
+      "role": "instance",
+      "title": "∃",
+      "description": "**존재한다**\n\n### 의미\n\n조건을 만족하는 대상이 적어도 하나 있습니다.\n\n### 상황에서 이해하기\n\n조건을 만족하는 예를 하나라도 찾을 수 있는지를 표현하려면 ∃를 씁니다. 모든 대상이 조건을 만족할 필요는 없습니다.\n\n### 예제\n\n```text\n∃x ∈ {1, 2}, x = 2\n```\n\n### 예제 풀이\n\n{1, 2}에서 2를 고르면 x = 2가 참이므로 주장이 성립합니다. 이때 2는 주장을 뒷받침하는 구체적인 예입니다. ∃ 자체는 ‘정확히 하나’라는 뜻이 아닙니다. ∃x ∈ {1, 2}, x < 3도 참이며 이 경우에는 두 원소 모두 조건을 만족합니다. 존재를 보이려면 유효한 예 하나로 충분하지만, 존재를 부정하려면 허용된 모든 대상이 실패해야 합니다.\n\n### 주의\n\n유일하다는 뜻은 아닙니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-variable"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-member"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "⇒",
+            "description": "**이면**\n\n### 의미\n\n왼쪽 조건이 참이면 오른쪽도 참입니다.\n\n### 상황에서 이해하기\n\n어떤 조건에서 어떤 결론을 확실히 얻을 수 있는지 표시할 때 ⇒를 씁니다. 화살표의 방향이 추론 방향입니다.\n\n### 예제\n\n```text\nx = 3 ⇒ x² = 9\n```\n\n### 예제 풀이\n\nx = 3이면 x² = 3 × 3 = 9입니다. 하지만 x² = 9라는 정보만으로 x = 3이라고 결론 내릴 수는 없습니다. x = −3도 제곱하면 9이기 때문입니다. 따라서 이 예에서 왼쪽은 오른쪽의 충분조건이지만, 역방향 주장은 별도의 확인이 필요합니다. 함의를 반박하려면 왼쪽이 참인데 오른쪽은 거짓인 사례를 찾아야 합니다.\n\n### 주의\n\n역방향은 자동으로 성립하지 않습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "⇒",
+            "description": "**Implies**\n\n### Meaning\n\nIf the left statement is true, the right one is true.\n\n### Context\n\nUse ⇒ to show that a condition guarantees a conclusion. The arrow marks the direction of the inference.\n\n### Example\n\n```text\nx = 3 ⇒ x² = 9\n```\n\n### Working through the example\n\nIf x = 3, then x² = 3 × 3 = 9. But knowing only x² = 9 does not guarantee x = 3: x = −3 also works. The left condition is sufficient for the right conclusion, while the reverse needs its own justification. Do not read a one-way arrow as an equivalence. To disprove an implication, you would need a case where its left condition is true and its right conclusion false.\n\n### Watch out\n\nThe converse need not hold.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "⇒",
+            "description": "**ならば**\n\n### 意味\n\n左の命題が真なら右も真です。\n\n### 場面から考える\n\nある条件から結論が必ず得られることを示すには⇒を使います。矢印の向きが推論の方向です。\n\n### 例\n\n```text\nx = 3 ⇒ x² = 9\n```\n\n### 例を読み解く\n\nx = 3ならx² = 3 × 3 = 9です。しかしx² = 9だけからx = 3とは言えません。x = −3でも成り立つからです。左の条件は右の結論の十分条件ですが、逆向きには別の根拠が必要です。一方向の矢印を同値と読まないようにしましょう。含意を否定するには、左が真なのに右が偽になる例が必要です。\n\n### 注意\n\n逆は必ずしも成り立ちません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "⇒",
+            "description": "**若則**\n\n### 意義\n\n左邊敘述成立時，右邊也成立。\n\n### 情境理解\n\n某個條件能保證結論時，可以使用⇒，箭頭標示推論方向。\n\n### 例子\n\n```text\nx = 3 ⇒ x² = 9\n```\n\n### 例題解析\n\n若x = 3，則x² = 3 × 3 = 9。但只知道x² = 9，不能保證x = 3，因為x = −3也成立。左邊是右邊的充分條件，反向推論需要另外證明。不要把單向箭頭當成等價。若要推翻一個蘊涵敘述，需要找出左邊條件為真、右邊結論卻為假的例子。\n\n### 注意\n\n反方向不一定成立。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-implies",
+      "role": "instance",
+      "title": "⇒",
+      "description": "**이면**\n\n### 의미\n\n왼쪽 조건이 참이면 오른쪽도 참입니다.\n\n### 상황에서 이해하기\n\n어떤 조건에서 어떤 결론을 확실히 얻을 수 있는지 표시할 때 ⇒를 씁니다. 화살표의 방향이 추론 방향입니다.\n\n### 예제\n\n```text\nx = 3 ⇒ x² = 9\n```\n\n### 예제 풀이\n\nx = 3이면 x² = 3 × 3 = 9입니다. 하지만 x² = 9라는 정보만으로 x = 3이라고 결론 내릴 수는 없습니다. x = −3도 제곱하면 9이기 때문입니다. 따라서 이 예에서 왼쪽은 오른쪽의 충분조건이지만, 역방향 주장은 별도의 확인이 필요합니다. 함의를 반박하려면 왼쪽이 참인데 오른쪽은 거짓인 사례를 찾아야 합니다.\n\n### 주의\n\n역방향은 자동으로 성립하지 않습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": []
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "f(x)",
+            "description": "**함숫값**\n\n### 의미\n\n함수 f에 입력 x를 넣었을 때의 출력입니다.\n\n### 상황에서 이해하기\n\n입력한 수를 세 배로 바꾸는 규칙에 f라는 이름을 붙여 봅시다. f(x)는 그 규칙에 x를 넣은 결과입니다.\n\n### 예제\n\n```text\nf(x) = 3x → f(4) = 12\n```\n\n### 예제 풀이\n\nf(x) = 3x이므로 입력 4를 x 자리에 넣으면 f(4) = 3 × 4 = 12입니다. f는 규칙의 이름이고 f(4)는 특정 출력값입니다. f(x)를 f와 x의 곱으로 읽지 마세요. 입력을 5로 바꾸면 같은 규칙에 따라 f(5) = 15가 됩니다. 함숫값을 구하기 전에 규칙과 허용된 입력 범위를 확인하세요.\n\n### 주의\n\nf와 x의 곱이라는 뜻이 아닙니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "f(x)",
+            "description": "**Function value**\n\n### Meaning\n\nThe output of function f at input x.\n\n### Context\n\nGive the rule “multiply the input by three” the name f. The notation f(x) denotes the output of that rule at input x.\n\n### Example\n\n```text\nf(x) = 3x → f(4) = 12\n```\n\n### Working through the example\n\nBecause f(x) = 3x, substituting 4 for x gives f(4) = 3 × 4 = 12. The symbol f names the function, while f(4) is a particular output value. The parentheses do not mean f multiplied by 4. Changing the input to 5 gives f(5) = 15 under the same rule. Always find the rule and the permitted inputs before trying to evaluate a function.\n\n### Watch out\n\nIt is not the product of f and x.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "f(x)",
+            "description": "**関数の値**\n\n### 意味\n\n関数 f に x を入力したときの出力です。\n\n### 場面から考える\n\n入力を3倍にする規則をfと名付けます。f(x)はその規則にxを入れた結果です。\n\n### 例\n\n```text\nf(x) = 3x → f(4) = 12\n```\n\n### 例を読み解く\n\nf(x) = 3xなので、xに4を代入するとf(4) = 3 × 4 = 12です。fは関数の名前、f(4)は特定の出力値です。括弧はfと4の掛け算を意味しません。入力を5に変えると同じ規則でf(5) = 15になります。値を求める前に、規則と許される入力を確認しましょう。\n\n### 注意\n\nf と x の積ではありません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "f(x)",
+            "description": "**函數值**\n\n### 意義\n\n表示函數 f 在輸入 x 時的輸出。\n\n### 情境理解\n\n把「輸入乘以3」的規則命名為f，f(x)就表示輸入x時得到的輸出。\n\n### 例子\n\n```text\nf(x) = 3x → f(4) = 12\n```\n\n### 例題解析\n\n因為f(x) = 3x，把4代入x得到f(4) = 3 × 4 = 12。f是函數名稱，f(4)是特定的輸出值。括號不表示f乘以4。把輸入改成5，同一規則會給出f(5) = 15。計算函數值之前，要先確認規則以及允許的輸入範圍。\n\n### 注意\n\n不是 f 與 x 相乘。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-function",
+      "role": "instance",
+      "title": "f(x)",
+      "description": "**함숫값**\n\n### 의미\n\n함수 f에 입력 x를 넣었을 때의 출력입니다.\n\n### 상황에서 이해하기\n\n입력한 수를 세 배로 바꾸는 규칙에 f라는 이름을 붙여 봅시다. f(x)는 그 규칙에 x를 넣은 결과입니다.\n\n### 예제\n\n```text\nf(x) = 3x → f(4) = 12\n```\n\n### 예제 풀이\n\nf(x) = 3x이므로 입력 4를 x 자리에 넣으면 f(4) = 3 × 4 = 12입니다. f는 규칙의 이름이고 f(4)는 특정 출력값입니다. f(x)를 f와 x의 곱으로 읽지 마세요. 입력을 5로 바꾸면 같은 규칙에 따라 f(5) = 15가 됩니다. 함숫값을 구하기 전에 규칙과 허용된 입력 범위를 확인하세요.\n\n### 주의\n\nf와 x의 곱이라는 뜻이 아닙니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-variable"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "∑",
+            "description": "**합 기호**\n\n### 의미\n\n지정된 범위의 항들을 더합니다.\n\n### 상황에서 이해하기\n\n여러 항을 규칙에 따라 더할 때 긴 덧셈을 ∑로 압축할 수 있습니다. 인덱스의 범위와 더할 식을 함께 읽어야 합니다.\n\n### 예제\n\n```text\n∑(k = 1…4) k = 1 + 2 + 3 + 4 = 10\n```\n\n### 예제 풀이\n\nk를 1, 2, 3, 4로 차례로 바꾸어 식 k에 넣고 모두 더하므로 합은 10입니다. 이 표기에서는 시작값과 끝값을 모두 포함합니다. 만약 더할 식이 2k라면 항은 2, 4, 6, 8이 되어 합이 20입니다. 범위가 같아도 더할 식에 따라 결과가 달라집니다. 인덱스는 대입할 값을 정하는 표지이지 합의 밖에서 추가로 더할 수가 아닙니다.\n\n### 주의\n\n시작값과 끝값, 더할 식을 함께 읽습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "∑",
+            "description": "**Summation**\n\n### Meaning\n\nAdds the terms over a specified range.\n\n### Context\n\nA summation symbol compresses a list of additions following a rule. Read both the index range and the expression being added.\n\n### Example\n\n```text\n∑(k = 1…4) k = 1 + 2 + 3 + 4 = 10\n```\n\n### Working through the example\n\nHere k takes the values 1, 2, 3 and 4. Substituting each into the expression k gives the four terms, whose sum is 10. Both endpoints are included in this notation. If the expression were 2k instead, the terms would be 2, 4, 6 and 8, totaling 20. The index tells you which substitutions to make; it is not an extra number to add outside the sum.\n\n### Watch out\n\nRead the starting index, ending index and summand together.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "∑",
+            "description": "**総和**\n\n### 意味\n\n指定された範囲の項を足します。\n\n### 場面から考える\n\n規則に従って多くの項を足すとき、∑で長い足し算を短く表せます。添字の範囲と足す式を一緒に読みます。\n\n### 例\n\n```text\n∑(k = 1…4) k = 1 + 2 + 3 + 4 = 10\n```\n\n### 例を読み解く\n\nkを1、2、3、4と変えて式kに代入し、4つの項を足すので合計は10です。この表記では両端を含みます。足す式が2kなら項は2、4、6、8となり、合計は20です。添字はどの値を代入するかを示すもので、和の外でさらに足す数ではありません。\n\n### 注意\n\n始点・終点・足す式を一緒に読みます。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "∑",
+            "description": "**求和符號**\n\n### 意義\n\n將指定範圍內的各項相加。\n\n### 情境理解\n\n依規則把許多項相加時，可以用∑壓縮長算式。必須一起閱讀索引範圍與要相加的式子。\n\n### 例子\n\n```text\n∑(k = 1…4) k = 1 + 2 + 3 + 4 = 10\n```\n\n### 例題解析\n\n這裡k依序取1、2、3、4，代入式子k後得到四項，相加為10。此記法包含兩個端點。若被加的式子改成2k，各項就變成2、4、6、8，總和為20。索引告訴我們要代入哪些值，並不是在總和外另外加上的數。\n\n### 注意\n\n須一起閱讀起點、終點及相加的式子。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-sum",
+      "role": "instance",
+      "title": "∑",
+      "description": "**합 기호**\n\n### 의미\n\n지정된 범위의 항들을 더합니다.\n\n### 상황에서 이해하기\n\n여러 항을 규칙에 따라 더할 때 긴 덧셈을 ∑로 압축할 수 있습니다. 인덱스의 범위와 더할 식을 함께 읽어야 합니다.\n\n### 예제\n\n```text\n∑(k = 1…4) k = 1 + 2 + 3 + 4 = 10\n```\n\n### 예제 풀이\n\nk를 1, 2, 3, 4로 차례로 바꾸어 식 k에 넣고 모두 더하므로 합은 10입니다. 이 표기에서는 시작값과 끝값을 모두 포함합니다. 만약 더할 식이 2k라면 항은 2, 4, 6, 8이 되어 합이 20입니다. 범위가 같아도 더할 식에 따라 결과가 달라집니다. 인덱스는 대입할 값을 정하는 표지이지 합의 밖에서 추가로 더할 수가 아닙니다.\n\n### 주의\n\n시작값과 끝값, 더할 식을 함께 읽습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-add"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-index"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "∏",
+            "description": "**곱 기호**\n\n### 의미\n\n지정된 범위의 항들을 곱합니다.\n\n### 상황에서 이해하기\n\n규칙적으로 나열된 항들을 모두 곱할 때 ∏를 씁니다. 더하는 ∑와 닮았지만 연산은 다릅니다.\n\n### 예제\n\n```text\n∏(k = 1…4) k = 1 × 2 × 3 × 4 = 24\n```\n\n### 예제 풀이\n\nk에 1부터 4까지 넣어 얻은 1, 2, 3, 4를 곱합니다. 1 × 2 = 2, 여기에 3을 곱하면 6, 다시 4를 곱하면 24입니다. 같은 항들을 더한 값 10과 구별하세요. 곱할 항 중 하나가 0이면 전체 곱은 0이 되는 점도 합과 다릅니다. 시작값, 끝값, 곱할 식을 함께 읽으세요.\n\n### 주의\n\n합 기호 ∑와 구별하세요.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "∏",
+            "description": "**Product notation**\n\n### Meaning\n\nMultiplies the terms over a specified range.\n\n### Context\n\nUse ∏ when a sequence of terms must all be multiplied. It is a product sign, distinct from the summation sign ∑.\n\n### Example\n\n```text\n∏(k = 1…4) k = 1 × 2 × 3 × 4 = 24\n```\n\n### Working through the example\n\nSubstitute k = 1, 2, 3 and 4 into the expression k. Multiply the resulting terms: 1 × 2 = 2, then 2 × 3 = 6, then 6 × 4 = 24. Adding the same terms would give 10, which is a different operation. Also notice that one zero factor makes the entire product zero. As with a sum, read the starting index, ending index and term expression together.\n\n### Watch out\n\nDistinguish it from summation ∑.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "∏",
+            "description": "**総乗**\n\n### 意味\n\n指定された範囲の項を掛けます。\n\n### 場面から考える\n\n規則的に並ぶ項をすべて掛けるには∏を使います。足し算の∑とは異なる積の記号です。\n\n### 例\n\n```text\n∏(k = 1…4) k = 1 × 2 × 3 × 4 = 24\n```\n\n### 例を読み解く\n\nkに1、2、3、4を代入し、その項を掛けます。1 × 2 = 2、次に2 × 3 = 6、最後に6 × 4 = 24です。同じ項を足した10とは異なります。また、因数が1つでも0なら積全体が0になります。和の場合と同様、開始値、終了値、項の式を一緒に読みましょう。\n\n### 注意\n\n総和 ∑ と区別します。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "∏",
+            "description": "**連乘符號**\n\n### 意義\n\n將指定範圍內的各項相乘。\n\n### 情境理解\n\n要把依規則排列的項全部相乘時，使用∏。它是乘積符號，與表示相加的∑不同。\n\n### 例子\n\n```text\n∏(k = 1…4) k = 1 × 2 × 3 × 4 = 24\n```\n\n### 例題解析\n\n把k = 1、2、3、4代入式子k，再依序相乘：1 × 2 = 2、2 × 3 = 6、6 × 4 = 24。相同的項若相加則得到10，那是另一種運算。另外，只要其中一個因數是0，整個乘積就是0。閱讀時要一起確認起點、終點與每項的式子。\n\n### 注意\n\n注意與求和 ∑ 區分。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-product",
+      "role": "instance",
+      "title": "∏",
+      "description": "**곱 기호**\n\n### 의미\n\n지정된 범위의 항들을 곱합니다.\n\n### 상황에서 이해하기\n\n규칙적으로 나열된 항들을 모두 곱할 때 ∏를 씁니다. 더하는 ∑와 닮았지만 연산은 다릅니다.\n\n### 예제\n\n```text\n∏(k = 1…4) k = 1 × 2 × 3 × 4 = 24\n```\n\n### 예제 풀이\n\nk에 1부터 4까지 넣어 얻은 1, 2, 3, 4를 곱합니다. 1 × 2 = 2, 여기에 3을 곱하면 6, 다시 4를 곱하면 24입니다. 같은 항들을 더한 값 10과 구별하세요. 곱할 항 중 하나가 0이면 전체 곱은 0이 되는 점도 합과 다릅니다. 시작값, 끝값, 곱할 식을 함께 읽으세요.\n\n### 주의\n\n합 기호 ∑와 구별하세요.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-multiply"
+        },
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-index"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "lim",
+            "description": "**극한**\n\n### 의미\n\n입력이 특정 값에 가까워질 때 출력이 가까워지는 값입니다.\n\n### 상황에서 이해하기\n\n입력이 한 점에 가까워질 때 출력이 어디로 가까워지는지 묻는 표기가 lim입니다. 입력이 그 점과 정확히 같을 때만 보는 것은 아닙니다.\n\n### 예제\n\n```text\nlim(x → 2) (x + 3) = 5\n```\n\n### 예제 풀이\n\nx가 1.9, 1.99이면 x + 3은 4.9, 4.99입니다. 반대쪽에서 x가 2.1, 2.01이면 출력은 5.1, 5.01입니다. 양쪽 모두 5로 가까워져 극한이 5입니다. 이 예에서는 그 점의 값도 5지만, 다른 함수에서는 그 점이 비어 있거나 다른 값으로 정의되어 있을 수 있습니다.\n\n### 주의\n\n그 점의 함숫값과 반드시 같지는 않습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "lim",
+            "description": "**Limit**\n\n### Meaning\n\nDescribes the value approached as the input approaches a specified point.\n\n### Context\n\nA limit asks what output is approached as the input gets close to a point. It does not ask only what happens exactly at that point.\n\n### Example\n\n```text\nlim(x → 2) (x + 3) = 5\n```\n\n### Working through the example\n\nFor x = 1.9 and 1.99, x + 3 is 4.9 and 4.99. From the other side, x = 2.1 and 2.01 gives 5.1 and 5.01. Both sides approach 5. Here the function’s value at 2 is also 5, but that agreement is not built into the definition of a limit. A different function could have a missing or separately assigned value at the point.\n\n### Watch out\n\nIt need not equal the function value at that point.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "lim",
+            "description": "**極限**\n\n### 意味\n\n入力がある値に近づくとき出力が近づく値です。\n\n### 場面から考える\n\n極限は、入力がある点に近づくとき出力がどこに近づくかを問います。その点での値だけを調べるものではありません。\n\n### 例\n\n```text\nlim(x → 2) (x + 3) = 5\n```\n\n### 例を読み解く\n\nxが1.9、1.99ならx + 3は4.9、4.99です。反対側の2.1、2.01なら5.1、5.01です。両側から5に近づきます。この例ではx = 2での値も5ですが、極限の定義がその一致を保証しているわけではありません。別の関数では、その点の値が未定義だったり別に指定されていたりします。\n\n### 注意\n\nその点の関数値と一致するとは限りません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "lim",
+            "description": "**極限**\n\n### 意義\n\n表示輸入趨近某值時，輸出所趨近的值。\n\n### 情境理解\n\n極限問的是輸入接近某一點時，輸出接近哪個值，而不只是該點本身的函數值。\n\n### 例子\n\n```text\nlim(x → 2) (x + 3) = 5\n```\n\n### 例題解析\n\nx為1.9、1.99時，x + 3為4.9、4.99；從另一側取2.1、2.01，得到5.1、5.01。兩側都接近5。這個例子中，x = 2的函數值恰好也是5，但極限的定義不保證兩者總是相同。其他函數在該點可能未定義，或另行指定不同的值。\n\n### 注意\n\n不一定等於該點的函數值。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-limit",
+      "role": "instance",
+      "title": "lim",
+      "description": "**극한**\n\n### 의미\n\n입력이 특정 값에 가까워질 때 출력이 가까워지는 값입니다.\n\n### 상황에서 이해하기\n\n입력이 한 점에 가까워질 때 출력이 어디로 가까워지는지 묻는 표기가 lim입니다. 입력이 그 점과 정확히 같을 때만 보는 것은 아닙니다.\n\n### 예제\n\n```text\nlim(x → 2) (x + 3) = 5\n```\n\n### 예제 풀이\n\nx가 1.9, 1.99이면 x + 3은 4.9, 4.99입니다. 반대쪽에서 x가 2.1, 2.01이면 출력은 5.1, 5.01입니다. 양쪽 모두 5로 가까워져 극한이 5입니다. 이 예에서는 그 점의 값도 5지만, 다른 함수에서는 그 점이 비어 있거나 다른 값으로 정의되어 있을 수 있습니다.\n\n### 주의\n\n그 점의 함숫값과 반드시 같지는 않습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-function"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "d/dx",
+            "description": "**미분 연산자**\n\n### 의미\n\nx에 대해 순간 변화율을 구하는 연산입니다.\n\n### 상황에서 이해하기\n\n입력이 아주 조금 변할 때 출력이 얼마나 빠르게 변하는지 알고 싶다면 미분을 생각합니다. d/dx는 x에 대해 그 순간 변화율을 구하라는 연산자입니다.\n\n### 예제\n\n```text\nd/dx (x²) = 2x\n```\n\n### 예제 풀이\n\nx²를 미분한 결과는 2x라는 함수입니다. x = 3에서는 변화율이 6이므로 작은 변화 h에 대해 출력 변화는 대략 6h입니다. 실제 차이는 (3 + h)² − 9 = 6h + h²이고 h가 작아질수록 h²의 영향이 작아집니다. 이 카드는 표기 입문이며 미분 공식 전체를 다루지 않습니다.\n\n### 주의\n\n입문 표기 안내이며 미분 공식 전체를 다루지는 않습니다.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "d/dx",
+            "description": "**Differentiation operator**\n\n### Meaning\n\nTakes the instantaneous rate of change with respect to x.\n\n### Context\n\nA derivative describes how quickly an output changes for a very small input change. The operator d/dx requests that instantaneous rate with respect to x.\n\n### Example\n\n```text\nd/dx (x²) = 2x\n```\n\n### Working through the example\n\nDifferentiating x² produces the function 2x. At x = 3, its value is 6, so a small input change h produces an output change approximately 6h. The exact difference is (3 + h)² − 9 = 6h + h²; the additional h² becomes smaller relative to h as h approaches zero. This is an introduction to the notation, not a complete collection or derivation of differentiation rules.\n\n### Watch out\n\nThis introduces notation, not a full differentiation course.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "d/dx",
+            "description": "**微分演算子**\n\n### 意味\n\nx に関する瞬間の変化率を求めます。\n\n### 場面から考える\n\n入力をわずかに変えたとき出力がどれだけ速く変わるかを調べるのが微分です。d/dxはxについて瞬間の変化率を求める演算子です。\n\n### 例\n\n```text\nd/dx (x²) = 2x\n```\n\n### 例を読み解く\n\nx²を微分すると関数2xになります。x = 3では変化率が6なので、小さな入力変化hに対し出力変化は約6hです。正確な差は(3 + h)² − 9 = 6h + h²で、hが0に近づくと余分なh²はhに比べて小さくなります。このカードは記号の入門であり、微分公式全体を扱うものではありません。\n\n### 注意\n\n記号の導入であり微分全体の講座ではありません。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "d/dx",
+            "description": "**微分算子**\n\n### 意義\n\n求對 x 的瞬時變化率。\n\n### 情境理解\n\n導數描述輸入微小改變時，輸出變化有多快。d/dx表示對x求瞬時變化率的運算。\n\n### 例子\n\n```text\nd/dx (x²) = 2x\n```\n\n### 例題解析\n\nx²微分後得到函數2x。在x = 3時，變化率是6，所以輸入微小改變h，輸出約改變6h。精確差值為(3 + h)² − 9 = 6h + h²；當h趨近0，額外的h²相對於h會越來越小。本卡是記號入門，不是所有微分公式的彙整或推導。\n\n### 注意\n\n此卡介紹記號，不涵蓋完整微分課程。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-derivative",
+      "role": "instance",
+      "title": "d/dx",
+      "description": "**미분 연산자**\n\n### 의미\n\nx에 대해 순간 변화율을 구하는 연산입니다.\n\n### 상황에서 이해하기\n\n입력이 아주 조금 변할 때 출력이 얼마나 빠르게 변하는지 알고 싶다면 미분을 생각합니다. d/dx는 x에 대해 그 순간 변화율을 구하라는 연산자입니다.\n\n### 예제\n\n```text\nd/dx (x²) = 2x\n```\n\n### 예제 풀이\n\nx²를 미분한 결과는 2x라는 함수입니다. x = 3에서는 변화율이 6이므로 작은 변화 h에 대해 출력 변화는 대략 6h입니다. 실제 차이는 (3 + h)² − 9 = 6h + h²이고 h가 작아질수록 h²의 영향이 작아집니다. 이 카드는 표기 입문이며 미분 공식 전체를 다루지 않습니다.\n\n### 주의\n\n입문 표기 안내이며 미분 공식 전체를 다루지는 않습니다.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-limit"
+        }
+      ]
+    },
+    {
+      "localization": {
+        "translations": {
+          "ko": {
+            "title": "∫",
+            "description": "**부정적분**\n\n### 의미\n\n미분하면 주어진 함수가 되는 함수들을 나타냅니다.\n\n### 상황에서 이해하기\n\n어떤 함수를 미분했더니 2x가 되었다면 원래 함수는 무엇일까요? 부정적분은 이런 원시함수들을 나타냅니다.\n\n### 예제\n\n```text\n∫ 2x dx = x² + C\n```\n\n### 예제 풀이\n\nx²를 미분하면 2x입니다. x² + 5나 x² − 7도 상수의 미분이 0이므로 같은 결과를 줍니다. 그래서 하나의 답 대신 x² + C라는 함수들의 모음을 씁니다. C는 임의의 상수이고 dx는 적분 변수가 x임을 표시합니다. C의 값을 정하려면 특정 점에서의 함숫값 같은 추가 조건이 필요합니다. 구한 원시함수를 미분하면 답을 확인할 수 있습니다.\n\n### 주의\n\n적분상수 C를 빠뜨리지 마세요.",
+            "descriptionFormat": "markdown"
+          },
+          "en-US": {
+            "title": "∫",
+            "description": "**Indefinite integral**\n\n### Meaning\n\nRepresents a family of antiderivatives.\n\n### Context\n\nIf differentiating a function gives 2x, what could the original function have been? An indefinite integral describes its antiderivatives.\n\n### Example\n\n```text\n∫ 2x dx = x² + C\n```\n\n### Working through the example\n\nDifferentiating x² gives 2x. So do x² + 5 and x² − 7, because constants differentiate to zero. We therefore write the family x² + C rather than a single function. Here C is an arbitrary constant, and dx identifies x as the variable of integration. An extra condition, such as the function’s value at a particular input, is needed to determine C. Check an antiderivative by differentiating it.\n\n### Watch out\n\nDo not omit the constant C.",
+            "descriptionFormat": "markdown"
+          },
+          "ja": {
+            "title": "∫",
+            "description": "**不定積分**\n\n### 意味\n\n微分すると与えられた関数になる関数の族を表します。\n\n### 場面から考える\n\nある関数を微分すると2xになりました。元の関数は何でしょうか。不定積分はその原始関数を表します。\n\n### 例\n\n```text\n∫ 2x dx = x² + C\n```\n\n### 例を読み解く\n\nx²を微分すると2xです。x² + 5やx² − 7も、定数の微分が0なので同じ結果になります。そのため1つの関数ではなくx² + Cという関数の族を書きます。Cは任意定数、dxは積分変数がxであることを示します。Cを決めるには、特定の入力での関数値など追加条件が必要です。微分し直すと答えを確認できます。\n\n### 注意\n\n積分定数 C を忘れないでください。",
+            "descriptionFormat": "markdown"
+          },
+          "zh-TW": {
+            "title": "∫",
+            "description": "**不定積分**\n\n### 意義\n\n表示微分後等於給定函數的一族函數。\n\n### 情境理解\n\n某個函數微分後是2x，原來的函數可能是什麼？不定積分表示這些反導函數。\n\n### 例子\n\n```text\n∫ 2x dx = x² + C\n```\n\n### 例題解析\n\nx²微分得到2x；x² + 5與x² − 7也一樣，因為常數的導數是0。因此要寫出一族函數x² + C，而不是單一函數。C是任意常數，dx表示積分變數是x。若要確定C，需要某個輸入對應的函數值等額外條件。把結果微分回去，就能檢查反導函數是否正確。\n\n### 注意\n\n不可省略積分常數 C。",
+            "descriptionFormat": "markdown"
+          }
+        }
+      },
+      "cardId": "math-symbols-integral",
+      "role": "instance",
+      "title": "∫",
+      "description": "**부정적분**\n\n### 의미\n\n미분하면 주어진 함수가 되는 함수들을 나타냅니다.\n\n### 상황에서 이해하기\n\n어떤 함수를 미분했더니 2x가 되었다면 원래 함수는 무엇일까요? 부정적분은 이런 원시함수들을 나타냅니다.\n\n### 예제\n\n```text\n∫ 2x dx = x² + C\n```\n\n### 예제 풀이\n\nx²를 미분하면 2x입니다. x² + 5나 x² − 7도 상수의 미분이 0이므로 같은 결과를 줍니다. 그래서 하나의 답 대신 x² + C라는 함수들의 모음을 씁니다. C는 임의의 상수이고 dx는 적분 변수가 x임을 표시합니다. C의 값을 정하려면 특정 점에서의 함숫값 같은 추가 조건이 필요합니다. 구한 원시함수를 미분하면 답을 확인할 수 있습니다.\n\n### 주의\n\n적분상수 C를 빠뜨리지 마세요.",
+      "descriptionFormat": "markdown",
+      "images": [],
+      "relations": [
+        {
+          "type": "prerequisite",
+          "targetCardId": "math-symbols-derivative"
+        }
+      ]
+    }
+  ]
+}
