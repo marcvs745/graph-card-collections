@@ -1,220 +1,222 @@
-# Graph Card 기본 컬렉션
+# Graph Card Built-in Collections
 
-그래프 카드에서 사용할 수 있는 공개 기본 컬렉션입니다.
+This repository hosts all 208 public built-in collections for Graph Card, including their image files. Supported languages and sources vary by collection.
 
-| 컬렉션 | 카드 | 원본 파일 |
+To import a collection, open **My Collections → Import → Link** in Graph Card and paste the GitHub URL for its `collection.json` file.
+
+When updating a collection, keep its collection ID and existing card IDs stable, and update `contentVersion`.
+
+For language data sources and coverage, see the [Graph Card source documentation](https://github.com/marcvs745/memory-card/tree/f261623/content/languages). Collection descriptions and cards include source credits.
+
+## Catalogue
+
+| Collection | Cards | Source file |
 | --- | ---: | --- |
-| 영어 초등 · 교육과정 800 | 800 | [collection.json](collections/en-school-elementary/collection.json) |
-| 영어 중등·고등 공통 · 교육과정 1200 | 1200 | [collection.json](collections/en-school-secondary/collection.json) |
-| 영어 고등 확장 · 교육과정 1000 | 1000 | [collection.json](collections/en-school-high/collection.json) |
-| 영어 회화 기반 · NGSL 일반 어휘 | 2809 | [collection.json](collections/en-general-core/collection.json) |
-| 영어 TOEIC · TSL 확장 어휘 | 1250 | [collection.json](collections/en-toeic-tsl/collection.json) |
-| 영어 TOEFL·IELTS 기반 · 학술 어휘 | 957 | [collection.json](collections/en-academic-nawl/collection.json) |
-| 영어 · 구동사 | 457 | [collection.json](collections/en-phrasal-verbs/collection.json) |
-| 영어 · 문학 표현과 서술 기법 | 40 | [collection.json](collections/en-literary-expressions/collection.json) |
-| 일본어 독해 어휘 · 1 · 신문 빈도 1–10 | 4909 | [collection.json](collections/ja-priority-1/collection.json) |
-| 일본어 독해 어휘 · 2 · 신문 빈도 11–25 | 6961 | [collection.json](collections/ja-priority-2/collection.json) |
-| 일본어 독해 어휘 · 3 · 신문 빈도 26–48 | 3280 | [collection.json](collections/ja-priority-3/collection.json) |
-| 일본어 독해 어휘 · 일반 사용 · 신문 순위 없음 | 7499 | [collection.json](collections/ja-common-unranked/collection.json) |
-| 일본어 · 입문 회화 · 일상 과제 | 24 | [collection.json](collections/ja-conversation-beginner/collection.json) |
-| 일본어 · 중급 회화 · 설명과 협의 | 24 | [collection.json](collections/ja-conversation-intermediate/collection.json) |
-| 일본어 · 입문 문형 · 동사와 조사 | 22 | [collection.json](collections/ja-particles-beginner/collection.json) |
-| 일본어 · 중급 문형 · 동사와 조사 | 16 | [collection.json](collections/ja-particles-intermediate/collection.json) |
-| 일본어 · 심화 독해 · 문학적 서술 | 12 | [collection.json](collections/ja-reading-advanced/collection.json) |
-| 일본어 · 중급 시험 독해 · 정보와 조건 | 8 | [collection.json](collections/ja-exam-intermediate/collection.json) |
-| 일본어 · 심화 시험 독해 · 주장과 추론 | 8 | [collection.json](collections/ja-exam-advanced/collection.json) |
-| 중국어 · HSK 2.0 1급 추가 어휘 · 영어 뜻 | 150 | [collection.json](collections/zh-hsk2-level-1/collection.json) |
-| 중국어 · HSK 2.0 2급 추가 어휘 · 영어 뜻 | 147 | [collection.json](collections/zh-hsk2-level-2/collection.json) |
-| 중국어 · HSK 2.0 3급 추가 어휘 · 영어 뜻 | 298 | [collection.json](collections/zh-hsk2-level-3/collection.json) |
-| 중국어 · HSK 2.0 4급 추가 어휘 · 영어 뜻 | 598 | [collection.json](collections/zh-hsk2-level-4/collection.json) |
-| 중국어 · HSK 2.0 5급 추가 어휘 · 영어 뜻 | 1298 | [collection.json](collections/zh-hsk2-level-5/collection.json) |
-| 중국어 · HSK 2.0 6급 추가 어휘 · 영어 뜻 | 2500 | [collection.json](collections/zh-hsk2-level-6/collection.json) |
-| 중국어 · 구어 표현 · 영어 뜻 | 105 | [collection.json](collections/zh-conversation-colloquial/collection.json) |
-| 중국어 · 문어·성어 읽기 어휘 · 영어 뜻 | 315 | [collection.json](collections/zh-literary-reading/collection.json) |
-| 중국어 · 개사·겸류어 어휘 · 영어 뜻 | 80 | [collection.json](collections/zh-prepositions-coverbs/collection.json) |
-| 한국어 · 의사소통 주제 어휘 | 1718 | [collection.json](collections/ko-krdict-conversation/collection.json) |
-| 한국어 · 문학 분야 어휘 | 189 | [collection.json](collections/ko-krdict-literature/collection.json) |
-| 한국어 · 조사·어미·보조 용언 | 715 | [collection.json](collections/ko-krdict-grammar/collection.json) |
-| 한국어 학습용 어휘 · 초급 (A) | 923 | [collection.json](collections/ko-nikl2003-a/collection.json) |
-| 한국어 학습용 어휘 · 중급 (B) | 1975 | [collection.json](collections/ko-nikl2003-b/collection.json) |
-| 한국어 학습용 어휘 · 고급 (C) | 2726 | [collection.json](collections/ko-nikl2003-c/collection.json) |
-| 한자 · 기본 부수 214 | 214 | [collection.json](collections/hanja-radicals/collection.json) |
-| 한자 · 초급 500 | 500 | [collection.json](collections/hanja-beginner/collection.json) |
-| 한자 · 중급 700 | 700 | [collection.json](collections/hanja-intermediate/collection.json) |
-| 한자 · 고급 600 | 600 | [collection.json](collections/hanja-advanced/collection.json) |
-| 수학 · 기호 | 32 | [collection.json](collections/math-symbols/collection.json) |
-| 수학 · 수와 연산 | 25 | [collection.json](collections/math-numbers/collection.json) |
-| 수학 · 대수와 방정식 | 35 | [collection.json](collections/math-algebra/collection.json) |
-| 수학 · 함수와 그래프 | 22 | [collection.json](collections/math-functions/collection.json) |
-| 수학 · 기하와 측정 | 24 | [collection.json](collections/math-geometry/collection.json) |
-| 수학 · 확률과 통계 | 24 | [collection.json](collections/math-statistics/collection.json) |
-| 수학 · 미적분 | 22 | [collection.json](collections/math-calculus/collection.json) |
-| 물리학 · 물리량과 측정 | 18 | [collection.json](collections/physics-measurement/collection.json) |
-| 물리학 · 운동과 힘 | 18 | [collection.json](collections/physics-mechanics/collection.json) |
-| 물리학 · 에너지와 운동량 | 18 | [collection.json](collections/physics-energy/collection.json) |
-| 물리학 · 회전과 중력 | 18 | [collection.json](collections/physics-rotation/collection.json) |
-| 물리학 · 진동과 파동 | 18 | [collection.json](collections/physics-waves/collection.json) |
-| 물리학 · 열과 열역학 | 18 | [collection.json](collections/physics-thermodynamics/collection.json) |
-| 물리학 · 전기와 자기 | 18 | [collection.json](collections/physics-electromagnetism/collection.json) |
-| 물리학 · 빛과 광학 | 18 | [collection.json](collections/physics-optics/collection.json) |
-| 물리학 · 현대 물리 입문 | 19 | [collection.json](collections/physics-modern/collection.json) |
-| 화학 · 물질과 화학의 언어 | 18 | [collection.json](collections/chemistry-matter/collection.json) |
-| 화학 · 원자 구조와 주기성 | 18 | [collection.json](collections/chemistry-atomic/collection.json) |
-| 화학 결합과 분자 구조 | 18 | [collection.json](collections/chemistry-bonding/collection.json) |
-| 화학 · 몰과 화학량론 | 18 | [collection.json](collections/chemistry-stoichiometry/collection.json) |
-| 화학 · 기체·상과 용액 | 18 | [collection.json](collections/chemistry-phases/collection.json) |
-| 화학 · 열화학과 자발성 | 18 | [collection.json](collections/chemistry-thermochemistry/collection.json) |
-| 화학 · 반응 속도와 평형 | 18 | [collection.json](collections/chemistry-kinetics/collection.json) |
-| 화학 · 산·염기와 용해 평형 | 18 | [collection.json](collections/chemistry-acids/collection.json) |
-| 화학 · 산화·환원과 전기화학 | 18 | [collection.json](collections/chemistry-electrochemistry/collection.json) |
-| 화학 · 유기 화학의 구조와 반응 | 22 | [collection.json](collections/chemistry-organic/collection.json) |
-| 생물학 · 생명과 생체 분자 | 18 | [collection.json](collections/biology-life/collection.json) |
-| 생물학 · 세포 구조와 기능 | 20 | [collection.json](collections/biology-cells/collection.json) |
-| 생물학 · 막 수송과 세포 신호 | 19 | [collection.json](collections/biology-membranes/collection.json) |
-| 생물학 · 효소와 에너지 대사 | 20 | [collection.json](collections/biology-metabolism/collection.json) |
-| 생물학 · 염색체와 유전 | 18 | [collection.json](collections/biology-inheritance/collection.json) |
-| 생물학 · 유전 정보의 발현 | 19 | [collection.json](collections/biology-expression/collection.json) |
-| 생물학 · 진화와 계통 | 18 | [collection.json](collections/biology-evolution/collection.json) |
-| 생물학 · 생물 다양성과 분류 | 19 | [collection.json](collections/biology-diversity/collection.json) |
-| 생물학 · 식물의 구조와 기능 | 20 | [collection.json](collections/biology-plants/collection.json) |
-| 생물학 · 동물의 생리와 항상성 | 18 | [collection.json](collections/biology-homeostasis/collection.json) |
-| 생물학 · 신경·내분비와 행동 | 20 | [collection.json](collections/biology-neuroendocrine/collection.json) |
-| 생물학 · 면역과 감염의 원리 | 22 | [collection.json](collections/biology-immunity/collection.json) |
-| 생물학 · 생태계와 생물의 상호작용 | 20 | [collection.json](collections/biology-ecology/collection.json) |
-| 경제학의 기초 | 18 | [collection.json](collections/economics-foundations/collection.json) |
-| 경제학 · 시장과 가격 | 18 | [collection.json](collections/economics-markets/collection.json) |
-| 경제학 · 소비자 선택 | 18 | [collection.json](collections/economics-consumers/collection.json) |
-| 경제학 · 생산과 비용 | 18 | [collection.json](collections/economics-production/collection.json) |
-| 경제학 · 경쟁과 시장지배력 | 18 | [collection.json](collections/economics-competition/collection.json) |
-| 경제학 · 전략적 상호작용과 정보 | 18 | [collection.json](collections/economics-games/collection.json) |
-| 경제학 · 외부효과와 공공정책 | 18 | [collection.json](collections/economics-public/collection.json) |
-| 경제학 · 노동·소득·불평등 | 18 | [collection.json](collections/economics-labor/collection.json) |
-| 경제학 · 경제 측정과 지표 | 18 | [collection.json](collections/economics-indicators/collection.json) |
-| 경제학 · 성장과 발전 | 18 | [collection.json](collections/economics-growth/collection.json) |
-| 경제학 · 경기변동과 정책 | 18 | [collection.json](collections/economics-cycles/collection.json) |
-| 경제학 · 화폐·은행·금리 | 20 | [collection.json](collections/economics-money/collection.json) |
-| 경제학 · 국제무역과 환율 | 20 | [collection.json](collections/economics-international/collection.json) |
-| 경영학 · 경영의 기초 | 18 | [collection.json](collections/business-foundations/collection.json) |
-| 경영학 · 경쟁전략과 역량 | 18 | [collection.json](collections/business-strategy/collection.json) |
-| 경영학 · 사업모델과 창업 검증 | 18 | [collection.json](collections/business-models/collection.json) |
-| 경영학 · 조직 설계와 협업 구조 | 18 | [collection.json](collections/business-organization/collection.json) |
-| 경영학 · 조직행동과 협업 | 18 | [collection.json](collections/business-behavior/collection.json) |
-| 경영학 · 인적자원관리 | 18 | [collection.json](collections/business-people/collection.json) |
-| 경영학 · 시장 이해와 마케팅 전략 | 18 | [collection.json](collections/business-marketing/collection.json) |
-| 경영학 · 제품·가격·채널과 고객 유지 | 18 | [collection.json](collections/business-product/collection.json) |
-| 경영학 · 회계와 재무제표 | 18 | [collection.json](collections/business-accounting/collection.json) |
-| 경영학 · 원가와 경영통제 | 18 | [collection.json](collections/business-control/collection.json) |
-| 경영학 · 기업재무와 투자 판단 | 18 | [collection.json](collections/business-finance/collection.json) |
-| 경영학 · 운영과 공급망 | 18 | [collection.json](collections/business-operations/collection.json) |
-| 경영학 · 실행·변화와 거버넌스 | 18 | [collection.json](collections/business-execution/collection.json) |
-| 심리학의 기초와 연구방법 | 18 | [collection.json](collections/psychology-foundations/collection.json) |
-| 심리학 · 뇌와 신경계 | 18 | [collection.json](collections/psychology-brain/collection.json) |
-| 심리학 · 감각과 지각 | 18 | [collection.json](collections/psychology-perception/collection.json) |
-| 심리학 · 주의와 의식 | 18 | [collection.json](collections/psychology-attention/collection.json) |
-| 심리학 · 학습과 조건형성 | 18 | [collection.json](collections/psychology-learning/collection.json) |
-| 심리학 · 기억과 학습 전략 | 18 | [collection.json](collections/psychology-memory/collection.json) |
-| 심리학 · 사고와 판단 | 18 | [collection.json](collections/psychology-thinking/collection.json) |
-| 심리학 · 언어와 지능 | 18 | [collection.json](collections/psychology-language/collection.json) |
-| 심리학 · 동기와 정서 | 18 | [collection.json](collections/psychology-motivation/collection.json) |
-| 심리학 · 발달과 생애 | 18 | [collection.json](collections/psychology-development/collection.json) |
-| 심리학 · 성격과 개인차 | 18 | [collection.json](collections/psychology-personality/collection.json) |
-| 심리학 · 사회적 판단과 관계 | 18 | [collection.json](collections/psychology-social/collection.json) |
-| 심리학 · 스트레스와 정신건강 이해 | 18 | [collection.json](collections/psychology-health/collection.json) |
-| 철학 · 입문과 논증 | 18 | [collection.json](collections/philosophy-foundations/collection.json) |
-| 철학 · 고대 그리스 | 18 | [collection.json](collections/philosophy-greek/collection.json) |
-| 철학 · 헬레니즘·로마 | 18 | [collection.json](collections/philosophy-hellenistic/collection.json) |
-| 철학 · 중세 | 18 | [collection.json](collections/philosophy-medieval/collection.json) |
-| 철학 · 근대 합리론 | 18 | [collection.json](collections/philosophy-rationalism/collection.json) |
-| 철학 · 경험론 | 18 | [collection.json](collections/philosophy-empiricism/collection.json) |
-| 철학 · 칸트 | 18 | [collection.json](collections/philosophy-kant/collection.json) |
-| 철학 · 독일 관념론 | 18 | [collection.json](collections/philosophy-idealism/collection.json) |
-| 철학 · 실존·현상학 | 20 | [collection.json](collections/philosophy-existential/collection.json) |
-| 철학 · 분석철학 | 18 | [collection.json](collections/philosophy-analytic/collection.json) |
-| 철학 · 중국 철학 | 18 | [collection.json](collections/philosophy-chinese/collection.json) |
-| 철학 · 불교 철학 | 18 | [collection.json](collections/philosophy-buddhist/collection.json) |
-| 철학 · 한국·일본 철학 | 21 | [collection.json](collections/philosophy-korean-japanese/collection.json) |
-| 역사 · 역사의 증거와 사고 | 18 | [collection.json](collections/history-foundations/collection.json) |
-| 역사 · 인류의 기원과 초기 식량 체계 | 18 | [collection.json](collections/history-prehistory/collection.json) |
-| 역사 · 고대 서아시아와 이집트 | 21 | [collection.json](collections/history-west-asia-egypt/collection.json) |
-| 역사 · 고대 지중해 세계 | 21 | [collection.json](collections/history-mediterranean/collection.json) |
-| 역사 · 남아시아의 사회와 전통 | 21 | [collection.json](collections/history-south-asia/collection.json) |
-| 역사 · 동아시아: 국가·학문·문헌 | 18 | [collection.json](collections/history-east-asia/collection.json) |
-| 역사 · 이슬람 세계: 공동체와 지식 | 18 | [collection.json](collections/history-islamic-world/collection.json) |
-| 역사 · 중세 유럽: 제도와 사회 | 20 | [collection.json](collections/history-medieval-europe/collection.json) |
-| 역사 · 아프리카의 역사: 국가·도시·지식 | 18 | [collection.json](collections/history-africa/collection.json) |
-| 역사 · 아메리카·오세아니아: 다양한 원주민 역사 | 18 | [collection.json](collections/history-americas-oceania/collection.json) |
-| 역사 · 교역망과 문화 교류 | 18 | [collection.json](collections/history-exchange-networks/collection.json) |
-| 역사 · 근세의 지식·신앙·제국 | 20 | [collection.json](collections/history-early-modern/collection.json) |
-| 역사 · 혁명과 산업화 | 18 | [collection.json](collections/history-revolutions-industry/collection.json) |
-| 역사 · 제국주의와 세계 대전 | 18 | [collection.json](collections/history-imperialism-world-wars/collection.json) |
-| 역사 · 탈식민화와 20세기의 전환 | 20 | [collection.json](collections/history-decolonization-modern/collection.json) |
-| 문학 · 문학 읽기의 기초 | 18 | [collection.json](collections/literature-foundations/collection.json) |
-| 문학 · 시의 목소리와 형식 | 18 | [collection.json](collections/literature-poetry/collection.json) |
-| 문학 · 서사와 관점 | 18 | [collection.json](collections/literature-narrative/collection.json) |
-| 문학 · 희곡의 말과 행위 | 18 | [collection.json](collections/literature-drama/collection.json) |
-| 문학 · 신화와 서사시 전통 | 18 | [collection.json](collections/literature-myth-epic/collection.json) |
-| 문학 · 동아시아 고전 | 18 | [collection.json](collections/literature-east-asian-classics/collection.json) |
-| 문학 · 중세와 근세 문학 | 18 | [collection.json](collections/literature-medieval-early-modern/collection.json) |
-| 문학 · 낭만주의 | 18 | [collection.json](collections/literature-romanticism/collection.json) |
-| 문학 · 사실주의와 사회 | 18 | [collection.json](collections/literature-realism/collection.json) |
-| 문학 · 모더니즘과 의식 | 18 | [collection.json](collections/literature-modernism/collection.json) |
-| 문학 · 동시대 문학 | 18 | [collection.json](collections/literature-contemporary/collection.json) |
-| 문학 · 세계문학과 번역 | 18 | [collection.json](collections/literature-world-literature/collection.json) |
-| 문학 · 장르 문학 | 18 | [collection.json](collections/literature-genre/collection.json) |
-| 문학 · 문학적 논픽션 | 18 | [collection.json](collections/literature-nonfiction/collection.json) |
-| 문학 · 문학 비평 | 18 | [collection.json](collections/literature-criticism/collection.json) |
-| 인용구 · 시작과 용기 | 8 | [collection.json](collections/quotes-courage/collection.json) |
-| 인용구 · 꾸준함과 습관 | 8 | [collection.json](collections/quotes-perseverance/collection.json) |
-| 인용구 · 실패와 회복 | 8 | [collection.json](collections/quotes-resilience/collection.json) |
-| 인용구 · 변화와 불확실성 | 8 | [collection.json](collections/quotes-uncertainty/collection.json) |
-| 인용구 · 선택과 판단 | 8 | [collection.json](collections/quotes-judgment/collection.json) |
-| 인용구 · 시간과 우선순위 | 8 | [collection.json](collections/quotes-time/collection.json) |
-| 인용구 · 배움과 호기심 | 8 | [collection.json](collections/quotes-curiosity/collection.json) |
-| 인용구 · 창의성과 발견 | 8 | [collection.json](collections/quotes-creativity/collection.json) |
-| 인용구 · 자기 이해와 정체성 | 8 | [collection.json](collections/quotes-identity/collection.json) |
-| 인용구 · 감정과 평정 | 8 | [collection.json](collections/quotes-equanimity/collection.json) |
-| 인용구 · 관계와 경청 | 8 | [collection.json](collections/quotes-listening/collection.json) |
-| 인용구 · 사랑과 우정 | 8 | [collection.json](collections/quotes-friendship/collection.json) |
-| 인용구 · 일과 성취 | 8 | [collection.json](collections/quotes-work/collection.json) |
-| 인용구 · 협력과 책임 | 8 | [collection.json](collections/quotes-responsibility/collection.json) |
-| 인용구 · 행복과 삶의 유한함 | 8 | [collection.json](collections/quotes-fulfillment/collection.json) |
-| 미술 · 그림을 보는 방법 | 30 | [collection.json](collections/art-looking/collection.json) |
-| 미술 · 색·빛·구도 | 28 | [collection.json](collections/art-visual-elements/collection.json) |
-| 미술 · 재료와 표현 기법 | 25 | [collection.json](collections/art-materials/collection.json) |
-| 미술 · 고대와 중세의 이미지 | 25 | [collection.json](collections/art-ancient-medieval/collection.json) |
-| 미술 · 르네상스 | 32 | [collection.json](collections/art-renaissance/collection.json) |
-| 미술 · 바로크와 로코코 | 26 | [collection.json](collections/art-baroque-rococo/collection.json) |
-| 미술 · 신고전주의·낭만주의·사실주의 | 29 | [collection.json](collections/art-nineteenth-century/collection.json) |
-| 미술 · 인상주의와 후기 인상주의 | 26 | [collection.json](collections/art-impressionism/collection.json) |
-| 미술 · 근대 회화의 새로운 시각 | 28 | [collection.json](collections/art-modern/collection.json) |
-| 미술 · 한국 회화 | 23 | [collection.json](collections/art-korean/collection.json) |
-| 미술 · 중국 회화 | 27 | [collection.json](collections/art-chinese/collection.json) |
-| 미술 · 일본 회화와 판화 | 30 | [collection.json](collections/art-japanese/collection.json) |
-| 미술 · 세계의 회화 전통 | 29 | [collection.json](collections/art-world/collection.json) |
-| 미술 · 그림 속 사람과 삶 | 27 | [collection.json](collections/art-people-life/collection.json) |
-| 미술 · 작품을 나란히 읽기 | 32 | [collection.json](collections/art-comparisons/collection.json) |
-| 음악 · 음정 | 13 | [collection.json](collections/music-intervals/collection.json) |
-| 음악 · 음계 | 8 | [collection.json](collections/music-scales/collection.json) |
-| 음악 · 화음 | 8 | [collection.json](collections/music-chords/collection.json) |
-| 음악 · 리듬 | 8 | [collection.json](collections/music-rhythm/collection.json) |
-| 천문학 · 우주의 거리 | 18 | [collection.json](collections/astronomy-distances/collection.json) |
-| 천문학 · 우주에서 온 빛 | 18 | [collection.json](collections/astronomy-light/collection.json) |
-| 천문학 · 중력과 궤도 | 18 | [collection.json](collections/astronomy-gravity/collection.json) |
-| 천문학 · 우리의 별 태양 | 18 | [collection.json](collections/astronomy-sun/collection.json) |
-| 천문학 · 태양계의 세계들 | 20 | [collection.json](collections/astronomy-solar-system/collection.json) |
-| 천문학 · 태양계의 형성과 작은 천체 | 18 | [collection.json](collections/astronomy-formation/collection.json) |
-| 천문학 · 별의 성질 | 18 | [collection.json](collections/astronomy-stellar-properties/collection.json) |
-| 천문학 · 별의 탄생 | 18 | [collection.json](collections/astronomy-star-formation/collection.json) |
-| 천문학 · 별의 진화 | 18 | [collection.json](collections/astronomy-stellar-evolution/collection.json) |
-| 천문학 · 별의 잔해와 블랙홀 | 18 | [collection.json](collections/astronomy-remnants/collection.json) |
-| 천문학 · 우리은하 | 18 | [collection.json](collections/astronomy-milky-way/collection.json) |
-| 천문학 · 은하의 세계 | 18 | [collection.json](collections/astronomy-galaxies/collection.json) |
-| 천문학 · 우주의 역사 | 18 | [collection.json](collections/astronomy-cosmology/collection.json) |
-| 천문학 · 보이지 않는 우주 | 18 | [collection.json](collections/astronomy-dark-universe/collection.json) |
-| 천문학 · 태양계 밖의 행성 | 18 | [collection.json](collections/astronomy-exoplanets/collection.json) |
-
-지원 언어와 출처는 컬렉션마다 다릅니다. 그래프 카드의 **내 컬렉션 → 가져오기 → 링크**에 파일의 GitHub 주소를 붙여 넣어 가져올 수 있습니다.
-
-원본을 수정할 때는 기존 컬렉션과 카드 ID를 유지하고 `contentVersion`을 갱신합니다.
-
-언어 컬렉션의 데이터 출처와 적용 범위는 [Graph Card 원본 문서](https://github.com/marcvs745/memory-card/tree/f261623/content/languages)를 참고하세요. 각 컬렉션의 설명과 카드에 출처 표시를 포함합니다.
+| Elementary English · Korean curriculum · 800 words | 800 | [collection.json](collections/en-school-elementary/collection.json) |
+| Secondary English · Korean common curriculum · 1,200 words | 1200 | [collection.json](collections/en-school-secondary/collection.json) |
+| Extended high school English · Korean curriculum · 1,000 words | 1000 | [collection.json](collections/en-school-high/collection.json) |
+| English conversation foundations · NGSL general vocabulary | 2809 | [collection.json](collections/en-general-core/collection.json) |
+| English TOEIC · TSL extended vocabulary | 1250 | [collection.json](collections/en-toeic-tsl/collection.json) |
+| English academic vocabulary · TOEFL and IELTS | 957 | [collection.json](collections/en-academic-nawl/collection.json) |
+| English · Phrasal verbs | 457 | [collection.json](collections/en-phrasal-verbs/collection.json) |
+| English · Literary expressions and narrative techniques | 40 | [collection.json](collections/en-literary-expressions/collection.json) |
+| Japanese reading vocabulary · 1 · newspaper frequency 1–10 | 4909 | [collection.json](collections/ja-priority-1/collection.json) |
+| Japanese Reading Vocabulary · 2 · Newspaper Frequency 11–25 | 6961 | [collection.json](collections/ja-priority-2/collection.json) |
+| Japanese Reading Vocabulary · 3 · Newspaper Frequency 26–48 | 3280 | [collection.json](collections/ja-priority-3/collection.json) |
+| Japanese reading vocabulary · Common usage · No newspaper rank | 7499 | [collection.json](collections/ja-common-unranked/collection.json) |
+| Japanese · Beginner conversation · Everyday tasks | 24 | [collection.json](collections/ja-conversation-beginner/collection.json) |
+| Japanese · Intermediate conversation · Explanation and discussion | 24 | [collection.json](collections/ja-conversation-intermediate/collection.json) |
+| Japanese · Beginner patterns · Verbs and particles | 22 | [collection.json](collections/ja-particles-beginner/collection.json) |
+| Japanese · Intermediate patterns · Verbs and particles | 16 | [collection.json](collections/ja-particles-intermediate/collection.json) |
+| Japanese · Advanced reading · Literary narration | 12 | [collection.json](collections/ja-reading-advanced/collection.json) |
+| Japanese · Intermediate exam reading · Information and conditions | 8 | [collection.json](collections/ja-exam-intermediate/collection.json) |
+| Japanese · Advanced exam reading · Claims and inference | 8 | [collection.json](collections/ja-exam-advanced/collection.json) |
+| Chinese · HSK 2.0 Level 1 additional vocabulary · English meanings | 150 | [collection.json](collections/zh-hsk2-level-1/collection.json) |
+| Chinese · HSK 2.0 Level 2 additional vocabulary · English definitions | 147 | [collection.json](collections/zh-hsk2-level-2/collection.json) |
+| Chinese · HSK 2.0 Level 3 additional vocabulary · English definitions | 298 | [collection.json](collections/zh-hsk2-level-3/collection.json) |
+| Chinese · HSK 2.0 Level 4 additional vocabulary · English meanings | 598 | [collection.json](collections/zh-hsk2-level-4/collection.json) |
+| Chinese · HSK 2.0 level 5 additional vocabulary · English meanings | 1298 | [collection.json](collections/zh-hsk2-level-5/collection.json) |
+| Chinese · HSK 2.0 Level 6 additional vocabulary · English definitions | 2500 | [collection.json](collections/zh-hsk2-level-6/collection.json) |
+| Chinese · Colloquial expressions · English meanings | 105 | [collection.json](collections/zh-conversation-colloquial/collection.json) |
+| Chinese · Literary and idiom reading vocabulary · English definitions | 315 | [collection.json](collections/zh-literary-reading/collection.json) |
+| Chinese · Prepositions and coverbs · English meanings | 80 | [collection.json](collections/zh-prepositions-coverbs/collection.json) |
+| Korean · communication-topic vocabulary | 1718 | [collection.json](collections/ko-krdict-conversation/collection.json) |
+| Korean · Literature vocabulary | 189 | [collection.json](collections/ko-krdict-literature/collection.json) |
+| Korean · particles, endings, and auxiliaries | 715 | [collection.json](collections/ko-krdict-grammar/collection.json) |
+| Korean learner vocabulary · Beginner (2003 A) | 923 | [collection.json](collections/ko-nikl2003-a/collection.json) |
+| Korean Vocabulary for Learners · Intermediate (B) | 1975 | [collection.json](collections/ko-nikl2003-b/collection.json) |
+| Korean learner vocabulary · Advanced (2003 C) | 2726 | [collection.json](collections/ko-nikl2003-c/collection.json) |
+| Hanja · Basic radicals 214 | 214 | [collection.json](collections/hanja-radicals/collection.json) |
+| Hanja · Beginner 500 | 500 | [collection.json](collections/hanja-beginner/collection.json) |
+| Hanja · Intermediate 700 | 700 | [collection.json](collections/hanja-intermediate/collection.json) |
+| Hanja · Advanced 600 | 600 | [collection.json](collections/hanja-advanced/collection.json) |
+| Mathematics · Symbols | 32 | [collection.json](collections/math-symbols/collection.json) |
+| Mathematics · Numbers and operations | 25 | [collection.json](collections/math-numbers/collection.json) |
+| Mathematics · Algebra and equations | 35 | [collection.json](collections/math-algebra/collection.json) |
+| Mathematics · Functions and graphs | 22 | [collection.json](collections/math-functions/collection.json) |
+| Mathematics · Geometry and measurement | 24 | [collection.json](collections/math-geometry/collection.json) |
+| Mathematics · Probability and statistics | 24 | [collection.json](collections/math-statistics/collection.json) |
+| Mathematics · Calculus | 22 | [collection.json](collections/math-calculus/collection.json) |
+| Physics · Physical Quantities and Measurement | 18 | [collection.json](collections/physics-measurement/collection.json) |
+| Physics · Motion and Forces | 18 | [collection.json](collections/physics-mechanics/collection.json) |
+| Physics · Energy and Momentum | 18 | [collection.json](collections/physics-energy/collection.json) |
+| Physics · Rotation and Gravitation | 18 | [collection.json](collections/physics-rotation/collection.json) |
+| Physics · Oscillations and Waves | 18 | [collection.json](collections/physics-waves/collection.json) |
+| Physics · Heat and Thermodynamics | 18 | [collection.json](collections/physics-thermodynamics/collection.json) |
+| Physics · Electricity and magnetism | 18 | [collection.json](collections/physics-electromagnetism/collection.json) |
+| Physics · Light and optics | 18 | [collection.json](collections/physics-optics/collection.json) |
+| Physics · Introduction to modern physics | 19 | [collection.json](collections/physics-modern/collection.json) |
+| Chemistry · Matter and Chemical Language | 18 | [collection.json](collections/chemistry-matter/collection.json) |
+| Chemistry · Atomic Structure and Periodicity | 18 | [collection.json](collections/chemistry-atomic/collection.json) |
+| Chemistry · Chemical Bonding and Molecular Structure | 18 | [collection.json](collections/chemistry-bonding/collection.json) |
+| Chemistry · Moles and Stoichiometry | 18 | [collection.json](collections/chemistry-stoichiometry/collection.json) |
+| Chemistry · Gases, Phases, and Solutions | 18 | [collection.json](collections/chemistry-phases/collection.json) |
+| Chemistry · Thermochemistry and Spontaneity | 18 | [collection.json](collections/chemistry-thermochemistry/collection.json) |
+| Chemistry · Kinetics and Equilibrium | 18 | [collection.json](collections/chemistry-kinetics/collection.json) |
+| Chemistry · Acids, Bases, and Solubility | 18 | [collection.json](collections/chemistry-acids/collection.json) |
+| Chemistry · Redox and Electrochemistry | 18 | [collection.json](collections/chemistry-electrochemistry/collection.json) |
+| Chemistry · Organic Structures and Reactions | 22 | [collection.json](collections/chemistry-organic/collection.json) |
+| Biology · Life and Biological Molecules | 18 | [collection.json](collections/biology-life/collection.json) |
+| Biology · Cell Structure and Function | 20 | [collection.json](collections/biology-cells/collection.json) |
+| Biology · Membrane Transport and Cell Signaling | 19 | [collection.json](collections/biology-membranes/collection.json) |
+| Biology · Enzymes and Energy Metabolism | 20 | [collection.json](collections/biology-metabolism/collection.json) |
+| Biology · Chromosomes and Inheritance | 18 | [collection.json](collections/biology-inheritance/collection.json) |
+| Biology · Gene Expression | 19 | [collection.json](collections/biology-expression/collection.json) |
+| Biology · Evolution and Phylogeny | 18 | [collection.json](collections/biology-evolution/collection.json) |
+| Biology · Biological Diversity and Classification | 19 | [collection.json](collections/biology-diversity/collection.json) |
+| Biology · Plant Structure and Function | 20 | [collection.json](collections/biology-plants/collection.json) |
+| Biology · Animal Physiology and Homeostasis | 18 | [collection.json](collections/biology-homeostasis/collection.json) |
+| Biology · Nervous and Endocrine Control | 20 | [collection.json](collections/biology-neuroendocrine/collection.json) |
+| Biology · Immunity and Infection | 22 | [collection.json](collections/biology-immunity/collection.json) |
+| Biology · Ecosystems and Biological Interactions | 20 | [collection.json](collections/biology-ecology/collection.json) |
+| Economics · Economic Foundations | 18 | [collection.json](collections/economics-foundations/collection.json) |
+| Economics · Markets and Prices | 18 | [collection.json](collections/economics-markets/collection.json) |
+| Economics · Consumer Choice | 18 | [collection.json](collections/economics-consumers/collection.json) |
+| Economics · Production and Costs | 18 | [collection.json](collections/economics-production/collection.json) |
+| Economics · Competition and Market Power | 18 | [collection.json](collections/economics-competition/collection.json) |
+| Economics · Strategic Interaction and Information | 18 | [collection.json](collections/economics-games/collection.json) |
+| Economics · Externalities and Public Policy | 18 | [collection.json](collections/economics-public/collection.json) |
+| Economics · Labor, Income and Inequality | 18 | [collection.json](collections/economics-labor/collection.json) |
+| Economics · Measuring the Economy | 18 | [collection.json](collections/economics-indicators/collection.json) |
+| Economics · Growth and Development | 18 | [collection.json](collections/economics-growth/collection.json) |
+| Economics · Business Cycles and Policy | 18 | [collection.json](collections/economics-cycles/collection.json) |
+| Economics · Money, Banking and Interest | 20 | [collection.json](collections/economics-money/collection.json) |
+| Economics · International Trade and Exchange Rates | 20 | [collection.json](collections/economics-international/collection.json) |
+| Business · Management Foundations | 18 | [collection.json](collections/business-foundations/collection.json) |
+| Business · Competitive Strategy and Capabilities | 18 | [collection.json](collections/business-strategy/collection.json) |
+| Business Models and Venture Validation | 18 | [collection.json](collections/business-models/collection.json) |
+| Business · Organization Design and Coordination | 18 | [collection.json](collections/business-organization/collection.json) |
+| Business · Organizational Behavior and Collaboration | 18 | [collection.json](collections/business-behavior/collection.json) |
+| Business · Human Resource Management | 18 | [collection.json](collections/business-people/collection.json) |
+| Business · Market Insight and Marketing Strategy | 18 | [collection.json](collections/business-marketing/collection.json) |
+| Business · Products, Pricing, Channels and Retention | 18 | [collection.json](collections/business-product/collection.json) |
+| Business · Accounting and Financial Statements | 18 | [collection.json](collections/business-accounting/collection.json) |
+| Business · Costs and Management Control | 18 | [collection.json](collections/business-control/collection.json) |
+| Business · Corporate Finance and Project Evaluation | 18 | [collection.json](collections/business-finance/collection.json) |
+| Business · Operations and Supply Chains | 18 | [collection.json](collections/business-operations/collection.json) |
+| Business · Execution, Change and Governance | 18 | [collection.json](collections/business-execution/collection.json) |
+| Psychology · Foundations and Research Methods | 18 | [collection.json](collections/psychology-foundations/collection.json) |
+| Psychology · Brain and Nervous System | 18 | [collection.json](collections/psychology-brain/collection.json) |
+| Psychology · Sensation and Perception | 18 | [collection.json](collections/psychology-perception/collection.json) |
+| Psychology · Attention and Consciousness | 18 | [collection.json](collections/psychology-attention/collection.json) |
+| Psychology · Learning and Conditioning | 18 | [collection.json](collections/psychology-learning/collection.json) |
+| Psychology · Memory and Learning Strategies | 18 | [collection.json](collections/psychology-memory/collection.json) |
+| Psychology · Thinking and Judgment | 18 | [collection.json](collections/psychology-thinking/collection.json) |
+| Psychology · Language and Intelligence | 18 | [collection.json](collections/psychology-language/collection.json) |
+| Psychology · Motivation and Emotion | 18 | [collection.json](collections/psychology-motivation/collection.json) |
+| Psychology · Development Across the Lifespan | 18 | [collection.json](collections/psychology-development/collection.json) |
+| Psychology · Personality and Individual Differences | 18 | [collection.json](collections/psychology-personality/collection.json) |
+| Psychology · Social Judgment and Relationships | 18 | [collection.json](collections/psychology-social/collection.json) |
+| Psychology · Stress and Mental Health Literacy | 18 | [collection.json](collections/psychology-health/collection.json) |
+| Philosophy · Introduction and argument | 18 | [collection.json](collections/philosophy-foundations/collection.json) |
+| Philosophy · Ancient Greece | 18 | [collection.json](collections/philosophy-greek/collection.json) |
+| Philosophy · Hellenistic and Roman Philosophy | 18 | [collection.json](collections/philosophy-hellenistic/collection.json) |
+| Philosophy · Medieval Philosophy | 18 | [collection.json](collections/philosophy-medieval/collection.json) |
+| Philosophy · Early Modern Rationalism | 18 | [collection.json](collections/philosophy-rationalism/collection.json) |
+| Philosophy · Empiricism | 18 | [collection.json](collections/philosophy-empiricism/collection.json) |
+| Philosophy · Kant | 18 | [collection.json](collections/philosophy-kant/collection.json) |
+| Philosophy · German Idealism | 18 | [collection.json](collections/philosophy-idealism/collection.json) |
+| Philosophy · Existence and Phenomenology | 20 | [collection.json](collections/philosophy-existential/collection.json) |
+| Philosophy · Analytic philosophy | 18 | [collection.json](collections/philosophy-analytic/collection.json) |
+| Philosophy · Chinese Philosophy | 18 | [collection.json](collections/philosophy-chinese/collection.json) |
+| Philosophy · Buddhist Philosophy | 18 | [collection.json](collections/philosophy-buddhist/collection.json) |
+| Philosophy · Korean and Japanese Philosophy | 21 | [collection.json](collections/philosophy-korean-japanese/collection.json) |
+| History · Historical evidence and reasoning | 18 | [collection.json](collections/history-foundations/collection.json) |
+| History · Human origins and early food systems | 18 | [collection.json](collections/history-prehistory/collection.json) |
+| History · Ancient West Asia and Egypt | 21 | [collection.json](collections/history-west-asia-egypt/collection.json) |
+| History · The ancient Mediterranean | 21 | [collection.json](collections/history-mediterranean/collection.json) |
+| History · South Asian societies and traditions | 21 | [collection.json](collections/history-south-asia/collection.json) |
+| History · East Asia: states, learning, and texts | 18 | [collection.json](collections/history-east-asia/collection.json) |
+| History · Islamic worlds: communities and knowledge | 18 | [collection.json](collections/history-islamic-world/collection.json) |
+| History · Medieval Europe: institutions and society | 20 | [collection.json](collections/history-medieval-europe/collection.json) |
+| History · African histories: states, cities, and knowledge | 18 | [collection.json](collections/history-africa/collection.json) |
+| History · Americas and Oceania: diverse Indigenous histories | 18 | [collection.json](collections/history-americas-oceania/collection.json) |
+| History · Trade and Cultural Networks | 18 | [collection.json](collections/history-exchange-networks/collection.json) |
+| History · Knowledge, Faith, and Early Modern Empires | 20 | [collection.json](collections/history-early-modern/collection.json) |
+| History · Revolutions and Industrialization | 18 | [collection.json](collections/history-revolutions-industry/collection.json) |
+| History · Imperialism and the World Wars | 18 | [collection.json](collections/history-imperialism-world-wars/collection.json) |
+| History · Decolonization and Twentieth-Century Change | 20 | [collection.json](collections/history-decolonization-modern/collection.json) |
+| Literature · Foundations of Literary Reading | 18 | [collection.json](collections/literature-foundations/collection.json) |
+| Literature · Poetry: Voice and Form | 18 | [collection.json](collections/literature-poetry/collection.json) |
+| Literature · Narrative and Perspective | 18 | [collection.json](collections/literature-narrative/collection.json) |
+| Literature · Drama: Speech and Action | 18 | [collection.json](collections/literature-drama/collection.json) |
+| Literature · Myth and Epic Traditions | 18 | [collection.json](collections/literature-myth-epic/collection.json) |
+| Literature · East Asian Classics | 18 | [collection.json](collections/literature-east-asian-classics/collection.json) |
+| Literature · Medieval and Early Modern Literature | 18 | [collection.json](collections/literature-medieval-early-modern/collection.json) |
+| Literature · Romanticism | 18 | [collection.json](collections/literature-romanticism/collection.json) |
+| Literature · Realism and Society | 18 | [collection.json](collections/literature-realism/collection.json) |
+| Literature · Modernism and Consciousness | 18 | [collection.json](collections/literature-modernism/collection.json) |
+| Literature · Contemporary Literature | 18 | [collection.json](collections/literature-contemporary/collection.json) |
+| Literature · World Literature and Translation | 18 | [collection.json](collections/literature-world-literature/collection.json) |
+| Literature · Genre Fiction | 18 | [collection.json](collections/literature-genre/collection.json) |
+| Literature · Literary Nonfiction | 18 | [collection.json](collections/literature-nonfiction/collection.json) |
+| Literature · Literary Criticism | 18 | [collection.json](collections/literature-criticism/collection.json) |
+| Quotations · Beginnings and Courage | 8 | [collection.json](collections/quotes-courage/collection.json) |
+| Quotations · Persistence and Habit | 8 | [collection.json](collections/quotes-perseverance/collection.json) |
+| Quotations · Failure and Recovery | 8 | [collection.json](collections/quotes-resilience/collection.json) |
+| Quotations · Change and Uncertainty | 8 | [collection.json](collections/quotes-uncertainty/collection.json) |
+| Quotations · Choice and Judgment | 8 | [collection.json](collections/quotes-judgment/collection.json) |
+| Quotations · Time and Priorities | 8 | [collection.json](collections/quotes-time/collection.json) |
+| Quotations · Learning and Curiosity | 8 | [collection.json](collections/quotes-curiosity/collection.json) |
+| Quotations · Creativity and Discovery | 8 | [collection.json](collections/quotes-creativity/collection.json) |
+| Quotations · Self-Knowledge and Identity | 8 | [collection.json](collections/quotes-identity/collection.json) |
+| Quotations · Emotion and Equanimity | 8 | [collection.json](collections/quotes-equanimity/collection.json) |
+| Quotations · Relationships and Listening | 8 | [collection.json](collections/quotes-listening/collection.json) |
+| Quotations · Love and Friendship | 8 | [collection.json](collections/quotes-friendship/collection.json) |
+| Quotations · Work and Achievement | 8 | [collection.json](collections/quotes-work/collection.json) |
+| Quotations · Cooperation and Responsibility | 8 | [collection.json](collections/quotes-responsibility/collection.json) |
+| Quotations · Happiness and a Finite Life | 8 | [collection.json](collections/quotes-fulfillment/collection.json) |
+| Art · Looking closely | 30 | [collection.json](collections/art-looking/collection.json) |
+| Art · Color, light, and composition | 28 | [collection.json](collections/art-visual-elements/collection.json) |
+| Art · Materials and pictorial techniques | 25 | [collection.json](collections/art-materials/collection.json) |
+| Art · Images of antiquity and the Middle Ages | 25 | [collection.json](collections/art-ancient-medieval/collection.json) |
+| Art · Renaissance | 32 | [collection.json](collections/art-renaissance/collection.json) |
+| Art · Baroque and Rococo | 26 | [collection.json](collections/art-baroque-rococo/collection.json) |
+| Art · Neoclassicism, Romanticism, and Realism | 29 | [collection.json](collections/art-nineteenth-century/collection.json) |
+| Art · Impressionism and Post-Impressionism | 26 | [collection.json](collections/art-impressionism/collection.json) |
+| Art · New viewpoints in early modern painting | 28 | [collection.json](collections/art-modern/collection.json) |
+| Art · Korean painting | 23 | [collection.json](collections/art-korean/collection.json) |
+| Art · Chinese painting | 27 | [collection.json](collections/art-chinese/collection.json) |
+| Art · Japanese painting and prints | 30 | [collection.json](collections/art-japanese/collection.json) |
+| Art · World painting traditions | 29 | [collection.json](collections/art-world/collection.json) |
+| Art · People and life in pictures | 27 | [collection.json](collections/art-people-life/collection.json) |
+| Art · Reading works side by side | 32 | [collection.json](collections/art-comparisons/collection.json) |
+| Music · Intervals | 13 | [collection.json](collections/music-intervals/collection.json) |
+| Music · Scales | 8 | [collection.json](collections/music-scales/collection.json) |
+| Music · Chords | 8 | [collection.json](collections/music-chords/collection.json) |
+| Music · Rhythm | 8 | [collection.json](collections/music-rhythm/collection.json) |
+| Astronomy · Cosmic distances | 18 | [collection.json](collections/astronomy-distances/collection.json) |
+| Astronomy · Light from the universe | 18 | [collection.json](collections/astronomy-light/collection.json) |
+| Astronomy · Gravity and orbits | 18 | [collection.json](collections/astronomy-gravity/collection.json) |
+| Astronomy · Our star, the Sun | 18 | [collection.json](collections/astronomy-sun/collection.json) |
+| Astronomy · Worlds of the solar system | 20 | [collection.json](collections/astronomy-solar-system/collection.json) |
+| Astronomy · Solar System Origins and Small Bodies | 18 | [collection.json](collections/astronomy-formation/collection.json) |
+| Astronomy · Properties of Stars | 18 | [collection.json](collections/astronomy-stellar-properties/collection.json) |
+| Astronomy · Birth of Stars | 18 | [collection.json](collections/astronomy-star-formation/collection.json) |
+| Astronomy · Stellar Evolution | 18 | [collection.json](collections/astronomy-stellar-evolution/collection.json) |
+| Astronomy · Stellar Remnants and Black Holes | 18 | [collection.json](collections/astronomy-remnants/collection.json) |
+| Astronomy · Milky Way | 18 | [collection.json](collections/astronomy-milky-way/collection.json) |
+| Astronomy · Galaxies | 18 | [collection.json](collections/astronomy-galaxies/collection.json) |
+| Astronomy · Cosmic History | 18 | [collection.json](collections/astronomy-cosmology/collection.json) |
+| Astronomy · Dark Universe | 18 | [collection.json](collections/astronomy-dark-universe/collection.json) |
+| Astronomy · Exoplanets | 18 | [collection.json](collections/astronomy-exoplanets/collection.json) |
