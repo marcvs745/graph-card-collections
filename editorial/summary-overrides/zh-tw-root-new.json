@@ -1,0 +1,302 @@
+{
+  "builtin-en-school-elementary::en-b9776d7ddf459c9a": {
+    "zh-TW": "用於指明特定或先前提過對象的定冠詞"
+  },
+  "builtin-en-school-secondary::en-15bd52797d7d181e": {
+    "zh-TW": "表示應當做某事，或按理預期某事會發生的情態用語"
+  },
+  "builtin-en-general-core::en-15bd52797d7d181e": {
+    "zh-TW": "表示應當做某事，或按理預期某事會發生的情態用語"
+  },
+  "builtin-en-general-core::en-b9776d7ddf459c9a": {
+    "zh-TW": "用於指明特定或先前提過對象的定冠詞"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1151230": {
+    "zh-TW": "違反道德、造成傷害的性質或行為"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1156640": {
+    "zh-TW": "能感知自身與周圍狀況的心理狀態"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1162120": {
+    "zh-TW": "公曆一年中的第一個月份"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1171120": {
+    "zh-TW": "面向北方時，位於東方一側的手，也可指該側方向"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1171270": {
+    "zh-TW": "較重視保守傳統、民族或既有秩序的政治派別"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1175000": {
+    "zh-TW": "具有流動性，但分子排列仍有一定規律的物質狀態"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1176240": {
+    "zh-TW": "種植花木或果樹、供栽培與遊憩的場所"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1181570": {
+    "zh-TW": "日本將棋中由上手一方使用、代表主帥的棋子"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1195710": {
+    "zh-TW": "以特定內容為中心的一次教學單元"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1199330": {
+    "zh-TW": "計算事件發生次數的量詞"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1203040": {
+    "zh-TW": "依社會地位或經濟條件形成的人群層次"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1203250": {
+    "zh-TW": "不在某個界限內部的地方"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1204070": {
+    "zh-TW": "某物或某組織範圍之外的部分與世界"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1206500": {
+    "zh-TW": "使既有政治或社會制度發生根本變革的運動"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1211820": {
+    "zh-TW": "日本內閣中負責行政協調、並常擔任發言角色的閣員"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1219110": {
+    "zh-TW": "作為軍事、探險等活動中心或出發點的場所"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1220240": {
+    "zh-TW": "通常印有圖案、可升掛以象徵國家或團體的布片"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1224190": {
+    "zh-TW": "傳說中常帶有恐怖形象、能傷害人的超自然存在"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1231490": {
+    "zh-TW": "人類馴養、常用於乳肉生產或勞作的大型反芻家畜"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1235950": {
+    "zh-TW": "把不同地區、範圍或狀態區分開來的分隔位置"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1237160": {
+    "zh-TW": "高等教育機構中從事研究與教學的資深學術職位"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1237570": {
+    "zh-TW": "日本傳統表演中，常在能樂之間演出的滑稽短篇戲"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1237820": {
+    "zh-TW": "頸部以下、腹部以上的身體前方區域"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1243660": {
+    "zh-TW": "公曆一年中的第九個月份"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1245280": {
+    "zh-TW": "內部沒有裝入東西的狀態"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1245950": {
+    "zh-TW": "頁面中沒有文字或圖像的區域"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1246440": {
+    "zh-TW": "兩面相交或互相靠近的位置，也可指較隱蔽的小地方"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1249960": {
+    "zh-TW": "具有共同父母或部分共同親緣的同輩家庭成員"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1250220": {
+    "zh-TW": "物體從外部可辨識的輪廓與構造"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1250310": {
+    "zh-TW": "事物呈現於外的組織與樣式，而非內在內容"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1252050": {
+    "zh-TW": "為未來行動預先設想的安排"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1253310": {
+    "zh-TW": "由角色行動與對話構成、可供舞台等表演的故事作品"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1254710": {
+    "zh-TW": "由分枝桿菌引起、常影響肺部的傳染病"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1256170": {
+    "zh-TW": "身心功能運作良好、較少疾病或不適的狀態"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1256750": {
+    "zh-TW": "由手柄與較長刃部構成、常有雙刃的劈刺兵器"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1257590": {
+    "zh-TW": "規定國家基本制度、公共權力及基本權利的最高法律"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1258330": {
+    "zh-TW": "常以吠聲溝通、由人類馴養作伴侶或工作的哺乳動物"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1262880": {
+    "zh-TW": "彷彿出現但並非實際存在的影像或景象"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1264770": {
+    "zh-TW": "相對於團體而言的單一自然人"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1266470": {
+    "zh-TW": "吸入與吐出氣體的生理活動"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1266650": {
+    "zh-TW": "將物品安置妥當，使其位置不再任意移動"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1266890": {
+    "zh-TW": "作為行動或指涉對象的本人、自身"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1266970": {
+    "zh-TW": "可開合、用於房屋出入口的遮擋構件"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1267610": {
+    "zh-TW": "身上通常有深色條紋的大型貓科動物"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1290020": {
+    "zh-TW": "植物通常位於地下、負責吸收與支撐的部分"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1290800": {
+    "zh-TW": "面向北方時，朝向西方的一側"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1290900": {
+    "zh-TW": "面向北方時，位於西方一側的手，也可指該側方向"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1291060": {
+    "zh-TW": "較強調社會平等、改革或變革的政治派別"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1291070": {
+    "zh-TW": "不同數量、狀態或性質之間的不相同之處"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1294020": {
+    "zh-TW": "必須保留或達成、不能再少的程度"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1294240": {
+    "zh-TW": "無法再降低、至少必須達到的程度"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1295740": {
+    "zh-TW": "生物體構造與功能的基本單位"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1296830": {
+    "zh-TW": "政府籌集、運用與管理公共資金的事務"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1297960": {
+    "zh-TW": "把想法組織成文字、寫成文章的活動"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1299680": {
+    "zh-TW": "口部寬而淺、供盛放食物的扁平餐具"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1301490": {
+    "zh-TW": "一百的三倍所表示的整數"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1310720": {
+    "zh-TW": "生命活動不可逆地終止的狀態"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1311640": {
+    "zh-TW": "介於紅色與藍色之間的一類顏色"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1313580": {
+    "zh-TW": "可供談論、處理或經歷的問題、內容與遭遇"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1315250": {
+    "zh-TW": "供佛教信仰活動、修行與禮拜的建築場所"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1315840": {
+    "zh-TW": "事件在先後順序中的位置，或持續的長短"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1315920": {
+    "zh-TW": "用來衡量事件先後與持續長短的尺度"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1318090": {
+    "zh-TW": "並非人為創造的環境、生物與各種現象的整體"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1318340": {
+    "zh-TW": "機械或程序不需人持續操作即可運行的性質"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1319180": {
+    "zh-TW": "供物體繞行旋轉、或連接旋轉部件的中心長條構件"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1319860": {
+    "zh-TW": "想工作卻沒有職位、或失去原有工作的狀態"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1323080": {
+    "zh-TW": "以輪子在地面行進、用來運人或載物的交通工具"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1333090": {
+    "zh-TW": "反覆進行後逐漸形成的固定行為方式"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1334470": {
+    "zh-TW": "比十多一的整數"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1334610": {
+    "zh-TW": "比十二多一的整數"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1334890": {
+    "zh-TW": "比十一多一的整數"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1346500": {
+    "zh-TW": "通知有關人員聚集，以參與會議或履行任務"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1346570": {
+    "zh-TW": "一個數除以另一個數所得的結果"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1349820": {
+    "zh-TW": "日本從1926年12月25日至1989年1月7日使用的年號"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1349860": {
+    "zh-TW": "針狀葉常成束生長、結毬果的常綠樹木"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1351270": {
+    "zh-TW": "書籍中按內容劃分的一個較大段落"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1351280": {
+    "zh-TW": "因愉快、覺得有趣等而發出的聲音或表情"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1353080": {
+    "zh-TW": "允許的數量、程度或範圍中最高的界線"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1356210": {
+    "zh-TW": "內心的感受、喜怒哀樂或對他人的關切"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1357600": {
+    "zh-TW": "光線作用於視覺所產生、可區分物體外觀的感覺"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1364440": {
+    "zh-TW": "信仰中被認為具有超自然能力、受到敬奉的存在"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1368020": {
+    "zh-TW": "依身體特徵與歷史觀念對族群所作的分類"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1370320": {
+    "zh-TW": "以線條、符號或畫面呈現事物的視覺表示"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1371260": {
+    "zh-TW": "常溫下無色透明、化學式為H₂O的液體"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1373560": {
+    "zh-TW": "頭頂褐色、臉頰有黑斑、常見於人居環境的小鳥"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1382830": {
+    "zh-TW": "從地下開採、可煉製多種燃料的液態碳氫混合物"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1395370": {
+    "zh-TW": "參加的每一場比賽都獲得勝利"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1406230": {
+    "zh-TW": "自己子女所生的下一代"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1411070": {
+    "zh-TW": "以柔軟材料製成、可裝放與攜帶物品的容納用品"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1412050": {
+    "zh-TW": "棒球中臨時替其他球員上場打擊的人或行動"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1412170": {
+    "zh-TW": "受委託替群體表達意見或行使權限的人"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1413240": {
+    "zh-TW": "提供較高層次專業教育與研究的高等教育機構"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1415060": {
+    "zh-TW": "可供取得纖維的草本作物，也可指含精神活性成分的同類植物"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1419990": {
+    "zh-TW": "與女性相對的成年性別稱呼"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1421520": {
+    "zh-TW": "埋設於地面或地下、受到觸發後爆炸的武器"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1422230": {
+    "zh-TW": "莖節明顯、常中空的高大禾本科植物"
+  }
+}

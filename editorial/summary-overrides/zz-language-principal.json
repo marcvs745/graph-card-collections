@@ -1,0 +1,278 @@
+{
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-55c4fadb327e49a5": {
+    "ko": "혼인 관계에서 여성인 배우자",
+    "en-US": "A married woman in relation to her spouse",
+    "ja": "結婚相手である女性",
+    "zh-TW": "婚姻關係中的女性配偶"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-32d42b97294a1365": {
+    "ko": "공기 중에 떠 있는 작은 물방울이나 얼음 입자의 덩어리",
+    "en-US": "A mass of tiny water droplets or ice crystals suspended in the atmosphere",
+    "ja": "空中に浮かぶ小さな水滴や氷の粒の集まり",
+    "zh-TW": "空中懸浮的小水滴或冰晶的集合"
+  },
+  "builtin-zh-hsk2-level-1::builtin-zh-hsk2-level-1-bb0d9c666fa88969": {
+    "ko": "정해지지 않은 수량을 물을 때 쓰는 말",
+    "en-US": "Asks how many or indicates an unspecified small number",
+    "ja": "数量がいくつかをたずねる語",
+    "zh-TW": "詢問數量有多少或表示少許"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-975f35218ed8782e": {
+    "ko": "원하거나 필요로 하다",
+    "en-US": "To want or need something",
+    "ja": "望む、なくてはならないと求める",
+    "zh-TW": "想取得或有所需求"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-150617a89b449d77": {
+    "ko": "정도가 다른 모든 것보다 가장 높음을 나타내는 말",
+    "en-US": "Marks the highest degree among all compared items",
+    "ja": "程度がほかのすべてを上回ること",
+    "zh-TW": "表示程度超過其餘全部"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-86f0098751115013": {
+    "ko": "음전하를 띠는 기본 입자",
+    "en-US": "An elementary particle carrying negative electric charge",
+    "ja": "負の電荷を持つ素粒子",
+    "zh-TW": "帶負電荷的基本粒子"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-b9f0c815459caa83": {
+    "ko": "해가 지는 쪽의 방위",
+    "en-US": "The compass direction in which the sun sets",
+    "ja": "太陽が沈む方角",
+    "zh-TW": "太陽落下的方向"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-2978ed85cb04ac1b": {
+    "ko": "두 발로 몸을 세우다; 교통수단이 멈추는 곳",
+    "en-US": "To support the body upright on the feet; a stop for transport",
+    "ja": "足で体を支えて立つ、または乗り物の停車場所",
+    "zh-TW": "用雙腳支撐身體直立，或交通工具停靠的地方"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-42a49b81be0d92c7": {
+    "ko": "아들이나 딸이 낳은 남자아이",
+    "en-US": "A male child of one’s son or daughter",
+    "ja": "自分の子が生んだ男のこども",
+    "zh-TW": "兒女所生的男性後代"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-d657ee1d4abbab42": {
+    "ko": "틀리지 않고 바르다",
+    "en-US": "Correct or free from error",
+    "ja": "誤りがなく道理に合う",
+    "zh-TW": "沒有錯誤且合乎道理"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-ea3bc829642592e2": {
+    "ko": "특정 지역에서 쓰는 고유한 말의 체계",
+    "en-US": "A form of a language characteristic of a particular region",
+    "ja": "地域ごとに異なる話しことば",
+    "zh-TW": "特定地區通行的語音詞彙系統"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-d665e5e81ea87693": {
+    "ko": "새나 곤충 등이 날 때 쓰는 몸의 부분",
+    "en-US": "A body part used for flight by birds or insects",
+    "ja": "鳥や昆虫などが飛ぶために持つ部分",
+    "zh-TW": "鳥或昆蟲等用來飛行的身體部分"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-0aa288d59e657710": {
+    "ko": "힘을 주어 구부리거나 꺾다",
+    "en-US": "To bend or break by applying force",
+    "ja": "力を加えて曲げたり切り離したりする",
+    "zh-TW": "施力使彎曲或斷開"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-bad8b6c7ae2ee84b": {
+    "ko": "문장 끝에서 제안하거나 짐작하는 뜻을 더하는 어기조사",
+    "en-US": "A sentence-final particle expressing a suggestion or supposition",
+    "ja": "文末で提案や推測を添える語気助詞",
+    "zh-TW": "用於句末，表示建議或推測的語氣助詞"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-089d8c4c00705fce": {
+    "ko": "99보다 하나 큰 수인 100",
+    "en-US": "The number 100, one more than 99",
+    "ja": "九十九の次に当たる整数",
+    "zh-TW": "九十九再加一的整數"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-ab158a8483c3b86e": {
+    "ko": "둘 이상을 견주어 같고 다른 점이나 정도의 차이를 살피다",
+    "en-US": "To examine similarities or differences between two or more things",
+    "ja": "二つ以上を照らし合わせ、共通点や違いを調べる",
+    "zh-TW": "對照兩個以上的對象，察看異同或程度差異"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-edeb31dda65c9719": {
+    "ko": "시험에서 답해야 할 물음이나 논의에서 다루는 내용",
+    "en-US": "A question to answer in an exam, or a subject for discussion",
+    "ja": "試験で答える事柄や、話し合う対象",
+    "zh-TW": "考試中須作答的問題或討論所涉及的內容"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-3cc493bc5b3b9b51": {
+    "ko": "생기거나 만들어진 지 얼마 되지 않은",
+    "en-US": "Recently made, appearing, or coming into existence",
+    "ja": "作られたり現れたりしてから時間のたっていない",
+    "zh-TW": "出現或製成至今時間不久的"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-eff2323d0593dd05": {
+    "ko": "실이나 섬유를 엮어 만든 납작하고 유연한 재료",
+    "en-US": "A flat flexible material made by weaving or interlacing fibers",
+    "ja": "糸や繊維を織り合わせた、平らで柔らかな素材",
+    "zh-TW": "以纖維紡織而成，可用於製衣的平面材料"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-025de7b314cf32b9": {
+    "ko": "겉모습이 아름답지 않고 보기 흉한",
+    "en-US": "Unattractive or unpleasant in appearance",
+    "ja": "外見が美しくなく、見苦しい",
+    "zh-TW": "外表難看、不美觀的"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-4a5ff677e1dbd37c": {
+    "ko": "네 변의 길이가 같고 네 모서리가 모두 직각인 모양",
+    "en-US": "A shape with four equal sides and four right angles",
+    "ja": "四辺の長さが等しく、四隅が直角の形",
+    "zh-TW": "四邊等長且四個夾角皆為直角的形狀"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-5d62696bfa025fe1": {
+    "ko": "속이 비어 액체나 기체 등이 통하도록 만든 긴 물건",
+    "en-US": "A long hollow object through which liquid or gas can flow",
+    "ja": "液体や気体などを通す、内部の空いた長い物",
+    "zh-TW": "內部中空、可供液體或氣體通過的長條物"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-142d843e71639506": {
+    "ko": "어떤 직무나 역할을 맡아서 하다",
+    "en-US": "To serve in a particular position or role",
+    "ja": "ある職務や役割を務める",
+    "zh-TW": "擔任某種職務或角色"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-f7778934807d1283": {
+    "ko": "한쪽에서 다른 쪽으로 건너거나 어떤 곳을 지나가다",
+    "en-US": "To cross from one side to another or pass a place",
+    "ja": "一方から他方へ渡る、またはある場所を通り抜ける",
+    "zh-TW": "從一側越到另一側，或經由某處通行"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-9542b77102bd0036": {
+    "ko": "더위나 운동 등으로 피부에서 나오는 수분",
+    "en-US": "Moisture released through the skin, especially in heat or exercise",
+    "ja": "暑さや運動などで皮膚から出る水分",
+    "zh-TW": "因炎熱、運動等而由皮膚排出的水分"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-d4cfe8c82c9c3045": {
+    "ko": "물질이 타면서 열과 빛을 내는 현상",
+    "en-US": "Combustion producing heat and light",
+    "ja": "物が燃えて熱と光を出す現象",
+    "zh-TW": "物質燃燒時發出熱與光的現象"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-bb7ef73495dd8a74": {
+    "ko": "일이 진행된 끝에 생기는 상태나 성과",
+    "en-US": "The outcome or final effect of an event or process",
+    "ja": "物事の進行の末に生じる状態や成果",
+    "zh-TW": "事情發展到最後產生的狀態或成效"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-abc511ca956e37e4": {
+    "ko": "빈틈이나 남는 공간이 없이 가득 찬",
+    "en-US": "Filled with no room remaining",
+    "ja": "空きや余地のないほど詰まった",
+    "zh-TW": "空間已被填盡，沒有空餘的"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-dc7063dba662fb25": {
+    "ko": "지금과 가깝거나 현재에 해당하는 시대",
+    "en-US": "The present or a period close to it",
+    "ja": "今、または今に近い時代",
+    "zh-TW": "現在或距今較近的時期"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-f1906ce054494ea3": {
+    "ko": "때나 오염물이 묻어 깨끗하지 않은",
+    "en-US": "Unclean or covered with dirt",
+    "ja": "汚れの付いた、清潔でない状態",
+    "zh-TW": "沾有污垢、不潔淨的"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-beddda2bcf2473af": {
+    "ko": "두 선이나 면이 만날 때 생기는 벌어진 정도나 모서리",
+    "en-US": "An opening or corner formed where two lines or surfaces meet",
+    "ja": "二本の線や面が出会ってできる開きや隅",
+    "zh-TW": "兩條線或兩個面相交所形成的開口或轉折處"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-4da9378368423266": {
+    "ko": "지식이나 기술을 다른 사람이 익히도록 알려 주다",
+    "en-US": "To help someone learn knowledge or skills by instruction",
+    "ja": "知識や技能を相手が身につけられるよう伝える",
+    "zh-TW": "傳授知識或技能，使他人學會"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-1aac8b956f808df5": {
+    "ko": "벼의 껍질을 벗겨 식용으로 쓰는 알곡",
+    "en-US": "The edible grains obtained by removing the husks of a cereal grown in paddies",
+    "ja": "稲の実から外皮などを除いた、主食となる穀物",
+    "zh-TW": "稻子去殼後供食用的籽粒"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-02d9cb10ca808b8a": {
+    "ko": "깃털과 부리가 있고 알을 낳는 척추동물의 무리",
+    "en-US": "A group of egg-laying vertebrates with feathers and beaks",
+    "ja": "羽やくちばしを持ち、卵から生まれる脊椎動物の一群",
+    "zh-TW": "具羽毛、喙並以卵繁殖的脊椎動物類群"
+  },
+  "builtin-zh-hsk2-level-1::builtin-zh-hsk2-level-1-c8ae97be80f3867c": {
+    "ko": "사람이 함께 살며 생활하는 집이나 그 가족",
+    "en-US": "A home where people live, or the family living there",
+    "ja": "人の暮らす住まい、またはそこで暮らす人々",
+    "zh-TW": "供人居住、共同起居的房屋或同住親屬"
+  },
+  "builtin-zh-hsk2-level-1::builtin-zh-hsk2-level-1-5a2362a20207f453": {
+    "ko": "말하는 이에게서 떨어져 있거나 앞에서 언급한 대상을 가리키는 말",
+    "en-US": "Points to a distant or previously mentioned person or thing",
+    "ja": "話し手から離れた、または既に述べた対象を指す語",
+    "zh-TW": "指稱較遠或已提及對象的指示詞"
+  },
+  "builtin-zh-hsk2-level-1::builtin-zh-hsk2-level-1-62ef900a8f5d5bff": {
+    "ko": "지구가 태양 둘레를 한 바퀴 도는 데 걸리는 시간에 가까운 기간",
+    "en-US": "A period roughly equal to one orbit of Earth around the Sun",
+    "ja": "地球の太陽一周とほぼ等しい期間",
+    "zh-TW": "地球繞太陽一圈所對應的期間"
+  },
+  "builtin-zh-hsk2-level-1::builtin-zh-hsk2-level-1-0eb863c78da3e38b": {
+    "ko": "물건이나 서비스를 사고 대가를 치르는 데 쓰는 수단",
+    "en-US": "Coins, notes, or other means used to pay for goods and services",
+    "ja": "商品やサービスの代金を支払う手段",
+    "zh-TW": "交換商品或支付服務的通用財物"
+  },
+  "builtin-zh-hsk2-level-1::builtin-zh-hsk2-level-1-4247f1a43b8230cb": {
+    "ko": "몸의 무게를 엉덩이에 싣고 자리를 잡다",
+    "en-US": "To rest the body’s weight on the buttocks on a seat or surface",
+    "ja": "腰を下ろして体を支える姿勢を取る",
+    "zh-TW": "以臀部承受體重，停留於座位或平面上"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-786e05bf8e2a23cf": {
+    "ko": "사실이나 사건 등을 적어서 남긴 내용이나 자료",
+    "en-US": "A written account preserving facts or events",
+    "ja": "事実や出来事を書き残した内容や資料",
+    "zh-TW": "將事實或事件寫下保存的內容或資料"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-4cc7b00050cb1c21": {
+    "ko": "걷거나 이동하다; 일을 할 수 있거나 괜찮다",
+    "en-US": "To walk or travel; capable, possible, or acceptable",
+    "ja": "歩く、移動する；可能、または差し支えない",
+    "zh-TW": "步行或移動；有能力、可辦到或沒問題"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-f91f5faf74703314": {
+    "ko": "사람의 나이가 많거나 사물이 생긴 지 오래된",
+    "en-US": "Advanced in age or having existed for a long time",
+    "ja": "人の年齢が高い、または長く存在してきた",
+    "zh-TW": "人的歲數大，或事物存在時間長的"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-29b98b260b096fba": {
+    "ko": "말이나 자전거 등에 두 다리를 벌려 올라타다",
+    "en-US": "To sit astride and travel on a horse, bicycle, or similar vehicle",
+    "ja": "馬や自転車などにまたがって進む",
+    "zh-TW": "跨坐在馬或自行車等上面行進"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-f905f230341bed6f": {
+    "ko": "말을 필요 이상으로 길게 늘어놓아 끝없이 이야기하다",
+    "en-US": "To speak at excessive length without stopping",
+    "ja": "必要以上に長々と話し続ける",
+    "zh-TW": "話語過多，長篇不停地說"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-a3c3a9aa7a88012f": {
+    "ko": "눈꺼풀을 조금 내려 눈을 가늘게 뜨다",
+    "en-US": "To partly close the eyelids and look through a narrow opening",
+    "ja": "まぶたを少し閉じて細いすき間から見る",
+    "zh-TW": "將眼瞼稍微合攏，留細縫觀看"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-b6e6be14a98a4bde": {
+    "ko": "전통적 평가에서 여자가 마음씨가 착하고 도리를 잘 안다고 이르는 말",
+    "en-US": "A traditional description of a woman as kind and understanding of moral duties",
+    "ja": "伝統的な評価で、女性の心が善良で道理を理解するとする語",
+    "zh-TW": "傳統上形容女子心地善良、深明道理的用語"
+  }
+}

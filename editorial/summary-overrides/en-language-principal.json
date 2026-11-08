@@ -1,0 +1,803 @@
+{
+  "builtin-en-school-elementary::en-7e002e1ba02e628e": {
+    "en-US": "A story told through a series of drawings"
+  },
+  "builtin-en-school-elementary::en-0fcd568a5cb9bdb4": {
+    "en-US": "The power to direct or influence behavior"
+  },
+  "builtin-en-school-elementary::en-a2f89e6fe92debe3": {
+    "en-US": "A place or institution where legal cases are judged"
+  },
+  "builtin-en-school-elementary::en-beb134754910a4b4": {
+    "en-US": "An adult female bovine animal"
+  },
+  "builtin-en-school-elementary::en-3b9c358f36f0a31b": {
+    "en-US": "A collection of computer data stored together; a folder of papers"
+  },
+  "builtin-en-school-elementary::en-10c22bcf4c768b51": {
+    "en-US": "Marks a purpose, intended recipient, or duration"
+  },
+  "builtin-en-school-elementary::en-2fe840e13244a9d7": {
+    "en-US": "A substance in a state without fixed shape or volume"
+  },
+  "builtin-en-school-elementary::en-3e46c8846ec5016c": {
+    "en-US": "A substance chewed for flavor without swallowing"
+  },
+  "builtin-en-school-elementary::en-97fe8a3749069931": {
+    "en-US": "The number 100"
+  },
+  "builtin-en-school-elementary::en-360f84035942243c": {
+    "en-US": "The side opposite the right"
+  },
+  "builtin-en-school-elementary::en-b8d31e852725afb1": {
+    "en-US": "Indicates contact with or support by a surface"
+  },
+  "builtin-en-school-elementary::en-27042f4e6eca7d0b": {
+    "en-US": "The side opposite the left"
+  },
+  "builtin-en-school-elementary::en-0695b563acde461f": {
+    "en-US": "Accompanying, having, or carrying someone or something"
+  },
+  "builtin-en-school-secondary::en-603ec1f360e29852": {
+    "en-US": "To say someone has done something wrong"
+  },
+  "builtin-en-school-secondary::en-f1f61cc7216e1801": {
+    "en-US": "To change to suit new conditions or purposes"
+  },
+  "builtin-en-school-secondary::en-13f31855069f273d": {
+    "en-US": "To feel respect or wonder toward someone or something"
+  },
+  "builtin-en-school-secondary::en-faef616df2ec2442": {
+    "en-US": "Worried about what may happen"
+  },
+  "builtin-en-school-secondary::en-22a44dc676278497": {
+    "en-US": "To designate someone for a job or position"
+  },
+  "builtin-en-school-secondary::en-e0787d272a439bb7": {
+    "en-US": "The focus of thoughts or interest on something"
+  },
+  "builtin-en-school-secondary::en-1ae3d35454b6ddf2": {
+    "en-US": "A sudden loud noise from a hit or impact"
+  },
+  "builtin-en-school-secondary::en-a21dfce2c27396ca": {
+    "en-US": "A coastal inlet partly enclosed by land"
+  },
+  "builtin-en-school-secondary::en-6d38f6d6072843ee": {
+    "en-US": "To be a member or feel accepted in a group"
+  },
+  "builtin-en-school-secondary::en-36e110819a318ddd": {
+    "en-US": "To make or become curved"
+  },
+  "builtin-en-school-secondary::en-0ae467cc10e077a1": {
+    "en-US": "To risk something on an outcome, usually money"
+  },
+  "builtin-en-school-secondary::en-bbe8e9531e011540": {
+    "en-US": "Having a sharp, unpleasant taste unlike sweetness"
+  },
+  "builtin-en-school-secondary::en-f38c764c8aa00b65": {
+    "en-US": "A part growing out from a tree trunk; a division of an organization"
+  },
+  "builtin-en-school-secondary::en-38136d6e343860f6": {
+    "en-US": "The chest area; an organ that can produce milk after childbirth"
+  },
+  "builtin-en-school-secondary::en-bd08022e8fb80701": {
+    "en-US": "A city serving as a country’s seat of government"
+  },
+  "builtin-en-school-secondary::en-2f1b86bf5531b8e8": {
+    "en-US": "Worry about a person or situation"
+  },
+  "builtin-en-school-secondary::en-fa9e1d22205ad852": {
+    "en-US": "A serious disagreement or clash"
+  },
+  "builtin-en-school-secondary::en-8326e09ce4e90a41": {
+    "en-US": "The time when daylight first appears"
+  },
+  "builtin-en-school-secondary::en-ecd38f260821a09a": {
+    "en-US": "To state the meaning or limits of something"
+  },
+  "builtin-en-school-secondary::en-b308a7f43bba8e7a": {
+    "en-US": "A level or extent; a university qualification; a unit for temperature or angle"
+  },
+  "builtin-en-school-secondary::en-d43c8bd5797aa43a": {
+    "en-US": "Rules and training that develop self-control"
+  },
+  "builtin-en-school-secondary::en-cf07a76f938476da": {
+    "en-US": "To gain money or another benefit through work or effort"
+  },
+  "builtin-en-school-secondary::en-fac6a3243ed4705f": {
+    "en-US": "To participate in an activity"
+  },
+  "builtin-en-school-secondary::en-b5c1fb2efc6d6b46": {
+    "en-US": "Morally very bad or harmful"
+  },
+  "builtin-en-school-secondary::en-008231aaf9995698": {
+    "en-US": "To put thoughts or feelings into words or another form"
+  },
+  "builtin-en-school-secondary::en-1869c9d2a11e8ecd": {
+    "en-US": "Just and free from bias"
+  },
+  "builtin-en-school-secondary::en-da4270e3735a3418": {
+    "en-US": "To be the appropriate size or shape"
+  },
+  "builtin-en-school-secondary::en-5dc27af287fa554a": {
+    "en-US": "Level and without raised parts"
+  },
+  "builtin-en-school-secondary::en-fcbbae7c00b4d07d": {
+    "en-US": "Ordinary people or their traditional culture"
+  },
+  "builtin-en-school-secondary::en-21b747de22dbb757": {
+    "en-US": "A building or room used to keep a car"
+  },
+  "builtin-en-school-secondary::en-e010fd1ce1acc173": {
+    "en-US": "Elegance in movement or manner"
+  },
+  "builtin-en-school-secondary::en-7aa5eb472a5562e3": {
+    "en-US": "A shop selling food and everyday household goods"
+  },
+  "builtin-en-school-secondary::en-af3ce03f6874c531": {
+    "en-US": "Physical or other injury and damage"
+  },
+  "builtin-en-school-secondary::en-5baba4fb94157978": {
+    "en-US": "The need or strong desire for food"
+  },
+  "builtin-en-school-secondary::en-618dc58379dda348": {
+    "en-US": "Happening immediately; a very brief moment"
+  },
+  "builtin-en-school-secondary::en-828408e40d4fe651": {
+    "en-US": "Curiosity or a wish to know more"
+  },
+  "builtin-en-school-secondary::en-1e2f4f54c7a1c494": {
+    "en-US": "To create something new and useful"
+  },
+  "builtin-en-school-secondary::en-8fdd880f097cddfe": {
+    "en-US": "Lower in rank or younger"
+  },
+  "builtin-en-school-secondary::en-468c7b6449dd928f": {
+    "en-US": "Fairness in treatment and the application of law"
+  },
+  "builtin-en-school-secondary::en-d93244e7b08131ef": {
+    "en-US": "A marked strip of road for traffic; a narrow road"
+  },
+  "builtin-en-school-secondary::en-6558a6a3379db4f3": {
+    "en-US": "Important or greater in significance"
+  },
+  "builtin-en-school-secondary::en-d2bedad966f1b52a": {
+    "en-US": "An oven using electromagnetic radiation to heat food"
+  },
+  "builtin-en-school-secondary::en-cabd786ac52d8cfc": {
+    "en-US": "Less important or smaller in significance"
+  },
+  "builtin-en-school-secondary::en-305238273bb0fac2": {
+    "en-US": "The act or process of moving"
+  },
+  "builtin-en-school-secondary::en-5eda958e9ddee772": {
+    "en-US": "Having little distance between sides"
+  },
+  "builtin-en-school-secondary::en-5a1c2d155cdc566e": {
+    "en-US": "A bundle of fibers carrying signals for sensation and movement"
+  },
+  "builtin-en-school-secondary::en-990cb8ebd0afb715": {
+    "en-US": "Strange or unusual"
+  },
+  "builtin-en-school-secondary::en-3eeb7e96e59ce40f": {
+    "en-US": "An arrangement or sequence"
+  },
+  "builtin-en-school-secondary::en-79631cb1b7b63b6e": {
+    "en-US": "Sudden overwhelming fear"
+  },
+  "builtin-en-school-secondary::en-5824ab38ef4c506f": {
+    "en-US": "Forgiveness for wrongdoing"
+  },
+  "builtin-en-school-secondary::en-514cb13f603464f9": {
+    "en-US": "A length of time"
+  },
+  "builtin-en-school-secondary::en-8c0706c0a8dcb82c": {
+    "en-US": "Sympathy for someone’s suffering"
+  },
+  "builtin-en-school-secondary::en-27cac5503836765c": {
+    "en-US": "A constructed area of water for swimming"
+  },
+  "builtin-en-school-secondary::en-dccc5d01dabcd1c0": {
+    "en-US": "Most important or best"
+  },
+  "builtin-en-school-secondary::en-d23be8d1141403ea": {
+    "en-US": "Money gained after costs are deducted"
+  },
+  "builtin-en-school-secondary::en-e718dfa13423e2e4": {
+    "en-US": "To produce the sounds of a word or letter"
+  },
+  "builtin-en-school-secondary::en-52dabec3560592b3": {
+    "en-US": "To establish truth using evidence"
+  },
+  "builtin-en-school-secondary::en-acef2c15bcd349db": {
+    "en-US": "A standard of excellence; a characteristic"
+  },
+  "builtin-en-school-secondary::en-6327245c3a45d3d9": {
+    "en-US": "To repeat someone’s exact words"
+  },
+  "builtin-en-school-secondary::en-1b00de68c4c9617c": {
+    "en-US": "To identify from prior experience"
+  },
+  "builtin-en-school-secondary::en-e78618f499c47e47": {
+    "en-US": "To be connected with something"
+  },
+  "builtin-en-school-secondary::en-6df24c372c044a0f": {
+    "en-US": "To arrange for a room or table to be kept for later use"
+  },
+  "builtin-en-school-secondary::en-0c3e015009e5155c": {
+    "en-US": "Admiration or consideration for someone"
+  },
+  "builtin-en-school-secondary::en-2e09d5210db84177": {
+    "en-US": "Time spent relaxing or sleeping"
+  },
+  "builtin-en-school-secondary::en-e049bd056f936d1b": {
+    "en-US": "To travel on a horse or vehicle"
+  },
+  "builtin-en-school-secondary::en-a97b0931730e83fb": {
+    "en-US": "Circular in shape"
+  },
+  "builtin-en-school-secondary::en-7369949b47ef2c6b": {
+    "en-US": "A statement of how things should be done"
+  },
+  "builtin-en-school-secondary::en-f469802a31447f90": {
+    "en-US": "The relative size or extent of something"
+  },
+  "builtin-en-school-secondary::en-4f48f7207cebf926": {
+    "en-US": "A part of a play or film; the place of an event"
+  },
+  "builtin-en-school-secondary::en-4cd6c2914887dd4a": {
+    "en-US": "A surface on which images or information appear"
+  },
+  "builtin-en-school-secondary::en-6a934b45144e3758": {
+    "en-US": "Safe and protected against danger"
+  },
+  "builtin-en-school-secondary::en-19b25856e1c150ca": {
+    "en-US": "A plant structure from which a new plant may grow"
+  },
+  "builtin-en-school-secondary::en-821119d79af8b9fc": {
+    "en-US": "A group of words expressing a complete statement"
+  },
+  "builtin-en-school-secondary::en-6868e83de35c465d": {
+    "en-US": "To start living in a new place"
+  },
+  "builtin-en-school-secondary::en-e02d7fca852ac60e": {
+    "en-US": "Shelter from direct light"
+  },
+  "builtin-en-school-secondary::en-bf197ff3615054b0": {
+    "en-US": "A painful feeling of disgrace"
+  },
+  "builtin-en-school-secondary::en-f58940a313992e68": {
+    "en-US": "The outer form of something"
+  },
+  "builtin-en-school-secondary::en-bd9b8d8e9aa8e2aa": {
+    "en-US": "To fire a weapon or propel a ball"
+  },
+  "builtin-en-school-secondary::en-89f45d4c8172f37e": {
+    "en-US": "The part of the body where the arm joins the trunk"
+  },
+  "builtin-en-school-secondary::en-528159b45697166b": {
+    "en-US": "Washing under falling water; a brief rainstorm"
+  },
+  "builtin-en-school-secondary::en-b991a49b1b0aa2cc": {
+    "en-US": "The ability to see"
+  },
+  "builtin-en-school-secondary::en-1978baf2c153fd3b": {
+    "en-US": "To go below a surface"
+  },
+  "builtin-en-school-secondary::en-e93d59a02163f846": {
+    "en-US": "Earth in which plants grow"
+  },
+  "builtin-en-school-secondary::en-cf2d9706736982fb": {
+    "en-US": "Extra or kept available for later use"
+  },
+  "builtin-en-school-secondary::en-05fb617ad543807c": {
+    "en-US": "Spoken expression or a formal talk"
+  },
+  "builtin-en-school-secondary::en-f64a33ff88c38111": {
+    "en-US": "To use money for payment or use time for an activity"
+  },
+  "builtin-en-school-secondary::en-4ba3e8e3765f2970": {
+    "en-US": "A shape with four equal sides and four right angles"
+  },
+  "builtin-en-school-secondary::en-f379ccb92b911644": {
+    "en-US": "Unlikely to change or lose balance"
+  },
+  "builtin-en-school-secondary::en-e0afcdbf6ad4adf5": {
+    "en-US": "A small label showing postage has been paid"
+  },
+  "builtin-en-school-secondary::en-9b4ef3e5b7b4d175": {
+    "en-US": "A place where trains or buses stop for passengers"
+  },
+  "builtin-en-school-secondary::en-08c4242b5f585628": {
+    "en-US": "Goods kept available for sale"
+  },
+  "builtin-en-school-secondary::en-2a424875a8475a99": {
+    "en-US": "Without bends or curves"
+  },
+  "builtin-en-school-secondary::en-f43dc8790ed62156": {
+    "en-US": "Mental tension or pressure"
+  },
+  "builtin-en-school-secondary::en-473287f8298dba71": {
+    "en-US": "Thin cord or a sequence of linked items"
+  },
+  "builtin-en-school-secondary::en-35bafb1ce99aef3a": {
+    "en-US": "Things or materials in general"
+  },
+  "builtin-en-school-secondary::en-21839e0eb260dda7": {
+    "en-US": "A matching set of clothing"
+  },
+  "builtin-en-school-secondary::en-b9043c16af362f30": {
+    "en-US": "Having the taste associated with sugar"
+  },
+  "builtin-en-school-secondary::en-2da977e917bcbc5e": {
+    "en-US": "To move back and forth"
+  },
+  "builtin-en-school-secondary::en-deb8cc25f01429d6": {
+    "en-US": "Nervous or unable to relax"
+  },
+  "builtin-en-school-secondary::en-74f7fd1cf08b145c": {
+    "en-US": "A fixture used to receive bodily waste"
+  },
+  "builtin-en-school-secondary::en-11239872d178729a": {
+    "en-US": "The sum of all amounts"
+  },
+  "builtin-en-school-secondary::en-276446ba01e3aa38": {
+    "en-US": "Buying, selling, or exchanging goods"
+  },
+  "builtin-en-school-secondary::en-a5075550e1f2376f": {
+    "en-US": "To behave toward someone in a particular way"
+  },
+  "builtin-en-school-secondary::en-7130df43355ec25b": {
+    "en-US": "Difficulty or distress"
+  },
+  "builtin-en-school-secondary::en-f796e2f28ae58117": {
+    "en-US": "Confidence that someone or something is reliable"
+  },
+  "builtin-en-school-secondary::en-8b2f406339328a5d": {
+    "en-US": "Distressed or emotionally disturbed"
+  },
+  "builtin-en-school-secondary::en-cd42404d52ad55cc": {
+    "en-US": "The worth or importance of something"
+  },
+  "builtin-en-school-secondary::en-b404ed3c370c8c26": {
+    "en-US": "A means of carrying people or goods"
+  },
+  "builtin-en-school-secondary::en-5944ae849448011c": {
+    "en-US": "The ability to see; an idea of the future"
+  },
+  "builtin-en-school-secondary::en-62d7a6b1211d6276": {
+    "en-US": "The amount of space something occupies"
+  },
+  "builtin-en-school-secondary::en-c047caef95b4d3e8": {
+    "en-US": "An animal’s structure used for flying"
+  },
+  "builtin-en-school-high::en-355543f790a3b210": {
+    "en-US": "A skilled activity or the ability to make things carefully"
+  },
+  "builtin-en-school-high::en-73e4c51456c25bab": {
+    "en-US": "Relating to devices using circuits to control signals"
+  },
+  "builtin-en-school-high::en-f0a613ed6eebe40f": {
+    "en-US": "A place where two parts meet"
+  },
+  "builtin-en-school-high::en-ce1d801d152db837": {
+    "en-US": "A medieval mounted warrior; a person granted an honorary rank"
+  },
+  "builtin-en-general-core::en-f38c764c8aa00b65": {
+    "en-US": "A part growing out from a tree trunk; a division of an organization"
+  },
+  "builtin-en-general-core::en-89f45d4c8172f37e": {
+    "en-US": "The part of the body where the arm joins the trunk"
+  },
+  "builtin-en-general-core::en-38136d6e343860f6": {
+    "en-US": "The chest area; an organ that can produce milk after childbirth"
+  },
+  "builtin-en-general-core::en-3b9c358f36f0a31b": {
+    "en-US": "A collection of computer data stored together; a folder of papers"
+  },
+  "builtin-en-general-core::en-b8d31e852725afb1": {
+    "en-US": "Indicates contact with or support by a surface"
+  },
+  "builtin-en-general-core::en-3eeb7e96e59ce40f": {
+    "en-US": "An arrangement or sequence"
+  },
+  "builtin-en-general-core::en-5eda958e9ddee772": {
+    "en-US": "Having little distance between sides"
+  },
+  "builtin-en-general-core::en-990cb8ebd0afb715": {
+    "en-US": "Strange or unusual"
+  },
+  "builtin-en-general-core::en-f0a613ed6eebe40f": {
+    "en-US": "A place where two parts meet"
+  },
+  "builtin-en-general-core::en-6df24c372c044a0f": {
+    "en-US": "To arrange for a room or table to be kept for later use"
+  },
+  "builtin-en-general-core::en-b991a49b1b0aa2cc": {
+    "en-US": "The ability to see"
+  },
+  "builtin-en-general-core::en-4ba3e8e3765f2970": {
+    "en-US": "A shape with four equal sides and four right angles"
+  },
+  "builtin-en-general-core::en-08c4242b5f585628": {
+    "en-US": "Goods kept available for sale"
+  },
+  "builtin-en-general-core::en-305238273bb0fac2": {
+    "en-US": "The act or process of moving"
+  },
+  "builtin-en-general-core::en-19b25856e1c150ca": {
+    "en-US": "A plant structure from which a new plant may grow"
+  },
+  "builtin-en-general-core::en-5944ae849448011c": {
+    "en-US": "The ability to see; an idea of the future"
+  },
+  "builtin-en-general-core::en-e0787d272a439bb7": {
+    "en-US": "The focus of thoughts or interest on something"
+  },
+  "builtin-en-general-core::en-6d38f6d6072843ee": {
+    "en-US": "To be a member or feel accepted in a group"
+  },
+  "builtin-en-general-core::en-faef616df2ec2442": {
+    "en-US": "Worried about what may happen"
+  },
+  "builtin-en-general-core::en-e02d7fca852ac60e": {
+    "en-US": "Shelter from direct light"
+  },
+  "builtin-en-general-core::en-bd08022e8fb80701": {
+    "en-US": "A city serving as a country’s seat of government"
+  },
+  "builtin-en-general-core::en-fa9e1d22205ad852": {
+    "en-US": "A serious disagreement or clash"
+  },
+  "builtin-en-general-core::en-a2f89e6fe92debe3": {
+    "en-US": "A place or institution where legal cases are judged"
+  },
+  "builtin-en-general-core::en-ecd38f260821a09a": {
+    "en-US": "To state the meaning or limits of something"
+  },
+  "builtin-en-general-core::en-b308a7f43bba8e7a": {
+    "en-US": "A level or extent; a university qualification; a unit for temperature or angle"
+  },
+  "builtin-en-general-core::en-5baba4fb94157978": {
+    "en-US": "The need or strong desire for food"
+  },
+  "builtin-en-general-core::en-2f1b86bf5531b8e8": {
+    "en-US": "Worry about a person or situation"
+  },
+  "builtin-en-general-core::en-cf07a76f938476da": {
+    "en-US": "To gain money or another benefit through work or effort"
+  },
+  "builtin-en-general-core::en-fac6a3243ed4705f": {
+    "en-US": "To participate in an activity"
+  },
+  "builtin-en-general-core::en-008231aaf9995698": {
+    "en-US": "To put thoughts or feelings into words or another form"
+  },
+  "builtin-en-general-core::en-1869c9d2a11e8ecd": {
+    "en-US": "Just and free from bias"
+  },
+  "builtin-en-general-core::en-da4270e3735a3418": {
+    "en-US": "To be the appropriate size or shape"
+  },
+  "builtin-en-general-core::en-f379ccb92b911644": {
+    "en-US": "Unlikely to change or lose balance"
+  },
+  "builtin-en-general-core::en-5dc27af287fa554a": {
+    "en-US": "Level and without raised parts"
+  },
+  "builtin-en-general-core::en-2fe840e13244a9d7": {
+    "en-US": "A substance in a state without fixed shape or volume"
+  },
+  "builtin-en-general-core::en-cf2d9706736982fb": {
+    "en-US": "Extra or kept available for later use"
+  },
+  "builtin-en-general-core::en-beb134754910a4b4": {
+    "en-US": "An adult female bovine animal"
+  },
+  "builtin-en-general-core::en-5a1c2d155cdc566e": {
+    "en-US": "A bundle of fibers carrying signals for sensation and movement"
+  },
+  "builtin-en-general-core::en-dccc5d01dabcd1c0": {
+    "en-US": "Most important or best"
+  },
+  "builtin-en-general-core::en-b5c1fb2efc6d6b46": {
+    "en-US": "Morally very bad or harmful"
+  },
+  "builtin-en-general-core::en-cabd786ac52d8cfc": {
+    "en-US": "Less important or smaller in significance"
+  },
+  "builtin-en-general-core::en-27042f4e6eca7d0b": {
+    "en-US": "The side opposite the left"
+  },
+  "builtin-en-general-core::en-73e4c51456c25bab": {
+    "en-US": "Relating to devices using circuits to control signals"
+  },
+  "builtin-en-general-core::en-fcbbae7c00b4d07d": {
+    "en-US": "Ordinary people or their traditional culture"
+  },
+  "builtin-en-general-core::en-360f84035942243c": {
+    "en-US": "The side opposite the right"
+  },
+  "builtin-en-general-core::en-79631cb1b7b63b6e": {
+    "en-US": "Sudden overwhelming fear"
+  },
+  "builtin-en-general-core::en-c047caef95b4d3e8": {
+    "en-US": "An animal’s structure used for flying"
+  },
+  "builtin-en-general-core::en-6558a6a3379db4f3": {
+    "en-US": "Important or greater in significance"
+  },
+  "builtin-en-general-core::en-468c7b6449dd928f": {
+    "en-US": "Fairness in treatment and the application of law"
+  },
+  "builtin-en-general-core::en-514cb13f603464f9": {
+    "en-US": "A length of time"
+  },
+  "builtin-en-general-core::en-e0afcdbf6ad4adf5": {
+    "en-US": "A small label showing postage has been paid"
+  },
+  "builtin-en-general-core::en-27cac5503836765c": {
+    "en-US": "A constructed area of water for swimming"
+  },
+  "builtin-en-general-core::en-b9043c16af362f30": {
+    "en-US": "Having the taste associated with sugar"
+  },
+  "builtin-en-general-core::en-528159b45697166b": {
+    "en-US": "Washing under falling water; a brief rainstorm"
+  },
+  "builtin-en-general-core::en-d43c8bd5797aa43a": {
+    "en-US": "Rules and training that develop self-control"
+  },
+  "builtin-en-general-core::en-473287f8298dba71": {
+    "en-US": "Thin cord or a sequence of linked items"
+  },
+  "builtin-en-general-core::en-d23be8d1141403ea": {
+    "en-US": "Money gained after costs are deducted"
+  },
+  "builtin-en-general-core::en-52dabec3560592b3": {
+    "en-US": "To establish truth using evidence"
+  },
+  "builtin-en-general-core::en-acef2c15bcd349db": {
+    "en-US": "A standard of excellence; a characteristic"
+  },
+  "builtin-en-general-core::en-6327245c3a45d3d9": {
+    "en-US": "To repeat someone’s exact words"
+  },
+  "builtin-en-general-core::en-f1f61cc7216e1801": {
+    "en-US": "To change to suit new conditions or purposes"
+  },
+  "builtin-en-general-core::en-1b00de68c4c9617c": {
+    "en-US": "To identify from prior experience"
+  },
+  "builtin-en-general-core::en-e78618f499c47e47": {
+    "en-US": "To be connected with something"
+  },
+  "builtin-en-general-core::en-1e2f4f54c7a1c494": {
+    "en-US": "To create something new and useful"
+  },
+  "builtin-en-general-core::en-0fcd568a5cb9bdb4": {
+    "en-US": "The power to direct or influence behavior"
+  },
+  "builtin-en-general-core::en-0c3e015009e5155c": {
+    "en-US": "Admiration or consideration for someone"
+  },
+  "builtin-en-general-core::en-2e09d5210db84177": {
+    "en-US": "Time spent relaxing or sleeping"
+  },
+  "builtin-en-general-core::en-13f31855069f273d": {
+    "en-US": "To feel respect or wonder toward someone or something"
+  },
+  "builtin-en-general-core::en-e049bd056f936d1b": {
+    "en-US": "To travel on a horse or vehicle"
+  },
+  "builtin-en-general-core::en-a97b0931730e83fb": {
+    "en-US": "Circular in shape"
+  },
+  "builtin-en-general-core::en-7369949b47ef2c6b": {
+    "en-US": "A statement of how things should be done"
+  },
+  "builtin-en-general-core::en-f469802a31447f90": {
+    "en-US": "The relative size or extent of something"
+  },
+  "builtin-en-general-core::en-4f48f7207cebf926": {
+    "en-US": "A part of a play or film; the place of an event"
+  },
+  "builtin-en-general-core::en-4cd6c2914887dd4a": {
+    "en-US": "A surface on which images or information appear"
+  },
+  "builtin-en-general-core::en-6a934b45144e3758": {
+    "en-US": "Safe and protected against danger"
+  },
+  "builtin-en-general-core::en-1978baf2c153fd3b": {
+    "en-US": "To go below a surface"
+  },
+  "builtin-en-general-core::en-821119d79af8b9fc": {
+    "en-US": "A group of words expressing a complete statement"
+  },
+  "builtin-en-general-core::en-6868e83de35c465d": {
+    "en-US": "To start living in a new place"
+  },
+  "builtin-en-general-core::en-f58940a313992e68": {
+    "en-US": "The outer form of something"
+  },
+  "builtin-en-general-core::en-bd9b8d8e9aa8e2aa": {
+    "en-US": "To fire a weapon or propel a ball"
+  },
+  "builtin-en-general-core::en-af3ce03f6874c531": {
+    "en-US": "Physical or other injury and damage"
+  },
+  "builtin-en-general-core::en-0ae467cc10e077a1": {
+    "en-US": "To risk something on an outcome, usually money"
+  },
+  "builtin-en-general-core::en-355543f790a3b210": {
+    "en-US": "A skilled activity or the ability to make things carefully"
+  },
+  "builtin-en-general-core::en-828408e40d4fe651": {
+    "en-US": "Curiosity or a wish to know more"
+  },
+  "builtin-en-general-core::en-05fb617ad543807c": {
+    "en-US": "Spoken expression or a formal talk"
+  },
+  "builtin-en-general-core::en-36e110819a318ddd": {
+    "en-US": "To make or become curved"
+  },
+  "builtin-en-general-core::en-9b4ef3e5b7b4d175": {
+    "en-US": "A place where trains or buses stop for passengers"
+  },
+  "builtin-en-general-core::en-2a424875a8475a99": {
+    "en-US": "Without bends or curves"
+  },
+  "builtin-en-general-core::en-f43dc8790ed62156": {
+    "en-US": "Mental tension or pressure"
+  },
+  "builtin-en-general-core::en-2da977e917bcbc5e": {
+    "en-US": "To move back and forth"
+  },
+  "builtin-en-general-core::en-35bafb1ce99aef3a": {
+    "en-US": "Things or materials in general"
+  },
+  "builtin-en-general-core::en-22a44dc676278497": {
+    "en-US": "To designate someone for a job or position"
+  },
+  "builtin-en-general-core::en-21839e0eb260dda7": {
+    "en-US": "A matching set of clothing"
+  },
+  "builtin-en-general-core::en-cd42404d52ad55cc": {
+    "en-US": "The worth or importance of something"
+  },
+  "builtin-en-general-core::en-603ec1f360e29852": {
+    "en-US": "To say someone has done something wrong"
+  },
+  "builtin-en-general-core::en-11239872d178729a": {
+    "en-US": "The sum of all amounts"
+  },
+  "builtin-en-general-core::en-276446ba01e3aa38": {
+    "en-US": "Buying, selling, or exchanging goods"
+  },
+  "builtin-en-general-core::en-a5075550e1f2376f": {
+    "en-US": "To behave toward someone in a particular way"
+  },
+  "builtin-en-general-core::en-7130df43355ec25b": {
+    "en-US": "Difficulty or distress"
+  },
+  "builtin-en-general-core::en-f796e2f28ae58117": {
+    "en-US": "Confidence that someone or something is reliable"
+  },
+  "builtin-en-general-core::en-f64a33ff88c38111": {
+    "en-US": "To use money for payment or use time for an activity"
+  },
+  "builtin-en-general-core::en-e93d59a02163f846": {
+    "en-US": "Earth in which plants grow"
+  },
+  "builtin-en-general-core::en-8b2f406339328a5d": {
+    "en-US": "Distressed or emotionally disturbed"
+  },
+  "builtin-en-general-core::en-b404ed3c370c8c26": {
+    "en-US": "A means of carrying people or goods"
+  },
+  "builtin-en-general-core::en-0695b563acde461f": {
+    "en-US": "Accompanying, having, or carrying someone or something"
+  },
+  "builtin-en-general-core::en-10c22bcf4c768b51": {
+    "en-US": "Marks a purpose, intended recipient, or duration"
+  },
+  "builtin-en-general-core::en-62d7a6b1211d6276": {
+    "en-US": "The amount of space something occupies"
+  },
+  "builtin-en-toeic-tsl::en-21b747de22dbb757": {
+    "en-US": "A building or room used to keep a car"
+  },
+  "builtin-en-toeic-tsl::en-7aa5eb472a5562e3": {
+    "en-US": "A shop selling food and everyday household goods"
+  },
+  "builtin-en-toeic-tsl::en-d93244e7b08131ef": {
+    "en-US": "A marked strip of road for traffic; a narrow road"
+  },
+  "builtin-en-toeic-tsl::en-3e46c8846ec5016c": {
+    "en-US": "A substance chewed for flavor without swallowing"
+  },
+  "builtin-en-toeic-tsl::en-8fdd880f097cddfe": {
+    "en-US": "Lower in rank or younger"
+  },
+  "builtin-en-toeic-tsl::en-d2bedad966f1b52a": {
+    "en-US": "An oven using electromagnetic radiation to heat food"
+  },
+  "builtin-en-academic-nawl::en-6a6ba702490a3747": {
+    "en-US": "Permission to enter an institution or place"
+  },
+  "builtin-en-academic-nawl::en-1ae3d35454b6ddf2": {
+    "en-US": "A sudden loud noise from a hit or impact"
+  },
+  "builtin-en-academic-nawl::en-e718dfa13423e2e4": {
+    "en-US": "To produce the sounds of a word or letter"
+  },
+  "builtin-en-academic-nawl::en-59981069c56a2c66": {
+    "en-US": "A speech sound made without closing or narrowing the airflow as for a consonant"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1301110": {
+    "en-US": "Three thousand"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1301490": {
+    "en-US": "Three hundred"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1335140": {
+    "en-US": "One hundred thousand"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1488010": {
+    "en-US": "Ten billion"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1488500": {
+    "en-US": "One million"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1656380": {
+    "en-US": "Two hundred"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1767090": {
+    "en-US": "Four hundred"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1164250": {
+    "en-US": "One thousand"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1014680": {
+    "en-US": "Beyond the boundary line in a ball game"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1022130": {
+    "en-US": "Validly inside the boundary line during a ball game"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1028510": {
+    "en-US": "The 19th letter of the Latin alphabet"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1029150": {
+    "en-US": "The 8th letter of the Latin alphabet"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1031600": {
+    "en-US": "Expresses acceptance or that something is satisfactory"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1034600": {
+    "en-US": "In an inactive or deactivated state"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1047840": {
+    "en-US": "Defeat in a boxing match by making an opponent unable to continue"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1108180": {
+    "en-US": "Transmission of a document as an image over a telephone line"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-2121800": {
+    "en-US": "Ten thousand"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-150617a89b449d77": {
+    "en-US": "Marks the highest degree or a superlative"
+  },
+  "builtin-zh-literary-reading::builtin-zh-literary-reading-1f2eb2608d236247": {
+    "en-US": "An archaic word for a smile"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-1964": {
+    "en-US": "Material and mental activities learned, shared, and transmitted within a community"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-5659": {
+    "en-US": "A university qualification awarded after reaching a specified level of study"
+  },
+  "builtin-zh-literary-reading::builtin-zh-literary-reading-af50a0fe2a50a3d1": {
+    "en-US": "A prefix marking ordinal numbers"
+  }
+}

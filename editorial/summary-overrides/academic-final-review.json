@@ -1,0 +1,464 @@
+{
+  "builtin-math-statistics::math-statistics-weighted": {
+    "ko": "각 값에 반영 비중을 곱한 합을 비중의 총합으로 나눈 대표값",
+    "en-US": "A representative value obtained by dividing the sum of value–weight products by the total weight",
+    "ja": "各値に重みを掛けた積の総和を、重みの合計で割った代表値",
+    "zh-TW": "將各數值與其權重之積加總，再除以權重總和所得的代表值"
+  },
+  "builtin-math-statistics::math-statistics-quartiles": {
+    "ko": "정렬 자료를 네 구간으로 나누는 경계값과, 위·아래 경계 사이의 차",
+    "en-US": "Cutoffs dividing ordered data into four portions, and the difference between the upper and lower cutoffs",
+    "ja": "並べた資料を四つに区切る境界値と、上下の境界値の差",
+    "zh-TW": "將排序資料分為四部分的界值，以及上下界值之差"
+  },
+  "builtin-math-statistics::math-statistics-frequency": {
+    "ko": "각 값이나 구간이 관측된 횟수와, 이를 전체 관측 수로 나눈 비율",
+    "en-US": "The count observed for a value or class, and that count divided by the total number of observations",
+    "ja": "各値や階級が観測された回数と、それを総観測数で割った割合",
+    "zh-TW": "各數值或組別被觀察到的次數，以及該次數占總觀察數的比例"
+  },
+  "builtin-math-statistics::math-statistics-space": {
+    "ko": "확률 실험에서 가능한 모든 결과의 집합과, 관심 있는 결과만 고른 부분집합",
+    "en-US": "The set of all possible outcomes of a random experiment, and a subset representing outcomes of interest",
+    "ja": "確率実験で起こり得る結果全体の集合と、注目する結果を選んだ部分集合",
+    "zh-TW": "隨機試驗所有可能結果的集合，以及挑選關注結果形成的子集合"
+  },
+  "builtin-math-functions::math-functions-sine-cosine": {
+    "ko": "단위원 위에서 각도에 대응하는 점의 세로 좌표와 가로 좌표를 각각 주는 두 함수",
+    "en-US": "Two functions giving, respectively, the vertical and horizontal coordinates of the point at an angle on the unit circle",
+    "ja": "単位円上で角度に対応する点の縦座標と横座標を、それぞれ与える二つの関数",
+    "zh-TW": "分別給出單位圓上某角度所對應點的縱座標與橫座標的兩個函數"
+  },
+  "builtin-physics-measurement::physics-measurement-quantity": {
+    "ko": "측정 가능한 성질을 수치와 기준 크기의 곱으로 나타내는 체계",
+    "en-US": "A measurable property is expressed as a number multiplied by a reference magnitude",
+    "ja": "測れる性質を、数値と基準となる大きさの積で表す仕組み",
+    "zh-TW": "將可測量的性質表示為數值與基準大小之積的體系"
+  },
+  "builtin-physics-measurement::physics-measurement-si-base": {
+    "ko": "국제 측정 체계에서 시간·길이 등 일곱 독립 기준을 정하고 다른 측정 기준을 조합하는 방식",
+    "en-US": "An international measurement system built on seven independent reference quantities and combinations of their standards",
+    "ja": "国際的な測定体系で時間・長さなど七つの独立な基準を置き、他の基準を組み合わせて表す仕組み",
+    "zh-TW": "國際測量體系以時間、長度等七種獨立基準為基礎，再由其組合表示其他測量標準"
+  },
+  "builtin-physics-measurement::physics-measurement-scalar-vector": {
+    "ko": "한 수치로 나타내는 양과, 크기·방향을 지니며 정해진 덧셈 법칙을 따르는 양의 구별",
+    "en-US": "A distinction between a quantity described by one number and one with magnitude and direction obeying directed addition",
+    "ja": "一つの数値で表す量と、大きさと向きを持ち所定の加法に従う量の区別",
+    "zh-TW": "以單一數值描述的量，與具有大小、方向並遵循定向加法的量之區別"
+  },
+  "builtin-physics-measurement::physics-measurement-precision-accuracy": {
+    "ko": "반복 결과끼리 가까운 정도와 참값에 가까운 정도의 구별이며, 후자는 신뢰할 만한 기준값으로 평가한다",
+    "en-US": "Agreement among repeated results versus closeness to a true value, assessed in practice using a reliable reference",
+    "ja": "反復結果どうしの近さと真値への近さの区別で、後者は実務上、信頼できる基準値で評価する",
+    "zh-TW": "重複結果彼此接近的程度，與接近真值的程度之區別；實務上以可靠參考值評估後者"
+  },
+  "builtin-physics-measurement::physics-measurement-mean": {
+    "ko": "같은 대상을 여러 번 잰 값의 합을 횟수로 나누어 독립적인 무작위 흩어짐의 영향을 줄이는 방법",
+    "en-US": "Dividing the sum of repeated readings by their count can reduce independent random scatter in an estimate",
+    "ja": "同じ対象を複数回測った値の合計を回数で割り、独立なランダムなばらつきの影響を減らす方法",
+    "zh-TW": "把同一對象多次量得的數值加總後除以次數，以降低獨立隨機散布對估計的影響"
+  },
+  "builtin-physics-measurement::physics-measurement-significant-figures": {
+    "ko": "측정의 자릿수로 정밀함을 나타내고, 계산 중 여분 자리를 남긴 뒤 불확도와 같은 소수 자리에 맞추는 방법",
+    "en-US": "Digits convey measurement precision; keep guard digits during calculation and round the result to the uncertainty’s decimal place",
+    "ja": "測定の桁で精密さを示し、計算中は余分な桁を残して最後に不確かさと同じ小数位にそろえる方法",
+    "zh-TW": "以數值位數傳達測量精密程度，計算中保留額外位數，最後取至與不確定度相同的小數位"
+  },
+  "builtin-physics-electromagnetism::physics-electromagnetism-charge": {
+    "ko": "전기적 상호작용을 정하는 성질이며, 고립된 계에서는 그 총량이 변하지 않는다",
+    "en-US": "A property determining electrical interactions whose total remains unchanged in an isolated system",
+    "ja": "電気的な相互作用を決める性質で、孤立した系ではその総量が変わらない",
+    "zh-TW": "決定電交互作用的性質，其總量在孤立系統中保持不變"
+  },
+  "builtin-physics-electromagnetism::physics-electromagnetism-potential": {
+    "ko": "전기적 위치에너지를 전하로 나눈 값과, 두 지점 사이에서 그 값이 변한 양",
+    "en-US": "Electrical energy per unit charge at a point, and the change in that value between two points",
+    "ja": "ある点での電気的な位置エネルギーを電荷で割った値と、二点間でのその変化",
+    "zh-TW": "某點電位能除以電荷所得的值，以及兩點之間該值的變化"
+  },
+  "builtin-chemistry-electrochemistry::chemistry-electrochemistry-redox": {
+    "ko": "한 물질이 전자를 잃고 다른 물질이 전자를 얻는 과정이 짝을 이루는 변화",
+    "en-US": "Paired processes in which one species loses electrons and another gains them",
+    "ja": "一方が電子を失い、もう一方が電子を受け取ることが対になって起こる変化",
+    "zh-TW": "一個物種失去電子、另一個物種得到電子，兩個過程成對發生的變化"
+  },
+  "builtin-chemistry-electrochemistry::chemistry-electrochemistry-agents": {
+    "ko": "다른 종에서 전자를 받아 자신은 환원되는 물질과, 전자를 주어 자신은 산화되는 물질",
+    "en-US": "A substance that accepts electrons and is itself reduced, versus one that donates electrons and is itself oxidized",
+    "ja": "他の種から電子を受け取って自身は還元される物質と、電子を渡して自身は酸化される物質",
+    "zh-TW": "接受其他物種的電子而自身被還原的物質，與供出電子而自身被氧化的物質"
+  },
+  "builtin-chemistry-electrochemistry::chemistry-electrochemistry-electrodes": {
+    "ko": "전지와 전기분해 모두에서 전자를 내놓는 반응이 일어나는 전극과 받아들이는 반응이 일어나는 전극",
+    "en-US": "The electrode where electrons are released by reaction versus the one where they are accepted, in either cell type",
+    "ja": "電池でも電気分解でも、電子を放出する反応の電極と、受け取る反応の電極の区別",
+    "zh-TW": "不論原電池或電解槽，發生放出電子反應的電極與發生接受電子反應的電極之區別"
+  },
+  "builtin-chemistry-electrochemistry::chemistry-electrochemistry-free-energy": {
+    "ko": "가역 전지의 전압이 양수이면 반응 깁스 에너지 변화가 음수여서 그 방향이 열역학적으로 유리하다",
+    "en-US": "A positive reversible cell voltage corresponds to a negative reaction Gibbs energy change and a thermodynamically favored direction",
+    "ja": "可逆な電池の電圧が正なら反応のギブズエネルギー変化は負で、その方向が熱力学的に有利になる",
+    "zh-TW": "可逆電池電壓為正時，反應吉布斯能變化為負，該方向在熱力學上有利"
+  },
+  "builtin-chemistry-electrochemistry::chemistry-electrochemistry-faraday": {
+    "ko": "일정 전류와 흐른 시간의 곱으로 전기 이동량을 구하며, 전자 1 mol은 약 96485 C를 운반한다",
+    "en-US": "At constant current, multiplying current by elapsed time gives electrical transfer; one mole of electrons carries about 96485 C",
+    "ja": "一定の電流と時間の積で電気の移動量を求め、電子1 molは約96485 Cを運ぶ",
+    "zh-TW": "定電流乘以經過時間可得電的轉移量；一莫耳電子攜帶約96485 C"
+  },
+  "builtin-chemistry-electrochemistry::chemistry-electrochemistry-corrosion": {
+    "ko": "환경과의 산화·환원 반응으로 금속이 손상되는 현상과, 더 쉽게 산화되는 금속을 대신 소모해 지키는 방법",
+    "en-US": "Metal damage through environmental redox reactions, and protection by consuming a more readily oxidized metal instead",
+    "ja": "環境との酸化還元反応で金属が傷む現象と、より酸化されやすい金属を代わりに消耗させて守る方法",
+    "zh-TW": "金屬與環境發生氧化還原而受損，以及改讓更易氧化的金屬消耗以加以保護的方法"
+  },
+  "builtin-physics-optics::physics-optics-tir": {
+    "ko": "빛이 굴절률 높은 쪽에서 낮은 쪽으로 갈 때, 정해진 경계 각도를 넘으면 모두 되돌아가는 현상",
+    "en-US": "Light incident from higher to lower refractive index is entirely reflected when its incidence angle exceeds a threshold",
+    "ja": "屈折率の高い側から低い側へ進む光が、所定の境界角を超えるとすべて反射される現象",
+    "zh-TW": "光由高折射率側射向低折射率側時，入射角超過某個界限便全部反射的現象"
+  },
+  "builtin-physics-optics::physics-optics-dispersion": {
+    "ko": "굴절률이 진동수에 따라 달라져 혼합된 빛의 성분들이 서로 다른 방향으로 나뉘는 현상",
+    "en-US": "Frequency-dependent refractive index separates the components of mixed light into different directions",
+    "ja": "屈折率が振動数によって異なるため、混ざった光の成分が別々の方向へ分かれる現象",
+    "zh-TW": "折射率隨頻率而異，使混合光的各成分折向不同方向的現象"
+  },
+  "builtin-physics-optics::physics-optics-interference": {
+    "ko": "파동의 진폭이 합쳐져 세기가 커지거나 작아지며, 안정된 무늬에는 위상 관계의 유지가 필요하다",
+    "en-US": "Adding wave amplitudes changes intensity; a stable pattern requires a maintained phase relationship",
+    "ja": "波の振幅が重なって強度が増減し、安定した模様には位相関係の維持が必要になる",
+    "zh-TW": "波振幅相加使強度增減，而穩定圖樣需要維持相位關係"
+  },
+  "builtin-physics-modern::physics-modern-time-dilation": {
+    "ko": "움직이는 시계를 보는 관성계의 시간 간격이, 그 시계와 함께 움직이며 잰 간격보다 길어지는 관계",
+    "en-US": "A frame in which a clock moves measures a longer interval than the interval recorded alongside that clock",
+    "ja": "動く時計を見る慣性系の時間間隔が、その時計とともに動いて測る間隔より長くなる関係",
+    "zh-TW": "時鐘運動的慣性系所量時間間隔，比隨該時鐘一起記錄的間隔更長的關係"
+  },
+  "builtin-physics-modern::physics-modern-length-contraction": {
+    "ko": "움직이는 물체의 운동 방향 길이가, 그 물체와 함께 정지한 계에서 잰 길이보다 짧아지는 관계",
+    "en-US": "A moving object’s dimension parallel to motion is shorter than that measured in the object’s own rest frame",
+    "ja": "動く物体の運動方向の長さが、その物体と静止する系で測った長さより短くなる関係",
+    "zh-TW": "運動物體沿運動方向的尺度，比在該物體自身靜止系中所量得的尺度更短的關係"
+  },
+  "builtin-physics-modern::physics-modern-rest-energy": {
+    "ko": "물체가 자체 기준계에서 움직이지 않아도 질량에 비례하는 에너지를 지닌다는 관계",
+    "en-US": "Even in its own stationary frame, an object has energy proportional to its mass",
+    "ja": "物体が自身の基準系で動かなくても、質量に比例するエネルギーを持つという関係",
+    "zh-TW": "物體即使在自身參考系中不動，仍具有與質量成正比的能量"
+  },
+  "builtin-physics-modern::physics-modern-nucleus": {
+    "ko": "양성자 수가 원소를 정하는 원자 중심부와, 양성자 수는 같고 중성자 수가 다른 원자들의 구별",
+    "en-US": "The central atomic region whose proton count identifies the element, and atoms sharing that count but differing in neutron count",
+    "ja": "陽子数で元素を決める原子の中心部と、陽子数が同じで中性子数が異なる原子の区別",
+    "zh-TW": "以質子數決定元素種類的原子中心區域，以及質子數相同但中子數不同的原子之區別"
+  },
+  "builtin-physics-modern::physics-modern-half-life": {
+    "ko": "일정한 붕괴 확률을 가진 집단의 모핵 수가 같은 시간 간격마다 절반으로 줄어드는 관계",
+    "en-US": "With constant decay probability, the number of parent nuclei decreases by half over each equal interval",
+    "ja": "崩壊確率が一定の集団で、親核の数が等しい時間間隔ごとに半分になる関係",
+    "zh-TW": "衰變機率固定的群體中，母核數每隔相同時間便減為一半的關係"
+  },
+  "builtin-physics-modern::physics-modern-fission-fusion": {
+    "ko": "무거운 핵을 쪼개거나 가벼운 핵을 합칠 때, 생성물의 총 정지 질량이 줄면 에너지가 나오는 과정",
+    "en-US": "Splitting heavy nuclei or combining light ones releases energy when the products have lower total rest mass",
+    "ja": "重い核を分ける、または軽い核を合わせる際に、生成物の総静止質量が減るとエネルギーが出る過程",
+    "zh-TW": "將重核分開或將輕核合併時，若產物總靜止質量較小便釋出能量的過程"
+  },
+  "builtin-physics-waves::physics-waves-period-frequency": {
+    "ko": "한 번 반복하는 데 걸린 시간과 1초 동안 반복한 횟수로, 서로 역수인 두 양",
+    "en-US": "Time per repetition versus repetitions per second, two quantities that are reciprocals",
+    "ja": "一回の反復にかかる時間と一秒あたりの反復回数で、互いに逆数となる二つの量",
+    "zh-TW": "每次重複所需時間與每秒重複次數，兩者互為倒數"
+  },
+  "builtin-physics-waves::physics-waves-wave-speed": {
+    "ko": "반복되는 파형이 한 번 반복하는 시간 동안 진행하는 거리를 그 시간으로 나눈 전파 빠르기",
+    "en-US": "A repeating pattern’s propagation rate equals the distance it advances in one cycle divided by that cycle’s duration",
+    "ja": "繰り返す波形が一回の反復に進む距離を、その所要時間で割った伝わる速さ",
+    "zh-TW": "重複波形在一個循環中前進的距離，除以該循環時間所得的傳播快慢"
+  },
+  "builtin-physics-waves::physics-waves-standing-wave": {
+    "ko": "반대 방향으로 가는 같은 진동수·진폭의 두 파가 겹쳐, 흔들리지 않는 지점과 가장 크게 흔들리는 지점이 고정되는 무늬",
+    "en-US": "Opposite waves of equal frequency and amplitude form fixed points of zero oscillation and maximum oscillation",
+    "ja": "逆向きに進む同振動数・同振幅の二波が重なり、振れない点と最も大きく振れる点が固定される模様",
+    "zh-TW": "同頻率、同振幅的反向兩波疊加，使不振動處與振動最大處固定不動的圖樣"
+  },
+  "builtin-physics-energy::physics-energy-inelastic": {
+    "ko": "충돌 뒤 총 운동에너지가 보존되지 않는 경우와, 그중 물체들이 붙어 같은 속도로 움직이는 경우",
+    "en-US": "Collisions that do not conserve total kinetic energy, including the limiting case where the objects stick and move together",
+    "ja": "衝突後の総運動エネルギーが保存されない場合と、そのうち物体が付着して同じ速度で動く場合",
+    "zh-TW": "碰撞後總動能不守恆的情況，以及其中物體黏合並以共同速度移動的情況"
+  },
+  "builtin-chemistry-organic::chemistry-organic-chirality": {
+    "ko": "거울에 비친 형태와 포개지지 않는 분자의 성질과, 그런 거울 관계를 이루는 분자 쌍",
+    "en-US": "A molecule’s inability to overlap its mirror image, and the pair of molecules related by that reflection",
+    "ja": "鏡に映した形と重ね合わせられない分子の性質と、その鏡映関係にある分子の組",
+    "zh-TW": "分子無法與其鏡像重疊的性質，以及互為該種鏡像關係的分子對"
+  },
+  "builtin-chemistry-organic::chemistry-organic-ester-hydrolysis": {
+    "ko": "카복실산과 알코올이 결합해 물을 내놓는 평형 반응과, 물로 그 결합을 끊는 역방향 과정",
+    "en-US": "An acid and an alcohol join reversibly while producing water; water can also split the resulting linkage",
+    "ja": "カルボン酸とアルコールが結合して水を生じる平衡反応と、水でその結合を切る逆向きの過程",
+    "zh-TW": "羧酸與醇結合並產生水的平衡反應，以及用水切斷所得連結的反向過程"
+  },
+  "builtin-chemistry-organic::chemistry-organic-polymers": {
+    "ko": "많은 작은 부분이 이어져 매우 큰 분자를 이루며, 되풀이 구조와 연결 방식이 성질에 영향을 준다",
+    "en-US": "Many small building blocks join into a very large molecule whose recurring structure and linkages influence its properties",
+    "ja": "多数の小さな部分がつながって大きな分子を作り、繰り返す構造とつながり方が性質に影響する",
+    "zh-TW": "許多小構件連成很大的分子，其反覆出現的結構與連結方式會影響性質"
+  },
+  "builtin-chemistry-phases::chemistry-phases-vapor-pressure": {
+    "ko": "응축된 물질과 평형인 기체의 압력이며, 액체에서 이 값이 외부 압력과 같아지면 내부에도 기포가 생긴다",
+    "en-US": "Pressure of gas in equilibrium with a condensed phase; bubbles form throughout a liquid when this equals external pressure",
+    "ja": "凝縮相と平衡にある気体の圧力で、液体でこの値が外圧と等しくなると内部にも気泡が生じる",
+    "zh-TW": "與凝聚相平衡的氣體壓力；液體中此值等於外壓時，內部也會形成氣泡"
+  },
+  "builtin-chemistry-phases::chemistry-phases-solubility": {
+    "ko": "정해진 조건에서 녹는 과정과 석출이 균형을 이루어 용질 농도가 더 늘지 않는 용액의 조성",
+    "en-US": "The limiting solution composition at specified conditions, where dissolving and precipitation balance dynamically",
+    "ja": "所定の条件で正味にはそれ以上溶けない溶液の組成で、溶ける過程と析出が動的につり合う",
+    "zh-TW": "指定條件下無法再淨溶入更多物質的溶液組成，此時溶入與析出達動態平衡"
+  },
+  "builtin-chemistry-phases::chemistry-phases-colligative": {
+    "ko": "묽은 용액이 순수 용매보다 낮은 온도에서 얼고 높은 온도에서 끓으며, 변화량은 용질 입자 수에 좌우된다",
+    "en-US": "A dilute solution freezes at a lower temperature and boils at a higher one than pure solvent, depending on solute particle count",
+    "ja": "希薄溶液は純溶媒より低温で凍り高温で沸騰し、その変化量は溶質粒子数に左右される",
+    "zh-TW": "稀溶液比純溶劑更低溫才凝固、更高溫才沸騰，其變化量取決於溶質粒子數"
+  },
+  "builtin-chemistry-phases::chemistry-phases-phases": {
+    "ko": "형태·부피가 거의 일정한 상태, 부피는 거의 일정하나 흐르는 상태, 용기를 채우는 상태의 구별",
+    "en-US": "Three states: nearly fixed shape and volume; nearly fixed volume with flow; and expansion to fill a container",
+    "ja": "形と体積がほぼ一定の状態、体積はほぼ一定だが流れる状態、容器全体に広がる状態の区別",
+    "zh-TW": "形狀與體積近乎固定、體積近乎固定但可流動，以及會擴張充滿容器的三種狀態之區別"
+  },
+  "builtin-chemistry-phases::chemistry-phases-dipoles": {
+    "ko": "극성 분자 사이의 인력과, N·O·F에 결합한 H가 적절한 비공유 전자쌍과 만드는 더 특정한 인력",
+    "en-US": "Attraction between polar molecules, including the specific attraction of N-, O- or F-bound H to a suitable lone pair",
+    "ja": "極性分子どうしの引力と、N・O・Fに結合したHが適切な非共有電子対との間に作る特定の引力",
+    "zh-TW": "極性分子間的吸引，以及連在 N、O、F 上的 H 與適當孤電子對形成的特定吸引"
+  },
+  "builtin-chemistry-thermochemistry::chemistry-thermochemistry-system": {
+    "ko": "분석하려고 정한 물질·영역과 그 밖의 모든 것으로, 에너지 이동의 부호는 선택한 대상 기준으로 정한다",
+    "en-US": "The matter or region chosen for analysis versus everything outside it; energy-transfer signs refer to the chosen target",
+    "ja": "分析対象に選んだ物質・領域とそれ以外のすべてで、エネルギー移動の符号は選んだ対象を基準に決める",
+    "zh-TW": "選定分析的物質或區域與其外的一切，能量傳遞正負以選定對象為基準"
+  },
+  "builtin-chemistry-thermochemistry::chemistry-thermochemistry-heat-work": {
+    "ko": "온도 차 때문에 일어나는 에너지 전달과, 힘·변위 등 다른 수단에 의한 에너지 전달의 구별",
+    "en-US": "Energy transfer caused by a temperature difference versus transfer by other means, such as force acting through displacement",
+    "ja": "温度差で起こるエネルギー移動と、力と変位など他の手段によるエネルギー移動の区別",
+    "zh-TW": "由溫差引起的能量傳遞，與透過力及位移等其他途徑傳遞能量的區別"
+  },
+  "builtin-chemistry-thermochemistry::chemistry-thermochemistry-exo-endo": {
+    "ko": "일정 압력에서 주위로 열을 내보내며 ΔH가 음수인 과정과, 열을 받으며 ΔH가 양수인 과정",
+    "en-US": "At constant pressure, releasing energy to the surroundings with ΔH < 0 versus absorbing it with ΔH > 0",
+    "ja": "定圧で周囲へ熱を出しΔHが負の過程と、熱を受け取りΔHが正の過程",
+    "zh-TW": "定壓下向周圍釋出熱而 ΔH 為負的過程，與吸收熱而 ΔH 為正的過程"
+  },
+  "builtin-chemistry-thermochemistry::chemistry-thermochemistry-reaction-enthalpy": {
+    "ko": "반응식의 물질량·상태에 대응하는 열적 상태량 변화로, 식을 배수하면 같은 배수로 변하고 역반응에서는 부호가 바뀐다",
+    "en-US": "A thermal state-function change tied to the written amounts and phases; it scales with the equation and changes sign on reversal",
+    "ja": "反応式の物質量と相に対応する熱的な状態量の変化で、式を倍にすると同じ倍率になり、逆向きでは符号が変わる",
+    "zh-TW": "對應反應式所寫物質量及相態的熱性狀態函數變化；式子倍增時同倍增，反向則變號"
+  },
+  "builtin-chemistry-thermochemistry::chemistry-thermochemistry-entropy": {
+    "ko": "미시 상태의 다양성과 관련된 상태량으로, 자발적 비가역 변화에서는 계와 주위를 합친 총량이 증가한다",
+    "en-US": "A state function linked to microstate multiplicity whose total for a system and surroundings rises in irreversible spontaneous change",
+    "ja": "微視的状態の多重性に関係する状態量で、自発的な不可逆変化では対象と外部を合わせた総量が増える",
+    "zh-TW": "與微觀狀態多重性相關的狀態函數，在自發不可逆變化中，分析對象與周圍的總量增加"
+  },
+  "builtin-chemistry-thermochemistry::chemistry-thermochemistry-heat-capacity": {
+    "ko": "상변화가 없을 때 온도를 바꾸는 데 필요한 열은 질량·단위 질량의 온도를 한 도 바꾸는 열·온도 차의 곱으로 근사한다",
+    "en-US": "Without a phase change, thermal input is approximately mass times energy per mass per degree times the difference in temperature",
+    "ja": "相変化がなければ、必要な熱は質量・単位質量の温度を一度変える熱・温度差の積で近似する",
+    "zh-TW": "無相變化時，所需熱近似為質量、單位質量升溫一度所需熱與溫差之積"
+  },
+  "builtin-physics-thermodynamics::physics-thermodynamics-temperature": {
+    "ko": "열평형을 판정하는 상태량과, 절대 영점을 출발점으로 하는 켈빈 눈금",
+    "en-US": "A state variable characterizing thermal equilibrium, expressed on a kelvin scale beginning at the lowest possible thermal limit",
+    "ja": "熱平衡を判定する状態量と、絶対零度を起点とするケルビンの尺度",
+    "zh-TW": "判定熱平衡的狀態量，以及以絕對零度為起點的克耳文刻度"
+  },
+  "builtin-physics-thermodynamics::physics-thermodynamics-heat": {
+    "ko": "온도 차로 경계를 넘어 전달되는 에너지와, 접촉해도 그런 에너지가 순수하게 이동하지 않는 평형 상태",
+    "en-US": "Energy crossing a boundary due to a temperature difference, versus the equilibrium state with no net such flow on contact",
+    "ja": "温度差で境界を越えて移るエネルギーと、接触してもその正味の流れがない平衡状態",
+    "zh-TW": "因溫差跨越邊界傳遞的能量，以及接觸時仍無此種淨傳遞的平衡狀態"
+  },
+  "builtin-physics-thermodynamics::physics-thermodynamics-specific-heat": {
+    "ko": "단위 질량의 물질을 단위 온도만큼 바꾸는 데 필요한 열로, 상변화 없이 q≈mcΔT에 쓰인다",
+    "en-US": "Energy needed per unit mass per degree of warming, used in q≈mcΔT when no phase change occurs",
+    "ja": "単位質量の物質の温度を一度変えるのに必要な熱で、相変化なしのq≈mcΔTに用いる",
+    "zh-TW": "單位質量物質升溫一度所需的熱，無相變化時可用於 q≈mcΔT"
+  },
+  "builtin-physics-thermodynamics::physics-thermodynamics-latent-heat": {
+    "ko": "물질의 상태가 바뀌는 동안 온도는 그대로인데 에너지가 드나들 수 있다는 관계",
+    "en-US": "Energy can enter or leave during a change of physical state while temperature remains constant",
+    "ja": "物質の状態が変わる間、温度が一定でもエネルギーが出入りできるという関係",
+    "zh-TW": "物質改變物理狀態時，即使溫度不變仍可吸收或釋出能量的關係"
+  },
+  "builtin-physics-thermodynamics::physics-thermodynamics-convection": {
+    "ko": "흐르는 유체가 에너지를 운반하며, 부력이 흐름을 만드는 경우와 팬·펌프가 만드는 경우를 구별한다",
+    "en-US": "Bulk fluid motion carries energy, driven either by buoyancy or by devices such as fans and pumps",
+    "ja": "流体の全体的な流れがエネルギーを運び、浮力で流れる場合と送風機・ポンプで流れる場合を区別する",
+    "zh-TW": "流體整體運動攜帶能量，並區分由浮力驅動與由風扇、幫浦等設備驅動的情況"
+  },
+  "builtin-chemistry-bonding::chemistry-bonding-valence": {
+    "ko": "원자 사이 연결에 주로 관여하며, 주족 원자에서는 보통 가장 바깥 껍질에 있는 전자",
+    "en-US": "Electrons chiefly involved in joining atoms, generally located in the outermost shell of main-group atoms",
+    "ja": "原子間のつながりに主に関わり、主族原子では普通いちばん外側の殻にある電子",
+    "zh-TW": "主要參與原子間連結的電子，在主族原子中通常位於最外層"
+  },
+  "builtin-chemistry-bonding::chemistry-bonding-vsepr": {
+    "ko": "중심 원자 주위의 결합·비공유 전자쌍이 서로 최대한 멀어지게 배치된다고 보아 입체 모양을 근사하는 모형",
+    "en-US": "A shape model placing bonding and lone-pair regions around a central atom as far apart as possible",
+    "ja": "中心原子の周りの結合・非共有電子対をできるだけ遠ざけて置き、立体的な形を近似する模型",
+    "zh-TW": "把中心原子周圍的成鍵與孤電子對區域盡量分開，用以近似預測立體形狀的模型"
+  },
+  "builtin-chemistry-bonding::chemistry-bonding-lone-pair-shape": {
+    "ko": "비공유 전자쌍까지 포함해 자리를 세는 방식과, 원자핵의 상대 위치만으로 입체 형태를 이름 붙이는 방식의 구별",
+    "en-US": "An arrangement counting lone pairs as well as bonds, versus a shape named from relative atomic-nucleus positions only",
+    "ja": "非共有電子対も含めて配置を数える方法と、原子核の相対位置だけで立体形を名づける方法の区別",
+    "zh-TW": "把孤電子對也納入計數的配置方式，與僅依原子核相對位置命名立體形態的方式之區別"
+  },
+  "builtin-chemistry-matter::chemistry-matter-homogeneity": {
+    "ko": "관찰하는 규모에서 조성이 일정한 경우와, 영역마다 조성이나 상이 달라지는 경우의 구별",
+    "en-US": "Uniform composition at the observation scale versus regions differing in composition or phase",
+    "ja": "観察する尺度で組成が一定の場合と、場所によって組成や相が異なる場合の区別",
+    "zh-TW": "在觀察尺度上組成一致的情況，與各區域組成或相態不同的情況之區別"
+  },
+  "builtin-chemistry-matter::chemistry-matter-coefficients": {
+    "ko": "식 앞 숫자는 전체 원자 수를 배수하고, 묶음 뒤 작은 숫자는 그 묶음 속 원자 수를 배수한다",
+    "en-US": "A number before a chemical formula multiplies the whole expression; a small number after a grouped part multiplies that group",
+    "ja": "化学式の前の数は式全体を倍にし、まとめた部分の後の小さい数はその中の原子数を倍にする",
+    "zh-TW": "化學式前的數字倍增整個式子，成組部分後的小數字則倍增該組內的原子數"
+  },
+  "builtin-chemistry-atomic::chemistry-atomic-shells": {
+    "ko": "주양자수 n으로 큰 에너지 층을 구별하고, 그 안의 s·p·d·f로 더 작은 종류를 나눈다",
+    "en-US": "Principal quantum number n labels a major energy level, with s, p, d and f distinguishing kinds within it",
+    "ja": "主量子数nで大きなエネルギー層を分け、その中をs・p・d・fの種類に分ける",
+    "zh-TW": "以主量子數 n 區分主要能階，再用 s、p、d、f 區分其中的種類"
+  },
+  "builtin-chemistry-atomic::chemistry-atomic-electron-affinity": {
+    "ko": "기체 원자가 전자를 받아들이는 과정의 에너지와 관련된 양으로, 양·음의 표기 규약을 확인해야 한다",
+    "en-US": "An energy quantity for adding an electron to a gaseous atom, whose reported sign depends on the convention",
+    "ja": "気体の原子が電子を受け取る過程のエネルギーに関係する量で、正負の表記規約を確かめる必要がある",
+    "zh-TW": "涉及氣態原子接受電子時能量的量，其報告正負取決於採用的規約"
+  },
+  "builtin-biology-homeostasis::biology-homeostasis-organization": {
+    "ko": "동물에서 협력하는 세포들의 집합과, 여러 그런 집합을 결합해 더 큰 기능을 수행하는 구조의 협력",
+    "en-US": "In animals, cooperating cell groups combine into larger structures whose functions are coordinated across body systems",
+    "ja": "動物で協力する細胞群と、その群を組み合わせてより大きな働きを担う構造の連携",
+    "zh-TW": "動物中共同運作的細胞群，與由多種細胞群組成、再於身體系統中協調功能的較大構造"
+  },
+  "builtin-biology-cells::biology-cells-nucleus": {
+    "ko": "진핵세포의 DNA 대부분을 담는 구획과, 그 경계막의 RNA·단백질 출입을 선택적으로 조절하는 통로",
+    "en-US": "A compartment holding most eukaryotic DNA, with selective openings regulating RNA and protein traffic through its envelope",
+    "ja": "真核細胞のDNAの大部分を収める区画と、その境界膜でRNAやタンパク質の出入りを選択的に調節する通路",
+    "zh-TW": "容納真核細胞大部分 DNA 的區室，以及在其邊界膜選擇性調控 RNA 與蛋白質出入的通道"
+  },
+  "builtin-business-foundations::business-foundations-leading": {
+    "ko": "미래에 생길 수 있는 결과를 미리 시사하는 측정치와, 이미 일어난 결과를 기록하는 측정치",
+    "en-US": "Measures signaling possible future outcomes versus measures recording outcomes that have already occurred",
+    "ja": "将来起こり得る結果を前もって示す測定値と、すでに起きた結果を記録する測定値",
+    "zh-TW": "提示未來可能結果的衡量值，與記錄已經發生結果的衡量值"
+  },
+  "builtin-psychology-attention::psychology-attention-dreams": {
+    "ko": "REM·비REM 수면에서 모두 보고되며, 특정 내용에 보편적 뜻을 부여할 근거는 부족하다는 수면 경험의 해석상 제약",
+    "en-US": "Reports from both REM and non-REM sleep do not establish universal meanings for particular nocturnal experiences",
+    "ja": "REM・非REM睡眠の両方で報告され、特定の内容に普遍的な意味を与える根拠は不足するという睡眠経験の解釈上の制約",
+    "zh-TW": "REM 與非 REM 睡眠皆有相關經驗報告，但不足以證立特定夜間體驗內容具有普遍意義"
+  },
+  "builtin-psychology-memory::psychology-memory-working-memory": {
+    "ko": "현재 과제를 수행하기 위해 제한된 양의 정보를 잠시 유지하면서 조작하는 체계",
+    "en-US": "A system that temporarily holds and manipulates a limited amount of information for an ongoing task",
+    "ja": "今の課題を進めるため、限られた量の情報を一時的に保ちながら操作する仕組み",
+    "zh-TW": "為完成當前任務，暫時保留並操作有限資訊的系統"
+  },
+  "builtin-business-people::business-people-development": {
+    "ko": "배운 지식과 기술을 실제 업무에 적용하고 지속해서 사용하는 정도",
+    "en-US": "The extent to which learned knowledge and skills are applied and maintained in actual work",
+    "ja": "学んだ知識や技能を実際の仕事に適用し、持続して使う程度",
+    "zh-TW": "學到的知識與技能在實際工作中獲得應用並持續使用的程度"
+  },
+  "builtin-philosophy-chinese::philosophy-chinese-mengzi-text": {
+    "ko": "인간의 선한 본성과 수양을 논하는 전국시대 사상가의 대화·논변을 모은 책",
+    "en-US": "A collection of a Warring States thinker’s conversations and arguments on human goodness and self-cultivation",
+    "ja": "人間の善い本性と修養を論じる、戦国時代の思想家の対話と論争を集めた書",
+    "zh-TW": "彙集戰國思想家的對話與論辯，探討人性之善與修養的典籍"
+  },
+  "builtin-philosophy-chinese::philosophy-chinese-xunzi-text": {
+    "ko": "배움·예·언어·인간 본성을 논하며 후천적 수양을 중시하는 전국시대 유가 계열의 논설집",
+    "en-US": "A collection of Warring States Confucian essays on learning, ritual, language and human nature, emphasizing cultivation",
+    "ja": "学び・礼・言語・人間の本性を論じ、後天的な修養を重んじる戦国時代の儒家系統の論説集",
+    "zh-TW": "戰國儒家探討學習、禮、語言與人性的論說集，重視後天修養"
+  },
+  "builtin-philosophy-chinese::philosophy-chinese-mozi-text": {
+    "ko": "여러 시기에 형성된 논설을 모아 차별 없는 돌봄과 이익의 기준을 논하는 고대 중국 사상서",
+    "en-US": "An ancient Chinese collection from several periods, debating impartial care and standards of benefit",
+    "ja": "複数の時期の論説を集め、差別のない配慮と利益の基準を論じる古代中国の思想書",
+    "zh-TW": "匯集不同時期文章，討論不分親疏的關懷與利益標準的古代中國思想典籍"
+  },
+  "builtin-art-korean::art-korean-artist-5d8a78eb474e": {
+    "ko": "시·서예·수묵화로 알려진 조선 문인 화가로, 특히 먹으로 그린 대나무 작품이 전한다",
+    "en-US": "A Joseon literati painter known for poetry, calligraphy and ink painting, especially bamboo",
+    "ja": "詩・書・水墨画で知られる朝鮮の文人画家で、特に墨で描いた竹の作品が伝わる",
+    "zh-TW": "以詩、書法與水墨畫聞名的朝鮮文人畫家，尤以墨竹作品著稱"
+  },
+  "builtin-literature-drama::literature-drama-hamlet-prince": {
+    "ko": "아버지의 죽음과 복수 문제를 마주하는 셰익스피어 비극의 가상 덴마크 왕자",
+    "en-US": "The fictional Danish prince in a Shakespeare tragedy, confronting his father’s death and the demand for revenge",
+    "ja": "父の死と復讐の問題に向き合う、シェイクスピアの悲劇の架空のデンマーク王子",
+    "zh-TW": "莎士比亞悲劇中面對父親之死與復仇問題的虛構丹麥王子"
+  },
+  "builtin-literature-criticism::literature-criticism-mimesis": {
+    "ko": "예술이 인간의 행위와 세계를 어떻게 재현하는지 다루는 고전 비평의 개념",
+    "en-US": "A classical critical concept asking how art represents human action and the world",
+    "ja": "芸術が人間の行為と世界をどう再現するかを問う古典批評の概念",
+    "zh-TW": "古典批評中探討藝術如何再現人類行動與世界的概念"
+  },
+  "builtin-literature-poetry::literature-poetry-daffodils": {
+    "ko": "꽃무리의 기억이 훗날 화자의 내면에 기쁨을 되살리는 워즈워스의 서정시",
+    "en-US": "A Wordsworth lyric in which recalling a field of spring flowers later revives the speaker’s inward joy",
+    "ja": "春の花の群れの記憶が、後に話者の内面へ喜びをよみがえらせるワーズワスの抒情詩",
+    "zh-TW": "華茲華斯的抒情詩，描寫春日花叢的記憶日後在說話者內心重新喚起喜悅"
+  },
+  "builtin-literature-nonfiction::literature-nonfiction-douglass-narrative": {
+    "ko": "미국에서 노예로 겪은 경험과 자유를 향한 과정을 직접 기록해 1845년에 발표한 자서전",
+    "en-US": "An 1845 firsthand account of enslavement in the United States and the writer’s movement toward freedom",
+    "ja": "米国で奴隷として経験したことと自由への歩みを本人が記し、1845年に刊行した自伝",
+    "zh-TW": "一八四五年出版、由親歷者記述在美國受奴役經驗及走向自由過程的自傳"
+  },
+  "builtin-physics-energy::physics-energy-conservative": {
+    "ko": "한 힘이 한 일은 경로와 무관하게 시작·끝점만으로 정해지며, 저장된 상태 에너지의 감소로 나타낼 수 있다",
+    "en-US": "Work by a force depends only on endpoints, not path, and can be written as a decrease in stored positional energy",
+    "ja": "ある力の仕事は経路によらず始点と終点だけで決まり、位置に応じた蓄えの減少で表せる",
+    "zh-TW": "某種力作的功只取決於起終點而與路徑無關，可表示為隨位置儲存之能量的減少"
+  },
+  "builtin-physics-mechanics::physics-mechanics-inertia": {
+    "ko": "합력이 0인 물체가 정지 또는 등속 직선 운동을 유지하는 법칙과, 그 법칙이 성립하는 기준계",
+    "en-US": "The rule that zero net force preserves rest or constant straight-line motion, and the reference frames in which that rule holds",
+    "ja": "合力ゼロの物体が静止または等速直線運動を保つ法則と、その法則が成り立つ基準系",
+    "zh-TW": "合力為零時物體保持靜止或等速直線運動的定律，以及該定律成立的參考系"
+  },
+  "builtin-math-geometry::math-geometry-parallel": {
+    "ko": "같은 평면에서 만나지 않는 두 직선을 다른 직선이 가로지를 때, 대응하는 각과 엇갈린 안쪽 각의 크기가 같다는 관계",
+    "en-US": "When a line crosses two coplanar lines that never meet, matching and alternate interior angles are equal",
+    "ja": "同じ平面で交わらない二直線を別の直線が横切ると、対応する角と互い違いの内側の角が等しくなる関係",
+    "zh-TW": "同平面內不相交的兩直線被另一條線橫切時，對應角與交錯內側角大小相等的關係"
+  },
+  "builtin-chemistry-atomic::chemistry-atomic-ionic-radius": {
+    "ko": "같은 원소에서 양전하를 띠면 보통 작아지고 음전하를 띠면 커지며, 전자 수가 같은 경우 핵전하가 클수록 보통 작다",
+    "en-US": "Positive ions are usually smaller than their atoms and negative ones larger; at equal electron count, greater nuclear charge usually means smaller size",
+    "ja": "同じ元素で正に帯電すると普通小さく、負では大きくなり、電子数が同じなら核電荷が大きいほど普通小さい",
+    "zh-TW": "同元素帶正電後通常變小、帶負電後較大；電子數相同時，核電荷越大通常越小"
+  },
+  "builtin-physics-rotation::physics-rotation-gravity-field": {
+    "ko": "시험 질량당 중력으로 나타내며, 다른 힘이 없을 때 그 위치에서 물체가 얻는 가속도를 정하는 양",
+    "en-US": "Gravitational force per test mass, determining an object’s acceleration at that location when no other forces act",
+    "ja": "試験質量あたりの重力で表し、他の力がなければその位置で物体が得る加速度を決める量",
+    "zh-TW": "以單位測試質量所受重力表示，決定物體在該處不受其他力時加速度的量"
+  }
+}
