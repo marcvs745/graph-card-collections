@@ -1,0 +1,686 @@
+{
+  "builtin-ja-conversation-beginner::ja-lesson-7351aaf0211f": {
+    "ko": "만나는 시간에 따라 아침·낮·저녁의 표현을 고르는 말",
+    "en-US": "Meeting expressions chosen for morning, daytime, or evening",
+    "ja": "会った時刻に応じて朝・昼・晩で使い分ける表現",
+    "zh-TW": "見面時按早晨、白天或傍晚選用的寒暄表達"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-e8b88a5b9365": {
+    "ko": "처음 만난 사람에게 자신을 낮추어 이름을 정중히 밝히는 말",
+    "en-US": "Politely stating one’s name with a humble form when meeting someone for the first time",
+    "ja": "初対面で自分の名をへりくだって伝える表現",
+    "zh-TW": "初次見面時謙遜而鄭重地告知自己的姓名"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-c761460a3da8": {
+    "ko": "어디에서 왔고 어느 장소에서 무엇을 공부하는지 밝히는 말",
+    "en-US": "Stating where one comes from and where one studies",
+    "ja": "出身と勉強する場を伝える表現",
+    "zh-TW": "說明來自何處及在哪裡學習"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-d20e1c016ba4": {
+    "ko": "못 알아들은 상대의 성함을 다시 말해 달라고 청하는 말",
+    "en-US": "Asking someone to repeat a name that was not understood",
+    "ja": "聞き取れなかった相手の名をもう一度尋ねる表現",
+    "zh-TW": "請對方重說未聽清楚的姓名"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-9cfe2918f3fb": {
+    "ko": "말의 속도를 낮춰 달라고 부드럽게 청하는 말",
+    "en-US": "Politely asking someone to speak more slowly",
+    "ja": "話す速さを少し落としてほしいと伝える表現",
+    "zh-TW": "委婉請對方放慢說話速度"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-80c1613fa522": {
+    "ko": "들은 표현을 인용해 그 뜻을 묻는 말",
+    "en-US": "Asking the meaning of a quoted expression",
+    "ja": "聞いた語句の意味を尋ねる表現",
+    "zh-TW": "引用聽到的詞語並詢問含義"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-42b845d04288": {
+    "ko": "가장 가까운 역이 어디에 있는지 묻는 말",
+    "en-US": "Asking where the nearest station is",
+    "ja": "最寄り駅のある所を尋ねる表現",
+    "zh-TW": "詢問最近車站所在之處"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-93f83459f8e9": {
+    "ko": "길을 곧장 가는 방법이 맞는지 상대에게 묻는 말",
+    "en-US": "Checking whether going straight is the right way",
+    "ja": "道をまっすぐ進む方法がよいか尋ねる表現",
+    "zh-TW": "詢問沿道路直行是否為正確走法"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-b5e0703989e4": {
+    "ko": "물건 한 개의 값을 물으며 개수와 비용을 함께 살피는 말",
+    "en-US": "Asking the cost of one item while specifying the quantity",
+    "ja": "品物一つの代金を尋ねる表現",
+    "zh-TW": "指明一件商品並詢問價錢"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-b53dfbb447db": {
+    "ko": "따뜻한 음료 한 잔을 달라고 청하는 말",
+    "en-US": "Requesting one cup of a warm drink",
+    "ja": "温かい飲み物を一杯求める表現",
+    "zh-TW": "請店家提供一杯溫熱飲料"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-2b310e68a70c": {
+    "ko": "상대가 권할 만한 메뉴나 상품이 무엇인지 묻는 말",
+    "en-US": "Asking which dish or product the other person would suggest",
+    "ja": "相手が勧める品物や料理を尋ねる表現",
+    "zh-TW": "詢問對方建議選用的菜餚或商品"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-76849952fee9": {
+    "ko": "식당에서 음식을 가져갈 수 있게 싸 달라고 청하는 말",
+    "en-US": "Requesting food to take away from a restaurant",
+    "ja": "店の料理を持ち帰る形で求める表現",
+    "zh-TW": "在餐廳要求把食物包好帶走"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-7f9f88b930c9": {
+    "ko": "카드로 대금을 낼 수 있는지 묻는 말",
+    "en-US": "Asking whether payment by card is possible",
+    "ja": "カード払いが可能か尋ねる表現",
+    "zh-TW": "詢問能否刷卡付款"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-c49b2a221ee7": {
+    "ko": "이름·시각·인원을 밝혀 미리 잡은 자리를 알리는 말",
+    "en-US": "Identifying a booking by name, time, and party size",
+    "ja": "氏名・時刻・人数を添えて事前の申し込みを伝える表現",
+    "zh-TW": "以姓名、時刻與人數說明事先訂好的安排"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-322139fd2dd7": {
+    "ko": "상대가 함께 영화를 보고 싶은지 의사를 묻는 초대",
+    "en-US": "Inviting someone to see a film by asking about their willingness",
+    "ja": "一緒に映画へ行く意思があるか尋ねる誘い",
+    "zh-TW": "詢問對方是否願意一起看電影"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-a42396e54c5f": {
+    "ko": "특정 날짜에는 함께하기 어렵다는 뜻을 정중히 밝히는 말",
+    "en-US": "Politely making clear that a proposed date is difficult",
+    "ja": "提案された日程では難しいと丁寧に伝える表現",
+    "zh-TW": "委婉但明確說明某個日期無法配合"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-a421b244561a": {
+    "ko": "다른 날짜라면 가능하다고 밝혀 선택지를 내는 말",
+    "en-US": "Offering another date as a workable alternative",
+    "ja": "別の日なら可能だと選択肢を出す表現",
+    "zh-TW": "提出換個日期便能配合的選項"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-a60c889bf091": {
+    "ko": "그 자리에 앉는 행동이 괜찮은지 묻는 말",
+    "en-US": "Requesting approval to sit in a particular place",
+    "ja": "その席に座ってよいか尋ねる表現",
+    "zh-TW": "詢問是否獲准坐在某處"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-7cfbc3566b85": {
+    "ko": "그 장소에서 사진 찍는 행동을 하지 말아 달라는 말",
+    "en-US": "Asking someone not to take photographs in a particular place",
+    "ja": "その場所で写真撮影を控えるよう求める表現",
+    "zh-TW": "請對方不要在該處拍照"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-52b35e323080": {
+    "ko": "짐을 나르는 일을 함께 해 줄 수 있는지 청하는 말",
+    "en-US": "Asking whether someone can help carry luggage",
+    "ja": "荷物運びを手伝ってもらえるか尋ねる表現",
+    "zh-TW": "詢問對方能否協助搬運行李"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-9d0aaa5cb449": {
+    "ko": "발열과 두통이라는 증상을 함께 알리는 말",
+    "en-US": "Reporting fever and headache as symptoms",
+    "ja": "発熱や頭痛など、体調不良を知らせる表現",
+    "zh-TW": "同時說明發燒與頭痛的症狀"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-f5417175c434": {
+    "ko": "가방을 전철 안에 두고 온 사실과 장소를 알리는 말",
+    "en-US": "Reporting that a bag was left on a train and identifying the place",
+    "ja": "かばんを電車内に置き忘れたことを伝える表現",
+    "zh-TW": "說明把包包遺留在電車內的事實"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-0b5d22ae6c06": {
+    "ko": "도움을 받은 데 고마움을 표하고 이에 응하는 친근한 말",
+    "en-US": "Friendly thanks for help and a response to those thanks",
+    "ja": "手助けへのお礼とそれに応じる親しい言い方",
+    "zh-TW": "向協助者致謝並回應謝意的親切說法"
+  },
+  "builtin-ja-conversation-beginner::ja-lesson-ecb9b91ea96d": {
+    "ko": "고마움을 전하고 다시 연락하겠다는 다음 행동을 밝히는 말",
+    "en-US": "Closing an exchange with thanks and a promise to contact again",
+    "ja": "お礼と次の連絡を伝えてやり取りを結ぶ表現",
+    "zh-TW": "致謝並交代稍後再次聯絡以結束交談"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-4407bdf2881f": {
+    "ko": "희망하는 선택과 그 근거를 함께 밝히는 말",
+    "en-US": "Giving a preference together with the reason for it",
+    "ja": "希望とそれを選ぶ根拠を一緒に述べる表現",
+    "zh-TW": "把希望的選擇與其理由一併表達"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-d17a59e65937": {
+    "ko": "단정하지 않고 자신이 그렇게 생각한다는 판단을 밝히는 말",
+    "en-US": "Presenting a judgment as one’s own view rather than a categorical fact",
+    "ja": "断定を避けて自分の判断として述べる表現",
+    "zh-TW": "不直接斷言，而表明是本人的判斷"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-a56add8f27d9": {
+    "ko": "찬성하는 점을 밝힌 뒤 비용에 대한 우려를 따로 전하는 말",
+    "en-US": "Expressing agreement while separately raising concern about cost",
+    "ja": "賛成する点を示しつつ費用への懸念を伝える表現",
+    "zh-TW": "先表達贊成，再另提對費用的憂慮"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-067eb99eb9b9": {
+    "ko": "들은 말의 핵심을 자기 말로 되짚어 맞는지 묻는 말",
+    "en-US": "Restating the main point of what was heard to check understanding",
+    "ja": "聞いた話の要点を言い換えて確かめる表現",
+    "zh-TW": "用自己的話重述聽到的重點以核實理解"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-be59514f6337": {
+    "ko": "설명이 부족했음을 인정하고 본래 전하려던 뜻을 분명히 하는 말",
+    "en-US": "Acknowledging an incomplete explanation and clarifying the intended meaning",
+    "ja": "説明不足を認め、本当に言いたかった内容を伝える表現",
+    "zh-TW": "承認說明不足，再交代原本想表達的意思"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-bf14e9675364": {
+    "ko": "다른 사람에게 들은 내용을 그 출처와 함께 알리는 말",
+    "en-US": "Stating information heard from another person together with its source",
+    "ja": "他者から得た話を、その出どころとともに述べる表現",
+    "zh-TW": "把聽來的內容連同來源一併說出"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-7598e22a2128": {
+    "ko": "관찰한 징후로 예상한 일과 다른 사람에게 들은 소식을 구별하는 말",
+    "en-US": "Distinguishing an expectation based on visible signs from information heard elsewhere",
+    "ja": "見た様子からの予想と、人から聞いた話との区別",
+    "zh-TW": "區分根據眼前徵象的預想與從他人聽到的消息"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-23b4ae219ae1": {
+    "ko": "바꾸기 전후의 시각을 모두 밝혀 시간을 옮겨 달라고 청하는 말",
+    "en-US": "Requesting a time change while specifying both the old and new times",
+    "ja": "変更前と変更後の時刻を明示して頼む表現",
+    "zh-TW": "同時說明原定與改後的時刻，請對方變更安排"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-a21c7ae2da2f": {
+    "ko": "도착 지연의 원인과 얼마나 더 걸릴지를 함께 알리는 말",
+    "en-US": "Reporting the cause of a delayed arrival and its expected duration",
+    "ja": "到着の遅れについて原因と見込み時間を伝える表現",
+    "zh-TW": "說明延遲抵達的原因與預計延後多久"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-2c1cd0d52bdf": {
+    "ko": "정해진 때까지 도착하는 것을 구매의 전제로 제시하는 말",
+    "en-US": "Making arrival by a deadline a condition of a purchase",
+    "ja": "期限までの到着を購入の前提として示す表現",
+    "zh-TW": "以限定時間前能送達作為購買的前提"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-2f22831c8e26": {
+    "ko": "이전에 어느 곳에서 살아 본 일을 밝히는 말",
+    "en-US": "Describing a past experience of having lived somewhere",
+    "ja": "以前住んだことがあるという過去の体験を述べる表現",
+    "zh-TW": "表達過去曾在某地居住的經歷"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-07a6a92addeb": {
+    "ko": "연습을 통해 전에는 못하던 일을 할 수 있게 되었음을 알리는 말",
+    "en-US": "Describing how practice made a previously impossible action possible",
+    "ja": "練習後、それまでできなかったことが可能になったと伝える表現",
+    "zh-TW": "說明經練習後原本不會的事變得能做"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-201dfe055730": {
+    "ko": "잊지 않겠다는 목적과 그날 안이라는 실행 시점을 함께 밝히는 말",
+    "en-US": "Stating the aim of avoiding forgetfulness and acting within the same day",
+    "ja": "忘却を防ぐ目的と、その日のうちという行動の範囲を示す表現",
+    "zh-TW": "同時交代避免遺忘的目的與當天完成的時限"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-717e8b490051": {
+    "ko": "실제로 한 조작과 뒤따라 생긴 결과를 순서대로 알리는 말",
+    "en-US": "Reporting the action taken and the resulting problem in sequence",
+    "ja": "実際に行った操作と起こった結果を順に述べる表現",
+    "zh-TW": "依順序交代實際操作與隨後發生的結果"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-c77dd346ba5d": {
+    "ko": "확인해 주었으면 하는 부분을 표의 숫자만으로 한정하는 말",
+    "en-US": "Limiting the requested check to the numbers in a table",
+    "ja": "確認してほしい箇所を数字だけに絞る表現",
+    "zh-TW": "把希望對方檢查的內容限定為表中的數字"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-24edd6013fd0": {
+    "ko": "어느 사람에게 상담하면 좋을지 정중히 묻는 말",
+    "en-US": "Politely asking whom one should consult",
+    "ja": "相談すべき人を丁寧に尋ねる表現",
+    "zh-TW": "鄭重詢問應向哪一個人商量"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-c86a21eeb638": {
+    "ko": "값보다 사용하기 편한 점에 더 큰 비중을 둔다고 말하는 표현",
+    "en-US": "Stating that ease of use matters more than price",
+    "ja": "値段よりも使いやすさを重視すると伝える表現",
+    "zh-TW": "表達比起價格更重視使用便利"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-55fe12c35800": {
+    "ko": "가볍다는 장점과 배터리가 오래가지 않는 단점을 함께 밝히는 말",
+    "en-US": "Weighing lightness against shorter battery life",
+    "ja": "軽さという長所と電池の持続時間という短所を並べる表現",
+    "zh-TW": "並列輕便的優點與電池不耐用的缺點"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-0a0ab236751d": {
+    "ko": "전체 계획을 밝힌 뒤 나중에 더할 부분의 조건을 따로 알리는 말",
+    "en-US": "Stating a commitment and then specifying the part to be added later",
+    "ja": "予定を示したうえで、あとから追加する部分を限定する表現",
+    "zh-TW": "先交代承諾，再限定哪些部分稍後補上"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-1ffd1f565b44": {
+    "ko": "상대가 바쁘다는 점을 인정하며 격식 있게 청하는 말",
+    "en-US": "A formal request that acknowledges the other person’s busy situation",
+    "ja": "相手の忙しさへの配慮を添えた改まった依頼",
+    "zh-TW": "先顧及對方忙碌，再提出正式請託"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-eaffeff1162b": {
+    "ko": "찾아뵐 계획을 자기 쪽을 낮추는 말투로 알리는 표현",
+    "en-US": "Describing one’s planned visit using a humble form",
+    "ja": "訪問の予定を、自分を低める言い方で伝える表現",
+    "zh-TW": "以降低自身姿態的說法告知拜訪計畫"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-77f4110bebbb": {
+    "ko": "윗사람의 오거나 가거나 있는 행동을 높여 말하는 표현",
+    "en-US": "Honorifically describing a superior’s coming, going, or presence",
+    "ja": "来る・行く・いる動作を目上の人について高めて述べる表現",
+    "zh-TW": "以尊敬形式描述長上的來、去或所在"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-e26f7a25028e": {
+    "ko": "마지막에 누가 어떤 일을 맡는지 함께 되짚는 말",
+    "en-US": "Closing by confirming who will carry out each task",
+    "ja": "誰がどの作業を行うか最後に確かめる表現",
+    "zh-TW": "結束時再次核對各項工作由誰負責"
+  },
+  "builtin-ja-conversation-intermediate::ja-lesson-d199dd565208": {
+    "ko": "아직 모르는 사실을 단정하지 않고 알아본 뒤 알리겠다고 밝히는 말",
+    "en-US": "Acknowledging what is not yet known and promising an update after checking",
+    "ja": "まだ分からないことを断定せず、確認後の連絡を約する表現",
+    "zh-TW": "不斷言未知事項，並承諾查明後通知"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-df04d72e37d5": {
+    "ko": "동작이 직접 미치는 사물이나 사람을 표시하는 조사",
+    "en-US": "Marks the person or thing directly affected by an action",
+    "ja": "動作の直接の受け手の表示",
+    "zh-TW": "標示動作直接作用的人或事物的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-a38de22409e3": {
+    "ko": "이동하여 도착할 곳을 표시하는 조사",
+    "en-US": "Marks the place reached by movement",
+    "ja": "移動の到着先を示す助詞",
+    "zh-TW": "標示移動後抵達地點的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-8aed540105bd": {
+    "ko": "도착 여부보다 움직임이 향하는 쪽을 표시하는 조사",
+    "en-US": "Marks the direction of movement rather than arrival",
+    "ja": "到着より移動の向きを示す助詞",
+    "zh-TW": "著重移動朝向而非抵達的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-591d65f9d9b4": {
+    "ko": "공부하거나 일하는 등 동작이 일어나는 곳을 표시하는 조사",
+    "en-US": "Marks where an activity such as studying takes place",
+    "ja": "勉強などの活動場所を示す助詞",
+    "zh-TW": "標示讀書等活動發生地點的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-9cd4270c7104": {
+    "ko": "사물이나 생물이 있는 위치를 표시하는 조사",
+    "en-US": "Marks the location where something exists",
+    "ja": "物や生き物の所在を示す助詞",
+    "zh-TW": "標示物品或生物所在位置的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-f4a7106b1ea5": {
+    "ko": "사람이나 동물처럼 스스로 움직이는 생물이 있음을 나타내는 동사",
+    "en-US": "Expresses the presence of a person or animal",
+    "ja": "人や動物などの存在を表す動詞",
+    "zh-TW": "表示人或動物等生物存在的動詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-9a3b7d30e95b": {
+    "ko": "만남이 이루어지는 장소와 구별하여 만날 사람을 표시하는 조사",
+    "en-US": "Marks the person met, distinct from the meeting place",
+    "ja": "面会の場所と区別し、会う相手を示す助詞",
+    "zh-TW": "與見面地點區別，標示會面對象的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-c5977f7afb4d": {
+    "ko": "다른 사람과 같은 행동에 참여함을 표시하는 조사",
+    "en-US": "Marks a companion participating in the same activity",
+    "ja": "同じ活動の同行者を示す助詞",
+    "zh-TW": "標示一起參與同項活動者的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-0dc591a6885b": {
+    "ko": "질문이나 요청 등이 향하는 사람을 표시하는 조사",
+    "en-US": "Marks the person addressed by a question or request",
+    "ja": "質問や依頼の相手を示す助詞",
+    "zh-TW": "標示提問或請求所朝向對象的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-56904e1b079e": {
+    "ko": "이동이나 시간 범위가 시작되는 곳을 표시하는 조사",
+    "en-US": "Marks the starting point of movement or a time span",
+    "ja": "移動や時間の始まりを示す助詞",
+    "zh-TW": "標示移動或時間範圍起點的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-7a55f86bca8d": {
+    "ko": "버스나 전철처럼 이동에 사용하는 방법을 표시하는 조사",
+    "en-US": "Marks the means used for travel",
+    "ja": "移動に使う乗り物や方法を示す助詞",
+    "zh-TW": "標示移動所使用交通工具或方法的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-e9e866511dec": {
+    "ko": "시각처럼 특정한 때에 일이 일어남을 표시하는 조사",
+    "en-US": "Marks a specific time at which an event occurs",
+    "ja": "時刻など特定の時点を示す助詞",
+    "zh-TW": "標示事件發生於特定時刻的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-5e413a310bb2": {
+    "ko": "정해진 때를 넘기기 전에 동작을 마쳐야 함을 나타내는 표현",
+    "en-US": "Marks the latest time by which an action must be completed",
+    "ja": "指定時刻より前の完了を求める表現",
+    "zh-TW": "表示必須在指定時刻之前完成動作的表現"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-3ca686f5781e": {
+    "ko": "어떤 곳을 떠나는 움직임에서 벗어나는 곳을 표시하는 조사",
+    "en-US": "Marks the place left behind when departing",
+    "ja": "移動で離れる場所の表示",
+    "zh-TW": "標示離開某處時出發地點的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-ab843a8a668a": {
+    "ko": "건너거나 지나가는 움직임의 경로를 표시하는 조사",
+    "en-US": "Marks the route traversed during movement",
+    "ja": "渡る、通るなどの経路の表示",
+    "zh-TW": "標示穿越或經過路線的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-ee17026d3174": {
+    "ko": "차량에 올라타는 동작에서 이용할 차량을 표시하는 조사",
+    "en-US": "Marks the vehicle boarded",
+    "ja": "乗る動作の乗り物を示す助詞",
+    "zh-TW": "標示登上交通工具時所乘車輛的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-6738aa78d6be": {
+    "ko": "차량에서 내리는 동작에서 떠나는 차량을 표시하는 조사",
+    "en-US": "Marks the vehicle left when getting off",
+    "ja": "降りる動作で離れる乗り物の表示",
+    "zh-TW": "標示下車時離開車輛的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-fcb8ef04e87f": {
+    "ko": "무엇이 있어야 한다고 말할 때 요구되는 것을 표시하는 조사",
+    "en-US": "Marks what is needed in a statement of necessity",
+    "ja": "必要とされる物事を示す助詞",
+    "zh-TW": "標示表達需要時所需事物的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-aa6483522bb5": {
+    "ko": "자연스럽게 달라져 이르게 된 상태나 신분을 표시하는 조사",
+    "en-US": "Marks the state or role resulting from a change",
+    "ja": "変化後の状態や身分を示す助詞",
+    "zh-TW": "標示變化後狀態或身分的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-731785c34a2c": {
+    "ko": "여러 선택지 중 스스로 고른 것을 표시하는 조사",
+    "en-US": "Marks the option deliberately selected",
+    "ja": "自分で選んだ内容を示す助詞",
+    "zh-TW": "標示自行選定選項的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-f8be878a5452": {
+    "ko": "자동사 문장에서 저절로 상태가 달라지는 사물을 표시하는 조사",
+    "en-US": "Marks the thing whose state changes in an intransitive sentence",
+    "ja": "自動詞文で状態の変わる物を示す助詞",
+    "zh-TW": "標示自動詞句中狀態改變事物的助詞"
+  },
+  "builtin-ja-particles-beginner::ja-lesson-6e90c9bad36c": {
+    "ko": "타동사 문장에서 누군가가 상태를 바꾸는 사물을 표시하는 조사",
+    "en-US": "Marks the thing acted on in a transitive sentence",
+    "ja": "他動詞文で動作の及ぶ物の表示",
+    "zh-TW": "標示他動詞句中動作作用事物的助詞"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-a658c1494b34": {
+    "ko": "물건을 주는 사람의 관점에서 전달 상대와 물건을 구분하는 표현",
+    "en-US": "Distinguishes recipient and object from the giver’s perspective",
+    "ja": "物を渡す側の視点で、相手と品物を区別する表現",
+    "zh-TW": "從給予者觀點區分收受者與物品的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-a10f9187dc71": {
+    "ko": "물건을 받은 사람의 관점에서 그것을 건넨 사람을 표시하는 표현",
+    "en-US": "Marks the giver from the recipient’s perspective",
+    "ja": "物を受け取る側から、渡した人を示す表現",
+    "zh-TW": "從收受者觀點標示物品提供者的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-acd1ad8ef78c": {
+    "ko": "다른 사람이 나나 내 편의 사람에게 무언가를 주는 방향의 표현",
+    "en-US": "Expresses giving from another person toward the speaker’s side",
+    "ja": "他者から話し手側への授与を表す表現",
+    "zh-TW": "表示他人給予說話者或其所屬一方的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-63caf1c8a20a": {
+    "ko": "칭찬받는 사람의 관점에서 칭찬한 사람을 표시하는 표현",
+    "en-US": "Marks who performed the action in a sentence about being praised",
+    "ja": "褒められる側から、褒めた人を示す表現",
+    "zh-TW": "從受稱讚者觀點標示稱讚者的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-483ae6a29b45": {
+    "ko": "아이에게 놀도록 시키거나 허락하는 문장에서 행동할 사람을 표시하는 표현",
+    "en-US": "Marks the person made or allowed to play in a causative sentence",
+    "ja": "遊ばせる文で、実際の動作を行う人を示す表現",
+    "zh-TW": "在使人或允許人玩耍的句子中標示實際行動者的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-5f038b61f784": {
+    "ko": "이미 목적어가 있는 사역문에서 동작을 수행하게 되는 사람을 구별하는 표현",
+    "en-US": "Distinguishes the person made to act when the action already has an object",
+    "ja": "目的語のある使役文で、実際の動作者を区別する表現",
+    "zh-TW": "在已有受詞的使役句中區分實際動作者的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-c02fd92fdc91": {
+    "ko": "작년 수치처럼 크고 작음을 판단할 때 기준으로 삼는 것을 표시하는 표현",
+    "en-US": "Marks the baseline used to judge a difference, such as last year’s figure",
+    "ja": "昨年の数値など、大小を比べる基準を示す表現",
+    "zh-TW": "標示判斷高低差異時所採基準的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-6a516f2ff16d": {
+    "ko": "일방적으로 조언을 구하는 것이 아니라 서로 의논하는 상대를 나타내는 표현",
+    "en-US": "Marks a partner in mutual discussion rather than a one-way request for advice",
+    "ja": "一方的な助言の依頼と区別し、話し合いの相手を示す表現",
+    "zh-TW": "表示相互商議者，而非單方面請教對象的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-301d845e8391": {
+    "ko": "얼마나 달라졌는지와 달라진 뒤 수치가 얼마인지를 구별하는 표현",
+    "en-US": "Distinguishes the amount of change from the final value",
+    "ja": "変わった量と変化後の数値を区別する表現",
+    "zh-TW": "區別改變幅度與改變後數值的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-7adad3f4f5c0": {
+    "ko": "이야기의 큰 화제와 그 안에서 평가하는 대상을 구별하는 조사 쓰임",
+    "en-US": "Distinguishes the broad topic from the thing evaluated within it",
+    "ja": "話全体の話題と、その中の評価対象を区別する助詞用法",
+    "zh-TW": "區別整體話題與其中受評價對象的助詞用法"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-81fcfb85738c": {
+    "ko": "부정 서술과 결합하여 정해진 것 이외에는 없음을 나타내는 표현",
+    "en-US": "Combines with a negative predicate to exclude all other possibilities",
+    "ja": "否定述語と結び、示した物事以外を排除する表現",
+    "zh-TW": "搭配否定敘述，表示除此之外皆無的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-1c4b24d1891b": {
+    "ko": "예상 밖의 대상도 같은 행동이나 상태에 포함됨을 강조하는 표현",
+    "en-US": "Emphasizes inclusion of an unexpected person or thing",
+    "ja": "意外な対象も同じ範囲へ含む強調表現",
+    "zh-TW": "強調連出乎意料的對象也包含在內的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-8a147ebbb0ea": {
+    "ko": "조사하거나 말하는 내용이 다루는 문제의 범위를 표시하는 표현",
+    "en-US": "Marks the subject matter being investigated or discussed",
+    "ja": "調査や発言で扱う事柄の範囲を示す表現",
+    "zh-TW": "標示調查或談論所涉及事項範圍的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-4277aa711869": {
+    "ko": "의견이나 태도 또는 행동이 향하는 상대를 표시하는 표현",
+    "en-US": "Marks the target toward which an opinion, attitude, or action is directed",
+    "ja": "意見や態度、行動の向かう相手を示す表現",
+    "zh-TW": "標示意見、態度或行動所朝向對象的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-81a2fc291d47": {
+    "ko": "지역 등 조건이 달라지면 내용도 달라지는 관계를 나타내는 표현",
+    "en-US": "Expresses variation according to a condition such as region",
+    "ja": "地域などの条件次第で内容の変わる関係を示す表現",
+    "zh-TW": "表示內容隨地區等條件而變化的表現"
+  },
+  "builtin-ja-particles-intermediate::ja-lesson-0ee4ce22a62f": {
+    "ko": "누구의 이익을 위해 행동하는지를 나타내는 표현",
+    "en-US": "Marks the person for whose benefit an action is done",
+    "ja": "行動の利益を受ける相手を示す表現",
+    "zh-TW": "標示行動所為其謀益者的表現"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-5545a258c50d": {
+    "ko": "지금 누구의 경험과 관찰을 중심으로 장면이 전해지는지 판단하는 읽기",
+    "en-US": "Identifying whose experience and observations frame the scene",
+    "ja": "誰の経験や観察を中心として場面が描かれるかを判断する読み方",
+    "zh-TW": "判斷場景以誰的經驗與觀察為中心呈現的讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-5fb6a57d2c07": {
+    "ko": "앞뒤 행동의 연결을 따라 문장에 드러나지 않은 행동 주체를 추론하는 읽기",
+    "en-US": "Inferring an unstated actor from the continuity of surrounding actions",
+    "ja": "前後の動作のつながりから、明示されない動作者を推測する読み方",
+    "zh-TW": "根據前後動作連貫性推斷未明示行動者的讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-3a5f2b146fed": {
+    "ko": "인물이 말한 내용과 관찰되는 행동만으로 알 수 있는 것을 구별하는 읽기",
+    "en-US": "Distinguishing what a character says from what observable behavior establishes",
+    "ja": "人物の発言と観察可能な動作から分かることを区別する読み方",
+    "zh-TW": "區分人物說話內容與可觀察行為所能確知之事的讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-0e6ee3134154": {
+    "ko": "앞에 나온 말이나 행동 가운데 가리키는 내용을 찾아 연결하는 읽기",
+    "en-US": "Linking a reference back to the earlier words or actions it points to",
+    "ja": "前の発言や動作の中から、指し示す内容を探して結ぶ読み方",
+    "zh-TW": "從前述話語或動作找出所指內容並連結的讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-29e97a6a1d07": {
+    "ko": "닮았다고 묘사한 모습과 실제로 존재하는 사물을 구별하는 읽기",
+    "en-US": "Distinguishing a likeness in a description from what is literally present",
+    "ja": "似た様子としての描写と実際の物事を区別する読み方",
+    "zh-TW": "區分相似性描寫與實際存在事物的讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-1acb5a684c5b": {
+    "ko": "앞부분이 충족되어도 뒷부분의 기대까지 충족되지는 않음을 파악하는 읽기",
+    "en-US": "Recognizing that meeting one expectation does not ensure another is met",
+    "ja": "前半の成立と、そこから期待する後半の成立を区別する読み方",
+    "zh-TW": "辨認前項成立卻未必實現後項期待的讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-b9b047c34e69": {
+    "ko": "현재의 감각적 자극이 과거의 기억을 불러오는 흐름을 파악하는 읽기",
+    "en-US": "Recognizing how a present sensory cue brings back a past memory",
+    "ja": "現在の感覚をきっかけとした過去の記憶への流れを捉える読み方",
+    "zh-TW": "掌握當下感官刺激引出過往記憶之過程的讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-2639b523d8c2": {
+    "ko": "같은 말이라도 사물의 온도인지 사람의 태도인지를 주변 내용으로 판단하는 읽기",
+    "en-US": "Using context to distinguish physical temperature from an interpersonal attitude",
+    "ja": "同じ語の温度と対人態度の使い分けを周囲の内容から判断する読み方",
+    "zh-TW": "根據上下文區分同一詞語指溫度或待人態度的讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-0c0c7b517e7f": {
+    "ko": "끝낸 행동과 뒤이어 반복한 행동을 구별하고 반복 이유는 단정하지 않는 읽기",
+    "en-US": "Distinguishing a completed action from its repetition without assuming the reason",
+    "ja": "完了した動作とその反復を区別し、理由は断定しない読み方",
+    "zh-TW": "區分已完成動作與其後重複動作，且不武斷推定原因的讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-a5877299c042": {
+    "ko": "겉으로 보이는 표정과 말하는 사람이 확실히 알지 못하는 감정을 구별하는 읽기",
+    "en-US": "Distinguishing a visible expression from feelings the speaker cannot know for certain",
+    "ja": "目に見える表情と、語り手の知り得ない感情を区別する読み方",
+    "zh-TW": "區分可見表情與敘述者無法確知情感的讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-4cb75fc19284": {
+    "ko": "앞의 변화와 대조되어 뒤에서는 유지되는 상태를 파악하는 읽기",
+    "en-US": "Recognizing a continuing state contrasted with a change described earlier",
+    "ja": "前の変化と対照的な、後ろの変わらぬ状態を捉える読み方",
+    "zh-TW": "掌握與前述變化形成對照的持續狀態之讀法"
+  },
+  "builtin-ja-reading-advanced::ja-lesson-286b9d778fa2": {
+    "ko": "한정하는 말의 위치에 따라 사람만 제한하는지 행동만 제한하는지 구별하는 읽기",
+    "en-US": "Distinguishing restriction of a person from restriction of an action by word position",
+    "ja": "限定語の位置から、人物の限定と動作の限定を区別する読み方",
+    "zh-TW": "依限定詞位置區分限制人物或限制動作的讀法"
+  },
+  "builtin-ja-exam-intermediate::ja-lesson-a57f6ff2096c": {
+    "ko": "도구 사용 자체의 금지가 아니라 사용 전에 목적을 정하라는 요지를 파악하는 읽기",
+    "en-US": "Recognizing advice to establish a purpose before choosing tools, rather than a ban on tools",
+    "ja": "道具の禁止ではなく、使用前の目的設定を求める要旨を捉える読み方",
+    "zh-TW": "掌握先確定目的再用工具，而非禁止使用工具的要旨之讀法"
+  },
+  "builtin-ja-exam-intermediate::ja-lesson-21796e8aaf52": {
+    "ko": "정기 휴관일과 공휴일 예외를 함께 적용하여 실제 방문 가능일을 판단하는 읽기",
+    "en-US": "Combining regular closure rules with holiday exceptions to determine opening days",
+    "ja": "定休日と祝日の例外を組み合わせ、来館可能日を判断する読み方",
+    "zh-TW": "合併固定休館日與假日例外來判斷可參觀日期的讀法"
+  },
+  "builtin-ja-exam-intermediate::ja-lesson-ef0452e7444c": {
+    "ko": "신청을 받는 날짜 범위와 별도로 정해진 납부 마감일을 구별하는 읽기",
+    "en-US": "Distinguishing an application window from a separate payment deadline",
+    "ja": "申込受付の日付範囲と、別の支払期限を区別する読み方",
+    "zh-TW": "區分申請受理日期範圍與另訂繳費截止日的讀法"
+  },
+  "builtin-ja-exam-intermediate::ja-lesson-4f93f947f44c": {
+    "ko": "명시된 사정과 뒤따른 조치를 연결하되 말하지 않은 사정은 추론으로 남기는 읽기",
+    "en-US": "Linking a stated circumstance to the action taken while keeping unstated details as inference",
+    "ja": "明記された事情と対応を結び、書かれていない事情は推測とする読み方",
+    "zh-TW": "連結明示情況與後續措施，並將未明說細節保留為推論的讀法"
+  },
+  "builtin-ja-exam-intermediate::ja-lesson-9c1ae108e418": {
+    "ko": "앞 문장 전체의 반복 활동을 가리키는 말을 일부 명사로만 좁히지 않는 읽기",
+    "en-US": "Recognizing a reference to an entire repeated activity rather than just one noun",
+    "ja": "前文全体の反復活動への指示を、一つの名詞へ狭めない読み方",
+    "zh-TW": "辨認指向前句整項重複活動，而非僅指單一名詞的讀法"
+  },
+  "builtin-ja-exam-intermediate::ja-lesson-2c02e7cfba5a": {
+    "ko": "언제나 그렇지는 않다는 말과 한 번도 그렇지 않다는 말을 구별하는 읽기",
+    "en-US": "Distinguishing not always true from never true",
+    "ja": "常には成り立たない場合と、一度も成り立たない場合を区別する読み方",
+    "zh-TW": "區別並非總是如此與從未如此的讀法"
+  },
+  "builtin-ja-exam-intermediate::ja-lesson-8bcc48cfb60c": {
+    "ko": "자격이 없으면 이용할 수 없다는 말에서 자격만 갖추면 항상 가능한지는 따로 판단하는 읽기",
+    "en-US": "Distinguishing a required qualification from a guarantee of access",
+    "ja": "資格なしでは利用不可という条件と、資格だけでの利用保証を区別する読み方",
+    "zh-TW": "區分使用所需資格與僅憑該資格便保證可使用的讀法"
+  },
+  "builtin-ja-exam-intermediate::ja-lesson-4b6c721e6681": {
+    "ko": "가벼움과 저렴함 중 무엇을 우선하는지에 따라 선택이 달라짐을 파악하는 읽기",
+    "en-US": "Recognizing how choosing between low weight and low price depends on priority",
+    "ja": "軽さと安さのどちらを優先するかで選択の変わることを捉える読み方",
+    "zh-TW": "掌握選擇隨優先考量輕便或低價而改變的讀法"
+  },
+  "builtin-ja-exam-advanced::ja-lesson-4502702a82e7": {
+    "ko": "효율의 중요성을 인정하면서도 그것만으로 가치를 정하지 말자는 요지를 파악하는 읽기",
+    "en-US": "Recognizing an argument that acknowledges efficiency without making it the sole measure of value",
+    "ja": "効率の重要性を認めつつ、それだけを価値の尺度としない要旨を捉える読み方",
+    "zh-TW": "掌握承認效率重要卻不將其作為唯一價值尺度的要旨之讀法"
+  },
+  "builtin-ja-exam-advanced::ja-lesson-8b17d04f09f5": {
+    "ko": "재택근무에 관한 두 글에서 양쪽 모두 뒷받침하는 통근 감소만 추리는 읽기",
+    "en-US": "Extracting reduced commuting as the point supported by both texts about remote work",
+    "ja": "在宅勤務の二つの文章で、双方の裏付けがある通勤減少を取り出す読み方",
+    "zh-TW": "從兩篇遠距工作文章中擷取雙方皆支持的通勤減少之讀法"
+  },
+  "builtin-ja-exam-advanced::ja-lesson-0a10917f9314": {
+    "ko": "다른 사람의 실패 회피 의견과 이에 답하는 글쓴이의 학습 가능성을 구별하는 읽기",
+    "en-US": "Distinguishing an attributed view favoring failure avoidance from the writer’s response about learning",
+    "ja": "他者の失敗回避の意見と、学ぶ可能性を述べる筆者の応答を区別する読み方",
+    "zh-TW": "區分他人避敗觀點與作者提出可從失敗學習之回應的讀法"
+  },
+  "builtin-ja-exam-advanced::ja-lesson-1e53f866961a": {
+    "ko": "그림이 도움이 된 사례를 모든 상황에서 반드시 도움이 된다는 주장으로 넓히지 않는 읽기",
+    "en-US": "Avoiding turning an example where pictures help into a claim that they always help",
+    "ja": "図が役立つ事例を、あらゆる場合の必然的な効果へ広げない読み方",
+    "zh-TW": "不把圖片有助理解的例子擴大為所有情況必然有效之讀法"
+  },
+  "builtin-ja-exam-advanced::ja-lesson-48860e5516c4": {
+    "ko": "응답한 사람들의 경향을 조사하지 않은 전체 집단의 성질로 단정하지 않는 읽기",
+    "en-US": "Avoiding treating respondents’ tendencies as established facts about an entire population",
+    "ja": "回答者の傾向を、未調査の集団全体の性質と断定しない読み方",
+    "zh-TW": "不將受訪者傾向斷定為未調查全體群體性質的讀法"
+  },
+  "builtin-ja-exam-advanced::ja-lesson-311858ee4128": {
+    "ko": "목적 설정 뒤 정보 수집이 오고 그 정보를 이용해 방법을 고르는 순서를 찾는 읽기",
+    "en-US": "Ordering purpose setting, information gathering, and a method chosen using that information",
+    "ja": "目的設定、情報収集、その情報による方法選択の順を探す読み方",
+    "zh-TW": "找出設定目的、蒐集資訊、依資訊選擇方法之順序的讀法"
+  },
+  "builtin-ja-exam-advanced::ja-lesson-545e7cad2b92": {
+    "ko": "준비했다는 사실과 설명이 잘되지 않았다는 사실이 함께 성립함을 파악하는 읽기",
+    "en-US": "Recognizing that preparation and an unsuccessful explanation can both be true",
+    "ja": "準備した事実と、説明の不成功の両立を捉える読み方",
+    "zh-TW": "掌握已做準備與說明不成功兩事可同時成立的讀法"
+  },
+  "builtin-ja-exam-advanced::ja-lesson-9886a4b6ca9f": {
+    "ko": "근거에 따른 예상과 강한 확신을 나타내는 판단을 구별하는 읽기",
+    "en-US": "Distinguishing an evidence-based expectation from a judgment of strong certainty",
+    "ja": "根拠からの予想と、強い確信としての判断を区別する読み方",
+    "zh-TW": "區分依據理由所作預期與強烈確信判斷的讀法"
+  }
+}

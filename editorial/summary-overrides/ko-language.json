@@ -1,0 +1,416 @@
+{
+  "builtin-ja-priority-1::ja-jmdict-1186760": {
+    "ko": "물질의 성질과 변화를 연구하는 학문"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1164250": {
+    "ko": "천이라는 수"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1228490": {
+    "ko": "줄을 당겼다 놓아 화살을 날리는 무기"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1234220": {
+    "ko": "가장 높은 값을 제시한 사람에게 파는 거래 방식"
+  },
+  "builtin-ja-priority-3::ja-jmdict-1319310": {
+    "ko": "11월 15일 무렵 일곱·다섯·세 살 아이를 위한 일본 축제"
+  },
+  "builtin-ja-priority-3::ja-jmdict-1400170": {
+    "ko": "예정된 때보다 일이 앞당겨지다"
+  },
+  "builtin-ja-priority-3::ja-jmdict-1557630": {
+    "ko": "수량이 전혀 없음을 표현하는 수"
+  },
+  "builtin-ja-priority-3::ja-jmdict-1601770": {
+    "ko": "당겨 늘리거나 크게 하다"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1067740": {
+    "ko": "불쾌한 냄새를 내뿜는 포유동물"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1125620": {
+    "ko": "의학에서 점막에 돌출하여 생긴 용종"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1141280": {
+    "ko": "소리를 녹음하거나 내용을 기록하는 장치"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1144130": {
+    "ko": "붉은빛을 띤 보석"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1196520": {
+    "ko": "안개가 끼거나 흐릿해지다"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-2222070": {
+    "ko": "소리를 압축해 저장하는 디지털 파일 형식"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-15b7f7a95c1ccdcb": {
+    "ko": "배 또는 선박"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-1d8fb5e34e43a755": {
+    "ko": "웃거나 미소 짓다"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-150617a89b449d77": {
+    "ko": "가장 또는 최고로라는 최상급 표현"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-0868fbc8c0bd7ea3": {
+    "ko": "겨울이라는 계절"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-32d42b97294a1365": {
+    "ko": "고전어에서 말하다는 뜻"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-409e2c3882c96ae6": {
+    "ko": "오직·다만·단지라는 한정 표현"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-d6b5711fea6d4530": {
+    "ko": "유라시아 대륙의 동쪽을 차지하는 지역"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-3ad035c78b9b8510": {
+    "ko": "크고 웅장한 건물"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-a95ea25c608d541b": {
+    "ko": "가능한 한 빨리"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-cc8b6fc9b6658f74": {
+    "ko": "슬프고 비참한"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-5c1abf6547a282e3": {
+    "ko": "얼굴 양옆의 뺨"
+  },
+  "builtin-ko-krdict-conversation::krdict-60931": {
+    "ko": "화자가 친구 또는 아랫사람에게 자신을 지칭하는 대명사"
+  },
+  "builtin-ko-krdict-conversation::krdict-36848": {
+    "ko": "생물학적으로 수컷에 해당하는 인간"
+  },
+  "builtin-ko-krdict-conversation::krdict-70891": {
+    "ko": "한 시간의 1/60인 시간 단위"
+  },
+  "builtin-ko-krdict-conversation::krdict-15746": {
+    "ko": "머리카락을 가지런히 정돈하는 도구"
+  },
+  "builtin-ko-krdict-conversation::krdict-65107": {
+    "ko": "태어난 순간"
+  },
+  "builtin-ko-krdict-conversation::krdict-66122": {
+    "ko": "발을 보호하도록 감싸 착용하는 물건"
+  },
+  "builtin-ko-krdict-conversation::krdict-14324": {
+    "ko": "수프나 스테이크처럼 서구에서 유래한 음식"
+  },
+  "builtin-ko-krdict-conversation::krdict-67779": {
+    "ko": "잘게 만든 석탄 등을 굳힌 덩어리 연료"
+  },
+  "builtin-ko-krdict-conversation::krdict-31523": {
+    "ko": "0 다음의 첫 자연수"
+  },
+  "builtin-ko-krdict-conversation::krdict-91770": {
+    "ko": "가는 침을 통해 액체 약물을 몸 안에 직접 넣는 일 또는 그 기구"
+  },
+  "builtin-ko-krdict-conversation::krdict-72123": {
+    "ko": "일정 기간이 시작되는 무렵"
+  },
+  "builtin-ko-krdict-conversation::krdict-87590": {
+    "ko": "얼굴에 여러 미용 제품을 발라 예쁘게 꾸미는 일"
+  },
+  "builtin-ko-krdict-conversation::krdict-73252": {
+    "ko": "근무하지 않고 쉬도록 정해진 날"
+  },
+  "builtin-ko-krdict-literature::krdict-87221": {
+    "ko": "글 또는 시의 네 단계 구성에서 맨 앞에 해당하는 부분"
+  },
+  "builtin-ko-krdict-literature::krdict-67987": {
+    "ko": "심술궂고 욕심이 많아 어머니와 함께 이복 언니 콩쥐를 괴롭히는 고전 소설의 인물"
+  },
+  "builtin-ko-krdict-grammar::krdict-66967": {
+    "ko": "친근한 연하를 향한 명령 표현의 종결 어미"
+  },
+  "builtin-ko-krdict-grammar::krdict-72222": {
+    "ko": "앞말을 명사로 쓰도록 바꾸는 어미"
+  },
+  "builtin-ko-krdict-grammar::krdict-80176": {
+    "ko": "앞뒤 내용의 서로 다름을 표현하는 연결 어미"
+  },
+  "builtin-ko-krdict-grammar::krdict-89218": {
+    "ko": "불만족스러운 조건에서도 차선의 선택을 표현하는 조사"
+  },
+  "builtin-ko-krdict-grammar::krdict-76116": {
+    "ko": "예사 낮춤 또는 두루 낮춤의 물음 표현 종결 어미"
+  },
+  "builtin-ko-krdict-grammar::krdict-85851": {
+    "ko": "다른 대상과 대조, 화제 제시, 강조 표시의 보조사"
+  },
+  "builtin-ko-krdict-grammar::krdict-85852": {
+    "ko": "현재 동작 발생 표시의 어미"
+  },
+  "builtin-ko-krdict-grammar::krdict-85853": {
+    "ko": "현재 사건·동작 표현과 관형어 전환의 어미"
+  },
+  "builtin-ko-krdict-grammar::krdict-81516": {
+    "ko": "두루 낮춤의 강한 부정·의문 표현 종결 어미"
+  },
+  "builtin-ko-krdict-grammar::krdict-76236": {
+    "ko": "아주 낮춤에서 함께 행동할 것을 권하는 끝맺음"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-924": {
+    "ko": "화자가 친구 또는 아랫사람에게 자신을 지칭하는 대명사"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-2616": {
+    "ko": "카메라로 찍어 종이나 컴퓨터 등에 표현한 사물의 영상"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-2838": {
+    "ko": "연령 측정의 단위"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-3079": {
+    "ko": "인구와 산업이 집중된 중심지를 바탕으로 한 지방 행정 구역"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-4067": {
+    "ko": "화자 곁의 대상 또는 바로 앞 내용 지칭의 대명사"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-5926": {
+    "ko": "근무하지 않고 쉬도록 정해진 날"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-581": {
+    "ko": "지휘 체계와 규율에 따라 조직된 병력의 집단"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-973": {
+    "ko": "생물학적으로 수컷에 해당하는 인간"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-1147": {
+    "ko": "미국 북동부의 큰 항구 도시로 세계 경제와 외교의 중심지"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-2268": {
+    "ko": "보통과 달리 특이하거나 이상한"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-2522": {
+    "ko": "머리카락을 가지런히 정돈하는 도구"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-3138": {
+    "ko": "정해진 절차 또는 틀"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-3910": {
+    "ko": "인력으로 바꾸기 어렵다고 여겨지는 정해진 흐름"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-4781": {
+    "ko": "가는 침을 통해 액체 약물을 몸 안에 직접 넣는 일 또는 그 기구"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-4869": {
+    "ko": "사건 발생 후 현재에 이르는 경과 기간"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-5157": {
+    "ko": "일정 기간이 시작되는 무렵"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-1382": {
+    "ko": "인간이라면 마땅히 지켜야 할 규범"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-1660": {
+    "ko": "공간 간격 측정의 단위"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-2039": {
+    "ko": "긴 탁자 앞에서 술 제공인과 마주 앉는 서구의 술집"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-2771": {
+    "ko": "앉을 자리 수를 헤아릴 때 쓰는 단위"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-2815": {
+    "ko": "사람이 타고난 바탕이나 기질"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-3476": {
+    "ko": "수프나 스테이크처럼 서구에서 유래한 음식"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-3960": {
+    "ko": "등급·등수의 셈 표현"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-4138": {
+    "ko": "앞말 또는 앞 행동 다음에 계속하여"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-4689": {
+    "ko": "문서 내용을 나눈 항목"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-4784": {
+    "ko": "회사의 자본을 같은 값으로 나눈 단위나 증권"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-5183": {
+    "ko": "화약으로 탄환을 쏘는 무기"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-5790": {
+    "ko": "지금의"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-5807": {
+    "ko": "다른 것과 구별될 특징을 갖춘 모양"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-5851": {
+    "ko": "얼굴에 여러 미용 제품을 발라 예쁘게 꾸미는 일"
+  },
+  "builtin-en-school-secondary::en-15bd52797d7d181e": {
+    "ko": "~해야 한다거나 어떤 일이 일어날 것으로 기대됨을 나타내는 말"
+  },
+  "builtin-en-general-core::en-15bd52797d7d181e": {
+    "ko": "~해야 한다거나 어떤 일이 일어날 것으로 기대됨을 나타내는 말"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1365010": {
+    "ko": "통나무 등을 쪼개 땔감으로 만든 것"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1371390": {
+    "ko": "수분이나 물기가 있는 상태"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1425960": {
+    "ko": "결혼을 이어 주는 중매인"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1430200": {
+    "ko": "머리나 산 등의 가장 높은 끝부분"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1028510": {
+    "ko": "라틴 알파벳의 열아홉째 글자"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1029150": {
+    "ko": "라틴 알파벳의 여덟째 글자"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1148050": {
+    "ko": "기록된 내용을 읽기만 할 수 있는 기억 장치"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-2839962": {
+    "ko": "수량이 전혀 없음을 표현하는 수"
+  },
+  "builtin-zh-hsk2-level-1::builtin-zh-hsk2-level-1-bb0d9c666fa88969": {
+    "ko": "작은 탁자"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-91b246b5dbc05480": {
+    "ko": "풀 또는 짚"
+  },
+  "builtin-zh-literary-reading::builtin-zh-literary-reading-1f2eb2608d236247": {
+    "ko": "고어에서 미소라는 뜻"
+  },
+  "builtin-ko-krdict-conversation::krdict-50037": {
+    "ko": "부동산의 권리 관계를 법정 절차로 공적 장부에 기록하는 일 또는 그 기록"
+  },
+  "builtin-ko-krdict-conversation::krdict-66234": {
+    "ko": "사람이나 동물의 목 윗부분으로 얼굴과 털 등을 포함하는 부위"
+  },
+  "builtin-ko-krdict-conversation::krdict-65108": {
+    "ko": "하루의 1/24에 해당하는 동안"
+  },
+  "builtin-ko-krdict-conversation::krdict-62276": {
+    "ko": "음식 섭취와 발성의 기관으로 목구멍 앞쪽에 있는 부분"
+  },
+  "builtin-ko-krdict-conversation::krdict-17306": {
+    "ko": "지금보다 앞선"
+  },
+  "builtin-ko-krdict-conversation::krdict-20260": {
+    "ko": "통신 장치를 이용해 떨어진 사람끼리 말을 주고받는 일"
+  },
+  "builtin-ko-krdict-conversation::krdict-71490": {
+    "ko": "땅 아래의 궤도를 따라 달리는 전동차"
+  },
+  "builtin-ko-krdict-conversation::krdict-27372": {
+    "ko": "볶고 갈아 물에 끓여 마실 음료를 만드는 식물의 열매 또는 그 가루"
+  },
+  "builtin-ko-krdict-conversation::krdict-20286": {
+    "ko": "남성이 남성 친족 중 자신보다 나이 많은 이를 부르는 호칭"
+  },
+  "builtin-ko-krdict-literature::krdict-67982": {
+    "ko": "계모의 구박 속에서 궂은 일을 하다가 요술 할머니의 도움으로 왕자를 만나 결혼한 동화 속 여성"
+  },
+  "builtin-ko-krdict-literature::krdict-68980": {
+    "ko": "한시에서 소리의 조화를 위해 끝에 붙이는 글자"
+  },
+  "builtin-ko-krdict-grammar::krdict-85022": {
+    "ko": "질문 일부 생략에 쓰인 두루낮춤 종결 말끝"
+  },
+  "builtin-ko-krdict-grammar::krdict-85739": {
+    "ko": "원래 행동의 멈춤과 별개 행동으로의 전환 표시 연결어미"
+  },
+  "builtin-ko-krdict-grammar::krdict-86205": {
+    "ko": "앞 행동의 멈춤과 다른 행동으로의 전환을 잇는 어미"
+  },
+  "builtin-ko-krdict-grammar::krdict-86094": {
+    "ko": "선행 사건의 발생 또는 후속 행동의 방법·수단 표현 말끝"
+  },
+  "builtin-ko-krdict-grammar::krdict-86355": {
+    "ko": "동작의 직접 영향 대상 표시 조사"
+  },
+  "builtin-ko-krdict-grammar::krdict-69058": {
+    "ko": "앞말의 관형어 전환 표시 어미"
+  },
+  "builtin-ko-krdict-grammar::krdict-86289": {
+    "ko": "동작 주체 및 상황 대상 표시 조사"
+  },
+  "builtin-ko-krdict-grammar::krdict-78636": {
+    "ko": "앞말의 부정 또는 불허 표현 연결어미"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-738": {
+    "ko": "조직 내 지위 또는 기술 수준의 단계"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-825": {
+    "ko": "사람이나 차의 통행을 위해 땅에 마련된 띠 모양 공간"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-1795": {
+    "ko": "사람이나 동물의 목 윗부분으로 얼굴과 털 등을 포함하는 부위"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-3080": {
+    "ko": "하루의 1/24에 해당하는 동안"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-4278": {
+    "ko": "음식 섭취와 발성의 기관으로 목구멍 앞쪽에 있는 부분"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-4515": {
+    "ko": "지금보다 앞선"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-4566": {
+    "ko": "통신 장치를 이용해 떨어진 사람끼리 말을 주고받는 일"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-4942": {
+    "ko": "땅 아래의 궤도를 따라 달리는 전동차"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-5315": {
+    "ko": "볶고 갈아 물에 끓여 마실 음료를 만드는 식물의 열매 또는 그 가루"
+  },
+  "builtin-ko-nikl2003-a::ko-nikl2003-row-5806": {
+    "ko": "남성이 남성 친족 중 자신보다 나이 많은 이를 부르는 호칭"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-716": {
+    "ko": "생각이나 사건의 내용을 문자로 표현한 것"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-1006": {
+    "ko": "물건을 안에서 밖으로 꺼내어 두다"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-2244": {
+    "ko": "어떤 일을 진행하는 절차나 방식"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-3830": {
+    "ko": "세습 국가의 통치자"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-4253": {
+    "ko": "기간별 해야 할 일을 정해 둔 계획"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-4588": {
+    "ko": "성적을 수량으로 표시할 때 쓰는 단위"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-4613": {
+    "ko": "성질이나 가치를 많고 적음 또는 좋고 나쁨으로 표시한 수준"
+  },
+  "builtin-ko-nikl2003-b::ko-nikl2003-row-5383": {
+    "ko": "지구가 공전하는 궤도 중심의 매우 뜨겁고 스스로 빛을 내는 항성"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-385": {
+    "ko": "음악의 개별 작품"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-446": {
+    "ko": "전문 분야별로 나눈 조직의 단위"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-1364": {
+    "ko": "남을 이해하고 받아줄 줄 아는 너그럽고 올바른 인격"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-1381": {
+    "ko": "온열 수준 측정의 단위"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-2960": {
+    "ko": "광물에서 얻는 금속류"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-2966": {
+    "ko": "셈의 결과값"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-3679": {
+    "ko": "꽃이 진 뒤 식물에 생기는 부분으로 사과나 배 등"
+  },
+  "builtin-ko-nikl2003-c::ko-nikl2003-row-5027": {
+    "ko": "순서 또는 반복 횟수를 표현하는 의존 명사"
+  }
+}

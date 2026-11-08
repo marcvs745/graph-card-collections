@@ -1,0 +1,238 @@
+{
+  "builtin-en-school-high::en-d774ea6c0add29b7": {
+    "en-US": "To form or develop an idea"
+  },
+  "builtin-en-academic-nawl::en-d774ea6c0add29b7": {
+    "en-US": "To form or develop an idea"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1447590": {
+    "zh-TW": "由愛知、靜岡、三重與岐阜南部組成的日本本州地區"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1454750": {
+    "zh-TW": "需另購專用票的一類快速列車"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1521370": {
+    "zh-TW": "由新潟、富山、石川與福井組成的本州地區"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1529410": {
+    "zh-TW": "睡眠時腦中出現的影像與經驗"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1625240": {
+    "ko": "일본 중앙부의 내륙 현과 같은 이름의 도시",
+    "en-US": "A landlocked prefecture near the center of Japan and a city sharing its name",
+    "ja": "日本の中央付近にある内陸県と同名の都市",
+    "zh-TW": "日本中央附近沒有海岸線的縣及同名城市"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1652350": {
+    "ko": "794년 도읍이 세워진 일본의 옛 수도와 같은 이름의 행정구역",
+    "en-US": "Japan’s former imperial capital established in 794, also the name of its prefecture",
+    "ja": "794年に都が置かれた日本の旧都と同名の府",
+    "zh-TW": "794年建都的日本古都及同名的府"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1755220": {
+    "ko": "일본 도호쿠 지방의 동해 쪽에 있는 현과 같은 이름의 도시",
+    "en-US": "A prefecture on the Sea of Japan side of northeastern Honshu and a city sharing its name",
+    "ja": "東北地方の日本海側にある県と同名の都市",
+    "zh-TW": "日本本州東北部、面向日本海的縣及同名城市"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1278580": {
+    "ko": "중국 남부 주장강 삼각주에 있는 광둥성의 성도",
+    "en-US": "The capital of Guangdong Province, near the northern edge of the Pearl River Delta",
+    "ja": "珠江デルタ北部にある中国南部の省都",
+    "zh-TW": "位於珠江三角洲北緣的廣東省省會"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1278620": {
+    "ko": "중국 남부에서 홍콩과 마카오에 인접한 성",
+    "en-US": "A province of southern China adjoining Hong Kong and Macao",
+    "ja": "香港・マカオに接する中国南部の省",
+    "zh-TW": "中國南部與香港、澳門相鄰的省份"
+  },
+  "builtin-ja-priority-2::ja-jmdict-1396420": {
+    "zh-TW": "佛教中使心念安定、注意集中的深度冥想"
+  },
+  "builtin-ja-priority-3::ja-jmdict-1360730": {
+    "zh-TW": "因精神能力降低而使刑事責任判斷受影響的狀態"
+  },
+  "builtin-ja-priority-3::ja-jmdict-1562120": {
+    "ko": "승려인 스승을 높여 부르는 말",
+    "ja": "仏教の僧である師への敬称"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1255430": {
+    "zh-TW": "環繞地球運行的天然衛星"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-2618810": {
+    "en-US": "A young person outside formal study, paid work, or vocational training"
+  },
+  "builtin-zh-hsk2-level-1::builtin-zh-hsk2-level-1-5ba1e3c0eb636161": {
+    "zh-TW": "有能力做某事"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-a8b43ae9fdc84d1a": {
+    "ko": "힘을 써서 몸이나 마음이 지치다",
+    "en-US": "Tired after physical or mental effort",
+    "ja": "活動によって体や心が疲れている",
+    "zh-TW": "因活動而感到疲倦"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-9bbfbbc76f7ac5e0": {
+    "zh-TW": "向對方表達敬意的第二人稱"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-52f354ecfccbb8e6": {
+    "ja": "晴れた空のような色"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-773d6bfc831da6fb": {
+    "zh-TW": "剛取得或未陳舊，亦可指新奇少見"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-16729fb40af5af9b": {
+    "zh-TW": "相同數量反覆若干次所得的關係"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-1d4209165b868d98": {
+    "zh-TW": "缺少水分的狀態"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-d5f3c536a75905fd": {
+    "ja": "表面から底までの隔たりが大きい"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-4cc7b00050cb1c21": {
+    "ja": "人や物が列をなして並んだまとまり",
+    "zh-TW": "走路或移動；有能力、可辦到或沒問題"
+  },
+  "builtin-zh-hsk2-level-4::builtin-zh-hsk2-level-4-077077d72469b536": {
+    "ja": "体内を循環する赤い液体"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-09f7f58846181492": {
+    "zh-TW": "因共同興趣而組成的社團或其活動場所"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-d0dca518d14ba539": {
+    "zh-TW": "配合呼吸、以柔和圓弧動作進行的中國傳統身體技藝"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-f867040b5abcad40": {
+    "zh-TW": "行進時因崎嶇路面或風浪等而上下搖晃"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-e3e0441f48aaa533": {
+    "zh-TW": "以手指掐住"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-12404a0b63817240": {
+    "ko": "사람이나 사물의 위치를 나타내며 동사 앞에서는 진행 중인 동작을 표시하는 말",
+    "en-US": "Indicates location or, before a verb, an ongoing action",
+    "ja": "人や物の場所、動詞の前では進行中の動作を示す語",
+    "zh-TW": "表示人或物的位置，放動詞前可標明進行中的動作"
+  },
+  "builtin-hanja-radicals::hanja-4ea0": {
+    "ko": "고유한 뜻 없이 강희 부수 8번의 분류에 쓰이는 글자",
+    "en-US": "A head component without an independent lexical meaning, classified as Kangxi radical 8",
+    "ja": "固有の意味を持たず、康熙部首第8番の分類に使う字",
+    "zh-TW": "沒有固定字義而歸為康熙第8部首的字"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-1571170": {
+    "zh-TW": "腹部中央、連接母體的帶狀組織脫落後留下的凹痕"
+  },
+  "builtin-ja-priority-3::ja-jmdict-1579300": {
+    "zh-TW": "部分種類會從海中回到河川繁殖的魚類"
+  },
+  "builtin-zh-hsk2-level-1::builtin-zh-hsk2-level-1-8af2350cfd65805b": {
+    "zh-TW": "接在修飾語後連結名詞，或使詞組具有名詞功能之助詞"
+  },
+  "builtin-zh-hsk2-level-2::builtin-zh-hsk2-level-2-edeb31dda65c9719": {
+    "zh-TW": "考試須作答的事項，或討論所涉及的內容"
+  },
+  "builtin-zh-hsk2-level-3::builtin-zh-hsk2-level-3-b6a993c256ef577a": {
+    "zh-TW": "把整體拆成數份，或把物品交給不同對象"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-abc3da5e6b37217b": {
+    "zh-TW": "離開原來位置而向後移，或離開某項活動"
+  },
+  "builtin-ko-krdict-grammar::krdict-85029": {
+    "ko": "(두루낮춤으로) 새롭게 알게 된 사실에 주목하거나 감탄함을 나타내는 종결 어미",
+    "en-US": "(Informal, addressee-lowering) A final ending noticing or admiring a newly learned fact",
+    "ja": "（聞き手に敬語を使わないくだけた言い方）新たに知った事実に注目したり感嘆したりする終結語尾",
+    "zh-TW": "（對聽者使用非敬語的非正式語體）表示注意到或感嘆新得知事實的終結語尾"
+  },
+  "builtin-ko-krdict-grammar::krdict-85780": {
+    "ko": "(두루낮춤으로) 새롭게 알게 된 사실에 주목하거나 감탄함을 나타내는 종결 어미",
+    "en-US": "(Informal, addressee-lowering) A final ending noticing or admiring a newly learned fact",
+    "ja": "（聞き手に敬語を使わないくだけた言い方）新たに知った事実に注目・感嘆する終結語尾",
+    "zh-TW": "（對聽者使用非敬語的非正式語體）表示注意到或感嘆新得知事實的終結語尾"
+  },
+  "builtin-ko-krdict-grammar::krdict-85759": {
+    "ko": "(두루낮춤으로) 과거에 직접 경험하여 새롭게 알게 된 사실을 전하며 그 사실에 주목하거나 감탄함을 나타내는 종결 어미",
+    "en-US": "(Informal, addressee-lowering) A final ending conveying a newly learned fact from direct past experience while noticing or admiring it",
+    "ja": "（聞き手に敬語を使わないくだけた言い方）過去の直接経験で新たに知った事実を伝え、注目・感嘆する終結語尾",
+    "zh-TW": "（對聽者使用非敬語的非正式語體）傳達過去親身經驗中新得知事實並表示注意或感嘆的終結語尾"
+  },
+  "builtin-ko-krdict-grammar::krdict-92511": {
+    "ko": "(두루낮춤으로) 새롭게 알게 된 사실에 주목하거나 감탄함을 나타내는 종결 어미",
+    "en-US": "An informal, listener-lowering sentence ending noticing or admiring a newly learned fact",
+    "ja": "聞き手を低め、新しく知った事実に注目したり感嘆したりする終結語尾",
+    "zh-TW": "一般降低聽者，注意或感嘆新得知事實的終結語尾"
+  },
+  "builtin-ko-krdict-grammar::krdict-600677": {
+    "ko": "앞에 말한 내용과 비슷한 정도나 한도임을 나타내는 조사",
+    "en-US": "A particle indicating a degree or limit similar to what was stated before",
+    "ja": "前に述べた内容と似た程度や限度を表す助詞",
+    "zh-TW": "表示程度或限度與前述內容相近的助詞"
+  },
+  "builtin-zh-conversation-colloquial::builtin-zh-conversation-colloquial-43525a3b5cdd63d9": {
+    "ko": "(구어) 해당 분야에서 널리 알려진 유명 인사나 거물",
+    "en-US": "(Colloquial) A prominent or influential person in a field",
+    "ja": "（口語）ある分野で広く知られる大物や有名人",
+    "zh-TW": "（口語）某領域中知名或有影響力的人物"
+  },
+  "builtin-zh-conversation-colloquial::builtin-zh-conversation-colloquial-0052237ba6502de7": {
+    "ko": "(구어) 일을 하거나 고용되어 일하다",
+    "en-US": "(Colloquial) To do work or be employed",
+    "ja": "（口語）仕事をする、雇われて働く",
+    "zh-TW": "（口語）工作或受僱做事"
+  },
+  "builtin-zh-conversation-colloquial::builtin-zh-conversation-colloquial-60b505011e840c73": {
+    "ko": "(구어) 나이 든 부부 중 자기 남편이나 아내를 이르는 말",
+    "en-US": "(Colloquial) One’s husband or wife in an older couple",
+    "ja": "（口語）年を取った夫婦の、自分の夫または妻",
+    "zh-TW": "（口語）年長夫妻中自己的丈夫或妻子"
+  },
+  "builtin-zh-conversation-colloquial::builtin-zh-conversation-colloquial-3c8404fee8157aa3": {
+    "ko": "한 조각이나 덩어리; (구어) 1위안이나 1달러",
+    "en-US": "A piece or chunk; (colloquial) one yuan or one dollar",
+    "ja": "一切れや一塊；（口語）一元または一ドル",
+    "zh-TW": "單件或團狀之物；（口語）一元或一美元"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-0052237ba6502de7": {
+    "ko": "(구어) 일을 하거나 고용되어 일하다",
+    "en-US": "(Colloquial) To do work or be employed",
+    "ja": "（口語）仕事をする、雇われて働く",
+    "zh-TW": "（口語）工作或受僱做事"
+  },
+  "builtin-zh-hsk2-level-5::builtin-zh-hsk2-level-5-3e83b6b6fb9f793f": {
+    "ko": "온 힘을 다하여 힘쓰다",
+    "en-US": "To exert all one’s strength",
+    "ja": "力を振り絞り、全力を出す",
+    "zh-TW": "用盡全部力氣"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-d0cc59ed847568fd": {
+    "ko": "다른 사람의 기분을 상하게 하거나 실례를 범하다",
+    "en-US": "To offend someone or commit a social faux pas",
+    "ja": "相手の気分を害する、失礼をする",
+    "zh-TW": "冒犯他人或做出失禮之舉"
+  },
+  "builtin-ja-common-unranked::ja-jmdict-2217040": {
+    "ko": "보다, 관찰하거나 시청하다(존경어)",
+    "en-US": "(Honorific) To see, look, or watch",
+    "ja": "見ることを敬っていう語",
+    "zh-TW": "看或觀看的敬語說法"
+  },
+  "builtin-ja-priority-3::ja-jmdict-1198180": {
+    "ko": "만나다, 사람과 마주하다",
+    "en-US": "To meet or encounter someone",
+    "ja": "相手と顔を合わせる",
+    "zh-TW": "與人碰面或相遇"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-5dcee8726d891b0c": {
+    "ko": "비수기, 장사가 한산한 철",
+    "en-US": "The off season or a slow business season",
+    "ja": "閑散期、商売が振るわない時期"
+  },
+  "builtin-zh-hsk2-level-6::builtin-zh-hsk2-level-6-ef33b1c0eb825d6c": {
+    "ko": "법인, 법적 인격체",
+    "en-US": "A legal person or corporation"
+  },
+  "builtin-ja-priority-1::ja-jmdict-1341000": {
+    "zh-TW": "冬季之後、夏季之前的季節"
+  }
+}

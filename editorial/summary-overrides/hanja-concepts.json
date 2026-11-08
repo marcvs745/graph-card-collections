@@ -1,0 +1,3944 @@
+{
+  "builtin-hanja-radicals::hanja-4e00": {
+    "zh-TW": "數值1"
+  },
+  "builtin-hanja-radicals::hanja-4ea0": {
+    "zh-TW": "沒有固定字義的康熙第8部首"
+  },
+  "builtin-hanja-radicals::hanja-4eba": {
+    "zh-TW": "能思考並運用語言工具而共同生活的存在"
+  },
+  "builtin-hanja-radicals::hanja-5165": {
+    "ja": "外から内へ移る",
+    "zh-TW": "從外面到裡面"
+  },
+  "builtin-hanja-radicals::hanja-5200": {
+    "zh-TW": "具有刃部的切割工具"
+  },
+  "builtin-hanja-radicals::hanja-5315": {
+    "zh-TW": "短柄尖刃的武器"
+  },
+  "builtin-hanja-radicals::hanja-5341": {
+    "ja": "10という数",
+    "zh-TW": "數值10"
+  },
+  "builtin-hanja-radicals::hanja-535c": {
+    "zh-TW": "根據徵兆推測吉凶"
+  },
+  "builtin-hanja-radicals::hanja-571f": {
+    "zh-TW": "地表覆蓋的砂礫與黏質等物質"
+  },
+  "builtin-hanja-radicals::hanja-58eb": {
+    "zh-TW": "具有學問知識的讀書人"
+  },
+  "builtin-hanja-radicals::hanja-5973": {
+    "ja": "男性と区別される性別の人",
+    "zh-TW": "與男性相對的性別"
+  },
+  "builtin-hanja-radicals::hanja-5b50": {
+    "ja": "親から見た男のこども",
+    "zh-TW": "父母所生的男性後代"
+  },
+  "builtin-hanja-radicals::hanja-5bf8": {
+    "ja": "東アジアの伝統的な長さの単位",
+    "zh-TW": "東亞傳統的長度計量單位"
+  },
+  "builtin-hanja-radicals::hanja-5c0f": {
+    "ja": "長さや広さなどが標準に満たない"
+  },
+  "builtin-hanja-radicals::hanja-5c71": {
+    "zh-TW": "高出周圍地面的隆起地形"
+  },
+  "builtin-hanja-radicals::hanja-5de5": {
+    "zh-TW": "具有製造技藝的職人"
+  },
+  "builtin-hanja-radicals::hanja-5df1": {
+    "zh-TW": "相對他者而言的自身"
+  },
+  "builtin-hanja-radicals::hanja-5f13": {
+    "zh-TW": "拉弦後可將箭射出的器具"
+  },
+  "builtin-hanja-radicals::hanja-5fc3": {
+    "zh-TW": "思想與情緒活動的所在"
+  },
+  "builtin-hanja-radicals::hanja-6208": {
+    "zh-TW": "長柄帶刃的古代兵器"
+  },
+  "builtin-hanja-radicals::hanja-6587": {
+    "ja": "ことばを記号列で表した内容",
+    "zh-TW": "以字句表達的內容"
+  },
+  "builtin-hanja-radicals::hanja-6597": {
+    "ja": "穀物などをはかる伝統的な容量単位",
+    "zh-TW": "傳統穀物容量的計量單位"
+  },
+  "builtin-hanja-radicals::hanja-65a4": {
+    "ja": "東アジアの伝統的な重さの単位",
+    "zh-TW": "東亞傳統重量的計量單位"
+  },
+  "builtin-hanja-radicals::hanja-65b9": {
+    "zh-TW": "由四條邊構成的形狀"
+  },
+  "builtin-hanja-radicals::hanja-65e5": {
+    "ja": "24時間を基本とする時間の単位"
+  },
+  "builtin-hanja-radicals::hanja-6708": {
+    "zh-TW": "環繞地球運行的天然衛星"
+  },
+  "builtin-hanja-radicals::hanja-6bd4": {
+    "ja": "二つ以上のものの違いを見きわめる",
+    "zh-TW": "將兩者並列以觀察異同"
+  },
+  "builtin-hanja-radicals::hanja-6bdb": {
+    "zh-TW": "皮膚長出的細長纖維狀構造"
+  },
+  "builtin-hanja-radicals::hanja-6c0f": {
+    "ja": "家系を表す呼び名",
+    "zh-TW": "表明家族血統的稱呼"
+  },
+  "builtin-hanja-radicals::hanja-6c34": {
+    "zh-TW": "純淨時無色無臭且透明的液體"
+  },
+  "builtin-hanja-radicals::hanja-706b": {
+    "zh-TW": "燃燒時產生的熱與光"
+  },
+  "builtin-hanja-radicals::hanja-722a": {
+    "zh-TW": "指尖表面的堅硬構造"
+  },
+  "builtin-hanja-radicals::hanja-7236": {
+    "zh-TW": "雙親之中的男性"
+  },
+  "builtin-hanja-radicals::hanja-723b": {
+    "zh-TW": "易經卦象的基本線條"
+  },
+  "builtin-hanja-radicals::hanja-7247": {
+    "zh-TW": "整體分離出的薄塊"
+  },
+  "builtin-hanja-radicals::hanja-725b": {
+    "zh-TW": "會反芻且有角的一種家畜"
+  },
+  "builtin-hanja-radicals::hanja-72ac": {
+    "ja": "人に飼われるイヌ科の動物",
+    "zh-TW": "常作伴侶或看守用的馴養動物"
+  },
+  "builtin-hanja-radicals::hanja-7389": {
+    "ja": "磨くと美しい光沢を持つ硬い宝石",
+    "zh-TW": "可磨出美麗光澤的堅硬寶石"
+  },
+  "builtin-hanja-radicals::hanja-74dc": {
+    "zh-TW": "蔓生植物所結的一類果實"
+  },
+  "builtin-hanja-radicals::hanja-7518": {
+    "ja": "砂糖や蜜のような味",
+    "zh-TW": "像蜂蜜或砂糖的味道"
+  },
+  "builtin-hanja-radicals::hanja-751f": {
+    "ja": "新たな命としてこの世に現れる",
+    "zh-TW": "作為新的個體來到世上"
+  },
+  "builtin-hanja-radicals::hanja-7528": {
+    "zh-TW": "使工具等發揮效能"
+  },
+  "builtin-hanja-radicals::hanja-767d": {
+    "ja": "雪のような最も明るい色",
+    "zh-TW": "像雪一樣最明亮的顏色"
+  },
+  "builtin-hanja-radicals::hanja-76ae": {
+    "zh-TW": "覆蓋動物身體表面的組織"
+  },
+  "builtin-hanja-radicals::hanja-76bf": {
+    "zh-TW": "盛放食物等的淺容器"
+  },
+  "builtin-hanja-radicals::hanja-77db": {
+    "zh-TW": "長柄前端帶尖刃的武器"
+  },
+  "builtin-hanja-radicals::hanja-77e2": {
+    "zh-TW": "用弓射出的尖端長桿"
+  },
+  "builtin-hanja-radicals::hanja-77f3": {
+    "zh-TW": "構成岩塊的堅硬物質"
+  },
+  "builtin-hanja-radicals::hanja-7a74": {
+    "zh-TW": "地面或壁面凹陷的空間"
+  },
+  "builtin-hanja-radicals::hanja-7af9": {
+    "zh-TW": "莖部中空且有節的一類植物"
+  },
+  "builtin-hanja-radicals::hanja-7c73": {
+    "zh-TW": "稻穀去殼後的穀粒"
+  },
+  "builtin-hanja-radicals::hanja-7f8a": {
+    "zh-TW": "常供取絨的反芻家畜"
+  },
+  "builtin-hanja-radicals::hanja-7fbd": {
+    "zh-TW": "覆蓋鳥類身體的輕質構造"
+  },
+  "builtin-hanja-radicals::hanja-8001": {
+    "ja": "年齢を重ねる",
+    "zh-TW": "年齡逐漸增長"
+  },
+  "builtin-hanja-radicals::hanja-8089": {
+    "zh-TW": "動物身體的肌質部分"
+  },
+  "builtin-hanja-radicals::hanja-81e3": {
+    "ja": "君主に仕える役人",
+    "zh-TW": "為君主服務的官員"
+  },
+  "builtin-hanja-radicals::hanja-81ea": {
+    "zh-TW": "不是他者而是本身"
+  },
+  "builtin-hanja-radicals::hanja-81fc": {
+    "zh-TW": "搗碎穀物等的深容器"
+  },
+  "builtin-hanja-radicals::hanja-826e": {
+    "zh-TW": "八卦之中象徵山的一卦"
+  },
+  "builtin-hanja-radicals::hanja-8272": {
+    "zh-TW": "由光引起的視覺差異"
+  },
+  "builtin-hanja-radicals::hanja-884c": {
+    "ja": "ある場所へ移動する",
+    "zh-TW": "移往某個地方"
+  },
+  "builtin-hanja-radicals::hanja-898b": {
+    "ja": "目で対象をとらえる"
+  },
+  "builtin-hanja-radicals::hanja-89d2": {
+    "zh-TW": "動物頭部突出的堅硬構造"
+  },
+  "builtin-hanja-radicals::hanja-8a00": {
+    "ja": "ことばを口に出す",
+    "zh-TW": "以口語表達"
+  },
+  "builtin-hanja-radicals::hanja-8c9d": {
+    "zh-TW": "身體外有硬殼的軟體動物"
+  },
+  "builtin-hanja-radicals::hanja-8d70": {
+    "ja": "足を速く動かして進む"
+  },
+  "builtin-hanja-radicals::hanja-8eca": {
+    "zh-TW": "利用輪子運送人或貨物的工具"
+  },
+  "builtin-hanja-radicals::hanja-8f9b": {
+    "ja": "舌をひりひり刺激する味",
+    "zh-TW": "刺激舌頭的辣味"
+  },
+  "builtin-hanja-radicals::hanja-9091": {
+    "zh-TW": "居民聚居的地方"
+  },
+  "builtin-hanja-radicals::hanja-9149": {
+    "ja": "十二支の10番目"
+  },
+  "builtin-hanja-radicals::hanja-91cc": {
+    "zh-TW": "居民聚集的小型聚落"
+  },
+  "builtin-hanja-radicals::hanja-91d1": {
+    "ja": "光沢があり加工や通電のできる物質の類",
+    "zh-TW": "通常有光澤且可加工導電的一類物質"
+  },
+  "builtin-hanja-radicals::hanja-9577": {
+    "ja": "端から端までの隔たりが大きい",
+    "zh-TW": "兩端之間的距離超出通常程度"
+  },
+  "builtin-hanja-radicals::hanja-9580": {
+    "ja": "出入りのため建物や塀に設ける設備",
+    "zh-TW": "建築或圍牆供進出的開口與設備"
+  },
+  "builtin-hanja-radicals::hanja-9762": {
+    "zh-TW": "頭部有眼鼻口的前側"
+  },
+  "builtin-hanja-radicals::hanja-9769": {
+    "zh-TW": "由動物表皮加工的材料"
+  },
+  "builtin-hanja-radicals::hanja-97ed": {
+    "zh-TW": "細長葉片可食且有特殊氣味的植物"
+  },
+  "builtin-hanja-radicals::hanja-98db": {
+    "ja": "空中を移動する",
+    "zh-TW": "在空中移動"
+  },
+  "builtin-hanja-radicals::hanja-98df": {
+    "ja": "口から栄養をとる"
+  },
+  "builtin-hanja-radicals::hanja-9999": {
+    "ja": "好ましく感じるにおい",
+    "zh-TW": "令人喜歡的氣味"
+  },
+  "builtin-hanja-radicals::hanja-99ac": {
+    "zh-TW": "可供騎乘與運送的有蹄家畜"
+  },
+  "builtin-hanja-radicals::hanja-9ad8": {
+    "zh-TW": "距離地面的垂直間隔較多"
+  },
+  "builtin-hanja-radicals::hanja-9b25": {
+    "zh-TW": "彼此爭持較量"
+  },
+  "builtin-hanja-radicals::hanja-9ce5": {
+    "zh-TW": "有喙且身體覆有羽的動物類群"
+  },
+  "builtin-hanja-radicals::hanja-9ebb": {
+    "zh-TW": "可供取纖維製布的一類植物"
+  },
+  "builtin-hanja-radicals::hanja-9ec3": {
+    "zh-TW": "像成熟檸檬的顏色"
+  },
+  "builtin-hanja-radicals::hanja-9ecd": {
+    "zh-TW": "穀粒可食的一類禾本科作物"
+  },
+  "builtin-hanja-radicals::hanja-9f0e": {
+    "zh-TW": "古代有三足的烹煮容器"
+  },
+  "builtin-hanja-radicals::hanja-9f13": {
+    "ja": "張った皮を打って音を出す楽器",
+    "zh-TW": "敲擊繃緊皮膜而發聲的樂器"
+  },
+  "builtin-hanja-radicals::hanja-9f4a": {
+    "zh-TW": "彼此一致而沒有參差"
+  },
+  "builtin-hanja-radicals::hanja-9f52": {
+    "zh-TW": "口腔中供咬嚼的堅硬器官"
+  },
+  "builtin-hanja-radicals::hanja-9f8d": {
+    "zh-TW": "傳說中的大型神異動物"
+  },
+  "builtin-hanja-radicals::hanja-9f9c": {
+    "zh-TW": "背部具有堅硬甲殼的爬行動物"
+  },
+  "builtin-hanja-beginner::hanja-4e00": {
+    "zh-TW": "數值1"
+  },
+  "builtin-hanja-beginner::hanja-4e09": {
+    "zh-TW": "數值3"
+  },
+  "builtin-hanja-beginner::hanja-56db": {
+    "zh-TW": "數值4"
+  },
+  "builtin-hanja-beginner::hanja-5341": {
+    "ja": "10という数",
+    "zh-TW": "數值10"
+  },
+  "builtin-hanja-beginner::hanja-767e": {
+    "ja": "100という数",
+    "zh-TW": "數值100"
+  },
+  "builtin-hanja-beginner::hanja-5343": {
+    "ja": "1000という数",
+    "zh-TW": "數值1000"
+  },
+  "builtin-hanja-beginner::hanja-842c": {
+    "zh-TW": "數值10000"
+  },
+  "builtin-hanja-beginner::hanja-4e0a": {
+    "zh-TW": "比基準更高的位置"
+  },
+  "builtin-hanja-beginner::hanja-4e0b": {
+    "zh-TW": "比基準更低的位置"
+  },
+  "builtin-hanja-beginner::hanja-5de6": {
+    "zh-TW": "與右邊相對的一側"
+  },
+  "builtin-hanja-beginner::hanja-524d": {
+    "zh-TW": "面向的方向一側"
+  },
+  "builtin-hanja-beginner::hanja-5f8c": {
+    "zh-TW": "面向方向的相反一側"
+  },
+  "builtin-hanja-beginner::hanja-5916": {
+    "zh-TW": "不屬於內部的範圍"
+  },
+  "builtin-hanja-beginner::hanja-5c0f": {
+    "ja": "長さや広さなどが標準に満たない"
+  },
+  "builtin-hanja-beginner::hanja-5c11": {
+    "ja": "数量が多くない",
+    "zh-TW": "數量不多"
+  },
+  "builtin-hanja-beginner::hanja-6771": {
+    "zh-TW": "太陽升起的方向"
+  },
+  "builtin-hanja-beginner::hanja-897f": {
+    "zh-TW": "太陽落下的方向"
+  },
+  "builtin-hanja-beginner::hanja-5357": {
+    "zh-TW": "與北方相對的方向"
+  },
+  "builtin-hanja-beginner::hanja-5317": {
+    "zh-TW": "與南方相對的方向"
+  },
+  "builtin-hanja-beginner::hanja-79cb": {
+    "zh-TW": "夏季之後、冬季之前的季節"
+  },
+  "builtin-hanja-beginner::hanja-51ac": {
+    "zh-TW": "秋季之後、春季之前的季節"
+  },
+  "builtin-hanja-beginner::hanja-65e5": {
+    "ja": "24時間を基本とする時間の単位"
+  },
+  "builtin-hanja-beginner::hanja-6708": {
+    "zh-TW": "環繞地球運行的天然衛星"
+  },
+  "builtin-hanja-beginner::hanja-706b": {
+    "zh-TW": "燃燒時產生的熱與光"
+  },
+  "builtin-hanja-beginner::hanja-6c34": {
+    "zh-TW": "純淨時無色無臭且透明的液體"
+  },
+  "builtin-hanja-beginner::hanja-91d1": {
+    "ja": "光沢があり加工や通電のできる物質の類",
+    "zh-TW": "通常有光澤且可加工導電的一類物質"
+  },
+  "builtin-hanja-beginner::hanja-571f": {
+    "zh-TW": "地表覆蓋的砂礫與黏質等物質"
+  },
+  "builtin-hanja-beginner::hanja-5c71": {
+    "zh-TW": "高出周圍地面的隆起地形"
+  },
+  "builtin-hanja-beginner::hanja-77f3": {
+    "zh-TW": "構成岩塊的堅硬物質"
+  },
+  "builtin-hanja-beginner::hanja-5929": {
+    "zh-TW": "從地面仰望的空間"
+  },
+  "builtin-hanja-beginner::hanja-661f": {
+    "zh-TW": "夜空中看來如光點的天體"
+  },
+  "builtin-hanja-beginner::hanja-6cb3": {
+    "zh-TW": "陸地表面較大的流水"
+  },
+  "builtin-hanja-beginner::hanja-4eba": {
+    "zh-TW": "能思考並運用語言工具而共同生活的存在"
+  },
+  "builtin-hanja-beginner::hanja-7537": {
+    "ja": "女性と区別される性別の人",
+    "zh-TW": "與女性相對的性別"
+  },
+  "builtin-hanja-beginner::hanja-5973": {
+    "ja": "男性と区別される性別の人",
+    "zh-TW": "與男性相對的性別"
+  },
+  "builtin-hanja-beginner::hanja-5b50": {
+    "ja": "親から見た男のこども",
+    "zh-TW": "父母所生的男性後代"
+  },
+  "builtin-hanja-beginner::hanja-7236": {
+    "zh-TW": "雙親之中的男性"
+  },
+  "builtin-hanja-beginner::hanja-6bcd": {
+    "zh-TW": "雙親之中的女性"
+  },
+  "builtin-hanja-beginner::hanja-5144": {
+    "ja": "同じ親から生まれた年上の男性",
+    "zh-TW": "同父母所生的年長男性"
+  },
+  "builtin-hanja-beginner::hanja-5f1f": {
+    "zh-TW": "同父母所生的年幼男性"
+  },
+  "builtin-hanja-beginner::hanja-59b9": {
+    "zh-TW": "同父母所生的年幼女性"
+  },
+  "builtin-hanja-beginner::hanja-592b": {
+    "zh-TW": "婚姻關係中的男性配偶"
+  },
+  "builtin-hanja-beginner::hanja-8001": {
+    "ja": "年齢を重ねる",
+    "zh-TW": "年齡逐漸增長"
+  },
+  "builtin-hanja-beginner::hanja-5fc3": {
+    "zh-TW": "思想與情緒活動的所在"
+  },
+  "builtin-hanja-beginner::hanja-6bdb": {
+    "zh-TW": "皮膚長出的細長纖維狀構造"
+  },
+  "builtin-hanja-beginner::hanja-76ae": {
+    "zh-TW": "覆蓋動物身體表面的組織"
+  },
+  "builtin-hanja-beginner::hanja-751f": {
+    "ja": "新たな命としてこの世に現れる",
+    "zh-TW": "作為新的個體來到世上"
+  },
+  "builtin-hanja-beginner::hanja-51fa": {
+    "ja": "内から外へ移る",
+    "zh-TW": "從裡面到外面"
+  },
+  "builtin-hanja-beginner::hanja-5165": {
+    "ja": "外から内へ移る",
+    "zh-TW": "從外面到裡面"
+  },
+  "builtin-hanja-beginner::hanja-6b63": {
+    "ja": "間違いがなく道理に合う",
+    "zh-TW": "沒有錯誤且符合道理"
+  },
+  "builtin-hanja-beginner::hanja-767d": {
+    "ja": "雪のような最も明るい色",
+    "zh-TW": "像雪一樣最明亮的顏色"
+  },
+  "builtin-hanja-beginner::hanja-9ec3": {
+    "zh-TW": "像成熟檸檬的顏色"
+  },
+  "builtin-hanja-beginner::hanja-9577": {
+    "ja": "端から端までの隔たりが大きい",
+    "zh-TW": "兩端之間的距離超出通常程度"
+  },
+  "builtin-hanja-beginner::hanja-9ad8": {
+    "zh-TW": "距離地面的垂直間隔較多"
+  },
+  "builtin-hanja-beginner::hanja-660e": {
+    "ja": "光が十分にある",
+    "zh-TW": "光線充足"
+  },
+  "builtin-hanja-beginner::hanja-6697": {
+    "ja": "光が乏しく見えにくい",
+    "zh-TW": "光線不足而不易看清"
+  },
+  "builtin-hanja-beginner::hanja-60e1": {
+    "zh-TW": "不符合道德規範"
+  },
+  "builtin-hanja-beginner::hanja-5584": {
+    "ja": "道徳的に好ましい",
+    "zh-TW": "符合道德而良好"
+  },
+  "builtin-hanja-beginner::hanja-7f8e": {
+    "ja": "見て心地よく感じられる",
+    "zh-TW": "令人賞心悅目"
+  },
+  "builtin-hanja-beginner::hanja-919c": {
+    "ja": "見た目が好ましくない",
+    "zh-TW": "外貌令人感到難看"
+  },
+  "builtin-hanja-beginner::hanja-884c": {
+    "ja": "ある場所へ移動する",
+    "zh-TW": "移往某個地方"
+  },
+  "builtin-hanja-beginner::hanja-98df": {
+    "ja": "口から栄養をとる"
+  },
+  "builtin-hanja-beginner::hanja-4f4f": {
+    "zh-TW": "以某個地方作為生活據點"
+  },
+  "builtin-hanja-beginner::hanja-5bb6": {
+    "ja": "暮らしの拠点となる建物"
+  },
+  "builtin-hanja-beginner::hanja-9580": {
+    "ja": "出入りのため建物や塀に設ける設備",
+    "zh-TW": "建築或圍牆供進出的開口與設備"
+  },
+  "builtin-hanja-beginner::hanja-53cb": {
+    "ja": "親しく付き合う相手",
+    "zh-TW": "彼此親近往來的對象"
+  },
+  "builtin-hanja-beginner::hanja-6c11": {
+    "ja": "国や地域で生活する人々"
+  },
+  "builtin-hanja-beginner::hanja-6587": {
+    "ja": "ことばを記号列で表した内容",
+    "zh-TW": "以字句表達的內容"
+  },
+  "builtin-hanja-beginner::hanja-66f8": {
+    "ja": "文字を記す"
+  },
+  "builtin-hanja-beginner::hanja-8a00": {
+    "ja": "ことばを口に出す",
+    "zh-TW": "以口語表達"
+  },
+  "builtin-hanja-beginner::hanja-8a9e": {
+    "zh-TW": "以話傳遞的內容"
+  },
+  "builtin-hanja-beginner::hanja-5e74": {
+    "zh-TW": "以12個月為基本的期間"
+  },
+  "builtin-hanja-beginner::hanja-6642": {
+    "zh-TW": "區別事件先後的尺度"
+  },
+  "builtin-hanja-beginner::hanja-5206": {
+    "ja": "一つのものをいくつかに切り離す",
+    "zh-TW": "把整體拆成若干塊"
+  },
+  "builtin-hanja-beginner::hanja-5348": {
+    "zh-TW": "白天12點左右"
+  },
+  "builtin-hanja-beginner::hanja-7c73": {
+    "zh-TW": "稻穀去殼後的穀粒"
+  },
+  "builtin-hanja-beginner::hanja-9ce5": {
+    "zh-TW": "有喙且身體覆有羽的動物類群"
+  },
+  "builtin-hanja-beginner::hanja-725b": {
+    "zh-TW": "會反芻且有角的一種家畜"
+  },
+  "builtin-hanja-beginner::hanja-99ac": {
+    "zh-TW": "可供騎乘與運送的有蹄家畜"
+  },
+  "builtin-hanja-beginner::hanja-7f8a": {
+    "zh-TW": "常供取絨的反芻家畜"
+  },
+  "builtin-hanja-beginner::hanja-72ac": {
+    "ja": "人に飼われるイヌ科の動物",
+    "zh-TW": "常作伴侶或看守用的馴養動物"
+  },
+  "builtin-hanja-beginner::hanja-7389": {
+    "ja": "磨くと美しい光沢を持つ硬い宝石",
+    "zh-TW": "可磨出美麗光澤的堅硬寶石"
+  },
+  "builtin-hanja-beginner::hanja-738b": {
+    "zh-TW": "統治國家的男性君主"
+  },
+  "builtin-hanja-beginner::hanja-5de5": {
+    "zh-TW": "具有製造技藝的職人"
+  },
+  "builtin-hanja-beginner::hanja-58eb": {
+    "zh-TW": "具有學問知識的讀書人"
+  },
+  "builtin-hanja-beginner::hanja-8eca": {
+    "zh-TW": "利用輪子運送人或貨物的工具"
+  },
+  "builtin-hanja-beginner::hanja-9053": {
+    "zh-TW": "供人或交通工具往來的路徑"
+  },
+  "builtin-hanja-beginner::hanja-6797": {
+    "zh-TW": "許多樹木聚生的地方"
+  },
+  "builtin-hanja-beginner::hanja-8349": {
+    "zh-TW": "沒有木質硬幹的一類植物"
+  },
+  "builtin-hanja-beginner::hanja-7af9": {
+    "zh-TW": "莖部中空且有節的一類植物"
+  },
+  "builtin-hanja-beginner::hanja-679c": {
+    "zh-TW": "植物包覆種子而結成的部分"
+  },
+  "builtin-hanja-beginner::hanja-8089": {
+    "zh-TW": "動物身體的肌質部分"
+  },
+  "builtin-hanja-beginner::hanja-8336": {
+    "ja": "葉を飲み物に利用する常緑の植物",
+    "zh-TW": "葉片可供沖泡飲料的常綠植物"
+  },
+  "builtin-hanja-beginner::hanja-9152": {
+    "zh-TW": "含乙醇的飲料"
+  },
+  "builtin-hanja-beginner::hanja-8ce3": {
+    "zh-TW": "收取價款後交付商品"
+  },
+  "builtin-hanja-beginner::hanja-5b89": {
+    "ja": "心配や争いがなく落ち着いている",
+    "zh-TW": "沒有憂慮或爭擾而平靜"
+  },
+  "builtin-hanja-beginner::hanja-4f11": {
+    "ja": "活動をやめて体をいたわる",
+    "zh-TW": "停止活動讓身體恢復"
+  },
+  "builtin-hanja-beginner::hanja-5e73": {
+    "ja": "凹凸がなく均一である",
+    "zh-TW": "表面沒有明顯凹凸"
+  },
+  "builtin-hanja-beginner::hanja-548c": {
+    "ja": "互いに調子を合わせる",
+    "zh-TW": "彼此協調融洽"
+  },
+  "builtin-hanja-beginner::hanja-5730": {
+    "ja": "人が立って暮らす陸の表面",
+    "zh-TW": "供人站立生活的陸表"
+  },
+  "builtin-hanja-beginner::hanja-672c": {
+    "zh-TW": "植物在地下伸展的部分"
+  },
+  "builtin-hanja-beginner::hanja-4e8b": {
+    "ja": "起こったことや行われること",
+    "zh-TW": "發生或進行的活動"
+  },
+  "builtin-hanja-beginner::hanja-6027": {
+    "ja": "生まれつき備わる特徴",
+    "zh-TW": "天賦的特質"
+  },
+  "builtin-hanja-beginner::hanja-9593": {
+    "zh-TW": "兩者之中的空隙"
+  },
+  "builtin-hanja-beginner::hanja-7269": {
+    "ja": "形を持つものごと",
+    "zh-TW": "具有形體的東西"
+  },
+  "builtin-hanja-beginner::hanja-81ea": {
+    "zh-TW": "不是他者而是本身"
+  },
+  "builtin-hanja-beginner::hanja-54e1": {
+    "zh-TW": "擔任某項職務的人"
+  },
+  "builtin-hanja-beginner::hanja-7406": {
+    "zh-TW": "有秩序地統治"
+  },
+  "builtin-hanja-beginner::hanja-6c23": {
+    "zh-TW": "使活動得以進行的力量"
+  },
+  "builtin-hanja-beginner::hanja-901a": {
+    "ja": "一方から他方へ抜ける",
+    "zh-TW": "從這邊穿到另一邊"
+  },
+  "builtin-hanja-beginner::hanja-8272": {
+    "zh-TW": "由光引起的視覺差異"
+  },
+  "builtin-hanja-beginner::hanja-611f": {
+    "ja": "心が動かされる",
+    "zh-TW": "情緒受到觸動"
+  },
+  "builtin-hanja-beginner::hanja-6a5f": {
+    "ja": "一定の働きをする仕組み",
+    "zh-TW": "具有特定作用的構造"
+  },
+  "builtin-hanja-beginner::hanja-6240": {
+    "zh-TW": "人或物停留的地方"
+  },
+  "builtin-hanja-beginner::hanja-7528": {
+    "zh-TW": "使工具等發揮效能"
+  },
+  "builtin-hanja-beginner::hanja-96fb": {
+    "zh-TW": "雲層間等發生的放光現象"
+  },
+  "builtin-hanja-beginner::hanja-4fbf": {
+    "ja": "手間や不都合が少ない",
+    "zh-TW": "省力而沒有不順手之處"
+  },
+  "builtin-hanja-beginner::hanja-5beb": {
+    "zh-TW": "將原有內容另行抄錄再現"
+  },
+  "builtin-hanja-beginner::hanja-65b9": {
+    "zh-TW": "由四條邊構成的形狀"
+  },
+  "builtin-hanja-beginner::hanja-65c5": {
+    "ja": "住まいを離れて移動する人",
+    "zh-TW": "離開居所出行的人"
+  },
+  "builtin-hanja-beginner::hanja-516c": {
+    "ja": "個人的な好みに偏らない",
+    "zh-TW": "不偏向私人的好惡"
+  },
+  "builtin-hanja-beginner::hanja-7d50": {
+    "ja": "ひもなどをつないで留める",
+    "zh-TW": "將繩索等相繫固定"
+  },
+  "builtin-hanja-beginner::hanja-756b": {
+    "zh-TW": "以線條與顏色表現形象"
+  },
+  "builtin-hanja-beginner::hanja-5e97": {
+    "zh-TW": "陳列並販賣商品的場所"
+  },
+  "builtin-hanja-beginner::hanja-4e3b": {
+    "ja": "中心となって支配する人",
+    "zh-TW": "掌管或擁有某物的人"
+  },
+  "builtin-hanja-beginner::hanja-5ea6": {
+    "zh-TW": "行為的準則"
+  },
+  "builtin-hanja-beginner::hanja-9928": {
+    "zh-TW": "供人使用或居留的建築物"
+  },
+  "builtin-hanja-beginner::hanja-6578": {
+    "zh-TW": "表示量有多少的概念"
+  },
+  "builtin-hanja-beginner::hanja-9662": {
+    "zh-TW": "有圍牆等包圍的建築設施"
+  },
+  "builtin-hanja-beginner::hanja-5a5a": {
+    "ja": "配偶者となる関係を結ぶ",
+    "zh-TW": "結成配偶關係"
+  },
+  "builtin-hanja-beginner::hanja-6bcf": {
+    "zh-TW": "逐一且無例外"
+  },
+  "builtin-hanja-beginner::hanja-671f": {
+    "zh-TW": "對未來作約定"
+  },
+  "builtin-hanja-beginner::hanja-670d": {
+    "ja": "体に着るもの",
+    "zh-TW": "身上穿著的衣物"
+  },
+  "builtin-hanja-beginner::hanja-8cbb": {
+    "ja": "金銭や労力を使う",
+    "zh-TW": "花用金錢或力氣"
+  },
+  "builtin-hanja-beginner::hanja-5168": {
+    "ja": "欠けた部分がない"
+  },
+  "builtin-hanja-beginner::hanja-4ea4": {
+    "ja": "互いに付き合う",
+    "zh-TW": "彼此往來聯繫"
+  },
+  "builtin-hanja-beginner::hanja-554f": {
+    "zh-TW": "向對方詢求答案"
+  },
+  "builtin-hanja-beginner::hanja-5e02": {
+    "ja": "売買のため人が集まる場所",
+    "zh-TW": "供人聚集買賣的場所"
+  },
+  "builtin-hanja-beginner::hanja-6210": {
+    "ja": "目標や結果に到達する",
+    "zh-TW": "達到目標或結果"
+  },
+  "builtin-hanja-beginner::hanja-5c0d": {
+    "zh-TW": "面向另一方"
+  },
+  "builtin-hanja-beginner::hanja-4f5c": {
+    "ja": "新しいものを生み出す",
+    "zh-TW": "製造或形成新的東西"
+  },
+  "builtin-hanja-beginner::hanja-865f": {
+    "zh-TW": "放聲叫喊"
+  },
+  "builtin-hanja-beginner::hanja-75c5": {
+    "ja": "体や心の正常な働きが損なわれた状態",
+    "zh-TW": "身體或心理失常的不適狀態"
+  },
+  "builtin-hanja-beginner::hanja-5b9a": {
+    "ja": "不確かなものを確かなものにする",
+    "zh-TW": "使未決者得到確立"
+  },
+  "builtin-hanja-beginner::hanja-7a7a": {
+    "ja": "中身が入っていない",
+    "zh-TW": "內部沒有內容物"
+  },
+  "builtin-hanja-beginner::hanja-518a": {
+    "zh-TW": "文字或圖像集結裝訂而成的書本"
+  },
+  "builtin-hanja-beginner::hanja-9a57": {
+    "zh-TW": "查核是否真實或有效"
+  },
+  "builtin-hanja-beginner::hanja-6700": {
+    "zh-TW": "程度超過其餘全部"
+  },
+  "builtin-hanja-beginner::hanja-8a08": {
+    "ja": "何をどうするか前もって考える",
+    "zh-TW": "事先規劃做法"
+  },
+  "builtin-hanja-beginner::hanja-7b49": {
+    "zh-TW": "沒有差異而相同"
+  },
+  "builtin-hanja-beginner::hanja-97d3": {
+    "zh-TW": "朝鮮半島國家的名稱用字"
+  },
+  "builtin-hanja-beginner::hanja-8077": {
+    "ja": "担当する仕事や役目",
+    "zh-TW": "負責的工作或任務"
+  },
+  "builtin-hanja-beginner::hanja-73fe": {
+    "ja": "隠れていたものが見えるようになる",
+    "zh-TW": "從隱藏狀態變得可見"
+  },
+  "builtin-hanja-beginner::hanja-6a02": {
+    "zh-TW": "心情愉悅"
+  },
+  "builtin-hanja-beginner::hanja-8853": {
+    "zh-TW": "達成目的的技法"
+  },
+  "builtin-hanja-beginner::hanja-5f0f": {
+    "zh-TW": "一定的做法或程序"
+  },
+  "builtin-hanja-beginner::hanja-52d9": {
+    "zh-TW": "必須負責的工作"
+  },
+  "builtin-hanja-beginner::hanja-8ad6": {
+    "ja": "理由を示して考えを述べ合う",
+    "zh-TW": "以理由交換見解"
+  },
+  "builtin-hanja-beginner::hanja-8a18": {
+    "zh-TW": "寫下內容以供日後查閱"
+  },
+  "builtin-hanja-beginner::hanja-8b49": {
+    "zh-TW": "顯示真實性的依據"
+  },
+  "builtin-hanja-beginner::hanja-5712": {
+    "ja": "植物を育てたり楽しんだりする土地",
+    "zh-TW": "栽種植物或供遊憩的場地"
+  },
+  "builtin-hanja-beginner::hanja-7bc0": {
+    "ja": "二つの部分がつながる箇所",
+    "zh-TW": "相鄰部分連接的部位"
+  },
+  "builtin-hanja-beginner::hanja-8a66": {
+    "ja": "実際に行って結果を確かめる",
+    "zh-TW": "實際操作以檢查結果"
+  },
+  "builtin-hanja-beginner::hanja-8655": {
+    "zh-TW": "在某個地方居留"
+  },
+  "builtin-hanja-beginner::hanja-5e2d": {
+    "ja": "座るための場所"
+  },
+  "builtin-hanja-beginner::hanja-8f49": {
+    "zh-TW": "改換方向或位置"
+  },
+  "builtin-hanja-beginner::hanja-7968": {
+    "zh-TW": "寫有內容的薄紙"
+  },
+  "builtin-hanja-beginner::hanja-6d3b": {
+    "zh-TW": "處於有生命的狀態"
+  },
+  "builtin-hanja-beginner::hanja-7559": {
+    "zh-TW": "暫不移動而停在某處"
+  },
+  "builtin-hanja-beginner::hanja-5229": {
+    "zh-TW": "容易切斷或刺穿"
+  },
+  "builtin-hanja-beginner::hanja-610f": {
+    "zh-TW": "話語等所表達的含義"
+  },
+  "builtin-hanja-beginner::hanja-5177": {
+    "zh-TW": "把所需事物預備好"
+  },
+  "builtin-hanja-beginner::hanja-63a5": {
+    "zh-TW": "與對方往來聯繫"
+  },
+  "builtin-hanja-beginner::hanja-9762": {
+    "zh-TW": "頭部有眼鼻口的前側"
+  },
+  "builtin-hanja-beginner::hanja-9023": {
+    "ja": "離れたものをつなぎ合わせる",
+    "zh-TW": "將原先分開的部分相繫"
+  },
+  "builtin-hanja-beginner::hanja-55ae": {
+    "zh-TW": "不是複數而是獨一"
+  },
+  "builtin-hanja-beginner::hanja-9000": {
+    "ja": "進んだ向きから引き返す",
+    "zh-TW": "從前進的方向撤回"
+  },
+  "builtin-hanja-beginner::hanja-76f4": {
+    "zh-TW": "沒有彎曲"
+  },
+  "builtin-hanja-beginner::hanja-5668": {
+    "zh-TW": "盛裝東西的容具"
+  },
+  "builtin-hanja-beginner::hanja-6620": {
+    "ja": "光や像を他に現す",
+    "zh-TW": "把光或影像呈現於別處"
+  },
+  "builtin-hanja-beginner::hanja-8aaa": {
+    "zh-TW": "用話表達內容"
+  },
+  "builtin-hanja-beginner::hanja-521d": {
+    "zh-TW": "某段期間的開頭"
+  },
+  "builtin-hanja-beginner::hanja-7d93": {
+    "zh-TW": "織布時縱向排列的絲"
+  },
+  "builtin-hanja-beginner::hanja-6c7a": {
+    "ja": "選択や方針を確かにする",
+    "zh-TW": "使選擇或方針確立"
+  },
+  "builtin-hanja-beginner::hanja-5716": {
+    "zh-TW": "以線條或顏色描出的形象"
+  },
+  "builtin-hanja-beginner::hanja-9078": {
+    "ja": "いくつかの中から取り出す",
+    "zh-TW": "從多個對象中挑取"
+  },
+  "builtin-hanja-beginner::hanja-7dda": {
+    "zh-TW": "細長且延續的絲狀物"
+  },
+  "builtin-hanja-beginner::hanja-653e": {
+    "ja": "束縛を解き自由にする",
+    "zh-TW": "解除束縛使自由"
+  },
+  "builtin-hanja-beginner::hanja-7da0": {
+    "zh-TW": "像草葉的顏色"
+  },
+  "builtin-hanja-beginner::hanja-5287": {
+    "zh-TW": "程度十分強烈"
+  },
+  "builtin-hanja-beginner::hanja-65cf": {
+    "ja": "血縁などでつながった集団",
+    "zh-TW": "因血緣等相連的群體"
+  },
+  "builtin-hanja-beginner::hanja-81fa": {
+    "zh-TW": "墊高以供放置物品的平面"
+  },
+  "builtin-hanja-beginner::hanja-6230": {
+    "zh-TW": "使用武力爭鬥"
+  },
+  "builtin-hanja-beginner::hanja-8b66": {
+    "ja": "危険に備え注意する",
+    "zh-TW": "留心戒備危險"
+  },
+  "builtin-hanja-beginner::hanja-53cd": {
+    "zh-TW": "改為與原來相逆的方向"
+  },
+  "builtin-hanja-beginner::hanja-672a": {
+    "zh-TW": "尚無實現"
+  },
+  "builtin-hanja-beginner::hanja-985e": {
+    "zh-TW": "具有共同特徵的群體"
+  },
+  "builtin-hanja-beginner::hanja-5f62": {
+    "zh-TW": "從外面看見的輪廓模樣"
+  },
+  "builtin-hanja-beginner::hanja-505c": {
+    "zh-TW": "使移動或進程中止"
+  },
+  "builtin-hanja-beginner::hanja-7e8c": {
+    "zh-TW": "接著原有進程而不間斷"
+  },
+  "builtin-hanja-beginner::hanja-91ce": {
+    "ja": "人の暮らす所から離れた広い土地",
+    "zh-TW": "遠離聚居處的開闊土地"
+  },
+  "builtin-hanja-beginner::hanja-8fd1": {
+    "ja": "隔たりが大きくない",
+    "zh-TW": "距離不遠"
+  },
+  "builtin-hanja-beginner::hanja-80fd": {
+    "zh-TW": "具有做某事的本領"
+  },
+  "builtin-hanja-beginner::hanja-4f7f": {
+    "zh-TW": "令對方做某事"
+  },
+  "builtin-hanja-beginner::hanja-6d0b": {
+    "ja": "広大な海",
+    "zh-TW": "廣闊的海"
+  },
+  "builtin-hanja-beginner::hanja-85dd": {
+    "zh-TW": "學得的技法"
+  },
+  "builtin-hanja-beginner::hanja-5728": {
+    "zh-TW": "有於某處"
+  },
+  "builtin-hanja-beginner::hanja-544a": {
+    "zh-TW": "向對方宣布消息"
+  },
+  "builtin-hanja-beginner::hanja-6cf3": {
+    "ja": "水中を自力で進む",
+    "zh-TW": "憑自身力量在水中前進"
+  },
+  "builtin-hanja-beginner::hanja-7b46": {
+    "zh-TW": "以尖端毫毛書寫或作畫的工具"
+  },
+  "builtin-hanja-beginner::hanja-5225": {
+    "zh-TW": "把原先相連的東西分開"
+  },
+  "builtin-hanja-beginner::hanja-5e33": {
+    "zh-TW": "垂掛以分隔空間的布"
+  },
+  "builtin-hanja-beginner::hanja-80b2": {
+    "ja": "成長を助ける",
+    "zh-TW": "幫助成長"
+  },
+  "builtin-hanja-beginner::hanja-5bdf": {
+    "zh-TW": "仔細檢查確認"
+  },
+  "builtin-hanja-beginner::hanja-91cd": {
+    "ja": "目方が多い",
+    "zh-TW": "目方或負擔較多"
+  },
+  "builtin-hanja-beginner::hanja-5bb9": {
+    "zh-TW": "頭部五官的樣貌"
+  },
+  "builtin-hanja-beginner::hanja-91cf": {
+    "ja": "物の大きさなどをはかる",
+    "zh-TW": "測出大小或多少"
+  },
+  "builtin-hanja-beginner::hanja-8cea": {
+    "ja": "物を構成するもと",
+    "zh-TW": "構成事物的實體"
+  },
+  "builtin-hanja-beginner::hanja-611b": {
+    "zh-TW": "珍惜關懷對方的情意"
+  },
+  "builtin-hanja-beginner::hanja-71d2": {
+    "zh-TW": "用火加熱"
+  },
+  "builtin-hanja-beginner::hanja-6ce8": {
+    "ja": "液体を流し入れる",
+    "zh-TW": "將液體灌入"
+  },
+  "builtin-hanja-beginner::hanja-6bd2": {
+    "ja": "体に害を与える物質",
+    "zh-TW": "對身體有害的物質"
+  },
+  "builtin-hanja-beginner::hanja-5802": {
+    "zh-TW": "供眾人聚集的建築"
+  },
+  "builtin-hanja-beginner::hanja-904e": {
+    "ja": "ある地点を越えて進む"
+  },
+  "builtin-hanja-beginner::hanja-8ecd": {
+    "zh-TW": "依照指揮與紀律組織的武裝群體"
+  },
+  "builtin-hanja-beginner::hanja-60c5": {
+    "zh-TW": "內心產生的感受"
+  },
+  "builtin-hanja-beginner::hanja-8ac7": {
+    "zh-TW": "以話語交互表達"
+  },
+  "builtin-hanja-beginner::hanja-9054": {
+    "zh-TW": "充分理解並熟練"
+  },
+  "builtin-hanja-beginner::hanja-671b": {
+    "ja": "実現してほしいと願う",
+    "zh-TW": "期待某事實現"
+  },
+  "builtin-hanja-beginner::hanja-5546": {
+    "zh-TW": "仔細思考再判斷"
+  },
+  "builtin-hanja-beginner::hanja-958b": {
+    "zh-TW": "解除閉合的狀態"
+  },
+  "builtin-hanja-beginner::hanja-6b0a": {
+    "zh-TW": "支配人或事物的力量"
+  },
+  "builtin-hanja-beginner::hanja-5236": {
+    "zh-TW": "約束行動"
+  },
+  "builtin-hanja-beginner::hanja-770b": {
+    "zh-TW": "用眼睛觀察"
+  },
+  "builtin-hanja-beginner::hanja-5f35": {
+    "zh-TW": "展開並伸長"
+  },
+  "builtin-hanja-beginner::hanja-5c01": {
+    "ja": "閉じて外に出ないようにする",
+    "zh-TW": "閉合以免內容外漏"
+  },
+  "builtin-hanja-beginner::hanja-8b70": {
+    "zh-TW": "交換見解"
+  },
+  "builtin-hanja-beginner::hanja-754c": {
+    "ja": "二つの範囲を分ける線や場所",
+    "zh-TW": "區分兩個範圍的邊線或位置"
+  },
+  "builtin-hanja-beginner::hanja-4e73": {
+    "zh-TW": "哺育幼體的白色營養液體"
+  },
+  "builtin-hanja-beginner::hanja-7e7c": {
+    "zh-TW": "承接先前而不中斷"
+  },
+  "builtin-hanja-beginner::hanja-500b": {
+    "zh-TW": "指群體中的獨一成員"
+  },
+  "builtin-hanja-beginner::hanja-8def": {
+    "zh-TW": "供人或車前進的通道"
+  },
+  "builtin-hanja-beginner::hanja-6280": {
+    "ja": "身につけた巧みな方法",
+    "zh-TW": "熟練巧妙的方法"
+  },
+  "builtin-hanja-beginner::hanja-52a0": {
+    "ja": "もとのものに足す",
+    "zh-TW": "在原有之外添上"
+  },
+  "builtin-hanja-beginner::hanja-4ecb": {
+    "zh-TW": "處於兩者之間促成聯繫"
+  },
+  "builtin-hanja-beginner::hanja-677f": {
+    "ja": "木材などを平たく切ったもの",
+    "zh-TW": "將木料等切成的扁平材料"
+  },
+  "builtin-hanja-beginner::hanja-606f": {
+    "ja": "空気を吸って吐く"
+  },
+  "builtin-hanja-beginner::hanja-71c8": {
+    "zh-TW": "放光以照亮周圍的器具"
+  },
+  "builtin-hanja-beginner::hanja-93e1": {
+    "zh-TW": "反射光線以呈現形象的器具"
+  },
+  "builtin-hanja-beginner::hanja-6b21": {
+    "zh-TW": "順序中緊接其後"
+  },
+  "builtin-hanja-beginner::hanja-65b7": {
+    "zh-TW": "使原有的聯繫中止"
+  },
+  "builtin-hanja-beginner::hanja-6d74": {
+    "zh-TW": "清洗身體"
+  },
+  "builtin-hanja-beginner::hanja-79ae": {
+    "zh-TW": "與他人往來時遵守的儀節"
+  },
+  "builtin-hanja-beginner::hanja-7387": {
+    "zh-TW": "相對於整體的比值"
+  },
+  "builtin-hanja-beginner::hanja-51b7": {
+    "ja": "温度が低い",
+    "zh-TW": "溫度低"
+  },
+  "builtin-hanja-beginner::hanja-6cbb": {
+    "ja": "秩序を保つよう統べる",
+    "zh-TW": "維持秩序並管理"
+  },
+  "builtin-hanja-beginner::hanja-7ca7": {
+    "ja": "見た目を美しく整える"
+  },
+  "builtin-hanja-beginner::hanja-6536": {
+    "zh-TW": "把分散的東西聚集起來"
+  },
+  "builtin-hanja-beginner::hanja-5305": {
+    "ja": "物のまわりを覆う",
+    "zh-TW": "將東西的四周裹起"
+  },
+  "builtin-hanja-beginner::hanja-62db": {
+    "zh-TW": "呼喚對方前來"
+  },
+  "builtin-hanja-beginner::hanja-5099": {
+    "ja": "必要なものを前もってそろえる",
+    "zh-TW": "事先把需要的東西預置好"
+  },
+  "builtin-hanja-beginner::hanja-6e96": {
+    "ja": "水平かどうかを調べる道具"
+  },
+  "builtin-hanja-beginner::hanja-9032": {
+    "ja": "前のほうへ移動する",
+    "zh-TW": "朝前方移動"
+  },
+  "builtin-hanja-beginner::hanja-898f": {
+    "zh-TW": "畫圓用的工具"
+  },
+  "builtin-hanja-beginner::hanja-5e8a": {
+    "zh-TW": "供睡臥的平臺"
+  },
+  "builtin-hanja-beginner::hanja-90fd": {
+    "zh-TW": "中央政府所在地的主要城市"
+  },
+  "builtin-hanja-beginner::hanja-83dc": {
+    "ja": "食用にする植物",
+    "zh-TW": "供食用的植物"
+  },
+  "builtin-hanja-beginner::hanja-6f2b": {
+    "zh-TW": "向廣闊範圍擴展"
+  },
+  "builtin-hanja-beginner::hanja-6750": {
+    "ja": "建物や道具に使う木",
+    "zh-TW": "製作建築或工具的木料"
+  },
+  "builtin-hanja-beginner::hanja-5b6b": {
+    "zh-TW": "自己兒女所生的後代"
+  },
+  "builtin-hanja-beginner::hanja-7b97": {
+    "zh-TW": "求出數或量"
+  },
+  "builtin-hanja-beginner::hanja-7576": {
+    "zh-TW": "符合所需條件"
+  },
+  "builtin-hanja-beginner::hanja-7531": {
+    "zh-TW": "事物的起源或來處"
+  },
+  "builtin-hanja-beginner::hanja-8acb": {
+    "zh-TW": "向對方提出希望協助的要求"
+  },
+  "builtin-hanja-beginner::hanja-76f8": {
+    "zh-TW": "彼此互為對象"
+  },
+  "builtin-hanja-beginner::hanja-96c6": {
+    "ja": "ばらばらのものを一か所にまとめる",
+    "zh-TW": "使分散者聚於同處"
+  },
+  "builtin-hanja-beginner::hanja-6b72": {
+    "zh-TW": "以12個月為基本的期間"
+  },
+  "builtin-hanja-beginner::hanja-9bae": {
+    "zh-TW": "樣貌美麗"
+  },
+  "builtin-hanja-beginner::hanja-4f4d": {
+    "zh-TW": "負責的職務與等級"
+  },
+  "builtin-hanja-beginner::hanja-53d7": {
+    "zh-TW": "獲取對方交付的東西"
+  },
+  "builtin-hanja-beginner::hanja-5468": {
+    "zh-TW": "某物四邊的整個範圍"
+  },
+  "builtin-hanja-beginner::hanja-5f15": {
+    "ja": "こちらの方向へ動かす",
+    "zh-TW": "把東西拉向自身的方向"
+  },
+  "builtin-hanja-beginner::hanja-4fee": {
+    "ja": "人格や技能を高める",
+    "zh-TW": "改善品德或提高技能"
+  },
+  "builtin-hanja-beginner::hanja-6b77": {
+    "zh-TW": "經由某處而前往"
+  },
+  "builtin-hanja-beginner::hanja-570d": {
+    "zh-TW": "某物四邊的區域"
+  },
+  "builtin-hanja-beginner::hanja-9f52": {
+    "zh-TW": "口腔中供咬嚼的堅硬器官"
+  },
+  "builtin-hanja-beginner::hanja-5411": {
+    "ja": "あるほうへ顔や体をむける",
+    "zh-TW": "朝著某一方"
+  },
+  "builtin-hanja-beginner::hanja-5b98": {
+    "ja": "公の仕事を担当する人",
+    "zh-TW": "負責公務的人"
+  },
+  "builtin-hanja-beginner::hanja-91ab": {
+    "zh-TW": "診察並治療疾病的人"
+  },
+  "builtin-hanja-beginner::hanja-5f37": {
+    "ja": "力が大きい",
+    "zh-TW": "力量超出通常程度"
+  },
+  "builtin-hanja-beginner::hanja-653f": {
+    "ja": "国や地域を治める活動",
+    "zh-TW": "治理國家或地方的事務"
+  },
+  "builtin-hanja-beginner::hanja-71df": {
+    "zh-TW": "建造設施等"
+  },
+  "builtin-hanja-beginner::hanja-53ea": {
+    "zh-TW": "不含其他而僅此"
+  },
+  "builtin-hanja-beginner::hanja-795e": {
+    "ja": "天上にいるとされる超自然的存在",
+    "zh-TW": "被認為居於天上的超自然存在"
+  },
+  "builtin-hanja-beginner::hanja-7d1a": {
+    "ja": "能力や程度を分ける段階",
+    "zh-TW": "區分能力或程度的階層"
+  },
+  "builtin-hanja-beginner::hanja-5efa": {
+    "ja": "新しくつくり立てる",
+    "zh-TW": "新造並立起"
+  },
+  "builtin-hanja-intermediate::hanja-6b65": {
+    "zh-TW": "交互移動雙腳前進"
+  },
+  "builtin-hanja-intermediate::hanja-66ab": {
+    "zh-TW": "短時間內"
+  },
+  "builtin-hanja-intermediate::hanja-9632": {
+    "ja": "水をせきとめる土手",
+    "zh-TW": "阻攔流水的堤壩"
+  },
+  "builtin-hanja-intermediate::hanja-5bc6": {
+    "ja": "すきまが少なく詰まっている",
+    "zh-TW": "空隙很少而緊緊排列"
+  },
+  "builtin-hanja-intermediate::hanja-75db": {
+    "ja": "体が傷ついたようにつらい",
+    "zh-TW": "像身體受傷般難受"
+  },
+  "builtin-hanja-intermediate::hanja-5272": {
+    "zh-TW": "切成幾部分"
+  },
+  "builtin-hanja-intermediate::hanja-5ee3": {
+    "zh-TW": "所占範圍很大"
+  },
+  "builtin-hanja-intermediate::hanja-518d": {
+    "zh-TW": "同樣的事另一次發生"
+  },
+  "builtin-hanja-intermediate::hanja-8fad": {
+    "zh-TW": "口頭或書面的言語"
+  },
+  "builtin-hanja-intermediate::hanja-8abf": {
+    "zh-TW": "使彼此和諧配合"
+  },
+  "builtin-hanja-intermediate::hanja-653b": {
+    "zh-TW": "對對方施加打擊"
+  },
+  "builtin-hanja-intermediate::hanja-969b": {
+    "zh-TW": "兩者之間"
+  },
+  "builtin-hanja-intermediate::hanja-614b": {
+    "zh-TW": "外觀的模樣"
+  },
+  "builtin-hanja-intermediate::hanja-78ba": {
+    "zh-TW": "牢固而不動搖"
+  },
+  "builtin-hanja-intermediate::hanja-795d": {
+    "ja": "神などに願いをささげる",
+    "zh-TW": "向神明表達願求"
+  },
+  "builtin-hanja-intermediate::hanja-50b3": {
+    "zh-TW": "將內容交給另一方"
+  },
+  "builtin-hanja-intermediate::hanja-61c9": {
+    "zh-TW": "理當如此"
+  },
+  "builtin-hanja-intermediate::hanja-66f2": {
+    "ja": "まっすぐでなく折れたりたわんだりする",
+    "zh-TW": "不直而有彎折"
+  },
+  "builtin-hanja-intermediate::hanja-6557": {
+    "zh-TW": "崩壞而失去作用"
+  },
+  "builtin-hanja-intermediate::hanja-5fb7": {
+    "zh-TW": "人應具備的優良品性"
+  },
+  "builtin-hanja-intermediate::hanja-5ead": {
+    "zh-TW": "房屋旁的露天空地"
+  },
+  "builtin-hanja-intermediate::hanja-8ca9": {
+    "zh-TW": "買入商品再出售"
+  },
+  "builtin-hanja-intermediate::hanja-7981": {
+    "ja": "してはいけないと止める",
+    "zh-TW": "不許進行某事"
+  },
+  "builtin-hanja-intermediate::hanja-5217": {
+    "zh-TW": "有次序成排的一群"
+  },
+  "builtin-hanja-intermediate::hanja-4e58": {
+    "zh-TW": "搭載而往上升"
+  },
+  "builtin-hanja-intermediate::hanja-6a21": {
+    "zh-TW": "供仿效的樣板"
+  },
+  "builtin-hanja-intermediate::hanja-50b7": {
+    "zh-TW": "身體等受損的部分"
+  },
+  "builtin-hanja-intermediate::hanja-529f": {
+    "ja": "努力して成しとげたこと",
+    "zh-TW": "努力達成的成果"
+  },
+  "builtin-hanja-intermediate::hanja-79fb": {
+    "ja": "ある場所から別の場所へうごかす",
+    "zh-TW": "從某處搬到別處"
+  },
+  "builtin-hanja-intermediate::hanja-96dc": {
+    "zh-TW": "不同事物混在一起"
+  },
+  "builtin-hanja-intermediate::hanja-5178": {
+    "zh-TW": "有系統的書本"
+  },
+  "builtin-hanja-intermediate::hanja-53d6": {
+    "ja": "手元に集める",
+    "zh-TW": "將東西收歸自身"
+  },
+  "builtin-hanja-intermediate::hanja-9818": {
+    "zh-TW": "衣服環繞脖子的部分"
+  },
+  "builtin-hanja-intermediate::hanja-6bd4": {
+    "ja": "二つ以上のものの違いを見きわめる",
+    "zh-TW": "將兩者並列以觀察異同"
+  },
+  "builtin-hanja-intermediate::hanja-7f6e": {
+    "zh-TW": "安放於某處"
+  },
+  "builtin-hanja-intermediate::hanja-6bb5": {
+    "ja": "順序を追った一つの区切り",
+    "zh-TW": "次序中的一個階梯"
+  },
+  "builtin-hanja-intermediate::hanja-5c04": {
+    "zh-TW": "以弓發箭的活動"
+  },
+  "builtin-hanja-intermediate::hanja-71b1": {
+    "ja": "温度が高い",
+    "zh-TW": "溫度高"
+  },
+  "builtin-hanja-intermediate::hanja-6574": {
+    "zh-TW": "修正凌亂使有秩序"
+  },
+  "builtin-hanja-intermediate::hanja-7af6": {
+    "ja": "互いに勝とうとする",
+    "zh-TW": "彼此爭取勝出"
+  },
+  "builtin-hanja-intermediate::hanja-7f3a": {
+    "zh-TW": "所需的部分不足"
+  },
+  "builtin-hanja-intermediate::hanja-968a": {
+    "ja": "一定の目的でまとまった集団",
+    "zh-TW": "為特定目的組織的群體"
+  },
+  "builtin-hanja-intermediate::hanja-8cde": {
+    "ja": "功績に対して与えるもの",
+    "zh-TW": "針對功績給予的獎勵"
+  },
+  "builtin-hanja-intermediate::hanja-96aa": {
+    "zh-TW": "容易發生危害"
+  },
+  "builtin-hanja-intermediate::hanja-6e6f": {
+    "ja": "水を熱して沸かす"
+  },
+  "builtin-hanja-intermediate::hanja-7ba1": {
+    "zh-TW": "吹氣而發聲的筒狀樂器"
+  },
+  "builtin-hanja-intermediate::hanja-8b8a": {
+    "zh-TW": "成為與先前不同的狀態"
+  },
+  "builtin-hanja-intermediate::hanja-4efb": {
+    "ja": "仕事を人にまかせる"
+  },
+  "builtin-hanja-intermediate::hanja-5c64": {
+    "zh-TW": "上下相疊的一部分"
+  },
+  "builtin-hanja-intermediate::hanja-523b": {
+    "zh-TW": "用刃具削出形象"
+  },
+  "builtin-hanja-intermediate::hanja-6383": {
+    "ja": "ほうきでごみを除く",
+    "zh-TW": "以帚清除塵屑"
+  },
+  "builtin-hanja-intermediate::hanja-5c31": {
+    "zh-TW": "依循某個對象"
+  },
+  "builtin-hanja-intermediate::hanja-64ca": {
+    "zh-TW": "施力打中對象"
+  },
+  "builtin-hanja-intermediate::hanja-96e2": {
+    "ja": "つながっていたものが遠ざかる",
+    "zh-TW": "使原先相連者分開"
+  },
+  "builtin-hanja-intermediate::hanja-57fa": {
+    "zh-TW": "支撐事物的根本"
+  },
+  "builtin-hanja-intermediate::hanja-8b1b": {
+    "ja": "知識や考えを人に説明する",
+    "zh-TW": "向他人解說知識或觀點"
+  },
+  "builtin-hanja-intermediate::hanja-5df1": {
+    "zh-TW": "相對他者而言的自身"
+  },
+  "builtin-hanja-intermediate::hanja-5e8f": {
+    "ja": "並ぶ順番",
+    "zh-TW": "排列的先後"
+  },
+  "builtin-hanja-intermediate::hanja-547d": {
+    "zh-TW": "存活的狀態與力量"
+  },
+  "builtin-hanja-intermediate::hanja-6563": {
+    "ja": "まとまりがなくあちこちへ広がる",
+    "zh-TW": "原先聚集者向各處分開"
+  },
+  "builtin-hanja-intermediate::hanja-805e": {
+    "ja": "耳で音をとらえる"
+  },
+  "builtin-hanja-intermediate::hanja-52dd": {
+    "ja": "競争で相手を上回る",
+    "zh-TW": "在競爭中超越對方"
+  },
+  "builtin-hanja-intermediate::hanja-8b58": {
+    "zh-TW": "知道並理解"
+  },
+  "builtin-hanja-intermediate::hanja-990a": {
+    "zh-TW": "照料並幫助成長"
+  },
+  "builtin-hanja-intermediate::hanja-6b61": {
+    "zh-TW": "感到喜悅"
+  },
+  "builtin-hanja-intermediate::hanja-5065": {
+    "zh-TW": "身體強壯"
+  },
+  "builtin-hanja-intermediate::hanja-5eab": {
+    "ja": "品物をしまっておく建物",
+    "zh-TW": "存放物品的建築"
+  },
+  "builtin-hanja-intermediate::hanja-7a0b": {
+    "zh-TW": "行動的準則"
+  },
+  "builtin-hanja-intermediate::hanja-798f": {
+    "ja": "恵まれて幸せなこと",
+    "zh-TW": "受恩惠而有好境遇"
+  },
+  "builtin-hanja-intermediate::hanja-908a": {
+    "zh-TW": "某個範圍的外緣"
+  },
+  "builtin-hanja-intermediate::hanja-9020": {
+    "zh-TW": "產出新的東西"
+  },
+  "builtin-hanja-intermediate::hanja-5e36": {
+    "zh-TW": "繫在腰間的長條布"
+  },
+  "builtin-hanja-intermediate::hanja-968e": {
+    "zh-TW": "供上下移動的石造梯級"
+  },
+  "builtin-hanja-intermediate::hanja-7a31": {
+    "zh-TW": "測出重量"
+  },
+  "builtin-hanja-intermediate::hanja-88fd": {
+    "zh-TW": "以材料產出物品"
+  },
+  "builtin-hanja-intermediate::hanja-7d71": {
+    "zh-TW": "領導並整合群體"
+  },
+  "builtin-hanja-intermediate::hanja-5207": {
+    "zh-TW": "使聯繫中斷"
+  },
+  "builtin-hanja-intermediate::hanja-56de": {
+    "ja": "向きや位置が巡って変わる"
+  },
+  "builtin-hanja-intermediate::hanja-5e78": {
+    "ja": "運よく恵まれている",
+    "zh-TW": "運氣好而有良好境遇"
+  },
+  "builtin-hanja-intermediate::hanja-8a2a": {
+    "zh-TW": "前往探望某人或某地"
+  },
+  "builtin-hanja-intermediate::hanja-8ca8": {
+    "ja": "売買の対象となる品物",
+    "zh-TW": "供買賣的商品"
+  },
+  "builtin-hanja-intermediate::hanja-96e3": {
+    "ja": "容易にはできない",
+    "zh-TW": "不容易完成"
+  },
+  "builtin-hanja-intermediate::hanja-9304": {
+    "zh-TW": "寫下內容以供查閱"
+  },
+  "builtin-hanja-intermediate::hanja-7d00": {
+    "zh-TW": "統攝事物的主軸"
+  },
+  "builtin-hanja-intermediate::hanja-98db": {
+    "ja": "空中を移動する",
+    "zh-TW": "在空中移動"
+  },
+  "builtin-hanja-intermediate::hanja-8faf": {
+    "zh-TW": "有條理且善於表達"
+  },
+  "builtin-hanja-intermediate::hanja-52e2": {
+    "zh-TW": "推動事物的力量"
+  },
+  "builtin-hanja-intermediate::hanja-5bf8": {
+    "ja": "東アジアの伝統的な長さの単位",
+    "zh-TW": "東亞傳統的長度計量單位"
+  },
+  "builtin-hanja-intermediate::hanja-7f72": {
+    "zh-TW": "處理公務的機關"
+  },
+  "builtin-hanja-intermediate::hanja-8f03": {
+    "zh-TW": "將兩者並列觀察異同"
+  },
+  "builtin-hanja-intermediate::hanja-8b1d": {
+    "zh-TW": "對他人的好意表達感激"
+  },
+  "builtin-hanja-intermediate::hanja-77e5": {
+    "ja": "ある内容を理解している",
+    "zh-TW": "理解某個內容"
+  },
+  "builtin-hanja-intermediate::hanja-8cc7": {
+    "zh-TW": "可供生活或活動的財物"
+  },
+  "builtin-hanja-intermediate::hanja-6163": {
+    "zh-TW": "反覆而形成的習性"
+  },
+  "builtin-hanja-intermediate::hanja-6eff": {
+    "zh-TW": "內部已無剩餘空間"
+  },
+  "builtin-hanja-intermediate::hanja-59cb": {
+    "zh-TW": "事件剛發生的開端"
+  },
+  "builtin-hanja-intermediate::hanja-5bc4": {
+    "zh-TW": "將物品或信件送達"
+  },
+  "builtin-hanja-intermediate::hanja-9650": {
+    "ja": "範囲をここまでと区切る",
+    "zh-TW": "把範圍劃定於某處"
+  },
+  "builtin-hanja-intermediate::hanja-8a2d": {
+    "zh-TW": "新置安排"
+  },
+  "builtin-hanja-intermediate::hanja-843d": {
+    "ja": "上から下へ下がる",
+    "zh-TW": "由高處往低處掉下"
+  },
+  "builtin-hanja-intermediate::hanja-9678": {
+    "ja": "水に覆われていない地面",
+    "zh-TW": "未被水域覆蓋的地表"
+  },
+  "builtin-hanja-intermediate::hanja-5bcc": {
+    "zh-TW": "擁有眾多財物"
+  },
+  "builtin-hanja-intermediate::hanja-64cd": {
+    "zh-TW": "牢牢握住"
+  },
+  "builtin-hanja-intermediate::hanja-6a6b": {
+    "zh-TW": "與縱向相對的左右方向"
+  },
+  "builtin-hanja-intermediate::hanja-5371": {
+    "ja": "害の起こるおそれがある",
+    "zh-TW": "可能發生災害"
+  },
+  "builtin-hanja-intermediate::hanja-5c45": {
+    "zh-TW": "在某個地方生活"
+  },
+  "builtin-hanja-intermediate::hanja-6a23": {
+    "zh-TW": "外觀的形態"
+  },
+  "builtin-hanja-intermediate::hanja-52a9": {
+    "ja": "困っている相手に力を貸す",
+    "zh-TW": "提供力量協力對方"
+  },
+  "builtin-hanja-intermediate::hanja-5e0c": {
+    "zh-TW": "期待某事實現"
+  },
+  "builtin-hanja-intermediate::hanja-5eb7": {
+    "zh-TW": "平靜且身體健全"
+  },
+  "builtin-hanja-intermediate::hanja-6e2f": {
+    "ja": "水流が分かれた通り道"
+  },
+  "builtin-hanja-intermediate::hanja-88dc": {
+    "zh-TW": "填足欠缺的部分"
+  },
+  "builtin-hanja-intermediate::hanja-8fce": {
+    "ja": "来た相手を受け入れる",
+    "zh-TW": "接待前來的對方"
+  },
+  "builtin-hanja-intermediate::hanja-7dca": {
+    "zh-TW": "綁得沒有鬆隙"
+  },
+  "builtin-hanja-intermediate::hanja-4f01": {
+    "zh-TW": "事先規劃做法"
+  },
+  "builtin-hanja-intermediate::hanja-8cc0": {
+    "zh-TW": "對喜事表達祝福"
+  },
+  "builtin-hanja-intermediate::hanja-8072": {
+    "zh-TW": "耳朵可察覺的振動"
+  },
+  "builtin-hanja-intermediate::hanja-8b9a": {
+    "zh-TW": "稱許優良之處"
+  },
+  "builtin-hanja-intermediate::hanja-53d4": {
+    "ja": "親の男きょうだい",
+    "zh-TW": "父母的男性手足"
+  },
+  "builtin-hanja-intermediate::hanja-6216": {
+    "zh-TW": "可能如此但未確定"
+  },
+  "builtin-hanja-intermediate::hanja-5bb3": {
+    "ja": "悪い影響や損失を与える",
+    "zh-TW": "造成不良影響或損失"
+  },
+  "builtin-hanja-intermediate::hanja-56f0": {
+    "zh-TW": "陷於難以解決的處境"
+  },
+  "builtin-hanja-intermediate::hanja-6687": {
+    "zh-TW": "沒有事務的空閒時間"
+  },
+  "builtin-hanja-intermediate::hanja-6f38": {
+    "zh-TW": "逐步擴展"
+  },
+  "builtin-hanja-intermediate::hanja-5b9c": {
+    "zh-TW": "符合條件或情況"
+  },
+  "builtin-hanja-intermediate::hanja-7cbe": {
+    "ja": "細かくすぐれている",
+    "zh-TW": "細緻而優良"
+  },
+  "builtin-hanja-intermediate::hanja-61b6": {
+    "zh-TW": "對過去內容的記存"
+  },
+  "builtin-hanja-intermediate::hanja-62dc": {
+    "zh-TW": "低頭屈身以示敬意"
+  },
+  "builtin-hanja-intermediate::hanja-6548": {
+    "zh-TW": "依照樣板仿作"
+  },
+  "builtin-hanja-intermediate::hanja-52de": {
+    "zh-TW": "辛苦工作"
+  },
+  "builtin-hanja-intermediate::hanja-898b": {
+    "ja": "目で対象をとらえる"
+  },
+  "builtin-hanja-intermediate::hanja-5f04": {
+    "zh-TW": "逗耍對方"
+  },
+  "builtin-hanja-intermediate::hanja-7a76": {
+    "ja": "詳しく調べて明らかにする",
+    "zh-TW": "詳加查考以求明瞭"
+  },
+  "builtin-hanja-intermediate::hanja-6f06": {
+    "ja": "塗料の原料をとるウルシ科の木",
+    "zh-TW": "樹液可作塗料的一類植物"
+  },
+  "builtin-hanja-intermediate::hanja-7247": {
+    "zh-TW": "整體分離出的薄塊"
+  },
+  "builtin-hanja-intermediate::hanja-98ef": {
+    "ja": "炊いたイネの穀粒",
+    "zh-TW": "煮熟的稻穀粒"
+  },
+  "builtin-hanja-intermediate::hanja-8150": {
+    "zh-TW": "物品敗壞變質"
+  },
+  "builtin-hanja-intermediate::hanja-5c55": {
+    "zh-TW": "把原先折疊者攤開"
+  },
+  "builtin-hanja-intermediate::hanja-72af": {
+    "ja": "決まりに背いて悪いことをする",
+    "zh-TW": "違背規則而作惡"
+  },
+  "builtin-hanja-intermediate::hanja-75b2": {
+    "ja": "活動で力が消耗している",
+    "zh-TW": "活動後力氣耗損"
+  },
+  "builtin-hanja-intermediate::hanja-5283": {
+    "zh-TW": "將整體分成若干部分"
+  },
+  "builtin-hanja-intermediate::hanja-925b": {
+    "ja": "柔らかく重い灰色の金属元素",
+    "zh-TW": "灰色且柔軟沉重的金屬元素"
+  },
+  "builtin-hanja-intermediate::hanja-76e3": {
+    "zh-TW": "察看並督促情況"
+  },
+  "builtin-hanja-intermediate::hanja-5047": {
+    "zh-TW": "並非真實"
+  },
+  "builtin-hanja-intermediate::hanja-7f6a": {
+    "zh-TW": "違背規則的過錯"
+  },
+  "builtin-hanja-intermediate::hanja-66b4": {
+    "zh-TW": "猛烈而粗野"
+  },
+  "builtin-hanja-intermediate::hanja-7a05": {
+    "zh-TW": "依法繳給政府的金錢"
+  },
+  "builtin-hanja-intermediate::hanja-8003": {
+    "ja": "よく頭を働かせて判断する",
+    "zh-TW": "動腦思索再判斷"
+  },
+  "builtin-hanja-intermediate::hanja-6539": {
+    "ja": "元の状態を変える",
+    "zh-TW": "使原有狀態不同"
+  },
+  "builtin-hanja-intermediate::hanja-89d2": {
+    "zh-TW": "動物頭部突出的堅硬構造"
+  },
+  "builtin-hanja-intermediate::hanja-5b58": {
+    "zh-TW": "有於某處"
+  },
+  "builtin-hanja-intermediate::hanja-79c1": {
+    "zh-TW": "非公眾而屬個人所有"
+  },
+  "builtin-hanja-intermediate::hanja-4e82": {
+    "zh-TW": "沒有秩序而混雜"
+  },
+  "builtin-hanja-intermediate::hanja-5be7": {
+    "zh-TW": "平靜而無憂"
+  },
+  "builtin-hanja-intermediate::hanja-6a19": {
+    "zh-TW": "供辨認的記號"
+  },
+  "builtin-hanja-intermediate::hanja-52aa": {
+    "ja": "力を尽くして取り組む",
+    "zh-TW": "盡力去做"
+  },
+  "builtin-hanja-intermediate::hanja-852c": {
+    "zh-TW": "供食用的植物"
+  },
+  "builtin-hanja-intermediate::hanja-589e": {
+    "zh-TW": "使數量更多"
+  },
+  "builtin-hanja-intermediate::hanja-6e1b": {
+    "ja": "数量を少なくする",
+    "zh-TW": "使數量更少"
+  },
+  "builtin-hanja-intermediate::hanja-7a4d": {
+    "ja": "次々と重ねる",
+    "zh-TW": "將物品逐次疊起"
+  },
+  "builtin-hanja-intermediate::hanja-807d": {
+    "zh-TW": "用耳朵察覺聲音"
+  },
+  "builtin-hanja-intermediate::hanja-526f": {
+    "zh-TW": "附於主要對象的次要者"
+  },
+  "builtin-hanja-intermediate::hanja-812b": {
+    "zh-TW": "從束縛中逃出"
+  },
+  "builtin-hanja-intermediate::hanja-5f97": {
+    "ja": "欲しいものを手に入れる",
+    "zh-TW": "獲取所需之物"
+  },
+  "builtin-hanja-intermediate::hanja-9069": {
+    "zh-TW": "符合所需條件"
+  },
+  "builtin-hanja-intermediate::hanja-907a": {
+    "zh-TW": "失去或忘了帶走"
+  },
+  "builtin-hanja-intermediate::hanja-8ca1": {
+    "ja": "金銭など価値ある持ち物",
+    "zh-TW": "金錢等有價值的物品"
+  },
+  "builtin-hanja-intermediate::hanja-5c0e": {
+    "ja": "行くべき方向を示す",
+    "zh-TW": "指示應前往的方向"
+  },
+  "builtin-hanja-intermediate::hanja-8208": {
+    "zh-TW": "從原處蓬勃出現"
+  },
+  "builtin-hanja-intermediate::hanja-89ba": {
+    "zh-TW": "察悟某件事"
+  },
+  "builtin-hanja-intermediate::hanja-8ffd": {
+    "ja": "逃げるもののあとを進む",
+    "zh-TW": "沿著逃離者的方向趕去"
+  },
+  "builtin-hanja-intermediate::hanja-5883": {
+    "ja": "二つの範囲を区切る場所",
+    "zh-TW": "區分兩個範圍的位置"
+  },
+  "builtin-hanja-intermediate::hanja-9644": {
+    "zh-TW": "使與另一物相連"
+  },
+  "builtin-hanja-intermediate::hanja-4ea1": {
+    "zh-TW": "喪失生命或不復存在"
+  },
+  "builtin-hanja-intermediate::hanja-594f": {
+    "zh-TW": "向君主稟報"
+  },
+  "builtin-hanja-intermediate::hanja-689d": {
+    "zh-TW": "從樹幹分出延伸的部分"
+  },
+  "builtin-hanja-intermediate::hanja-5354": {
+    "zh-TW": "彼此配合融洽"
+  },
+  "builtin-hanja-intermediate::hanja-56fa": {
+    "ja": "しっかりして動かない",
+    "zh-TW": "牢靠而不動搖"
+  },
+  "builtin-hanja-intermediate::hanja-6cca": {
+    "zh-TW": "暫留於某處"
+  },
+  "builtin-hanja-intermediate::hanja-69cb": {
+    "ja": "建物を組み立てる"
+  },
+  "builtin-hanja-intermediate::hanja-80cc": {
+    "ja": "体の腹側と反対の部分",
+    "zh-TW": "身體腹部相反的一側"
+  },
+  "builtin-hanja-intermediate::hanja-5f79": {
+    "ja": "人を仕事につかせる",
+    "zh-TW": "安排他人從事工作"
+  },
+  "builtin-hanja-intermediate::hanja-722d": {
+    "zh-TW": "彼此競逐"
+  },
+  "builtin-hanja-intermediate::hanja-8a55": {
+    "ja": "価値やよしあしを判断する",
+    "zh-TW": "判斷價值與優劣"
+  },
+  "builtin-hanja-intermediate::hanja-9451": {
+    "zh-TW": "反射形象的器具"
+  },
+  "builtin-hanja-intermediate::hanja-9663": {
+    "ja": "順序をつけて並んだまとまり",
+    "zh-TW": "按次序排列的組合"
+  },
+  "builtin-hanja-intermediate::hanja-76e4": {
+    "zh-TW": "放置物品的扁平容具"
+  },
+  "builtin-hanja-intermediate::hanja-7248": {
+    "zh-TW": "扁平的塊狀部分"
+  },
+  "builtin-hanja-intermediate::hanja-88ab": {
+    "zh-TW": "睡時蓋在身上的寢具"
+  },
+  "builtin-hanja-intermediate::hanja-63d0": {
+    "zh-TW": "以手拉起"
+  },
+  "builtin-hanja-intermediate::hanja-6253": {
+    "zh-TW": "施力敲碰"
+  },
+  "builtin-hanja-intermediate::hanja-6ce2": {
+    "zh-TW": "水面起伏傳動的形態"
+  },
+  "builtin-hanja-intermediate::hanja-8d77": {
+    "zh-TW": "從低處站立"
+  },
+  "builtin-hanja-intermediate::hanja-8a69": {
+    "ja": "ことばの響きやリズムを生かした韻文",
+    "zh-TW": "運用節奏韻律表意的文體"
+  },
+  "builtin-hanja-intermediate::hanja-8a8d": {
+    "zh-TW": "察明並確知"
+  },
+  "builtin-hanja-intermediate::hanja-6751": {
+    "zh-TW": "居民聚集的小型聚落"
+  },
+  "builtin-hanja-intermediate::hanja-656c": {
+    "ja": "相手の価値を認め大切にする",
+    "zh-TW": "重視並尊崇對方"
+  },
+  "builtin-hanja-intermediate::hanja-5fd7": {
+    "zh-TW": "自身所立的意向與決心"
+  },
+  "builtin-hanja-intermediate::hanja-6fd5": {
+    "zh-TW": "含有水分"
+  },
+  "builtin-hanja-intermediate::hanja-5438": {
+    "ja": "気体や液体を内へ取り込む",
+    "zh-TW": "把氣體或液體納入內部"
+  },
+  "builtin-hanja-intermediate::hanja-9006": {
+    "ja": "通常の向きや決まりに背く",
+    "zh-TW": "與通常方向或規則相反"
+  },
+  "builtin-hanja-intermediate::hanja-904a": {
+    "ja": "楽しみのため活動する",
+    "zh-TW": "為享樂而活動"
+  },
+  "builtin-hanja-intermediate::hanja-6575": {
+    "ja": "相手に対抗する"
+  },
+  "builtin-hanja-intermediate::hanja-9918": {
+    "zh-TW": "用過之後仍有剩下"
+  },
+  "builtin-hanja-intermediate::hanja-6fc0": {
+    "ja": "水が勢いよく流れる",
+    "zh-TW": "水流猛烈奔湧"
+  },
+  "builtin-hanja-intermediate::hanja-514d": {
+    "ja": "束縛や危険から抜け出す",
+    "zh-TW": "逃離束縛或危險"
+  },
+  "builtin-hanja-intermediate::hanja-8d85": {
+    "ja": "ある程度や範囲を越える",
+    "zh-TW": "越過某種程度或範圍"
+  },
+  "builtin-hanja-intermediate::hanja-5fb5": {
+    "zh-TW": "命令對方前來"
+  },
+  "builtin-hanja-intermediate::hanja-7a81": {
+    "ja": "勢いよくぶつかる"
+  },
+  "builtin-hanja-intermediate::hanja-5145": {
+    "zh-TW": "內容已足而無欠缺"
+  },
+  "builtin-hanja-intermediate::hanja-5a01": {
+    "ja": "人を圧する堂々とした力",
+    "zh-TW": "使人感到壓服的莊嚴力量"
+  },
+  "builtin-hanja-intermediate::hanja-7d30": {
+    "ja": "幅や太さが小さい",
+    "zh-TW": "寬度或粗度很小"
+  },
+  "builtin-hanja-intermediate::hanja-8cac": {
+    "ja": "悪い点を問いただす",
+    "zh-TW": "對過失加以質問斥正"
+  },
+  "builtin-hanja-intermediate::hanja-5c0a": {
+    "ja": "価値や身分が高い",
+    "zh-TW": "價值或身分崇高"
+  },
+  "builtin-hanja-intermediate::hanja-865b": {
+    "zh-TW": "內部沒有內容物"
+  },
+  "builtin-hanja-intermediate::hanja-7167": {
+    "zh-TW": "使光線投向某物"
+  },
+  "builtin-hanja-intermediate::hanja-8b6f": {
+    "zh-TW": "把一種語言轉為另一種"
+  },
+  "builtin-hanja-intermediate::hanja-5e03": {
+    "zh-TW": "由絲纖維等交織成的材料"
+  },
+  "builtin-hanja-intermediate::hanja-6297": {
+    "zh-TW": "對對方的作用加以抵拒"
+  },
+  "builtin-hanja-intermediate::hanja-6c42": {
+    "zh-TW": "尋找想得到的東西"
+  },
+  "builtin-hanja-intermediate::hanja-5531": {
+    "zh-TW": "用帶旋律的聲音發聲"
+  },
+  "builtin-hanja-intermediate::hanja-8cb4": {
+    "zh-TW": "價值或身分崇高"
+  },
+  "builtin-hanja-intermediate::hanja-8aa4": {
+    "ja": "正しくない判断や行為",
+    "zh-TW": "不正確的判斷或行為"
+  },
+  "builtin-hanja-intermediate::hanja-5ee2": {
+    "zh-TW": "取消原有的制度等"
+  },
+  "builtin-hanja-intermediate::hanja-6551": {
+    "ja": "危険や苦しみから助け出す",
+    "zh-TW": "使脫離危險或痛苦"
+  },
+  "builtin-hanja-intermediate::hanja-8cb8": {
+    "zh-TW": "交付對方並約定日後歸還"
+  },
+  "builtin-hanja-intermediate::hanja-8056": {
+    "ja": "道徳や知恵のきわめてすぐれた人",
+    "zh-TW": "品德與智慧極優的人"
+  },
+  "builtin-hanja-intermediate::hanja-6613": {
+    "ja": "難しくなくできる",
+    "zh-TW": "不困難而可完成"
+  },
+  "builtin-hanja-intermediate::hanja-8ca0": {
+    "ja": "責任や荷物などを引き受ける",
+    "zh-TW": "承擔責任或荷物"
+  },
+  "builtin-hanja-intermediate::hanja-64d4": {
+    "zh-TW": "承受荷物或責任"
+  },
+  "builtin-hanja-intermediate::hanja-9858": {
+    "ja": "実現してほしいと思う"
+  },
+  "builtin-hanja-intermediate::hanja-8f15": {
+    "zh-TW": "重量或負擔較少"
+  },
+  "builtin-hanja-intermediate::hanja-7bc4": {
+    "zh-TW": "可供仿效的樣板"
+  },
+  "builtin-hanja-intermediate::hanja-6b66": {
+    "zh-TW": "力量強盛而勇猛"
+  },
+  "builtin-hanja-intermediate::hanja-520a": {
+    "zh-TW": "將書本等印行問世"
+  },
+  "builtin-hanja-intermediate::hanja-5211": {
+    "ja": "罪に対して科す制裁",
+    "zh-TW": "對過錯施加的懲罰"
+  },
+  "builtin-hanja-intermediate::hanja-72c2": {
+    "ja": "平静を失い激しくなる",
+    "zh-TW": "失去平靜而瘋亂激烈"
+  },
+  "builtin-hanja-intermediate::hanja-967d": {
+    "zh-TW": "日光"
+  },
+  "builtin-hanja-intermediate::hanja-98fe": {
+    "zh-TW": "美化外觀"
+  },
+  "builtin-hanja-intermediate::hanja-616e": {
+    "zh-TW": "用心思考"
+  },
+  "builtin-hanja-intermediate::hanja-9aee": {
+    "zh-TW": "頭皮長出的細長絲狀構造"
+  },
+  "builtin-hanja-intermediate::hanja-5feb": {
+    "zh-TW": "心情舒暢"
+  },
+  "builtin-hanja-intermediate::hanja-6311": {
+    "zh-TW": "往高處抬起"
+  },
+  "builtin-hanja-intermediate::hanja-76dc": {
+    "zh-TW": "暗取他人財物者"
+  },
+  "builtin-hanja-intermediate::hanja-8a34": {
+    "ja": "判断や助けを求めて申し出る",
+    "zh-TW": "提出申述以請求裁決或協助"
+  },
+  "builtin-hanja-intermediate::hanja-71e5": {
+    "zh-TW": "水分缺乏而乾"
+  },
+  "builtin-hanja-intermediate::hanja-9748": {
+    "zh-TW": "超自然的魂魄存在"
+  },
+  "builtin-hanja-intermediate::hanja-5cb8": {
+    "ja": "川などの水に接する陸の端",
+    "zh-TW": "緊鄰河水的陸緣"
+  },
+  "builtin-hanja-intermediate::hanja-65bd": {
+    "ja": "相手に恵みを与える",
+    "zh-TW": "給予對方恩惠"
+  },
+  "builtin-hanja-intermediate::hanja-9670": {
+    "ja": "陽と対をなす宇宙観の要素",
+    "zh-TW": "與陽相對的宇宙觀要素"
+  },
+  "builtin-hanja-intermediate::hanja-5e55": {
+    "zh-TW": "垂掛以分隔空間的布"
+  },
+  "builtin-hanja-intermediate::hanja-7f70": {
+    "ja": "悪いことへの制裁",
+    "zh-TW": "針對過錯的制裁"
+  },
+  "builtin-hanja-intermediate::hanja-5100": {
+    "zh-TW": "一定的規整形式"
+  },
+  "builtin-hanja-intermediate::hanja-8ddd": {
+    "zh-TW": "鳥腿上突出的硬構造"
+  },
+  "builtin-hanja-intermediate::hanja-56e0": {
+    "zh-TW": "以某件事作理由"
+  },
+  "builtin-hanja-intermediate::hanja-5ef6": {
+    "zh-TW": "往前方伸展而達及"
+  },
+  "builtin-hanja-intermediate::hanja-6c92": {
+    "zh-TW": "進入液面以下"
+  },
+  "builtin-hanja-intermediate::hanja-62c2": {
+    "zh-TW": "以輕觸撥除"
+  },
+  "builtin-hanja-intermediate::hanja-964d": {
+    "ja": "高い所から低い所へ移る"
+  },
+  "builtin-hanja-intermediate::hanja-9769": {
+    "zh-TW": "由動物表皮加工的材料"
+  },
+  "builtin-hanja-intermediate::hanja-504f": {
+    "ja": "一方にかたよっている",
+    "zh-TW": "只傾向單方面"
+  },
+  "builtin-hanja-intermediate::hanja-846c": {
+    "ja": "死者を地中などに納める",
+    "zh-TW": "將死者安置於地下等處"
+  },
+  "builtin-hanja-intermediate::hanja-9700": {
+    "zh-TW": "因不可缺少而要求"
+  },
+  "builtin-hanja-intermediate::hanja-7c21": {
+    "zh-TW": "古代記字用的細長竹條"
+  },
+  "builtin-hanja-intermediate::hanja-547c": {
+    "ja": "声を出して相手に知らせる",
+    "zh-TW": "發聲以喚來對方"
+  },
+  "builtin-hanja-intermediate::hanja-5ba3": {
+    "zh-TW": "向眾人公開告知"
+  },
+  "builtin-hanja-intermediate::hanja-67d3": {
+    "ja": "色をしみ込ませる",
+    "zh-TW": "使顏色滲入"
+  },
+  "builtin-hanja-intermediate::hanja-8edf": {
+    "zh-TW": "不硬且容易改變形狀"
+  },
+  "builtin-hanja-intermediate::hanja-5854": {
+    "zh-TW": "高聳的佛教建築"
+  },
+  "builtin-hanja-intermediate::hanja-7763": {
+    "ja": "仕事のようすを見て指図する",
+    "zh-TW": "察看工作並加以指示"
+  },
+  "builtin-hanja-intermediate::hanja-9060": {
+    "ja": "隔たりが大きい",
+    "zh-TW": "距離很大"
+  },
+  "builtin-hanja-intermediate::hanja-8a98": {
+    "ja": "ある行動をするようにさそう",
+    "zh-TW": "引導對方採取某項行動"
+  },
+  "builtin-hanja-intermediate::hanja-9ed8": {
+    "zh-TW": "不出聲且不說話"
+  },
+  "builtin-hanja-intermediate::hanja-58ef": {
+    "zh-TW": "力量強且氣勢旺"
+  },
+  "builtin-hanja-intermediate::hanja-51cd": {
+    "ja": "低温で液体が固体になる",
+    "zh-TW": "液體因低溫而凝固"
+  },
+  "builtin-hanja-intermediate::hanja-6d6a": {
+    "zh-TW": "水面產生的起伏"
+  },
+  "builtin-hanja-intermediate::hanja-5c07": {
+    "zh-TW": "快要發生的狀態"
+  },
+  "builtin-hanja-intermediate::hanja-88c1": {
+    "ja": "布を必要な形に切る",
+    "zh-TW": "依所需形狀剪開布料"
+  },
+  "builtin-hanja-intermediate::hanja-9694": {
+    "zh-TW": "以距離或障礙分開兩方"
+  },
+  "builtin-hanja-intermediate::hanja-7206": {
+    "zh-TW": "突然釋放強力而破裂"
+  },
+  "builtin-hanja-intermediate::hanja-81df": {
+    "zh-TW": "身體內部的器官"
+  },
+  "builtin-hanja-intermediate::hanja-6c88": {
+    "ja": "水面などの下へもぐる"
+  },
+  "builtin-hanja-intermediate::hanja-9999": {
+    "ja": "好ましく感じるにおい",
+    "zh-TW": "令人喜歡的氣味"
+  },
+  "builtin-hanja-intermediate::hanja-5949": {
+    "ja": "目上の人につかえる"
+  },
+  "builtin-hanja-intermediate::hanja-5bae": {
+    "ja": "君主の住む大きな建物",
+    "zh-TW": "君主居住的大型建築"
+  },
+  "builtin-hanja-intermediate::hanja-5ea7": {
+    "ja": "すわるための場所",
+    "zh-TW": "供人坐的地方"
+  },
+  "builtin-hanja-intermediate::hanja-8aa0": {
+    "ja": "うそや偽りがなく信じられる",
+    "zh-TW": "沒有虛偽而值得信任"
+  },
+  "builtin-hanja-intermediate::hanja-6eef": {
+    "zh-TW": "進程不暢而停住"
+  },
+  "builtin-hanja-intermediate::hanja-8fd4": {
+    "ja": "元の場所や状態に戻る",
+    "zh-TW": "回到原來的位置或狀態"
+  },
+  "builtin-hanja-intermediate::hanja-6cc1": {
+    "zh-TW": "在既有之外更進一步"
+  },
+  "builtin-hanja-intermediate::hanja-7267": {
+    "zh-TW": "讓家畜在外取食並照料"
+  },
+  "builtin-hanja-intermediate::hanja-5a1b": {
+    "zh-TW": "使心情愉悅"
+  },
+  "builtin-hanja-intermediate::hanja-6050": {
+    "ja": "害を予想しておそれる",
+    "zh-TW": "預想危害而害怕"
+  },
+  "builtin-hanja-intermediate::hanja-8166": {
+    "zh-TW": "頭部內主掌思考與身體活動的器官"
+  },
+  "builtin-hanja-intermediate::hanja-53e5": {
+    "ja": "まとまった意味を持つことばの一まとまり",
+    "zh-TW": "具有整體含義的一組詞語"
+  },
+  "builtin-hanja-intermediate::hanja-5947": {
+    "ja": "普通とは違い不思議である",
+    "zh-TW": "與通常不同而令人詫異"
+  },
+  "builtin-hanja-intermediate::hanja-5019": {
+    "zh-TW": "詢問對方情況"
+  },
+  "builtin-hanja-intermediate::hanja-60d1": {
+    "ja": "判断がつかず迷う",
+    "zh-TW": "判斷不清而迷亂"
+  },
+  "builtin-hanja-intermediate::hanja-87f2": {
+    "zh-TW": "昆類等小型動物"
+  },
+  "builtin-hanja-intermediate::hanja-7532": {
+    "zh-TW": "戰鬥時護體的裝具"
+  },
+  "builtin-hanja-intermediate::hanja-4f9b": {
+    "ja": "必要なものを差し出す",
+    "zh-TW": "交出所需事物"
+  },
+  "builtin-hanja-intermediate::hanja-53ca": {
+    "ja": "ある範囲や程度に達する",
+    "zh-TW": "達到某個範圍或程度"
+  },
+  "builtin-hanja-intermediate::hanja-5360": {
+    "ja": "兆しから未来の吉凶を判断する",
+    "zh-TW": "根據徵兆判斷未來吉凶"
+  },
+  "builtin-hanja-intermediate::hanja-4f9d": {
+    "zh-TW": "倚靠對方"
+  },
+  "builtin-hanja-intermediate::hanja-75be": {
+    "zh-TW": "身體失常的不適狀態"
+  },
+  "builtin-hanja-intermediate::hanja-5a92": {
+    "zh-TW": "促成婚配的中間聯繫"
+  },
+  "builtin-hanja-intermediate::hanja-9055": {
+    "zh-TW": "背反規則"
+  },
+  "builtin-hanja-intermediate::hanja-7e2e": {
+    "ja": "長さや大きさが小さくなる",
+    "zh-TW": "長度或尺寸變小"
+  },
+  "builtin-hanja-intermediate::hanja-4ed5": {
+    "ja": "公の役目について働く"
+  },
+  "builtin-hanja-intermediate::hanja-5de1": {
+    "ja": "各所を順にまわる",
+    "zh-TW": "按次序往各處查察"
+  },
+  "builtin-hanja-intermediate::hanja-602a": {
+    "zh-TW": "與通常不同而令人詫異"
+  },
+  "builtin-hanja-intermediate::hanja-8ff0": {
+    "zh-TW": "承接原有進程"
+  },
+  "builtin-hanja-intermediate::hanja-5024": {
+    "ja": "もののねうち"
+  },
+  "builtin-hanja-intermediate::hanja-6838": {
+    "zh-TW": "果實中心的硬質部分"
+  },
+  "builtin-hanja-intermediate::hanja-8fb1": {
+    "ja": "名誉を傷つけられること",
+    "zh-TW": "名譽受損的不光彩境遇"
+  },
+  "builtin-hanja-intermediate::hanja-63a2": {
+    "ja": "手がかりを求めてさがす",
+    "zh-TW": "摸索尋求線索"
+  },
+  "builtin-hanja-intermediate::hanja-76db": {
+    "ja": "容器に入れて満たす",
+    "zh-TW": "裝入容器使滿"
+  },
+  "builtin-hanja-intermediate::hanja-6ec5": {
+    "ja": "存在しなくなる",
+    "zh-TW": "不復存在"
+  },
+  "builtin-hanja-intermediate::hanja-8cc3": {
+    "ja": "報酬を受けて働くこと"
+  },
+  "builtin-hanja-intermediate::hanja-7de8": {
+    "ja": "まとまった書物の一単位"
+  },
+  "builtin-hanja-intermediate::hanja-64da": {
+    "zh-TW": "當作可靠的憑藉"
+  },
+  "builtin-hanja-intermediate::hanja-74b0": {
+    "zh-TW": "繞成一圈的形狀"
+  },
+  "builtin-hanja-intermediate::hanja-4f5b": {
+    "zh-TW": "覺悟修行而成的宗教尊者"
+  },
+  "builtin-hanja-intermediate::hanja-6298": {
+    "zh-TW": "施力使彎曲或斷開"
+  },
+  "builtin-hanja-intermediate::hanja-8d70": {
+    "ja": "足を速く動かして進む"
+  },
+  "builtin-hanja-intermediate::hanja-6691": {
+    "ja": "気温が高く感じられる",
+    "zh-TW": "氣溫高而令人燠悶"
+  },
+  "builtin-hanja-intermediate::hanja-6e2c": {
+    "ja": "数値や程度を調べる",
+    "zh-TW": "查求數值或程度"
+  },
+  "builtin-hanja-intermediate::hanja-58fd": {
+    "zh-TW": "存活的時間長短"
+  },
+  "builtin-hanja-intermediate::hanja-7db1": {
+    "ja": "ものを統べる太い縄",
+    "zh-TW": "統攝整體的粗繩"
+  },
+  "builtin-hanja-intermediate::hanja-7c3f": {
+    "ja": "金銭などの出入りを書きとめる帳面",
+    "zh-TW": "記下金錢等收支的帳本"
+  },
+  "builtin-hanja-intermediate::hanja-5bf6": {
+    "zh-TW": "價值高而珍貴之物"
+  },
+  "builtin-hanja-intermediate::hanja-707d": {
+    "ja": "大きな損失をもたらす出来事",
+    "zh-TW": "帶來重大損失的事件"
+  },
+  "builtin-hanja-intermediate::hanja-70ad": {
+    "zh-TW": "木頭等燒製出的黑色燃料"
+  },
+  "builtin-hanja-intermediate::hanja-79e9": {
+    "zh-TW": "事物的適當次序"
+  },
+  "builtin-hanja-intermediate::hanja-63a1": {
+    "ja": "いくつかを選んで集める",
+    "zh-TW": "選取而收集"
+  },
+  "builtin-hanja-intermediate::hanja-50be": {
+    "ja": "一方へかたむける",
+    "zh-TW": "偏向某一方"
+  },
+  "builtin-hanja-intermediate::hanja-96a8": {
+    "zh-TW": "依循前者而前進"
+  },
+  "builtin-hanja-intermediate::hanja-85a6": {
+    "ja": "適任だとして人などを推す",
+    "zh-TW": "推舉合宜的人或事物"
+  },
+  "builtin-hanja-intermediate::hanja-64f4": {
+    "zh-TW": "使範圍更廣"
+  },
+  "builtin-hanja-intermediate::hanja-5f14": {
+    "ja": "亡くなった人への悲しみを伝える",
+    "zh-TW": "對亡者表達哀思"
+  },
+  "builtin-hanja-intermediate::hanja-5fe0": {
+    "ja": "真心を尽くして仕えること",
+    "zh-TW": "盡心而不貳的態度"
+  },
+  "builtin-hanja-intermediate::hanja-6de8": {
+    "zh-TW": "沒有污垢而潔潔"
+  },
+  "builtin-hanja-intermediate::hanja-8d8a": {
+    "ja": "境や程度をこえる",
+    "zh-TW": "跨過界限或程度"
+  },
+  "builtin-hanja-intermediate::hanja-7e54": {
+    "ja": "糸を組み合わせて布をつくる",
+    "zh-TW": "以絲線交錯製成布料"
+  },
+  "builtin-hanja-intermediate::hanja-9732": {
+    "zh-TW": "冷卻後附於草木等的水珠"
+  },
+  "builtin-hanja-intermediate::hanja-523a": {
+    "ja": "鋭いもので突き入れる",
+    "zh-TW": "以尖物扎入"
+  },
+  "builtin-hanja-intermediate::hanja-8feb": {
+    "ja": "隔たりを縮めて近づく"
+  },
+  "builtin-hanja-intermediate::hanja-9003": {
+    "ja": "危険や追跡から離れる",
+    "zh-TW": "離開危險或追逐"
+  },
+  "builtin-hanja-intermediate::hanja-6069": {
+    "ja": "相手から受けたありがたい思いやり",
+    "zh-TW": "受自他人而值得感念的好意"
+  },
+  "builtin-hanja-intermediate::hanja-8108": {
+    "zh-TW": "血流引起的週期性搏動"
+  },
+  "builtin-hanja-intermediate::hanja-9589": {
+    "ja": "開いているものをふさぐ",
+    "zh-TW": "封住原先開著的部分"
+  },
+  "builtin-hanja-intermediate::hanja-60e0": {
+    "zh-TW": "有益於對方的好意"
+  },
+  "builtin-hanja-intermediate::hanja-5713": {
+    "zh-TW": "外緣各點離中心等距的形狀"
+  },
+  "builtin-hanja-intermediate::hanja-8178": {
+    "zh-TW": "消化道中負責吸收等作用的器官"
+  },
+  "builtin-hanja-intermediate::hanja-790e": {
+    "ja": "建物の土台にする石"
+  },
+  "builtin-hanja-intermediate::hanja-89f8": {
+    "zh-TW": "以身體等碰到物品"
+  },
+  "builtin-hanja-intermediate::hanja-97ff": {
+    "ja": "音が広がって聞こえる",
+    "zh-TW": "聲音傳開而可聞"
+  },
+  "builtin-hanja-intermediate::hanja-7891": {
+    "ja": "文字などを刻んだ石の柱",
+    "zh-TW": "刻有文字等的石柱"
+  },
+  "builtin-hanja-intermediate::hanja-541b": {
+    "ja": "国や集団を治める人",
+    "zh-TW": "統治國家或群體的人"
+  },
+  "builtin-hanja-intermediate::hanja-6065": {
+    "zh-TW": "因顏面受損而產生的感受"
+  },
+  "builtin-hanja-intermediate::hanja-7b11": {
+    "zh-TW": "喜悅等引起的面部表情"
+  },
+  "builtin-hanja-intermediate::hanja-52df": {
+    "zh-TW": "廣泛招集人或物"
+  },
+  "builtin-hanja-intermediate::hanja-50ac": {
+    "ja": "早くするように促す",
+    "zh-TW": "促使對方趕快進行"
+  },
+  "builtin-hanja-intermediate::hanja-84c4": {
+    "ja": "あとで使うためためておく",
+    "zh-TW": "留存以供日後使用"
+  },
+  "builtin-hanja-intermediate::hanja-6f5b": {
+    "zh-TW": "進到液面以下"
+  },
+  "builtin-hanja-intermediate::hanja-9707": {
+    "zh-TW": "像雷一樣的強烈衝擊"
+  },
+  "builtin-hanja-intermediate::hanja-66f4": {
+    "zh-TW": "使原有狀態不同"
+  },
+  "builtin-hanja-intermediate::hanja-79c0": {
+    "zh-TW": "優於其他者"
+  },
+  "builtin-hanja-intermediate::hanja-5b64": {
+    "ja": "仲間がおらずひとりである",
+    "zh-TW": "獨自而無伴"
+  },
+  "builtin-hanja-intermediate::hanja-6b32": {
+    "ja": "何かを得たいと思う",
+    "zh-TW": "想取得某物的意念"
+  },
+  "builtin-hanja-intermediate::hanja-641c": {
+    "zh-TW": "尋找目標之物"
+  },
+  "builtin-hanja-intermediate::hanja-68c4": {
+    "zh-TW": "認為不需而丟開"
+  },
+  "builtin-hanja-intermediate::hanja-76df": {
+    "zh-TW": "鄭重立誓作約定"
+  },
+  "builtin-hanja-intermediate::hanja-8ce6": {
+    "zh-TW": "國家等徵收的金錢"
+  },
+  "builtin-hanja-intermediate::hanja-66c6": {
+    "zh-TW": "標示日期年月的工具"
+  },
+  "builtin-hanja-intermediate::hanja-8b00": {
+    "zh-TW": "事先規劃實行的方法"
+  },
+  "builtin-hanja-intermediate::hanja-8b93": {
+    "zh-TW": "將自身的位置或權利交給他人"
+  },
+  "builtin-hanja-intermediate::hanja-502b": {
+    "zh-TW": "人與人之間的關係規範"
+  },
+  "builtin-hanja-intermediate::hanja-61f7": {
+    "zh-TW": "以雙臂或內心珍重擁持"
+  },
+  "builtin-hanja-intermediate::hanja-52c7": {
+    "ja": "危険を恐れず立ち向かう",
+    "zh-TW": "不畏危險而前進"
+  },
+  "builtin-hanja-intermediate::hanja-79d2": {
+    "ja": "1分の60分の1の時間単位",
+    "zh-TW": "1分鐘的1/60時間單位"
+  },
+  "builtin-hanja-intermediate::hanja-8ff7": {
+    "zh-TW": "判斷或方向不明"
+  },
+  "builtin-hanja-intermediate::hanja-7d1b": {
+    "zh-TW": "混亂而失去條理"
+  },
+  "builtin-hanja-intermediate::hanja-91dd": {
+    "zh-TW": "細長尖端的工具"
+  },
+  "builtin-hanja-intermediate::hanja-6dfb": {
+    "zh-TW": "在原有之外加上"
+  },
+  "builtin-hanja-intermediate::hanja-63ee": {
+    "zh-TW": "大幅擺動手持之物"
+  },
+  "builtin-hanja-intermediate::hanja-5857": {
+    "ja": "表面に液体などをつける",
+    "zh-TW": "把液體等抹在表面"
+  },
+  "builtin-hanja-intermediate::hanja-7761": {
+    "zh-TW": "想入眠的狀態"
+  },
+  "builtin-hanja-intermediate::hanja-8a87": {
+    "ja": "自分の優れたところを大きく言う",
+    "zh-TW": "強調自身優點而自得"
+  },
+  "builtin-hanja-intermediate::hanja-596a": {
+    "ja": "相手のものを無理に取る",
+    "zh-TW": "強取對方之物"
+  },
+  "builtin-hanja-intermediate::hanja-5104": {
+    "ja": "100000000という数",
+    "zh-TW": "數值100000000"
+  },
+  "builtin-hanja-intermediate::hanja-8cf4": {
+    "zh-TW": "以對方作倚靠"
+  },
+  "builtin-hanja-intermediate::hanja-640d": {
+    "zh-TW": "使數量或價值減少"
+  },
+  "builtin-hanja-intermediate::hanja-81e8": {
+    "ja": "その場に近づく",
+    "zh-TW": "接近某個場所"
+  },
+  "builtin-hanja-intermediate::hanja-91cb": {
+    "zh-TW": "解除束縛使自由"
+  },
+  "builtin-hanja-intermediate::hanja-6c0f": {
+    "ja": "家系を表す呼び名",
+    "zh-TW": "表明家族血統的稱呼"
+  },
+  "builtin-hanja-intermediate::hanja-5409": {
+    "zh-TW": "有好事發生的徵兆"
+  },
+  "builtin-hanja-intermediate::hanja-5984": {
+    "zh-TW": "沒有根據而虛幻"
+  },
+  "builtin-hanja-intermediate::hanja-542b": {
+    "ja": "口の中に入れておく",
+    "zh-TW": "放在口內而不吞下"
+  },
+  "builtin-hanja-intermediate::hanja-6212": {
+    "ja": "危険や過ちに気をつける",
+    "zh-TW": "留心危險或錯失"
+  },
+  "builtin-hanja-intermediate::hanja-91cc": {
+    "zh-TW": "居民聚集的小型聚落"
+  },
+  "builtin-hanja-intermediate::hanja-5237": {
+    "zh-TW": "刮擦表面以除去"
+  },
+  "builtin-hanja-intermediate::hanja-627f": {
+    "zh-TW": "為長上服務"
+  },
+  "builtin-hanja-intermediate::hanja-4fb5": {
+    "zh-TW": "進入他者的領域"
+  },
+  "builtin-hanja-intermediate::hanja-5cf6": {
+    "zh-TW": "被水包圍的陸塊"
+  },
+  "builtin-hanja-intermediate::hanja-682a": {
+    "ja": "根に近い木の幹",
+    "zh-TW": "接近根部的樹幹"
+  },
+  "builtin-hanja-intermediate::hanja-96c4": {
+    "zh-TW": "動物的公性個體"
+  },
+  "builtin-hanja-intermediate::hanja-9b42": {
+    "zh-TW": "被認為與肉身分離的精神存在"
+  },
+  "builtin-hanja-intermediate::hanja-8c8c": {
+    "zh-TW": "五官組合呈現的外觀"
+  },
+  "builtin-hanja-intermediate::hanja-528d": {
+    "zh-TW": "兩側帶刃的長兵器"
+  },
+  "builtin-hanja-intermediate::hanja-6176": {
+    "zh-TW": "令人欣喜的好事"
+  },
+  "builtin-hanja-intermediate::hanja-7bc7": {
+    "zh-TW": "具有整體內容的書本"
+  },
+  "builtin-hanja-intermediate::hanja-6fa4": {
+    "zh-TW": "積水的低窪處"
+  },
+  "builtin-hanja-intermediate::hanja-9396": {
+    "zh-TW": "連環或可封閉開口的扣具"
+  },
+  "builtin-hanja-intermediate::hanja-9418": {
+    "zh-TW": "敲擊而發聲的中空金屬器"
+  },
+  "builtin-hanja-intermediate::hanja-4e45": {
+    "ja": "長いあいだ",
+    "zh-TW": "長時間"
+  },
+  "builtin-hanja-intermediate::hanja-5df2": {
+    "zh-TW": "早就達到某種狀態"
+  },
+  "builtin-hanja-intermediate::hanja-4ed9": {
+    "ja": "修行で不老不死になったとされる者",
+    "zh-TW": "傳說修行後不老不死者"
+  },
+  "builtin-hanja-intermediate::hanja-525b": {
+    "zh-TW": "堅硬而強韌"
+  },
+  "builtin-hanja-intermediate::hanja-5e63": {
+    "zh-TW": "儀式上奉獻的贈禮"
+  },
+  "builtin-hanja-intermediate::hanja-71c3": {
+    "ja": "火がついて熱や光を出す",
+    "zh-TW": "起火而發熱發光"
+  },
+  "builtin-hanja-intermediate::hanja-4f34": {
+    "zh-TW": "一起行動的同夥"
+  },
+  "builtin-hanja-intermediate::hanja-5e9c": {
+    "zh-TW": "存放物品的建築"
+  },
+  "builtin-hanja-intermediate::hanja-80a5": {
+    "zh-TW": "身體脂肪增多而膨大"
+  },
+  "builtin-hanja-intermediate::hanja-6cc9": {
+    "zh-TW": "從地下湧出的水"
+  },
+  "builtin-hanja-intermediate::hanja-80c3": {
+    "ja": "食道から来た食べ物を消化する袋状の器官",
+    "zh-TW": "接收食道送來的食物並進行消化的囊狀器官"
+  },
+  "builtin-hanja-intermediate::hanja-632f": {
+    "zh-TW": "使物品前後左右擺動"
+  },
+  "builtin-hanja-intermediate::hanja-755c": {
+    "ja": "人が飼育する動物",
+    "zh-TW": "人所飼育的動物"
+  },
+  "builtin-hanja-intermediate::hanja-65cb": {
+    "ja": "中心のまわりをまわる",
+    "zh-TW": "繞著中心轉動"
+  },
+  "builtin-hanja-intermediate::hanja-731b": {
+    "zh-TW": "氣勢強烈而粗野"
+  },
+  "builtin-hanja-intermediate::hanja-559c": {
+    "ja": "うれしく感じる",
+    "zh-TW": "感到愉悅"
+  },
+  "builtin-hanja-intermediate::hanja-6101": {
+    "zh-TW": "使內心低落的悲傷"
+  },
+  "builtin-hanja-intermediate::hanja-9cf4": {
+    "ja": "鳥や獣が声を出す",
+    "zh-TW": "鳥獸發出叫聲"
+  },
+  "builtin-hanja-intermediate::hanja-8fa8": {
+    "zh-TW": "察明彼此差異"
+  },
+  "builtin-hanja-intermediate::hanja-932f": {
+    "zh-TW": "不同事物混在一起"
+  },
+  "builtin-hanja-intermediate::hanja-9a0e": {
+    "zh-TW": "跨坐於馬背上"
+  },
+  "builtin-hanja-intermediate::hanja-58de": {
+    "zh-TW": "崩毀而失去作用"
+  },
+  "builtin-hanja-advanced::hanja-81e3": {
+    "ja": "君主に仕える役人",
+    "zh-TW": "為君主服務的官員"
+  },
+  "builtin-hanja-advanced::hanja-5200": {
+    "zh-TW": "具有刃部的切割工具"
+  },
+  "builtin-hanja-advanced::hanja-9f13": {
+    "ja": "張った皮を打って音を出す楽器",
+    "zh-TW": "敲擊繃緊皮膜而發聲的樂器"
+  },
+  "builtin-hanja-advanced::hanja-9f8d": {
+    "zh-TW": "傳說中的大型神異動物"
+  },
+  "builtin-hanja-advanced::hanja-6597": {
+    "ja": "穀物などをはかる伝統的な容量単位",
+    "zh-TW": "傳統穀物容量的計量單位"
+  },
+  "builtin-hanja-advanced::hanja-7518": {
+    "ja": "砂糖や蜜のような味",
+    "zh-TW": "像蜂蜜或砂糖的味道"
+  },
+  "builtin-hanja-advanced::hanja-8f9b": {
+    "ja": "舌をひりひり刺激する味",
+    "zh-TW": "刺激舌頭的辣味"
+  },
+  "builtin-hanja-advanced::hanja-65a4": {
+    "ja": "東アジアの伝統的な重さの単位",
+    "zh-TW": "東亞傳統重量的計量單位"
+  },
+  "builtin-hanja-advanced::hanja-9091": {
+    "zh-TW": "居民聚居的地方"
+  },
+  "builtin-hanja-advanced::hanja-9ebb": {
+    "zh-TW": "可供取纖維製布的一類植物"
+  },
+  "builtin-hanja-advanced::hanja-9f4a": {
+    "zh-TW": "彼此一致而沒有參差"
+  },
+  "builtin-hanja-advanced::hanja-5f13": {
+    "zh-TW": "拉弦後可將箭射出的器具"
+  },
+  "builtin-hanja-advanced::hanja-9f9c": {
+    "zh-TW": "背部具有堅硬甲殼的爬行動物"
+  },
+  "builtin-hanja-advanced::hanja-535c": {
+    "zh-TW": "根據徵兆推測吉凶"
+  },
+  "builtin-hanja-advanced::hanja-77e2": {
+    "zh-TW": "用弓射出的尖端長桿"
+  },
+  "builtin-hanja-advanced::hanja-7a74": {
+    "zh-TW": "地面或壁面凹陷的空間"
+  },
+  "builtin-hanja-advanced::hanja-8c9d": {
+    "zh-TW": "身體外有硬殼的軟體動物"
+  },
+  "builtin-hanja-advanced::hanja-7fbd": {
+    "zh-TW": "覆蓋鳥類身體的輕質構造"
+  },
+  "builtin-hanja-advanced::hanja-9149": {
+    "ja": "十二支の10番目"
+  },
+  "builtin-hanja-advanced::hanja-7378": {
+    "zh-TW": "非人類的動物"
+  },
+  "builtin-hanja-advanced::hanja-737b": {
+    "zh-TW": "向長上等奉上物品"
+  },
+  "builtin-hanja-advanced::hanja-7948": {
+    "ja": "神仏に願いをかける",
+    "zh-TW": "向神明表達願求"
+  },
+  "builtin-hanja-advanced::hanja-57ce": {
+    "ja": "敵を防ぐため囲んだ要塞",
+    "zh-TW": "以牆垣等抵禦敵軍的堡壘"
+  },
+  "builtin-hanja-advanced::hanja-4f0f": {
+    "ja": "体を低くして地面にふせる",
+    "zh-TW": "俯身貼近地面"
+  },
+  "builtin-hanja-advanced::hanja-6c5a": {
+    "ja": "きれいでない状態にある"
+  },
+  "builtin-hanja-advanced::hanja-6291": {
+    "zh-TW": "壓低氣勢或約束行動"
+  },
+  "builtin-hanja-advanced::hanja-6012": {
+    "ja": "不快さから腹を立てる"
+  },
+  "builtin-hanja-advanced::hanja-67b6": {
+    "zh-TW": "供懸放物品的支撐框"
+  },
+  "builtin-hanja-advanced::hanja-501f": {
+    "ja": "あとで返す約束で受け取る",
+    "zh-TW": "取得他人物品並約定日後歸還"
+  },
+  "builtin-hanja-advanced::hanja-9676": {
+    "ja": "粘土などを焼いて作る器",
+    "zh-TW": "以黏土燒成的容器"
+  },
+  "builtin-hanja-advanced::hanja-6e34": {
+    "zh-TW": "喉嚨乾而想喝飲料"
+  },
+  "builtin-hanja-advanced::hanja-786c": {
+    "zh-TW": "施力後不易變形"
+  },
+  "builtin-hanja-advanced::hanja-9047": {
+    "zh-TW": "偶然碰到"
+  },
+  "builtin-hanja-advanced::hanja-5893": {
+    "zh-TW": "安置死者的地方"
+  },
+  "builtin-hanja-advanced::hanja-8f09": {
+    "ja": "車などの上にのせる",
+    "zh-TW": "把東西放到車輛等上面"
+  },
+  "builtin-hanja-advanced::hanja-8c6a": {
+    "ja": "力や才能のすぐれた人物",
+    "zh-TW": "力量或才能出眾的人物"
+  },
+  "builtin-hanja-advanced::hanja-8cd3": {
+    "zh-TW": "受邀而來的訪客"
+  },
+  "builtin-hanja-advanced::hanja-9285": {
+    "ja": "赤みを帯びた導電性の金属元素",
+    "zh-TW": "帶紅色且可導電的金屬元素"
+  },
+  "builtin-hanja-advanced::hanja-61a4": {
+    "zh-TW": "因不平而發怒"
+  },
+  "builtin-hanja-advanced::hanja-6f6e": {
+    "zh-TW": "海水受引力影響而週期性漲落"
+  },
+  "builtin-hanja-advanced::hanja-52f5": {
+    "zh-TW": "盡力去做"
+  },
+  "builtin-hanja-advanced::hanja-9a45": {
+    "zh-TW": "促使向前移動"
+  },
+  "builtin-hanja-advanced::hanja-51f6": {
+    "zh-TW": "有不良事件發生的徵兆"
+  },
+  "builtin-hanja-advanced::hanja-56da": {
+    "zh-TW": "拘捕並關押他人"
+  },
+  "builtin-hanja-advanced::hanja-6790": {
+    "zh-TW": "把整體剖開成幾部分"
+  },
+  "builtin-hanja-advanced::hanja-90ca": {
+    "zh-TW": "城市中心以外的周邊"
+  },
+  "builtin-hanja-advanced::hanja-75ab": {
+    "ja": "広い範囲に伝染する病気",
+    "zh-TW": "在廣泛範圍傳播的疾病"
+  },
+  "builtin-hanja-advanced::hanja-8a02": {
+    "zh-TW": "修正錯誤"
+  },
+  "builtin-hanja-advanced::hanja-5012": {
+    "ja": "立っていたものが横になる",
+    "zh-TW": "原先直立的物體傾覆"
+  },
+  "builtin-hanja-advanced::hanja-6094": {
+    "ja": "したことを悪かったと振り返る",
+    "zh-TW": "回想過錯而懊惱"
+  },
+  "builtin-hanja-advanced::hanja-8870": {
+    "ja": "力や勢いが弱くなる",
+    "zh-TW": "力量或氣勢變弱"
+  },
+  "builtin-hanja-advanced::hanja-6885": {
+    "ja": "早春に花が咲き酸味のある実がなる木",
+    "zh-TW": "早春開花且果實帶酸味的樹"
+  },
+  "builtin-hanja-advanced::hanja-83ca": {
+    "ja": "秋の花として親しまれるキク科植物",
+    "zh-TW": "常作秋季代表花卉的植物"
+  },
+  "builtin-hanja-advanced::hanja-758f": {
+    "zh-TW": "打開阻塞使得以穿過"
+  },
+  "builtin-hanja-advanced::hanja-6158": {
+    "zh-TW": "極其悲痛且悽惻"
+  },
+  "builtin-hanja-advanced::hanja-69ae": {
+    "zh-TW": "有名望而光輝"
+  },
+  "builtin-hanja-advanced::hanja-9189": {
+    "zh-TW": "因酒精而失去平常判斷"
+  },
+  "builtin-hanja-advanced::hanja-5112": {
+    "ja": "孔子の教えを学ぶ人",
+    "zh-TW": "研究孔子學說的讀書人"
+  },
+  "builtin-hanja-advanced::hanja-596e": {
+    "ja": "気力を高めて立ち上がる",
+    "zh-TW": "振作精神而行動"
+  },
+  "builtin-hanja-advanced::hanja-7cd6": {
+    "ja": "穀物のでんぷんなどから作る甘いシロップ",
+    "zh-TW": "以穀物澱粉等製成的甜漿"
+  },
+  "builtin-hanja-advanced::hanja-7ce7": {
+    "ja": "食べるため蓄えた物資",
+    "zh-TW": "為食用而儲備的物資"
+  },
+  "builtin-hanja-advanced::hanja-52f8": {
+    "zh-TW": "鼓舞對方去做"
+  },
+  "builtin-hanja-advanced::hanja-7210": {
+    "zh-TW": "置火以供取暖的器具"
+  },
+  "builtin-hanja-advanced::hanja-6b04": {
+    "ja": "転落を防ぐための柵",
+    "zh-TW": "防止墜落的柵架"
+  },
+  "builtin-hanja-advanced::hanja-5982": {
+    "zh-TW": "與另一對象相仿"
+  },
+  "builtin-hanja-advanced::hanja-6607": {
+    "ja": "太陽が地平線の上に出る"
+  },
+  "builtin-hanja-advanced::hanja-8ce2": {
+    "ja": "知恵や徳がすぐれている",
+    "zh-TW": "智慧與品德優良"
+  },
+  "builtin-hanja-advanced::hanja-6c60": {
+    "zh-TW": "積水的較小型窪地"
+  },
+  "builtin-hanja-advanced::hanja-4f55": {
+    "zh-TW": "詢問方式或程度"
+  },
+  "builtin-hanja-advanced::hanja-5f81": {
+    "zh-TW": "朝對方進攻"
+  },
+  "builtin-hanja-advanced::hanja-59ff": {
+    "zh-TW": "從外面看到的模樣"
+  },
+  "builtin-hanja-advanced::hanja-6d89": {
+    "zh-TW": "穿越水域到另一邊"
+  },
+  "builtin-hanja-advanced::hanja-659c": {
+    "ja": "垂直でも水平でもなくかたむく",
+    "zh-TW": "非垂直亦非水平的傾向"
+  },
+  "builtin-hanja-advanced::hanja-8cab": {
+    "ja": "一方から他方まで突き通す",
+    "zh-TW": "從這端穿到另一端"
+  },
+  "builtin-hanja-advanced::hanja-66ff": {
+    "ja": "それまでのものを別のものに換える"
+  },
+  "builtin-hanja-advanced::hanja-6bbf": {
+    "ja": "君主などが住む大きな建物",
+    "zh-TW": "君主等居住的大型建築"
+  },
+  "builtin-hanja-advanced::hanja-8cca": {
+    "ja": "他人のものをひそかに取る人",
+    "zh-TW": "暗取他人財物者"
+  },
+  "builtin-hanja-advanced::hanja-8de1": {
+    "zh-TW": "經過或活動後留下的痕印"
+  },
+  "builtin-hanja-advanced::hanja-7dbf": {
+    "zh-TW": "長久接續而不斷"
+  },
+  "builtin-hanja-advanced::hanja-58c7": {
+    "ja": "儀礼のため高くしつらえた場所",
+    "zh-TW": "為儀式而墊高的場地"
+  },
+  "builtin-hanja-advanced::hanja-61f2": {
+    "ja": "悪い行いに制裁を受ける",
+    "zh-TW": "因過錯而受罰"
+  },
+  "builtin-hanja-advanced::hanja-651d": {
+    "zh-TW": "收集並牢牢掌握"
+  },
+  "builtin-hanja-advanced::hanja-9a5a": {
+    "ja": "予想外のことに心が動く",
+    "zh-TW": "遇到意外而詫異"
+  },
+  "builtin-hanja-advanced::hanja-51e1": {
+    "zh-TW": "沒有例外的全部"
+  },
+  "builtin-hanja-advanced::hanja-4f3c": {
+    "zh-TW": "性質或外觀相近"
+  },
+  "builtin-hanja-advanced::hanja-5999": {
+    "zh-TW": "細緻而難以言明"
+  },
+  "builtin-hanja-advanced::hanja-5fcc": {
+    "ja": "好ましくないとして避ける",
+    "zh-TW": "因不喜而避開"
+  },
+  "builtin-hanja-advanced::hanja-4fae": {
+    "ja": "相手を低く見てばかにする",
+    "zh-TW": "輕視並嘲弄對方"
+  },
+  "builtin-hanja-advanced::hanja-524a": {
+    "ja": "表面を薄くそぎ取る",
+    "zh-TW": "把表面薄薄刮去"
+  },
+  "builtin-hanja-advanced::hanja-517c": {
+    "ja": "二つ以上を一緒に持つ",
+    "zh-TW": "同時具備兩者以上"
+  },
+  "builtin-hanja-advanced::hanja-6355": {
+    "ja": "逃げるものをとらえる",
+    "zh-TW": "捉住逃離的對象"
+  },
+  "builtin-hanja-advanced::hanja-70c8": {
+    "zh-TW": "氣勢十分強勁"
+  },
+  "builtin-hanja-advanced::hanja-900f": {
+    "zh-TW": "穿越其中而過"
+  },
+  "builtin-hanja-advanced::hanja-5805": {
+    "zh-TW": "牢固而強韌"
+  },
+  "builtin-hanja-advanced::hanja-667a": {
+    "zh-TW": "理解與判斷事物的聰明才識"
+  },
+  "builtin-hanja-advanced::hanja-66fe": {
+    "zh-TW": "過去有過一次經驗"
+  },
+  "builtin-hanja-advanced::hanja-88c2": {
+    "zh-TW": "以拉力使分開"
+  },
+  "builtin-hanja-advanced::hanja-88d5": {
+    "zh-TW": "充足且有餘"
+  },
+  "builtin-hanja-advanced::hanja-585e": {
+    "zh-TW": "受阻而無法穿過"
+  },
+  "builtin-hanja-advanced::hanja-5ec9": {
+    "ja": "私利に惑わされず潔白である",
+    "zh-TW": "不受私利誘惑而清白"
+  },
+  "builtin-hanja-advanced::hanja-8499": {
+    "zh-TW": "由對方給予而承受"
+  },
+  "builtin-hanja-advanced::hanja-96f7": {
+    "zh-TW": "天空放電時的巨響"
+  },
+  "builtin-hanja-advanced::hanja-6cbf": {
+    "ja": "川の流れに従って進む"
+  },
+  "builtin-hanja-advanced::hanja-7687": {
+    "zh-TW": "統治國家的最高君主"
+  },
+  "builtin-hanja-advanced::hanja-6842": {
+    "ja": "樹皮を香辛料にするニッケイ類の木",
+    "zh-TW": "樹皮可作香料的一類植物"
+  },
+  "builtin-hanja-advanced::hanja-4e5e": {
+    "ja": "相手に恵んでほしいと頼む",
+    "zh-TW": "請求對方施捨"
+  },
+  "builtin-hanja-advanced::hanja-4e92": {
+    "ja": "一方だけでなく両方から",
+    "zh-TW": "不是單方面而是彼此"
+  },
+  "builtin-hanja-advanced::hanja-5de7": {
+    "ja": "やり方がじょうずである",
+    "zh-TW": "做法熟練精妙"
+  },
+  "builtin-hanja-advanced::hanja-4ef0": {
+    "ja": "顔を上げて見る",
+    "zh-TW": "抬頭往高處看"
+  },
+  "builtin-hanja-advanced::hanja-62b5": {
+    "zh-TW": "施力推壓"
+  },
+  "builtin-hanja-advanced::hanja-67d4": {
+    "ja": "かたくなく曲がりやすい",
+    "zh-TW": "不硬且容易彎曲"
+  },
+  "builtin-hanja-advanced::hanja-5009": {
+    "ja": "品物をしまっておく建物",
+    "zh-TW": "存放物品的建築"
+  },
+  "builtin-hanja-advanced::hanja-5bb4": {
+    "ja": "飲食をともにする集まりを開く",
+    "zh-TW": "舉行共同飲食的聚會"
+  },
+  "builtin-hanja-advanced::hanja-8015": {
+    "ja": "作物を育てるため土を掘り返す",
+    "zh-TW": "為種植而翻動泥土"
+  },
+  "builtin-hanja-advanced::hanja-7b26": {
+    "ja": "照合して確かめるための割り札",
+    "zh-TW": "分持以核對的憑信"
+  },
+  "builtin-hanja-advanced::hanja-8caa": {
+    "zh-TW": "想取得超過所需之物"
+  },
+  "builtin-hanja-advanced::hanja-7a00": {
+    "zh-TW": "數量或機會極少"
+  },
+  "builtin-hanja-advanced::hanja-7d2b": {
+    "ja": "赤と青の中間の色",
+    "zh-TW": "紅與藍之間的顏色"
+  },
+  "builtin-hanja-advanced::hanja-6155": {
+    "ja": "会いたいと心を寄せる",
+    "zh-TW": "因思念而嚮往相見"
+  },
+  "builtin-hanja-advanced::hanja-6458": {
+    "ja": "指先などでつみ取る",
+    "zh-TW": "以指尖等採取"
+  },
+  "builtin-hanja-advanced::hanja-6f0f": {
+    "ja": "すきまから外へ出る",
+    "zh-TW": "經由空隙向外流出"
+  },
+  "builtin-hanja-advanced::hanja-51dd": {
+    "ja": "液体などが固まる",
+    "zh-TW": "液體等變成固體"
+  },
+  "builtin-hanja-advanced::hanja-6232": {
+    "zh-TW": "為娛樂而玩耍"
+  },
+  "builtin-hanja-advanced::hanja-7e41": {
+    "zh-TW": "數量眾多而旺盛"
+  },
+  "builtin-hanja-advanced::hanja-8986": {
+    "zh-TW": "使上下顛倒"
+  },
+  "builtin-hanja-advanced::hanja-8e8d": {
+    "zh-TW": "有力地跳起"
+  },
+  "builtin-hanja-advanced::hanja-80ba": {
+    "zh-TW": "呼吸時進行氣體交換的器官"
+  },
+  "builtin-hanja-advanced::hanja-6eaa": {
+    "zh-TW": "小型水流"
+  },
+  "builtin-hanja-advanced::hanja-5146": {
+    "ja": "将来のことを示す前ぶれ",
+    "zh-TW": "預示未來事件的徵候"
+  },
+  "builtin-hanja-advanced::hanja-52a3": {
+    "ja": "ほかよりも及ばない",
+    "zh-TW": "不如其他者"
+  },
+  "builtin-hanja-advanced::hanja-5410": {
+    "ja": "口の中から外へ出す",
+    "zh-TW": "從口內排到外面"
+  },
+  "builtin-hanja-advanced::hanja-514b": {
+    "zh-TW": "戰勝困難或對方"
+  },
+  "builtin-hanja-advanced::hanja-59a8": {
+    "ja": "進行をさまたげる",
+    "zh-TW": "阻礙原有進程"
+  },
+  "builtin-hanja-advanced::hanja-62d9": {
+    "ja": "やり方がじょうずでない",
+    "zh-TW": "做法不熟練"
+  },
+  "builtin-hanja-advanced::hanja-609f": {
+    "ja": "はっきり理解する",
+    "zh-TW": "充分明白"
+  },
+  "builtin-hanja-advanced::hanja-8a1f": {
+    "ja": "争いの判断を裁判に求める",
+    "zh-TW": "請求司法裁判爭議"
+  },
+  "builtin-hanja-advanced::hanja-9038": {
+    "zh-TW": "逃離束縛或追逐"
+  },
+  "builtin-hanja-advanced::hanja-798d": {
+    "zh-TW": "嚴重不幸與損害"
+  },
+  "builtin-hanja-advanced::hanja-904d": {
+    "zh-TW": "各處都有分布"
+  },
+  "builtin-hanja-advanced::hanja-8c4a": {
+    "ja": "穀物がよく実る"
+  },
+  "builtin-hanja-advanced::hanja-7de9": {
+    "ja": "張りつめたものをゆるめる",
+    "zh-TW": "使緊張者鬆開"
+  },
+  "builtin-hanja-advanced::hanja-7def": {
+    "zh-TW": "織布時橫向穿入的絲"
+  },
+  "builtin-hanja-advanced::hanja-8ce4": {
+    "zh-TW": "身分或價值低下"
+  },
+  "builtin-hanja-advanced::hanja-92fc": {
+    "zh-TW": "含碳等成分的鐵合金"
+  },
+  "builtin-hanja-advanced::hanja-61f8": {
+    "zh-TW": "由高處吊掛"
+  },
+  "builtin-hanja-advanced::hanja-611a": {
+    "ja": "考えが足りず賢くない",
+    "zh-TW": "思慮不足而不聰明"
+  },
+  "builtin-hanja-advanced::hanja-5dba": {
+    "zh-TW": "翻越山脈道路的高處"
+  },
+  "builtin-hanja-advanced::hanja-986f": {
+    "zh-TW": "使原先隱藏者可見"
+  },
+  "builtin-hanja-advanced::hanja-5782": {
+    "ja": "上から下へたれる",
+    "zh-TW": "從高處往低處懸落"
+  },
+  "builtin-hanja-advanced::hanja-660f": {
+    "zh-TW": "光線不足而不易看清"
+  },
+  "builtin-hanja-advanced::hanja-539a": {
+    "ja": "表裏の隔たりが大きい",
+    "zh-TW": "表裡距離較大"
+  },
+  "builtin-hanja-advanced::hanja-73cd": {
+    "zh-TW": "少見而有價值之物"
+  },
+  "builtin-hanja-advanced::hanja-500d": {
+    "ja": "ある数を何回か重ねた大きさ",
+    "zh-TW": "某數重複若干次的量"
+  },
+  "builtin-hanja-advanced::hanja-5510": {
+    "ja": "618年から907年までの中国の王朝",
+    "zh-TW": "中國歷史上618至907年的王朝"
+  },
+  "builtin-hanja-advanced::hanja-6843": {
+    "ja": "果肉の甘い実がなるバラ科の木",
+    "zh-TW": "結肉質甜果的薔薇科樹木"
+  },
+  "builtin-hanja-advanced::hanja-6b89": {
+    "zh-TW": "為死者犧牲性命"
+  },
+  "builtin-hanja-advanced::hanja-9677": {
+    "zh-TW": "落進凹處等地方"
+  },
+  "builtin-hanja-advanced::hanja-5049": {
+    "zh-TW": "超出常人而卓越"
+  },
+  "builtin-hanja-advanced::hanja-920d": {
+    "ja": "刃先が鋭くなく切れにくい",
+    "zh-TW": "刃端不銳而不易切割"
+  },
+  "builtin-hanja-advanced::hanja-871c": {
+    "zh-TW": "蜂採花液而製成的甜質"
+  },
+  "builtin-hanja-advanced::hanja-8a93": {
+    "ja": "必ず守ると固く約束する",
+    "zh-TW": "鄭重承諾必定遵守"
+  },
+  "builtin-hanja-advanced::hanja-58a8": {
+    "zh-TW": "書畫所需的黑色顏料"
+  },
+  "builtin-hanja-advanced::hanja-6a13": {
+    "zh-TW": "建築物的上層"
+  },
+  "builtin-hanja-advanced::hanja-6f64": {
+    "ja": "水分を含んでしっとりする",
+    "zh-TW": "含水而滋澤"
+  },
+  "builtin-hanja-advanced::hanja-8e0f": {
+    "ja": "足で地面などをふむ",
+    "zh-TW": "以腳踩壓地面等"
+  },
+  "builtin-hanja-advanced::hanja-7372": {
+    "zh-TW": "取得所求之物"
+  },
+  "builtin-hanja-advanced::hanja-8b5c": {
+    "ja": "血筋や世代のつながりを記したもの",
+    "zh-TW": "記下血統與世代聯繫的資料"
+  },
+  "builtin-hanja-advanced::hanja-5bfa": {
+    "ja": "仏をまつる宗教施設",
+    "zh-TW": "奉祀佛的宗教設施"
+  },
+  "builtin-hanja-advanced::hanja-5dde": {
+    "zh-TW": "劃分地域的行政區"
+  },
+  "builtin-hanja-advanced::hanja-4eac": {
+    "zh-TW": "中央政府所在地的主要城市"
+  },
+  "builtin-hanja-advanced::hanja-864e": {
+    "zh-TW": "身有條紋的大型貓科動物"
+  },
+  "builtin-hanja-advanced::hanja-5e1d": {
+    "zh-TW": "統治國家的最高君主"
+  },
+  "builtin-hanja-advanced::hanja-654f": {
+    "ja": "反応や動作がすばやい",
+    "zh-TW": "反應或動作迅速"
+  },
+  "builtin-hanja-advanced::hanja-727d": {
+    "zh-TW": "拉往自身一方"
+  },
+  "builtin-hanja-advanced::hanja-7d2f": {
+    "zh-TW": "逐次堆疊"
+  },
+  "builtin-hanja-advanced::hanja-980c": {
+    "zh-TW": "稱許優良之處"
+  },
+  "builtin-hanja-advanced::hanja-5109": {
+    "zh-TW": "避免多餘花費"
+  },
+  "builtin-hanja-advanced::hanja-4e38": {
+    "ja": "小さく球形に固めたもの",
+    "zh-TW": "小型球狀物"
+  },
+  "builtin-hanja-advanced::hanja-4ec1": {
+    "zh-TW": "對他人關懷慈愛"
+  },
+  "builtin-hanja-advanced::hanja-53ec": {
+    "zh-TW": "命令對方前來"
+  },
+  "builtin-hanja-advanced::hanja-5c16": {
+    "ja": "先が鋭くとがっている",
+    "zh-TW": "末端銳而細"
+  },
+  "builtin-hanja-advanced::hanja-5ef7": {
+    "ja": "君主が政務や儀礼を行う場所",
+    "zh-TW": "君主處理政務或儀式的場地"
+  },
+  "builtin-hanja-advanced::hanja-6c57": {
+    "zh-TW": "炎熱等狀況下皮膚排出的液體"
+  },
+  "builtin-hanja-advanced::hanja-6276": {
+    "zh-TW": "以手相助而支撐"
+  },
+  "builtin-hanja-advanced::hanja-674e": {
+    "zh-TW": "梅類的一種果樹及果實"
+  },
+  "builtin-hanja-advanced::hanja-62b1": {
+    "zh-TW": "以雙臂環攏持住"
+  },
+  "builtin-hanja-advanced::hanja-679d": {
+    "zh-TW": "從樹幹分出延伸的部分"
+  },
+  "builtin-hanja-advanced::hanja-4ead": {
+    "zh-TW": "供休憩等的有頂柱建築"
+  },
+  "builtin-hanja-advanced::hanja-52c9": {
+    "zh-TW": "盡力去做"
+  },
+  "builtin-hanja-advanced::hanja-59fb": {
+    "ja": "結婚による関係",
+    "zh-TW": "因結婚形成的關係"
+  },
+  "builtin-hanja-advanced::hanja-6028": {
+    "zh-TW": "長久懷著對他人的不滿"
+  },
+  "builtin-hanja-advanced::hanja-754f": {
+    "zh-TW": "因威嚴等而害怕"
+  },
+  "builtin-hanja-advanced::hanja-8352": {
+    "ja": "きめが細かくなく整っていない",
+    "zh-TW": "粗糙而不整齊"
+  },
+  "builtin-hanja-advanced::hanja-90e1": {
+    "zh-TW": "地方行政區的一種"
+  },
+  "builtin-hanja-advanced::hanja-9010": {
+    "zh-TW": "沿著對方所往趕去"
+  },
+  "builtin-hanja-advanced::hanja-9675": {
+    "ja": "王などを葬った墓",
+    "zh-TW": "安葬君王等的墳墓"
+  },
+  "builtin-hanja-advanced::hanja-639b": {
+    "ja": "上からつるしたりかけたりする",
+    "zh-TW": "從高處懸吊"
+  },
+  "builtin-hanja-advanced::hanja-5091": {
+    "ja": "才や力がすぐれた人物",
+    "zh-TW": "才能或力量出眾的人物"
+  },
+  "builtin-hanja-advanced::hanja-7434": {
+    "zh-TW": "張弦以手指撥奏的東亞樂器"
+  },
+  "builtin-hanja-advanced::hanja-7d72": {
+    "zh-TW": "細長且相連的纖維狀物"
+  },
+  "builtin-hanja-advanced::hanja-6416": {
+    "zh-TW": "使前後左右擺動"
+  },
+  "builtin-hanja-advanced::hanja-7766": {
+    "zh-TW": "彼此親善相處"
+  },
+  "builtin-hanja-advanced::hanja-9130": {
+    "zh-TW": "居於緊靠處的人家"
+  },
+  "builtin-hanja-advanced::hanja-92b3": {
+    "zh-TW": "刃或末端容易切割"
+  },
+  "builtin-hanja-advanced::hanja-7235": {
+    "zh-TW": "表示貴族身分的等級"
+  },
+  "builtin-hanja-advanced::hanja-77ef": {
+    "zh-TW": "修正過錯或彎曲"
+  },
+  "builtin-hanja-advanced::hanja-9e97": {
+    "zh-TW": "外觀令人賞心悅目"
+  },
+  "builtin-hanja-advanced::hanja-5974": {
+    "zh-TW": "受制於他人而工作的僕役"
+  },
+  "builtin-hanja-advanced::hanja-62bc": {
+    "ja": "文書に自分のしるしを記す",
+    "zh-TW": "於文件留下自身的署記"
+  },
+  "builtin-hanja-advanced::hanja-73e0": {
+    "zh-TW": "貝類體內形成的圓形寶石"
+  },
+  "builtin-hanja-advanced::hanja-9326": {
+    "ja": "色糸で模様を織り出した絹織物",
+    "zh-TW": "以彩絲交織紋樣的絲質布料"
+  },
+  "builtin-hanja-advanced::hanja-540f": {
+    "zh-TW": "辦理公務的官員"
+  },
+  "builtin-hanja-advanced::hanja-90aa": {
+    "zh-TW": "背離道理而不善"
+  },
+  "builtin-hanja-advanced::hanja-4f38": {
+    "ja": "曲げたものをまっすぐにする",
+    "zh-TW": "把彎曲者拉直"
+  },
+  "builtin-hanja-advanced::hanja-82b3": {
+    "zh-TW": "氣味宜人"
+  },
+  "builtin-hanja-advanced::hanja-82bd": {
+    "zh-TW": "植物新長出的嫩部"
+  },
+  "builtin-hanja-advanced::hanja-5954": {
+    "zh-TW": "快速而有力地跑"
+  },
+  "builtin-hanja-advanced::hanja-5ffd": {
+    "zh-TW": "不加注意而疏略"
+  },
+  "builtin-hanja-advanced::hanja-53db": {
+    "zh-TW": "背離原先服從的對象"
+  },
+  "builtin-hanja-advanced::hanja-67af": {
+    "zh-TW": "植物失去水分而凋萎"
+  },
+  "builtin-hanja-advanced::hanja-54ed": {
+    "zh-TW": "發聲悲泣"
+  },
+  "builtin-hanja-advanced::hanja-5f91": {
+    "zh-TW": "可較快達目的地的道路"
+  },
+  "builtin-hanja-advanced::hanja-606d": {
+    "zh-TW": "敬重對方而謙謹"
+  },
+  "builtin-hanja-advanced::hanja-6d78": {
+    "ja": "液体の中につける",
+    "zh-TW": "置於液體之中"
+  },
+  "builtin-hanja-advanced::hanja-7965": {
+    "zh-TW": "有好事發生的徵兆"
+  },
+  "builtin-hanja-advanced::hanja-838a": {
+    "zh-TW": "嚴肅而穩重的樣子"
+  },
+  "builtin-hanja-advanced::hanja-9022": {
+    "zh-TW": "碰到人或事"
+  },
+  "builtin-hanja-advanced::hanja-98e2": {
+    "ja": "食べ物が足りず腹がすく",
+    "zh-TW": "食物不足而腹空"
+  },
+  "builtin-hanja-advanced::hanja-57f9": {
+    "zh-TW": "照料以促進成長"
+  },
+  "builtin-hanja-advanced::hanja-60dc": {
+    "ja": "大切に思い失いたくない",
+    "zh-TW": "珍視而不願失去"
+  },
+  "builtin-hanja-advanced::hanja-6562": {
+    "zh-TW": "明知風險仍去做"
+  },
+  "builtin-hanja-advanced::hanja-50b2": {
+    "zh-TW": "輕視並看不起對方"
+  },
+  "builtin-hanja-advanced::hanja-5824": {
+    "ja": "水をせき止める土手",
+    "zh-TW": "阻攔流水的土壩"
+  },
+  "builtin-hanja-advanced::hanja-5fa1": {
+    "zh-TW": "統率人或物的活動"
+  },
+  "builtin-hanja-advanced::hanja-5faa": {
+    "zh-TW": "依照既有者而進行"
+  },
+  "builtin-hanja-advanced::hanja-60f1": {
+    "zh-TW": "因煩憂而難受"
+  },
+  "builtin-hanja-advanced::hanja-6168": {
+    "zh-TW": "感到不平而憤怒"
+  },
+  "builtin-hanja-advanced::hanja-7169": {
+    "zh-TW": "因憂心而不安"
+  },
+  "builtin-hanja-advanced::hanja-84b8": {
+    "ja": "水などを熱して気体を立てる",
+    "zh-TW": "加熱液體而使氣體上升"
+  },
+  "builtin-hanja-advanced::hanja-8702": {
+    "zh-TW": "包括採蜜種類在內的昆蟲"
+  },
+  "builtin-hanja-advanced::hanja-78a7": {
+    "zh-TW": "藍與綠之間的顏色"
+  },
+  "builtin-hanja-advanced::hanja-9075": {
+    "zh-TW": "依循既有道路或規則"
+  },
+  "builtin-hanja-advanced::hanja-61c7": {
+    "zh-TW": "用心而真誠的態度"
+  },
+  "builtin-hanja-advanced::hanja-8b39": {
+    "zh-TW": "留心避免過錯"
+  },
+  "builtin-hanja-advanced::hanja-9db4": {
+    "zh-TW": "頸部與雙腿細長的大型鳥"
+  },
+  "builtin-hanja-advanced::hanja-4e95": {
+    "ja": "地下水をくみ上げるため掘る穴",
+    "zh-TW": "挖掘以汲取地下水的洞"
+  },
+  "builtin-hanja-advanced::hanja-4f8d": {
+    "zh-TW": "隨側服勤照料"
+  },
+  "builtin-hanja-advanced::hanja-971c": {
+    "zh-TW": "低溫時凝附地表等的冰晶"
+  },
+  "builtin-hanja-advanced::hanja-5384": {
+    "zh-TW": "嚴重災禍或困難"
+  },
+  "builtin-hanja-advanced::hanja-5c6f": {
+    "ja": "軍隊などが集まってとどまる"
+  },
+  "builtin-hanja-advanced::hanja-53eb": {
+    "zh-TW": "大聲呼喊"
+  },
+  "builtin-hanja-advanced::hanja-4ea8": {
+    "zh-TW": "事業順利興旺"
+  },
+  "builtin-hanja-advanced::hanja-541f": {
+    "zh-TW": "帶節奏地讀出詩文"
+  },
+  "builtin-hanja-advanced::hanja-6284": {
+    "zh-TW": "另行記錄原有文字內容"
+  },
+  "builtin-hanja-advanced::hanja-660c": {
+    "zh-TW": "氣勢盛而興旺"
+  },
+  "builtin-hanja-advanced::hanja-82d7": {
+    "zh-TW": "預備移植的幼小植物"
+  },
+  "builtin-hanja-advanced::hanja-67d0": {
+    "ja": "特定しないあるものを指す",
+    "zh-TW": "未確切說明的對象"
+  },
+  "builtin-hanja-advanced::hanja-6d2a": {
+    "zh-TW": "大量水流淹蓋廣泛區域"
+  },
+  "builtin-hanja-advanced::hanja-6d32": {
+    "zh-TW": "被水包圍的陸塊"
+  },
+  "builtin-hanja-advanced::hanja-832b": {
+    "zh-TW": "廣闊而遙遠"
+  },
+  "builtin-hanja-advanced::hanja-70cf": {
+    "zh-TW": "以黑羽聞名的一類鳥"
+  },
+  "builtin-hanja-advanced::hanja-8ca2": {
+    "zh-TW": "向統治者奉上物品"
+  },
+  "builtin-hanja-advanced::hanja-6368": {
+    "ja": "不要だとして手放す",
+    "zh-TW": "因不需而丟開"
+  },
+  "builtin-hanja-advanced::hanja-9803": {
+    "zh-TW": "傳統的土地面積計量單位"
+  },
+  "builtin-hanja-advanced::hanja-84bc": {
+    "zh-TW": "藍與綠之間的顏色"
+  },
+  "builtin-hanja-advanced::hanja-84ee": {
+    "zh-TW": "水邊荷花所結的籽實"
+  },
+  "builtin-hanja-advanced::hanja-66ae": {
+    "ja": "日が沈み暗くなり始めるころ"
+  },
+  "builtin-hanja-advanced::hanja-8aa6": {
+    "zh-TW": "帶節奏地讀出文章"
+  },
+  "builtin-hanja-advanced::hanja-58b3": {
+    "zh-TW": "安置死者的墓塚"
+  },
+  "builtin-hanja-advanced::hanja-9913": {
+    "zh-TW": "食物不足而腹空"
+  },
+  "builtin-hanja-advanced::hanja-6fc1": {
+    "ja": "にごって澄んでいない",
+    "zh-TW": "不清澈而混雜"
+  },
+  "builtin-hanja-advanced::hanja-78e8": {
+    "ja": "こすってなめらかにする",
+    "zh-TW": "摩擦使平滑"
+  },
+  "builtin-hanja-advanced::hanja-7be4": {
+    "zh-TW": "誠意深厚而踏實"
+  },
+  "builtin-hanja-advanced::hanja-87a2": {
+    "zh-TW": "能在暗處發光的昆蟲"
+  },
+  "builtin-hanja-advanced::hanja-6feb": {
+    "zh-TW": "向廣泛區域擴展"
+  },
+  "builtin-hanja-advanced::hanja-71ed": {
+    "zh-TW": "蠟等燃燒所發的光"
+  },
+  "builtin-hanja-advanced::hanja-8b19": {
+    "zh-TW": "自居卑下而退讓他人"
+  },
+  "builtin-hanja-advanced::hanja-9444": {
+    "zh-TW": "把熔融金屬注入模具成形"
+  },
+  "builtin-hanja-advanced::hanja-8607": {
+    "zh-TW": "葉可作香料的紫色草本植物"
+  },
+  "builtin-hanja-advanced::hanja-862d": {
+    "ja": "観賞用の花をつけるラン科植物",
+    "zh-TW": "花朵可供觀賞的一類植物"
+  },
+  "builtin-hanja-advanced::hanja-65a5": {
+    "zh-TW": "將不受歡迎者推拒開"
+  },
+  "builtin-hanja-advanced::hanja-6258": {
+    "zh-TW": "從低處施力推舉"
+  },
+  "builtin-hanja-advanced::hanja-5439": {
+    "ja": "息や風を送る",
+    "zh-TW": "送出氣息或風"
+  },
+  "builtin-hanja-advanced::hanja-59be": {
+    "zh-TW": "正妻以外具有配偶關係的女性"
+  },
+  "builtin-hanja-advanced::hanja-62fe": {
+    "ja": "落ちているものを手に取る",
+    "zh-TW": "把掉落之物拿起"
+  },
+  "builtin-hanja-advanced::hanja-67f3": {
+    "ja": "細長い葉としなやかな枝のある木",
+    "zh-TW": "具細長葉片與柔韌枝條的樹"
+  },
+  "builtin-hanja-advanced::hanja-6b83": {
+    "zh-TW": "嚴重不幸與損害"
+  },
+  "builtin-hanja-advanced::hanja-6085": {
+    "zh-TW": "感到喜樂"
+  },
+  "builtin-hanja-advanced::hanja-6851": {
+    "ja": "葉をカイコのえさにする木",
+    "zh-TW": "葉可供蠶食用的樹"
+  },
+  "builtin-hanja-advanced::hanja-79df": {
+    "zh-TW": "繳給國家等的金錢或穀物"
+  },
+  "builtin-hanja-advanced::hanja-5d29": {
+    "ja": "まとまりを失ってくずれる",
+    "zh-TW": "原有結構瓦解"
+  },
+  "builtin-hanja-advanced::hanja-60a0": {
+    "zh-TW": "距離大而遙遠"
+  },
+  "builtin-hanja-advanced::hanja-63a0": {
+    "zh-TW": "強取他人之物"
+  },
+  "builtin-hanja-advanced::hanja-6881": {
+    "ja": "建物の柱をつなぎ屋根などを支える横木"
+  },
+  "builtin-hanja-advanced::hanja-6dda": {
+    "zh-TW": "眼睛流出的液體"
+  },
+  "builtin-hanja-advanced::hanja-584a": {
+    "ja": "土などが一つに固まったもの",
+    "zh-TW": "泥土等凝成的一團"
+  },
+  "builtin-hanja-advanced::hanja-6127": {
+    "zh-TW": "對自身行為感到羞慚"
+  },
+  "builtin-hanja-advanced::hanja-797f": {
+    "zh-TW": "受恩惠而有好境遇"
+  },
+  "builtin-hanja-advanced::hanja-79bd": {
+    "zh-TW": "有喙且覆羽的動物類群"
+  },
+  "builtin-hanja-advanced::hanja-958f": {
+    "zh-TW": "為校正曆法差異而額外增設的月份"
+  },
+  "builtin-hanja-advanced::hanja-96c5": {
+    "zh-TW": "精緻而有風韻"
+  },
+  "builtin-hanja-advanced::hanja-50c5": {
+    "zh-TW": "勉強達到且只有少許"
+  },
+  "builtin-hanja-advanced::hanja-694a": {
+    "zh-TW": "結柔軟花穗的一類樹"
+  },
+  "builtin-hanja-advanced::hanja-7d79": {
+    "ja": "カイコの糸から作る繊維や織物",
+    "zh-TW": "由蠶絲製成的纖維或織物"
+  },
+  "builtin-hanja-advanced::hanja-8df3": {
+    "ja": "地面をけって空中へ上がる"
+  },
+  "builtin-hanja-advanced::hanja-5bec": {
+    "zh-TW": "待人包容而不苛責"
+  },
+  "builtin-hanja-advanced::hanja-853d": {
+    "zh-TW": "遮蓋使外面看不見"
+  },
+  "builtin-hanja-advanced::hanja-9cf3": {
+    "ja": "伝説上のめでたい鳥",
+    "zh-TW": "傳說中象徵吉祥的神鳥"
+  },
+  "builtin-hanja-advanced::hanja-5edf": {
+    "ja": "祖先の霊をまつる施設",
+    "zh-TW": "奉祀先祖的建築設施"
+  },
+  "builtin-hanja-advanced::hanja-6167": {
+    "zh-TW": "能充分理解事物"
+  },
+  "builtin-hanja-advanced::hanja-6190": {
+    "zh-TW": "對受苦者感到同情"
+  },
+  "builtin-hanja-advanced::hanja-8776": {
+    "ja": "大きな翅を持ち花の蜜を吸う昆虫",
+    "zh-TW": "具寬翅且常吸花蜜的昆蟲"
+  },
+  "builtin-hanja-advanced::hanja-5a18": {
+    "zh-TW": "年輕女性"
+  },
+  "builtin-hanja-advanced::hanja-6817": {
+    "ja": "いがに包まれた実がなるブナ科の木",
+    "zh-TW": "果實包於刺殼的一類樹木"
+  },
+  "builtin-hanja-advanced::hanja-5a62": {
+    "zh-TW": "為他人服勤的女性"
+  },
+  "builtin-hanja-advanced::hanja-5df3": {
+    "ja": "十二支の6番目"
+  },
+  "builtin-hanja-advanced::hanja-58ec": {
+    "ja": "十干の9番目"
+  },
+  "builtin-hanja-advanced::hanja-5c24": {
+    "zh-TW": "程度超過其餘全部"
+  },
+  "builtin-hanja-advanced::hanja-4e14": {
+    "zh-TW": "在原有之外另外"
+  },
+  "builtin-hanja-advanced::hanja-620a": {
+    "ja": "十干の5番目"
+  },
+  "builtin-hanja-advanced::hanja-4ea5": {
+    "ja": "十二支の12番目"
+  },
+  "builtin-hanja-advanced::hanja-65f1": {
+    "zh-TW": "久缺雨而乾燥的災況"
+  },
+  "builtin-hanja-advanced::hanja-5e9a": {
+    "ja": "十干の7番目"
+  },
+  "builtin-hanja-advanced::hanja-670b": {
+    "zh-TW": "彼此親近往來的對象"
+  },
+  "builtin-hanja-advanced::hanja-8302": {
+    "ja": "植物が勢いよく育つ",
+    "zh-TW": "植物旺盛地成長"
+  },
+  "builtin-hanja-advanced::hanja-4fca": {
+    "zh-TW": "才幹卓越之人"
+  },
+  "builtin-hanja-advanced::hanja-7678": {
+    "ja": "十干の10番目"
+  },
+  "builtin-hanja-advanced::hanja-90ed": {
+    "ja": "町の外側を囲む城壁"
+  },
+  "builtin-hanja-advanced::hanja-5bc5": {
+    "ja": "十二支の3番目"
+  },
+  "builtin-hanja-advanced::hanja-68a8": {
+    "ja": "白い果肉で水分の多い実がなる木",
+    "zh-TW": "果肉白而多汁的一類果樹"
+  },
+  "builtin-hanja-advanced::hanja-5c0b": {
+    "zh-TW": "查找目標之物"
+  },
+  "builtin-hanja-advanced::hanja-6566": {
+    "zh-TW": "待人包容而厚道"
+  },
+  "builtin-hanja-advanced::hanja-6674": {
+    "ja": "雲や雨が少なく空が明るいこと",
+    "zh-TW": "少雲少雨而天色明朗"
+  },
+  "builtin-hanja-advanced::hanja-8a60": {
+    "ja": "節をつけて詩などを読む",
+    "zh-TW": "帶節奏地讀出詩文"
+  },
+  "builtin-hanja-advanced::hanja-96c1": {
+    "zh-TW": "常成群遷徙的一類水鳥"
+  },
+  "builtin-hanja-advanced::hanja-6f20": {
+    "ja": "雨が乏しく乾いた広い土地",
+    "zh-TW": "雨少且乾燥的廣闊土地"
+  },
+  "builtin-hanja-advanced::hanja-9059": {
+    "zh-TW": "距離大而很遠"
+  },
+  "builtin-hanja-advanced::hanja-5c62": {
+    "zh-TW": "多次重複"
+  },
+  "builtin-hanja-advanced::hanja-6ef4": {
+    "ja": "液体の小さなつぶ",
+    "zh-TW": "液體的小珠粒"
+  },
+  "builtin-hanja-advanced::hanja-61ab": {
+    "zh-TW": "對受苦者感到同情"
+  },
+  "builtin-hanja-advanced::hanja-96d6": {
+    "zh-TW": "即便如此的轉折語氣"
+  },
+  "builtin-hanja-radicals::hanja-4e8c": {
+    "zh-TW": "數值2"
+  },
+  "builtin-hanja-beginner::hanja-4e8c": {
+    "zh-TW": "數值2"
+  },
+  "builtin-hanja-beginner::hanja-96f6": {
+    "ko": "수량이 전혀 없음을 표현하는 수",
+    "en-US": "The number 0",
+    "ja": "数量がまったくないことを表す数",
+    "zh-TW": "表示數量全無的數"
+  },
+  "builtin-hanja-beginner::hanja-5ddd": {
+    "zh-TW": "陸地表面的小型流水"
+  },
+  "builtin-hanja-beginner::hanja-914d": {
+    "zh-TW": "婚姻關係中的女性伴侶"
+  },
+  "builtin-hanja-beginner::hanja-82e5": {
+    "ko": "다른 것과 같다",
+    "en-US": "Like or similar to",
+    "ja": "ほかのものと同じである",
+    "zh-TW": "與另一事物如同"
+  },
+  "builtin-hanja-beginner::hanja-666f": {
+    "ja": "太陽から差す光"
+  },
+  "builtin-hanja-intermediate::hanja-8449": {
+    "ko": "나무의 잎",
+    "en-US": "A leaf of a plant",
+    "ja": "植物で光を受ける平らな部分",
+    "zh-TW": "植物接收光線的扁平部分"
+  },
+  "builtin-hanja-intermediate::hanja-6f22": {
+    "ko": "중국에서 양쯔강으로 흘러드는 가장 긴 지류의 이름에 쓰이는 글자",
+    "en-US": "Used in the name of the longest tributary of the Yangtze River in China",
+    "ja": "中国で長江へ流れ込む最長の支流の名に用いる字",
+    "zh-TW": "長江最長支流的名稱用字"
+  },
+  "builtin-hanja-advanced::hanja-6c5d": {
+    "ko": "중국 허난성 숭현에서 발원해 화이허로 흘러드는 강 이름에 쓰이는 글자",
+    "en-US": "Used in the name of a river rising in Song County, Henan, and flowing into the Huai River",
+    "ja": "中国河南省の嵩県に源を発し淮河に注ぐ川の名に用いる字",
+    "zh-TW": "源於河南嵩縣並注入淮河的河流名稱用字"
+  }
+}

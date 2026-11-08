@@ -1,0 +1,3757 @@
+{
+  "math-symbols-divide": {
+    "ko": "한 수를 다른 수로 나눈 몫을 구하는 연산 기호",
+    "en-US": "Indicates the quotient of one number by another",
+    "ja": "ある数を別の数で割った商を表す演算記号",
+    "zh-TW": "表示一數除以另一數所得商的運算符號"
+  },
+  "math-numbers-multiple": {
+    "ko": "어떤 수에 정수를 곱해 얻는 수로, 0과 음의 정수배도 포함하는 것"
+  },
+  "math-algebra-powers": {
+    "ko": "같은 밑의 거듭제곱을 곱할 때 지수를 더하는 규칙"
+  },
+  "math-functions-domain": {
+    "ko": "함수에 넣을 수 있도록 정한 입력값의 집합"
+  },
+  "math-geometry-perimeter": {
+    "ko": "도형의 경계를 따라 잰 길이의 합"
+  },
+  "math-statistics-combination": {
+    "ko": "서로 다른 대상에서 순서를 구별하지 않고 일정 개수를 고르는 경우의 수"
+  },
+  "math-calculus-average-rate": {
+    "ko": "서로 다른 두 입력 사이의 출력 변화량을 입력 변화량으로 나눈 값"
+  },
+  "physics-measurement-propagation": {
+    "ko": "공분산이 0인 두 입력을 더하거나 뺄 때 표준불확도의 제곱을 더하는 계산"
+  },
+  "physics-mechanics-free-fall": {
+    "ko": "공기저항을 무시할 때 위로 던진 물체도 포함하는, 중력만 받는 운동",
+    "zh-TW": "只受重力作用的運動，在地表附近可近似為固定向下的加速運動"
+  },
+  "physics-energy-momentum": {
+    "ko": "질량과 속도 벡터의 곱으로, 반대 방향의 값은 서로 상쇄될 수 있는 양"
+  },
+  "physics-rotation-angular-velocity": {
+    "ko": "부호 있는 각변위를 시간 간격으로 나눈 값"
+  },
+  "physics-waves-superposition": {
+    "ko": "선형 매질에서 같은 위치·시간의 파동 변위를 대수적으로 더하는 규칙"
+  },
+  "physics-thermodynamics-conduction": {
+    "ko": "거시적 물질 이동 없이 온도 차로 열이 전달되며, 평판에서 전달률이 두께에 반비례하는 과정"
+  },
+  "physics-electromagnetism-potential": {
+    "ko": "정전기장에서 단위 전하당 위치 에너지 변화로 나타내는 두 지점 사이의 차"
+  },
+  "physics-optics-spherical-mirror": {
+    "ko": "축 가까이 입사한 평행광이 반사되어 모이는 곳으로, 오목한 구면에서 곡률 중심까지의 절반 거리에 있는 지점"
+  },
+  "physics-modern-rest-energy": {
+    "ko": "움직이지 않는 기준계에서도 물체의 질량에 광속의 제곱을 곱한 만큼 대응하는 에너지"
+  },
+  "chemistry-matter-homogeneity": {
+    "ko": "관찰 규모에서 위치에 따라 조성이 일정한 경우와 조성이나 상이 다른 경우의 구분"
+  },
+  "chemistry-atomic-atomic-radius": {
+    "ko": "같은 정의로 비교할 때 대체로 족 아래로 커지고 주기 오른쪽으로 작아지는 원자의 크기 변화"
+  },
+  "chemistry-bonding-metallic": {
+    "ko": "양전하 원자 코어들과 특정 원자쌍에 갇히지 않은 원자가 전자 사이의 집단적인 결합"
+  },
+  "chemistry-stoichiometry-theoretical-yield": {
+    "ko": "한계 반응물이 원하는 반응으로 완전히 전환될 때 얻을 수 있는 최대 생성물량"
+  },
+  "chemistry-phases-osmosis": {
+    "ko": "용매만 통과하는 막에서 용매의 순이동을 멈추는 데 필요한 압력 차"
+  },
+  "chemistry-thermochemistry-exo-endo": {
+    "ko": "일정 압력에서 계가 열을 내보내면 엔탈피가 감소하고 받아들이면 증가하는 과정의 구분"
+  },
+  "chemistry-kinetics-equilibrium-constant": {
+    "ko": "지정한 온도의 평형에서 생성물 활동도 곱을 반응물 활동도 곱으로 나눈 무차원 값"
+  },
+  "chemistry-acids-lewis": {
+    "ko": "전자쌍을 받아 새 결합을 만드는 쪽과 전자쌍을 주는 쪽으로 구분하는 산·염기 정의",
+    "ja": "電子対を受け取り、ルイス／電子対を与えて結合を作る"
+  },
+  "chemistry-electrochemistry-electron-flow": {
+    "ko": "갈바니 전지에서 외부 도선의 음전하는 산화 전극에서 환원 전극으로 가고 용액의 이온 이동은 전하 축적을 보상하는 과정"
+  },
+  "chemistry-organic-alkanes": {
+    "ko": "탄소 사이에 단일 결합만 있는 비고리 탄화수소로, 탄소 수가 n이면 수소 수가 2n+2인 물질"
+  },
+  "biology-life-hydrogen-bonds": {
+    "ko": "전기음성도가 큰 원자에 공유 결합한 수소와 주변 전기음성 원자 사이의 인력"
+  },
+  "biology-cells-vacuole": {
+    "ko": "많은 성숙 식물세포에서 물과 용질을 저장하고 세포벽에 가해지는 압력에 기여하는 구조",
+    "zh-TW": "許多成熟植物細胞中，儲存水與溶質並協助調節膨壓與內部環境的大型胞器"
+  },
+  "biology-membranes-facilitated": {
+    "ko": "채널이나 운반체를 통해 전기화학적 기울기를 따라 일어나는 수동 수송"
+  },
+  "biology-metabolism-atp": {
+    "ko": "세포 조건에서 자유 에너지가 감소하는 전체 반응을 펌프의 형태 변화나 인산기 전달과 연결해 활동을 구동하는 과정"
+  },
+  "biology-inheritance-sexlinked": {
+    "ko": "사람 X/Y 모델에서 X 비상동 영역의 사본 수와 부모의 전달 경로에 따라 발현이 달라질 수 있는 양상"
+  },
+  "biology-expression-code": {
+    "ko": "mRNA의 세 염기 코돈을 아미노산이나 번역 종료 신호와 대응시키는 체계"
+  },
+  "biology-evolution-nonrandom": {
+    "ko": "짝짓기 빈도가 무작위 기대에서 벗어나며, 대립유전자 빈도 변화 없이 동형접합 비율이 늘 수도 있는 현상"
+  },
+  "biology-diversity-domains": {
+    "ko": "세균·고세균·진핵생물이라는 분류 이름과 진핵생물의 고세균 내부 기원을 지지하는 역사적 분기 설명의 구별"
+  },
+  "biology-plants-tissues": {
+    "ko": "새 세포를 생산하는 부위와 보호·대사·수송으로 특수화된 부위를 비교하는 식물 조직의 구분"
+  },
+  "biology-homeostasis-kidney": {
+    "ko": "혈액에서 여과액을 만들고 재흡수와 분비로 성분을 바꾸어 오줌을 형성하는 기관의 기능 단위"
+  },
+  "biology-neuroendocrine-endocrine-axis": {
+    "ko": "TRH·TSH·갑상샘 호르몬처럼 연속적인 신호와 말초 호르몬의 되먹임으로 내분비샘을 조절하는 경로"
+  },
+  "biology-immunity-immunodeficiency": {
+    "ko": "하나 이상의 면역 기능이 부족해 결핍 성분에 따라 특정 감염에 더 취약해질 수 있는 상태"
+  },
+  "biology-ecology-symbiosis": {
+    "ko": "밀접한 종간 관계를 각 상대의 생존·번식 이익과 비용에 따라 나누는 구분"
+  },
+  "economics-foundations-marginal-change": {
+    "ko": "현재 계획에서 활동 수준을 조금 늘리거나 줄여 추가 편익과 비용을 비교하는 단위"
+  },
+  "economics-markets-price-ceiling": {
+    "ko": "법적 최고 판매가격으로, 단순 경쟁시장에서는 균형가격보다 낮을 때 거래 가격을 제약하는 규제"
+  },
+  "economics-consumers-budget": {
+    "ko": "가용 소득과 가격 아래에서 구매할 수 있는 소비 묶음의 범위"
+  },
+  "economics-production-average-cost": {
+    "ko": "총비용을 양의 산출량으로 나눈 단위당 비용"
+  },
+  "economics-competition-oligopoly": {
+    "ko": "소수의 주요 판매자가 자신의 선택에 대한 경쟁자의 반응까지 이윤 판단에 반영하는 시장 구조"
+  },
+  "economics-games-coordination": {
+    "ko": "서로 맞는 선택에 보상을 주어 여러 균형이 가능하고 기대를 맞출 필요가 있는 전략적 상황"
+  },
+  "economics-public-common-pool": {
+    "ko": "이용자를 배제하기 어렵지만 한 사람의 이용이 타인의 이용 가능량을 줄이는 대상"
+  },
+  "economics-labor-labor-demand": {
+    "ko": "추가 노동이 만들어 내는 수입 기여를 반영하며 상품수요와 생산성에서 비롯되는 고용 수요"
+  },
+  "economics-indicators-cpi": {
+    "ko": "가계가 구매하는 소비 재화·서비스의 가격 변화를 지출 비중으로 가중 평균한 지표"
+  },
+  "economics-growth-distribution": {
+    "ko": "평균 소득이 늘어도 임금·자산·조세·이전 구조에 따라 집단별 혜택은 달라질 수 있다는 관계"
+  },
+  "economics-cycles-ad": {
+    "ko": "각 물가 수준에서 가계·기업·정부·해외가 계획하는 국내 생산물에 대한 총지출"
+  },
+  "economics-money-bond": {
+    "ko": "발행자가 약정한 이자와 원금을 정해진 시점에 지급하기로 한 채무 증서"
+  },
+  "economics-international-opportunity": {
+    "ko": "같은 자원과 기간에서 한 재화를 더 만들기 위해 포기해야 하는 다른 재화의 양"
+  },
+  "business-foundations-distortion": {
+    "ko": "대리 수치를 최적화하는 행동이 그 수치로 평가하려던 실제 목적을 해치는 현상"
+  },
+  "business-strategy-tradeoff": {
+    "ko": "희소 자원이나 양립하기 어려운 활동 때문에 한 선택의 이점을 얻으며 다른 이점을 포기하는 관계"
+  },
+  "business-models-retention": {
+    "ko": "같은 시기에 시작한 고객 집단 중 정해진 경과 시점에도 남아 있는 비율"
+  },
+  "business-organization-matrix": {
+    "ko": "기능과 제품·프로젝트의 두 축에 공식 권한과 책임을 배치하는 구조"
+  },
+  "business-behavior-safety": {
+    "ko": "질문하거나 실수를 보고하는 대인관계 위험을 감수해도 괜찮다는 팀의 공유된 믿음"
+  },
+  "business-people-interview": {
+    "ko": "공통된 직무 관련 질문과 채점 기준을 적용해 지원자 사이의 비교를 돕는 선발 방식"
+  },
+  "business-marketing-correlation": {
+    "ko": "두 지표가 함께 움직인다는 사실과 한 요인이 다른 요인의 변화를 일으켰다는 주장의 구별"
+  },
+  "business-product-promotion": {
+    "ko": "행사가 없었을 기준과 비교해 기존 구매의 할인·구매 시점 이동까지 반영한 추가 성과"
+  },
+  "business-accounting-accrual": {
+    "ko": "돈이 오간 때만이 아니라 수익·비용을 일으킨 경제적 사건의 기간에 기록하는 회계 방식"
+  },
+  "business-control-flexible": {
+    "ko": "계획된 단가·고정원가 관계를 실제 활동량에 적용해 원가 차이를 비교하는 기준"
+  },
+  "business-finance-npv": {
+    "ko": "초기 지출을 포함한 모든 증분 세후 현금흐름을 같은 현재 시점으로 할인해 합한 값"
+  },
+  "business-operations-little": {
+    "ko": "유입·유출이 균형인 안정된 시스템에서 평균 재공량이 평균 처리율과 평균 체류시간의 곱이라는 관계"
+  },
+  "business-execution-segregation": {
+    "ko": "한 사람이 오류·부정을 만들고 숨기기 어렵도록 승인·보관·기록·대조를 나누는 통제"
+  },
+  "psychology-foundations-operational": {
+    "ko": "추상 개념을 연구에서 어떤 절차로 측정하거나 변화시킬지 구체화한 규정"
+  },
+  "psychology-brain-brain-evidence": {
+    "ko": "여러 과제에 관여하는 영역의 활성만으로 특정 마음 상태를 확정할 수 없다는 증거 해석의 한계"
+  },
+  "psychology-perception-criterion": {
+    "ko": "감각 민감도가 같아도 신호 확률·오류 비용에 따라 신호가 있다고 답하는 문턱이 달라지는 현상"
+  },
+  "psychology-attention-switching": {
+    "ko": "같은 규칙을 반복할 때보다 규칙을 바꾼 직후 반응이 느려지거나 오류가 늘 수 있는 현상"
+  },
+  "psychology-learning-positive-negative": {
+    "ko": "자극을 더하거나 제거·회피하게 하는 두 방식 모두 후속 행동을 늘리는 과정",
+    "ja": "刺激を加え／刺激を除去・回避して、どちらも行動を増やす"
+  },
+  "psychology-memory-reconstruction": {
+    "ko": "사건의 흔적에 기존 지식·기대·이후 정보를 결합해 회상하는 과정"
+  },
+  "psychology-thinking-base-rates": {
+    "ko": "개별 증거를 보기 전에 관련 집단에서 사건이나 범주가 나타나는 기본 빈도"
+  },
+  "psychology-language-heritability": {
+    "ko": "특정 집단·환경의 개인 간 특성 변이 중 유전적 차이와 관련된 추정 비중으로 개인 능력의 비율은 아닌 값"
+  },
+  "psychology-motivation-reappraisal": {
+    "ko": "사실에 맞는 다른 해석으로 상황의 의미를 바꾸어 정서 반응을 조절하는 전략"
+  },
+  "psychology-development-attachment": {
+    "ko": "돌봄 제공자에게 위안·보호를 구하는 관계와 그 신뢰가 새로운 탐색을 뒷받침하는 기능",
+    "ja": "養育者に慰めや保護を求める関係であり／探索を支える"
+  },
+  "psychology-personality-interaction": {
+    "ko": "개인의 경향과 환경의 요구·해석이 함께 행동을 만들므로 한쪽만으로 설명하기 어렵다는 관점"
+  },
+  "psychology-social-helping": {
+    "ko": "여러 사람이 있으면 각자의 행동 책임이 모호해져 도움에 나서지 않을 수 있는 현상"
+  },
+  "psychology-health-coping": {
+    "ko": "부담의 원인을 바꾸려는 대응과 그 경험에서 생긴 감정을 다루는 대응으로 함께 사용될 수 있는 두 방식"
+  },
+  "philosophy-foundations-necessary-sufficient": {
+    "ko": "성립에 없어서는 안 되는 전제와 그것만으로 성립을 보장하는 전제를 구별하는 개념",
+    "ja": "欠かせない条件／それだけで成立を保証する条件"
+  },
+  "philosophy-greek-four-causes": {
+    "ko": "재료·형태·제작의 근원·목적을 사물에 대한 상호 보완적인 설명으로 구별하는 틀"
+  },
+  "philosophy-hellenistic-control": {
+    "ko": "자신의 판단·선택을 타인과 운에 좌우되는 외적 결과와 구별하고 좋은 선택에 힘쓰라는 기준"
+  },
+  "philosophy-medieval-ontological": {
+    "ko": "더 큰 것을 생각할 수 없는 존재가 사유 속에만 있다면 그 규정과 충돌한다고 주장하는 추론"
+  },
+  "philosophy-rationalism-elisabeth": {
+    "ko": "1643년부터 데카르트와 서신을 나누며 비물질적 정신이 신체 운동을 일으키는 방식을 물은 사상가"
+  },
+  "philosophy-empiricism-induction": {
+    "ko": "과거의 규칙성을 미관찰 사례로 확장하는 기대를 과거의 성공에 기대지 않고 어떻게 정당화할지의 문제"
+  },
+  "philosophy-kant-humanity": {
+    "ko": "스스로 목적을 세우는 이성적 능력을 존중해 자신과 타인을 단지 도구로만 취급하지 말라는 원칙"
+  },
+  "philosophy-idealism-sublation": {
+    "ko": "이전 규정의 독립성을 부정하면서 그 내용을 새로운 관계의 계기로 보존하는 개념적 이행"
+  },
+  "philosophy-existential-bad-faith": {
+    "ko": "주어진 사실이나 선택 가능성 중 한쪽을 절대화해 자신의 자유 또는 책임을 회피하는 태도"
+  },
+  "philosophy-analytic-sense-reference": {
+    "ko": "같은 대상을 가리켜도 그 대상이 제시되는 방식은 달라 동일성 문장이 새 정보를 줄 수 있다는 구별"
+  },
+  "philosophy-chinese-wuwei": {
+    "ko": "결과를 억지로 만들어 내려는 강제를 줄이고 사물의 흐름과 조건에 맞게 행하는 방식"
+  },
+  "philosophy-buddhist-emptiness": {
+    "ko": "현상은 조건에 의존하며 어떤 것도 관계와 무관하게 스스로 성립하는 독립적 본성을 갖지 않는다는 주장"
+  },
+  "philosophy-korean-japanese-sudden-gradual": {
+    "ko": "마음의 본성을 문득 깨쳤어도 오래된 습기를 점차 다스리는 수행이 남는다는 구조"
+  },
+  "history-foundations-provenance": {
+    "ko": "물건·기록의 출처와 소유 이력을 문서로 추적한 것으로 고고학적 출토 위치와는 구별되는 정보"
+  },
+  "history-prehistory-domestication": {
+    "ko": "인간이 번식·선택 조건에 지속적으로 영향을 주어 식물·동물 집단이 여러 세대에 걸쳐 변하는 과정"
+  },
+  "history-west-asia-egypt-cyrus-cylinder": {
+    "ko": "기원전 539년 이후 바빌론의 신들과 복구를 강조해 정복자의 새 통치를 정당화한 왕실 비문"
+  },
+  "history-mediterranean-athenian-democracy": {
+    "ko": "기원전 5~4세기 자격 있는 남성 시민이 민회·법정·공직에 직접 참여했지만 여성·노예 등은 배제된 제도"
+  },
+  "history-south-asia-ashokan-edicts": {
+    "ko": "기원전 3세기 마우리아 영토의 바위·기둥에 지역별 언어와 문자로 윤리·행정 메시지를 알린 왕실 비문"
+  },
+  "history-east-asia-jikji": {
+    "ko": "1377년 청주 흥덕사에서 인쇄한 현존 최고 금속활자본으로 알려진 불교 선집"
+  },
+  "history-islamic-world-translation-movement": {
+    "ko": "8~10세기 특히 이라크에서 그리스어·시리아어 등 여러 언어의 학문을 아랍어로 옮기고 주석·연구로 수정·확장한 활동"
+  },
+  "history-medieval-europe-magna-carta": {
+    "ko": "1215년 잉글랜드에서 귀족들의 압박으로 왕의 행위에 문서상 제한을 두고 후대 재발급·재해석된 헌장"
+  },
+  "history-africa-benin-plaques": {
+    "ko": "주로 16~17세기 서아프리카 왕실의 인물·의장·위계를 표현한 주조 부조로 다수가 1897년 영국 공격 때 약탈된 작품군"
+  },
+  "history-americas-oceania-waitangi": {
+    "ko": "1840년 마오리 지도자와 영국 왕실이 맺었으나 두 언어 본문이 통치 권위에 관해 다르게 말하는 협약"
+  },
+  "history-exchange-networks-monsoon-navigation": {
+    "ko": "계절에 따라 방향이 바뀌는 바람을 이용해 인도양의 출항·귀환 시기와 항구 대기를 계획하는 방식"
+  },
+  "history-early-modern-dutch-east-india-company": {
+    "ko": "1602~1799년 아시아 교역에 국가의 독점 특권과 군사·통치 권한을 결합한 특허 회사"
+  },
+  "history-revolutions-industry-haitian-revolution": {
+    "ko": "1791~1804년 생도맹그의 노예 봉기에서 출발해 노예제 폐지와 국가 독립을 이룬 사건"
+  },
+  "history-imperialism-world-wars-berlin-conference": {
+    "ko": "1884~1885년 아프리카 대표 없이 열강이 영유권·교역 규칙을 정해 추가 식민 팽창의 정당화에 기여한 외교 모임"
+  },
+  "history-decolonization-modern-india-partition": {
+    "ko": "1947년 8월 제국의 주권이 끝나 두 국가가 생겼지만 분할 폭력과 수백만 명의 이주가 동반된 남아시아의 전환"
+  },
+  "literature-foundations-narrator": {
+    "ko": "이야기를 전달하는 목소리나 주체로 실제 작가와 구별되고 사건에 대한 지식이 제한될 수 있는 존재"
+  },
+  "literature-poetry-sonnet": {
+    "ko": "전통적으로 14행과 소리 패턴·논지의 전환을 활용하며 전통마다 연과 압운의 배열이 다른 시 형식"
+  },
+  "literature-narrative-frankenstein": {
+    "ko": "1818년 출간된 메리 셸리의 소설로 편지 안에 창조자·피조물의 진술을 겹쳐 정보와 관점의 차이를 드러내는 작품"
+  },
+  "literature-drama-dramatic-irony": {
+    "ko": "관객과 인물이 알고 있는 관련 정보의 차이 때문에 같은 말과 행동이 다른 의미와 긴장을 얻는 효과"
+  },
+  "literature-myth-epic-iliad": {
+    "ko": "전통적으로 호메로스에게 귀속되며 트로이 전쟁의 제한된 기간을 아킬레우스의 분노와 명예 갈등 중심으로 그린 서사시"
+  },
+  "literature-east-asian-classics-nine-cloud": {
+    "ko": "조선에서 쓰여 중국을 무대로 삼고 승려의 틀과 세속적 성공의 꿈을 연결해 욕망과 삶의 가치를 묻는 소설"
+  },
+  "literature-medieval-early-modern-quixote": {
+    "ko": "1605년·1615년 두 부분으로 출간되어 기사도 이야기의 기대와 현실의 충돌을 그린 세르반테스의 소설"
+  },
+  "literature-romanticism-frankenstein": {
+    "ko": "메리 셸리가 생명을 만든 이와 피조물의 엇갈린 설명을 통해 창조와 책임을 묻는 소설"
+  },
+  "literature-realism-free-indirect": {
+    "ko": "명시적인 생각 보고 없이 서술자의 문법에 인물의 말투·감탄·평가가 스며드는 서술 방식"
+  },
+  "literature-modernism-grove": {
+    "ko": "1922년 아쿠타가와가 발표한 단편으로 같은 사건의 엇갈리는 증언이 쌓일수록 확신이 흔들리는 작품"
+  },
+  "literature-contemporary-human-acts": {
+    "ko": "1980년 광주의 폭력과 이후의 삶을 여러 목소리로 연결해 상실과 증언의 어려움을 탐구한 2014년 소설"
+  },
+  "literature-world-literature-things-fall-apart": {
+    "ko": "1958년 아체베가 오콩코와 이그보 공동체의 내부 갈등을 통해 식민 침입 전후의 변화를 그린 소설"
+  },
+  "literature-genre-left-hand": {
+    "ko": "게센 행성의 사절이 경험을 통해 성별과 정치적 신뢰의 가정을 바꾸는 과정을 그린 1969년 과학소설"
+  },
+  "literature-nonfiction-room": {
+    "ko": "여성의 창작을 재능만으로 설명하지 않고 소득·공간·교육의 조건을 묻는 1929년 에세이"
+  },
+  "literature-criticism-death-author": {
+    "ko": "작가의 의도를 텍스트 의미의 최종 권위로 삼는 독해를 비판하고 다중성과 독자의 역할을 강조한 에세이"
+  },
+  "quotes-courage-blind-boldness": {
+    "ko": "정치적 추진력에 대한 확신만으로 위험 검토를 대신할 수 없다는 경고"
+  },
+  "quotes-perseverance-right-firmness": {
+    "ko": "완고함 자체보다 옳은 이유에 따른 굳셈을 중시하는 주장",
+    "en-US": "A claim valuing firmness based on right reasons rather than mere obstinacy",
+    "ja": "単なる頑固さより、正しい理由に基づく堅固さを重視する主張",
+    "zh-TW": "重視基於正當理由的堅定，而非單純固執的主張"
+  },
+  "quotes-resilience-unreformed-faults": {
+    "ko": "실수의 발생 자체보다 고치려 하지 않는 태도를 더 근본적인 문제로 삼는 주장",
+    "en-US": "A claim treating refusal to correct a mistake as more fundamental than merely making it",
+    "ja": "誤りを犯すこと自体より、改めようとしない態度を根本的な問題とする主張",
+    "zh-TW": "將不願改正的態度，看得比犯錯本身更根本的主張"
+  },
+  "quotes-uncertainty-knowing-limit": {
+    "ko": "자신의 지식이 미치는 범위를 인정하고 근거 없는 확신을 경계하는 태도"
+  },
+  "quotes-judgment-heroic-feeling": {
+    "ko": "결단의 주관적 확신을 묘사하지만 교육·종교가 달랐다면 선택도 달라질 수 있다는 맥락의 발췌"
+  },
+  "quotes-time-measure-progress": {
+    "ko": "겉보기에 빨리 끝낸 절차가 아니라 재작업을 줄이고 실제 진전이 있었는지를 처리 속도의 기준으로 삼는 관점"
+  },
+  "quotes-curiosity-learning-and-thought": {
+    "ko": "정보를 받아들이기만 하거나 근거 없이 숙고하기만 하는 두 극단을 함께 경계하는 관점"
+  },
+  "quotes-creativity-compress-not-amputate": {
+    "ko": "길이를 줄이더라도 핵심 조건과 관계를 유지해야 하며 필요한 내용을 생략하는 것과 구별해야 한다는 관점"
+  },
+  "quotes-identity-authority-over-self": {
+    "ko": "여성의 교육과 권리를 통해 타인을 지배할 힘이 아닌 자신의 이성으로 선택할 실질적 권한을 요구하는 주장"
+  },
+  "quotes-equanimity-anger-not-extinguished": {
+    "ko": "감정을 전혀 느끼지 않는 이상보다 감정의 범위·지속과 행동을 조절할 여지를 살피는 관점"
+  },
+  "quotes-listening-words-and-person": {
+    "ko": "발언자에 대한 호불호나 한 번의 좋은 발언으로 사람 전체와 개별 주장의 가치를 함께 단정하지 말라는 관점"
+  },
+  "quotes-friendship-advice-and-limits": {
+    "ko": "성실한 조언에도 상대의 선택을 존중하며 반복되는 권유를 중단할 때가 있다는 우정의 기준"
+  },
+  "quotes-work-rest-renews": {
+    "ko": "중단 없는 노동이 정신을 소진시킬 수 있어 활동의 지속에 회복할 여지가 필요하다는 관점"
+  },
+  "quotes-responsibility-right-and-law": {
+    "ko": "형식적 규칙 준수나 다수의 결정과 윤리적 정당성은 별도로 검토해야 한다는 주장"
+  },
+  "quotes-fulfillment-daily-advantages": {
+    "ko": "드문 횡재보다 공공 편의의 개선처럼 반복되는 불편을 덜어 내는 변화에서 일상의 만족을 찾는 관점"
+  },
+  "art-looking-met-459045": {
+    "en-US": "A long banquet table occupies the right; a separate action appears beneath an arch at left.",
+    "ko": "오른쪽에는 긴 연회 식탁이 있고 왼쪽 아치 아래에는 별도의 사건이 보인다.",
+    "ja": "右には長い宴席があり、左のアーチの下には別の出来事が描かれる。",
+    "zh-TW": "右側有長宴席，左側拱門下出現另一段情節。"
+  },
+  "art-looking-artist-debaad954f35": {
+    "ko": "인물의 입체감과 인간 감정을 표현한 중세 말 이탈리아 화가입니다.",
+    "en-US": "a late-medieval Italian painter noted for bodily volume and human emotion.",
+    "ja": "人物の量感や人間の感情を表した中世末期イタリアの画家です。",
+    "zh-TW": "以人物體積感與人類情感表現著稱的中世紀晚期義大利畫家。"
+  },
+  "art-visual-elements-met-247015": {
+    "en-US": "A tall fluted column stands beside nested red architectural rectangles above a painted base.",
+    "ko": "세로 홈이 있는 높은 기둥이 겹친 붉은 건축 사각형 옆에 서 있고 아래에는 그려진 받침이 있다.",
+    "ja": "溝のある高い柱が入れ子状の赤い建築の矩形の横に立ち、下には描かれた台座がある。",
+    "zh-TW": "高聳凹槽柱立於層層紅色建築矩形旁，下方畫有基座。"
+  },
+  "art-visual-elements-artist-dd071904f746": {
+    "ko": "우아한 인물 표현으로 알려진 14세기 시에나의 화가입니다.",
+    "en-US": "a fourteenth-century Sienese painter noted for elegant figures.",
+    "ja": "優雅な人物表現で知られる14世紀シエナの画家です。",
+    "zh-TW": "以優雅人物表現著稱的十四世紀西恩納畫家。"
+  },
+  "art-materials-met-32831": {
+    "en-US": "A large green curling letter encloses two scenes of haloed figures against blue and pink areas.",
+    "ko": "커다란 초록 곡선 글자가 파랑과 분홍 바탕의 후광 있는 인물 두 장면을 감싼다.",
+    "ja": "大きく曲がる緑の文字が、青と桃色の背景に光輪のある人物を描いた二場面を囲む。",
+    "zh-TW": "大型彎曲綠字包圍兩個場景，藍、粉色區域中有人物光環。"
+  },
+  "art-materials-artist-49be1115209f": {
+    "ko": "서민의 삶과 풍경을 그린 16세기 남부 네덜란드의 화가이자 소묘가입니다.",
+    "en-US": "a sixteenth-century Netherlandish painter and draughtsman who depicted everyday life and landscape.",
+    "ja": "庶民の生活や風景を描いた16世紀ネーデルラントの画家・素描家です。",
+    "zh-TW": "描繪庶民生活與風景的十六世紀尼德蘭畫家兼素描家。"
+  },
+  "art-ancient-medieval-met-436908": {
+    "en-US": "A crowned standing woman holds a green palm; her patterned dress contrasts with a gold ground.",
+    "ko": "왕관을 쓴 여인이 초록 종려 가지를 들고 있으며 무늬 있는 옷이 금빛 바탕과 대조된다.",
+    "ja": "冠をかぶる女性が緑の棕櫚を持ち、模様のある衣服が金地と対照をなす。",
+    "zh-TW": "戴冠的女子拿著綠色棕櫚枝，花紋衣裳與金底形成對比。"
+  },
+  "art-ancient-medieval-artist-debaad954f35": {
+    "ko": "인물의 입체감과 인간 감정을 표현한 중세 말 이탈리아 화가입니다.",
+    "en-US": "a late-medieval Italian painter noted for bodily volume and human emotion.",
+    "ja": "人物の量感や人間の感情を表した中世末期イタリアの画家です。",
+    "zh-TW": "以人物體積感與人類情感表現著稱的中世紀晚期義大利畫家。"
+  },
+  "art-renaissance-met-435802": {
+    "en-US": "A young man in black rests one hand on a book and places the other on his hip in a stone interior.",
+    "ko": "검은 옷의 청년이 석조 실내에서 한 손을 책에 얹고 다른 손을 허리에 댄다.",
+    "ja": "黒衣の青年が石造の室内で片手を本に置き、もう一方を腰に当てる。",
+    "zh-TW": "黑衣青年站在石造室內，一手扶書，另一手叉腰。"
+  },
+  "art-renaissance-artist-f6e273ac104a": {
+    "ko": "약 1445–1510 · 피렌체의 화가이자 소묘가입니다.",
+    "en-US": "about 1445–1510 · a Florentine painter and draughtsman.",
+    "ja": "1445年頃〜1510年 · フィレンツェの画家・素描家です。",
+    "zh-TW": "約1445–1510 · 佛羅倫斯的畫家兼素描家。"
+  },
+  "art-baroque-rococo-met-437881": {
+    "ko": "여인의 두 손이 열린 창과 물주전자를 잇는다.",
+    "en-US": "The woman's hands connect an open window and a water pitcher.",
+    "ja": "女性の両手が開いた窓と水差しを結ぶ。",
+    "zh-TW": "女子的雙手連接敞開的窗戶與水壺。"
+  },
+  "art-baroque-rococo-artist-6c7bffa411db": {
+    "ko": "1632–1675 · 네덜란드 화가입니다.",
+    "en-US": "1632–1675 · a Dutch painter.",
+    "ja": "1632–1675 · オランダの画家です。",
+    "zh-TW": "1632–1675 · 荷蘭畫家。"
+  },
+  "art-nineteenth-century-met-459106": {
+    "ko": "푸른 드레스의 광택과 흰 레이스가 매끈한 얼굴과 대비된다.",
+    "en-US": "Shining blue fabric and white lace contrast with a smooth face.",
+    "ja": "光沢のある青いドレスと白いレースが滑らかな顔と対照をなす。",
+    "zh-TW": "閃亮的藍色裙料與白蕾絲映襯平滑的臉。"
+  },
+  "art-nineteenth-century-artist-a43393151e29": {
+    "ko": "1780–1867 · 프랑스 화가입니다.",
+    "en-US": "1780–1867 · a French painter.",
+    "ja": "1780–1867 · フランスの画家です。",
+    "zh-TW": "1780–1867 · 法國畫家。"
+  },
+  "art-impressionism-met-437683": {
+    "ko": "풀밭의 밝은 띠가 푸른 하늘과 짙은 나무 사이에 놓인다.",
+    "en-US": "A bright band of meadow lies between blue sky and dark trees.",
+    "ja": "明るい草地の帯が青空と濃い木々の間に広がる。",
+    "zh-TW": "明亮草地帶位於藍天與深色樹木之間。"
+  },
+  "art-impressionism-artist-8198cfbf3c22": {
+    "ko": "1830–1903 · 프랑스 화가입니다.",
+    "en-US": "1830–1903 · a French painter.",
+    "ja": "1830–1903 · フランスの画家です。",
+    "zh-TW": "1830–1903 · 法國畫家。"
+  },
+  "art-modern-met-435883": {
+    "ko": "사과와 배의 둥근 부피가 기울어진 탁자 가장자리와 만난다.",
+    "en-US": "Rounded apples and pears meet a tilted table edge.",
+    "ja": "丸いリンゴと梨の量感が傾いた卓の縁と接する。",
+    "zh-TW": "圓潤蘋果與梨的體積遇上傾斜桌緣。"
+  },
+  "art-modern-artist-acdf63c40613": {
+    "ko": "1853–1890 · 네덜란드 화가입니다.",
+    "en-US": "1853–1890 · a Dutch painter.",
+    "ja": "1853–1890 · オランダの画家です。",
+    "zh-TW": "1853–1890 · 荷蘭畫家。"
+  },
+  "art-korean-met-36457": {
+    "ko": "휘어진 줄기와 옅고 짙은 잎이 빈 바탕을 가로지른다.",
+    "en-US": "Curving stems and pale and dark leaves cross an open ground.",
+    "ja": "曲がる茎と淡い葉・濃い葉が余白を横切る。",
+    "zh-TW": "彎曲枝莖與濃淡葉片橫越留白。"
+  },
+  "art-korean-artist-5d8a78eb474e": {
+    "ko": "이정은 시·서예·수묵화로 이름을 알린 조선의 문인 화가입니다.",
+    "en-US": "a Joseon literati artist renowned for poetry, calligraphy and ink painting.",
+    "ja": "詩・書・水墨画で知られる朝鮮の文人画家です。",
+    "zh-TW": "以詩、書法與水墨畫著稱的朝鮮文人畫家。"
+  },
+  "art-chinese-met-35977": {
+    "en-US": "Low hills and tiny trees stretch along the lower edge of a broad, lightly painted fan.",
+    "ko": "낮은 언덕과 작은 나무들이 넓고 옅은 부채꼴 화면의 아래 가장자리를 따른다.",
+    "ja": "低い丘と小さな木々が、淡く描かれた広い扇面の下辺に沿う。",
+    "zh-TW": "低丘與小樹沿著寬闊淡墨扇面的下緣展開。"
+  },
+  "art-chinese-artist-be7cf30fa481": {
+    "ko": "16세기 명대 중국의 화가이며, 이 어부와 가족 그림은 그의 작품으로 추정됩니다.",
+    "en-US": "a sixteenth-century Ming Chinese painter; the fisherman-and-family painting is attributed to him.",
+    "ja": "16世紀明代中国の画家で、この漁師と家族の絵は彼の作品と推定されています。",
+    "zh-TW": "十六世紀明代中國畫家，此漁夫與家人圖被推定為其作品。"
+  },
+  "art-japanese-met-40427": {
+    "en-US": "Birds scatter at different heights above flowering plants and dark rocks.",
+    "ko": "꽃 핀 식물과 어두운 바위 위로 새들이 서로 다른 높이에서 흩어진다.",
+    "ja": "花の咲く植物と暗い岩の上で、鳥たちが異なる高さに散る。",
+    "zh-TW": "花草與暗色岩石上方，群鳥在不同高度四散。"
+  },
+  "art-japanese-artist-cb2cbfccbf29": {
+    "ko": "1779–1843 · 교토의 화조화가로, 이 가리개의 그림을 그리고 뒷면 글씨는 라이 산요가 썼습니다.",
+    "en-US": "1779–1843 · a Kyoto bird-and-flower painter; he painted this screen, while Rai San’yo wrote its reverse-side calligraphy.",
+    "ja": "1779〜1843 · 京都の花鳥画家で、この衝立の絵を描き、裏面の書は頼山陽が記しました。",
+    "zh-TW": "1779–1843 · 京都的花鳥畫家，此座屏的畫由他繪製，背面書法出自賴山陽。"
+  },
+  "art-world-met-320635": {
+    "en-US": "A long narrow strip alternates bands of writing with colored figures and geometric panels.",
+    "ko": "길고 좁은 띠에서 글줄과 채색 인물·기하학 패널이 교대로 나타난다.",
+    "ja": "細長い帯の中で、文字の帯と彩色された人物・幾何学区画が交互に現れる。",
+    "zh-TW": "狹長帶狀卷軸上，文字段落與彩色人物、幾何區塊交替出現。"
+  },
+  "art-world-artist-97e999c33244": {
+    "ko": "17세기 말 에티오피아 필경사로, 이 기도서의 제작자로 추정되는 인물",
+    "en-US": "A late-seventeenth-century Ethiopian scribe to whom this prayer book is attributed",
+    "ja": "この祈祷書の制作者と推定される17世紀末エチオピアの写字生",
+    "zh-TW": "十七世紀末衣索比亞抄寫員，此祈禱書被推定為其作品"
+  },
+  "art-people-life-met-51423": {
+    "en-US": "A seated figure occupies the upper center while standing figures and children cluster below.",
+    "ko": "앉은 인물이 위쪽 중앙에 있고 서 있는 인물과 아이들이 아래에 모여 있다.",
+    "ja": "座る人物が上部中央を占め、立つ人物や子どもが下方に集まる。",
+    "zh-TW": "端坐人物位於上方中央，站立人物與孩童聚集於下方。"
+  },
+  "art-people-life-artist-f376d839819a": {
+    "ko": "메트 기록상 약 1862~1908년에 활동한 중국 화가로, 초상 속 조지겸은 그림의 제문을 쓴 인물입니다.",
+    "en-US": "a Chinese painter active about 1862–1908 according to The Met; the sitter Zhao Zhiqian wrote the portrait’s inscription.",
+    "ja": "メトロポリタン美術館の記録では1862年頃〜1908年に活動した中国の画家で、描かれた趙之謙は画中の題文を記しました。",
+    "zh-TW": "據大都會藝術博物館記錄約於1862至1908年間活動的中國畫家；畫中的趙之謙撰寫了題文。"
+  },
+  "art-comparisons-met-10497": {
+    "en-US": "Storm-dark trees at left overlook a sunlit river bend and patterned fields to the right.",
+    "ko": "왼쪽의 폭풍 속 어두운 나무가 오른쪽의 햇빛 든 굽은 강과 구획된 들판을 내려다본다.",
+    "ja": "左の嵐に暗い木々が、右の日の当たる川の湾曲と区画された畑を見下ろす。",
+    "zh-TW": "左方風暴中的暗樹俯瞰右方陽光下的蜿蜒河流與分割田地。"
+  },
+  "art-comparisons-artist-55dcf2949af5": {
+    "ko": "1632–1717 · 중국 화가입니다.",
+    "en-US": "1632–1717 · a Chinese painter.",
+    "ja": "1632–1717 · 中国の画家です。",
+    "zh-TW": "1632–1717 · 中國畫家。"
+  },
+  "music-intervals-fifth": {
+    "ko": "12평균율에서 7반음 간격이며 음이름 5자리에 걸친 음정",
+    "en-US": "An interval spanning 5 letter-name positions and 7 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で7半音離れ、音名の5つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距7個半音、跨越5個音名位置的音程"
+  },
+  "music-scales-harmonic-minor": {
+    "ko": "자연단음계의 7번째 음을 반음 올려 6·7음 사이가 증2도가 되는 구성",
+    "en-US": "A form raising natural minor’s seventh degree a semitone, creating an augmented second between degrees 6 and 7",
+    "ja": "自然短音階の第7音を半音上げ、第6・7音間が増2度になる構成",
+    "zh-TW": "將自然小音階第七音升高半音，使第六、七音間成為增二度的組成"
+  },
+  "music-chords-major-seventh": {
+    "ko": "근음에서 0·4·7·11반음 위치의 4개 음을 함께 울리는 구성",
+    "en-US": "A 4-note chord with tones 0, 4, 7, 11 semitones above its root",
+    "ja": "根音から0·4·7·11半音の位置にある4音を同時に鳴らす構成",
+    "zh-TW": "由根音上方0·4·7·11半音位置的4個音同時發聲的組成"
+  },
+  "music-rhythm-triplets": {
+    "ko": "이 악보에서 보통 8분음표 둘이 들어갈 한 박을 같은 길이의 셋으로 나눈 리듬",
+    "en-US": "In this score, three equal notes occupy the beat normally filled by two eighth notes",
+    "ja": "この譜例で通常八分音符二つが入る一拍を、等しい三つに分けるリズム",
+    "zh-TW": "此譜例把通常容納兩個八分音符的一拍均分為三份的節奏"
+  },
+  "astronomy-distances-ranging": {
+    "ko": "반사 신호의 왕복 시간에 빛의 속도를 곱하고 둘로 나누어 편도 길이를 구하는 방법"
+  },
+  "astronomy-light-thermal": {
+    "ko": "온도에 따라 봉우리 파장이 달라지며 이상적 흑체에서는 온도가 두 배일 때 최대 파장이 절반이 되는 빛의 분포"
+  },
+  "astronomy-gravity-orbit": {
+    "ko": "중력과 물체가 이미 가진 운동이 함께 만드는 경로"
+  },
+  "astronomy-sun-sunspots": {
+    "ko": "강한 자기장과 관련되어 주변의 더 뜨거운 광구보다 어둡게 보이지만 여전히 빛을 내는 영역"
+  },
+  "astronomy-solar-system-asteroid-belt": {
+    "ko": "화성과 목성 사이에 알려진 작은 천체 대부분이 넓게 흩어져 있으며 대부분 빈 공간인 영역"
+  },
+  "astronomy-formation-asteroid-belt": {
+    "ko": "화성과 목성 사이에서 행성 형성과 충돌의 기록을 보존하며, 단일 행성이 파괴된 잔해로는 설명되지 않는 천체 무리"
+  },
+  "astronomy-stellar-properties-red-dwarf": {
+    "ko": "질량과 광도가 작고 표면이 비교적 차가워 연료를 천천히 쓰며 매우 긴 수명이 예측되는 주계열성"
+  },
+  "astronomy-star-formation-dust": {
+    "ko": "별빛을 흡수·산란하고 흡수한 에너지를 적외선으로 내보낼 수 있는 작은 고체 입자"
+  },
+  "astronomy-stellar-evolution-planetary-nebula": {
+    "ko": "진화한 별이 내보낸 외층 가스가 뜨거운 중심별의 복사를 받아 빛나는 성운"
+  },
+  "astronomy-remnants-kilonova": {
+    "ko": "중성자별이 포함된 병합의 방출 물질에서 방사성 붕괴로 빛나는 일시적 현상"
+  },
+  "astronomy-milky-way-spiral-arms": {
+    "ko": "은하 원반에서 가스와 밝고 젊은 별이 두드러지며 영원히 같은 별로 고정되지는 않는 나선 무늬"
+  },
+  "astronomy-galaxies-jets": {
+    "ko": "일부 활동은하핵에서 반대 방향으로 뻗으며 상대론적 효과로 한쪽만 밝게 보일 수도 있는 빠른 입자 흐름"
+  },
+  "astronomy-cosmology-observable-universe": {
+    "ko": "유한한 우주 나이 동안 빛이나 신호가 우리에게 도달할 수 있었던 영역"
+  },
+  "astronomy-dark-universe-wimps": {
+    "ko": "질량을 지니고 보통 물질과 약하게 상호작용할 수 있다고 제안되었으나 아직 발견을 뜻하지는 않는 암흑물질 입자군"
+  },
+  "astronomy-exoplanets-confirmation": {
+    "ko": "행성처럼 보이는 신호를 식쌍성·별 활동·장비 효과 등 다른 원인과 비교하고 추가 관측으로 시험하는 과정"
+  },
+  "math-symbols-add": {
+    "ko": "두 수의 합을 나타내는 기호",
+    "en-US": "Indicates the sum of two numbers",
+    "ja": "二つの数の和を表す記号",
+    "zh-TW": "表示兩數之和的符號"
+  },
+  "math-symbols-subtract": {
+    "ko": "두 수의 차를 나타내거나 한 수가 음수임을 표시하는 기호",
+    "en-US": "Indicates a difference or marks a negative number",
+    "ja": "二数の差、または負の数であることを表す記号",
+    "zh-TW": "表示兩數之差或標示負數的符號"
+  },
+  "math-symbols-multiply": {
+    "ko": "같은 크기의 묶음 수와 한 묶음의 양으로 전체 양을 구하는 연산 기호",
+    "en-US": "Combines the number of equal groups and the amount per group to give a total",
+    "ja": "同じ大きさの組の数と一組の量から全体を求める演算記号",
+    "zh-TW": "由相同大小的組數與每組數量求總量的運算符號"
+  },
+  "math-symbols-equal": {
+    "ko": "양쪽 식이 같은 값을 나타낸다는 표시",
+    "en-US": "Indicates that the expressions on both sides have the same value",
+    "ja": "両辺の式が同じ値を表すことを示す記号",
+    "zh-TW": "表示兩邊算式數值相同的符號"
+  },
+  "math-symbols-unequal": {
+    "ko": "양쪽 값이 같지 않다는 표시",
+    "en-US": "Indicates that two values are different",
+    "ja": "両辺の値が同じではないことを示す記号",
+    "zh-TW": "表示兩邊數值不相同的符號"
+  },
+  "math-symbols-less": {
+    "ko": "왼쪽 값이 오른쪽보다 작다는 표시",
+    "en-US": "Indicates that the value on the left is smaller than the one on the right",
+    "ja": "左の値が右の値より小さいことを示す記号",
+    "zh-TW": "表示左邊數值小於右邊的符號"
+  },
+  "math-symbols-leq": {
+    "ko": "왼쪽 값이 오른쪽보다 작거나 같다는 표시",
+    "en-US": "Indicates that the left value is smaller than or the same as the right value",
+    "ja": "左の値が右の値より小さいか等しいことを示す記号",
+    "zh-TW": "表示左邊數值小於或等於右邊的符號"
+  },
+  "math-symbols-greater": {
+    "ko": "왼쪽 값이 오른쪽보다 크다는 표시",
+    "en-US": "Indicates that the value on the left is larger than the one on the right",
+    "ja": "左の値が右の値より大きいことを示す記号",
+    "zh-TW": "表示左邊數值大於右邊的符號"
+  },
+  "math-symbols-geq": {
+    "ko": "왼쪽 값이 오른쪽보다 크거나 같다는 표시",
+    "en-US": "Indicates that the left value is larger than or the same as the right value",
+    "ja": "左の値が右の値より大きいか等しいことを示す記号",
+    "zh-TW": "表示左邊數值大於或等於右邊的符號"
+  },
+  "math-symbols-approx": {
+    "ko": "정확히 같은 값이 아니라 가까운 값이라는 표시",
+    "en-US": "Indicates values that are close without asserting exact equality",
+    "ja": "厳密な等しさではなく近い値であることを示す記号",
+    "zh-TW": "表示數值接近而非完全相等的符號"
+  },
+  "math-symbols-fraction": {
+    "ko": "분자를 0이 아닌 분모로 나눈 수를 나타내는 표기",
+    "en-US": "Represents the numerator divided by a nonzero denominator",
+    "ja": "分子をゼロでない分母で割った数を表す表記",
+    "zh-TW": "表示分子除以非零分母的寫法"
+  },
+  "math-symbols-power": {
+    "ko": "양의 정수 지수에서는 밑을 그 횟수만큼 거듭 곱한다는 표기",
+    "en-US": "For a positive integer exponent, indicates repeated multiplication of the base",
+    "ja": "正の整数の指数では、底をその回数だけ掛ける表記",
+    "zh-TW": "當指數為正整數時，表示底數重複相乘該次數的寫法"
+  },
+  "math-symbols-sqrt": {
+    "ko": "0 이상인 실수를 제곱해서 만들 수 있는 음이 아닌 수를 나타내는 표기",
+    "en-US": "Represents the nonnegative number whose square is the given nonnegative real number",
+    "ja": "与えられた非負の実数を二乗で作る、非負の数を表す表記",
+    "zh-TW": "表示平方後得到指定非負實數的非負數之寫法"
+  },
+  "math-symbols-absolute": {
+    "ko": "실수와 0 사이의 거리를 나타내는 표기",
+    "en-US": "Represents the distance between a real number and zero",
+    "ja": "実数とゼロの間の距離を表す表記",
+    "zh-TW": "表示一實數到零的距離之寫法"
+  },
+  "math-symbols-percent": {
+    "ko": "전체를 백으로 보았을 때 몇 몫인지를 나타내는 기호",
+    "en-US": "Indicates how many parts out of a hundred",
+    "ja": "全体を百としたときの割合を表す記号",
+    "zh-TW": "表示整體視為一百份時所占份數的符號"
+  },
+  "math-symbols-variable": {
+    "ko": "문맥에 따라 정해지지 않은 수나 변하는 수를 대신하는 문자",
+    "en-US": "A letter denoting a number whose role depends on its use",
+    "ja": "文脈に応じて未定の数や変わる数を表す文字",
+    "zh-TW": "依情境代表未定或變動數值的字母"
+  },
+  "math-symbols-index": {
+    "ko": "수열 등에서 항의 위치나 대상을 구분하는 아래첨자 표기",
+    "en-US": "A subscript identifying a term or position, such as in a sequence",
+    "ja": "数列などで項の位置や対象を区別する添字の表記",
+    "zh-TW": "用下標區分數列項的位置或對象的寫法"
+  },
+  "math-symbols-member": {
+    "ko": "왼쪽 대상이 오른쪽 집합의 원소라는 표시",
+    "en-US": "Indicates that the object on the left belongs to the set on the right",
+    "ja": "左の対象が右の集合の要素であることを示す記号",
+    "zh-TW": "表示左方對象屬於右方集合的符號"
+  },
+  "math-symbols-subset": {
+    "ko": "왼쪽 집합의 모든 원소가 오른쪽 집합에도 있다는 표시",
+    "en-US": "Indicates that every element of the left set is also in the right set",
+    "ja": "左の集合の全要素が右の集合にも属することを示す記号",
+    "zh-TW": "表示左方集合的每個元素也都在右方集合中的符號"
+  },
+  "math-symbols-union": {
+    "ko": "어느 한쪽 집합에라도 속하는 원소들을 모은 결과",
+    "en-US": "The set containing elements that belong to either of two sets",
+    "ja": "どちらか一方にでも属する要素を集めた集合",
+    "zh-TW": "收集屬於兩個集合任一方的元素所得集合"
+  },
+  "math-symbols-intersection": {
+    "ko": "양쪽 집합에 모두 속하는 원소들을 모은 결과",
+    "en-US": "The set containing only elements common to both sets",
+    "ja": "両方の集合に共通して属する要素を集めた集合",
+    "zh-TW": "收集同時屬於兩集合的元素所得集合"
+  },
+  "math-symbols-cardinality": {
+    "ko": "유한 집합에 포함된 서로 다른 원소의 개수",
+    "en-US": "Distinct elements counted within one finite set",
+    "ja": "有限集合に含まれる異なる要素の個数",
+    "zh-TW": "有限集合中相異元素的數量"
+  },
+  "math-symbols-forall": {
+    "ko": "지정된 범위의 모든 대상에 명제가 성립한다는 표시",
+    "en-US": "Indicates that a statement applies to every object in a specified domain",
+    "ja": "指定範囲のすべての対象に命題が成り立つことを示す記号",
+    "zh-TW": "表示命題對指定範圍內每個對象都成立的符號"
+  },
+  "math-symbols-exists": {
+    "ko": "지정된 범위에서 조건을 만족하는 대상이 적어도 하나 있다는 표시",
+    "en-US": "Indicates that at least one object in the specified domain satisfies a condition",
+    "ja": "指定範囲に条件を満たす対象が少なくとも一つあることを示す記号",
+    "zh-TW": "表示指定範圍內至少有一個對象滿足條件的符號"
+  },
+  "math-symbols-implies": {
+    "ko": "왼쪽 명제가 참일 때 오른쪽 명제도 참이라는 표시",
+    "en-US": "Indicates that if the left statement is true, the right statement is true",
+    "ja": "左の命題が真なら右の命題も真であることを示す記号",
+    "zh-TW": "表示左方命題為真時右方命題也為真的符號"
+  },
+  "math-symbols-function": {
+    "ko": "함수에 주어진 입력을 넣었을 때 나오는 출력의 표기",
+    "en-US": "Notation for the output obtained by supplying a given input to a function",
+    "ja": "関数に指定した入力を与えたときの出力を表す表記",
+    "zh-TW": "表示函數接受指定輸入後所得輸出的寫法"
+  },
+  "math-symbols-sum": {
+    "ko": "지정된 범위에 속하는 항들을 모두 더하라는 기호",
+    "en-US": "Instructs adding all terms in a specified range",
+    "ja": "指定範囲の項をすべて足すことを示す記号",
+    "zh-TW": "表示將指定範圍各項全部相加的符號"
+  },
+  "math-symbols-product": {
+    "ko": "지정된 범위에 속하는 항들을 모두 곱하라는 기호",
+    "en-US": "Instructs multiplying all terms in a specified range",
+    "ja": "指定範囲の項をすべて掛けることを示す記号",
+    "zh-TW": "表示將指定範圍各項全部相乘的符號"
+  },
+  "math-symbols-limit": {
+    "ko": "입력이 특정 값에 가까워질 때 출력이 가까워지는 값의 표기",
+    "en-US": "Notation for the value approached by an output as the input approaches a specified point",
+    "ja": "入力がある値に近づくときに出力が近づく値を表す表記",
+    "zh-TW": "表示輸入趨近指定值時輸出所趨近數值的寫法"
+  },
+  "math-symbols-derivative": {
+    "ko": "주어진 변수에 대한 순간변화율을 구하라는 연산 기호",
+    "en-US": "An operator asking for the instantaneous rate of change with respect to a given variable",
+    "ja": "指定した変数について瞬間の変化率を求める演算記号",
+    "zh-TW": "表示求對指定變數之瞬時變化率的運算符號"
+  },
+  "math-symbols-integral": {
+    "ko": "미분하면 주어진 함수가 되는 함수들의 모음을 나타내는 표기",
+    "en-US": "Notation for the family of functions whose derivatives equal the given function",
+    "ja": "微分すると与えられた関数になる関数の集まりを表す表記",
+    "zh-TW": "表示微分後等於指定函數之一族函數的寫法"
+  },
+  "art-ancient-medieval-artist-f3ac2282511a": {
+    "ko": "13세기 말과 14세기 초 시에나에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in Siena in the late thirteenth and early fourteenth centuries.",
+    "ja": "13世紀末から14世紀初めにシエナで活動したイタリアの画家です。",
+    "zh-TW": "十三世紀末至十四世紀初活躍於西恩納的義大利畫家。"
+  },
+  "art-ancient-medieval-artist-f397bca611ad": {
+    "ko": "1320~1344년 시에나에서 활동한 것으로 기록된 이탈리아 화가입니다.",
+    "en-US": "an Italian painter documented as active in Siena in 1320–44.",
+    "ja": "1320〜1344年にシエナで活動したと記録されるイタリアの画家です。",
+    "zh-TW": "有記錄於1320至1344年間活躍於西恩納的義大利畫家。"
+  },
+  "art-ancient-medieval-artist-dd071904f746": {
+    "ko": "우아한 인물 표현으로 알려진 14세기 시에나의 화가입니다.",
+    "en-US": "a fourteenth-century Sienese painter noted for elegant figures.",
+    "ja": "優雅な人物表現で知られる14世紀シエナの画家です。",
+    "zh-TW": "以優雅人物表現著稱的十四世紀西恩納畫家。"
+  },
+  "art-ancient-medieval-artist-398346b55acf": {
+    "ko": "13세기 후반 움브리아에서 활동한 이름이 알려지지 않은 이탈리아 화가를 가리키는 관례적 명칭입니다.",
+    "en-US": "a conventional name for an unidentified Italian painter active in Umbria in the second half of the thirteenth century.",
+    "ja": "13世紀後半にウンブリアで活動した、実名不詳のイタリアの画家の慣用名です。",
+    "zh-TW": "十三世紀後半葉活躍於翁布里亞、真實姓名不詳的義大利畫家的慣用稱呼。"
+  },
+  "art-ancient-medieval-artist-fc91b82f4dc5": {
+    "ko": "14세기 전반 로마냐와 마르케에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in Romagna and the Marches in the first half of the fourteenth century.",
+    "ja": "14世紀前半にロマーニャとマルケで活動したイタリアの画家です。",
+    "zh-TW": "十四世紀前半葉活躍於羅馬涅與馬爾凱的義大利畫家。"
+  },
+  "art-baroque-rococo-artist-1b49f7ee7948": {
+    "ko": "1606–1669 · 네덜란드 화가입니다.",
+    "en-US": "1606–1669 · a Dutch painter.",
+    "ja": "1606–1669 · オランダの画家です。",
+    "zh-TW": "1606–1669 · 荷蘭畫家。"
+  },
+  "art-baroque-rococo-artist-cd470a538470": {
+    "ko": "1577–1640 · 플랑드르 화가입니다.",
+    "en-US": "1577–1640 · a Flemish painter.",
+    "ja": "1577–1640 · フランドルの画家です。",
+    "zh-TW": "1577–1640 · 法蘭德斯畫家。"
+  },
+  "art-baroque-rococo-artist-294daf46298c": {
+    "ko": "1594–1665 · 프랑스 화가입니다.",
+    "en-US": "1594–1665 · a French painter.",
+    "ja": "1594–1665 · フランスの画家です。",
+    "zh-TW": "1594–1665 · 法國畫家。"
+  },
+  "art-baroque-rococo-artist-282b9f7b1332": {
+    "ko": "1684–1721 · 프랑스 화가입니다.",
+    "en-US": "1684–1721 · a French painter.",
+    "ja": "1684–1721 · フランスの画家です。",
+    "zh-TW": "1684–1721 · 法國畫家。"
+  },
+  "art-baroque-rococo-artist-d79852846423": {
+    "ko": "1703–1770 · 프랑스 화가입니다.",
+    "en-US": "1703–1770 · a French painter.",
+    "ja": "1703–1770 · フランスの画家です。",
+    "zh-TW": "1703–1770 · 法國畫家。"
+  },
+  "art-baroque-rococo-artist-f1fe0a3aa6f9": {
+    "ko": "1732–1806 · 프랑스 화가입니다.",
+    "en-US": "1732–1806 · a French painter.",
+    "ja": "1732–1806 · フランスの画家です。",
+    "zh-TW": "1732–1806 · 法國畫家。"
+  },
+  "art-chinese-artist-0ffc605b846f": {
+    "ko": "활동 연대가 불확실한 중국 산수화가",
+    "en-US": "A Chinese landscape painter whose chronology remains uncertain",
+    "ja": "活動年代が不確かな中国の山水画家",
+    "zh-TW": "活動年代尚不確定的中國山水畫家"
+  },
+  "art-chinese-artist-c9c8e69fe2cf": {
+    "ko": "17세기 중국에서 활동한 화가로, 동원은 이 부채가 참조한 옛 화풍의 인물이지 실제 제작자가 아닙니다.",
+    "en-US": "a Chinese painter active in the seventeenth century; Dong Yuan names the earlier manner referenced by the fan, not its actual maker.",
+    "ja": "17世紀中国で活動した画家で、董源はこの扇が参照する過去の画風の人物であり、実際の制作者ではありません。",
+    "zh-TW": "十七世紀活躍於中國的畫家；董源是此扇參考的前代畫風人物，而非實際製作者。"
+  },
+  "art-chinese-artist-7f2fdaa2f4c5": {
+    "ko": "메트 기록상 약 1627년부터 1682년 이후까지 활동한 중국 화가입니다.",
+    "en-US": "a Chinese painter recorded by The Met as active from about 1627 to after 1682.",
+    "ja": "メトロポリタン美術館の記録では1627年頃から1682年以降まで活動した中国の画家です。",
+    "zh-TW": "大都會藝術博物館記錄約自1627年至1682年之後仍活躍的中國畫家。"
+  },
+  "art-chinese-artist-55dcf2949af5": {
+    "ko": "1632–1717 · 중국 화가입니다.",
+    "en-US": "1632–1717 · a Chinese painter.",
+    "ja": "1632–1717 · 中国の画家です。",
+    "zh-TW": "1632–1717 · 中國畫家。"
+  },
+  "art-chinese-artist-a46a017b12e1": {
+    "ko": "1823–1886 · 중국 화가입니다.",
+    "en-US": "1823–1886 · a Chinese painter.",
+    "ja": "1823–1886 · 中国の画家です。",
+    "zh-TW": "1823–1886 · 中國畫家。"
+  },
+  "art-chinese-artist-4d85bce6d417": {
+    "ko": "생애 기록이 적은 청대 중국 화가로, 메트는 그의 꽃 그림을 비릉파 전통과 연결합니다.",
+    "en-US": "a little-documented Qing Chinese painter whose flower painting The Met relates to the Piling School.",
+    "ja": "伝記資料の少ない清代中国の画家で、メトロポリタン美術館はその花の絵を毘陵派の伝統に結びつけています。",
+    "zh-TW": "生平記載較少的清代中國畫家，大都會藝術博物館將其花卉畫與毘陵派傳統相聯繫。"
+  },
+  "art-chinese-artist-f376d839819a": {
+    "ko": "메트 기록상 약 1862~1908년에 활동한 중국 화가로, 초상 속 조지겸은 그림의 제문을 쓴 인물입니다.",
+    "en-US": "a Chinese painter active about 1862–1908 according to The Met; the sitter Zhao Zhiqian wrote the portrait’s inscription.",
+    "ja": "メトロポリタン美術館の記録では1862年頃〜1908年に活動した中国の画家で、描かれた趙之謙は画中の題文を記しました。",
+    "zh-TW": "據大都會藝術博物館記錄約於1862至1908年間活動的中國畫家；畫中的趙之謙撰寫了題文。"
+  },
+  "art-chinese-artist-a82af807aac2": {
+    "ko": "1799–1870 · 중국 화가입니다.",
+    "en-US": "1799–1870 · a Chinese painter.",
+    "ja": "1799–1870 · 中国の画家です。",
+    "zh-TW": "1799–1870 · 中國畫家。"
+  },
+  "art-comparisons-artist-0ffc605b846f": {
+    "ko": "활동 연대가 불확실한 중국 산수화가",
+    "en-US": "A Chinese landscape painter whose chronology remains uncertain",
+    "ja": "活動年代が不確かな中国の山水画家",
+    "zh-TW": "活動年代尚不確定的中國山水畫家"
+  },
+  "art-comparisons-artist-dffba8886e4d": {
+    "ko": "1801–1848 · 미국 화가입니다.",
+    "en-US": "1801–1848 · an American painter.",
+    "ja": "1801–1848 · アメリカの画家です。",
+    "zh-TW": "1801–1848 · 美國畫家。"
+  },
+  "art-comparisons-artist-4d85bce6d417": {
+    "ko": "생애 기록이 적은 청대 중국 화가로, 메트는 그의 꽃 그림을 비릉파 전통과 연결합니다.",
+    "en-US": "a little-documented Qing Chinese painter whose flower painting The Met relates to the Piling School.",
+    "ja": "伝記資料の少ない清代中国の画家で、メトロポリタン美術館はその花の絵を毘陵派の伝統に結びつけています。",
+    "zh-TW": "生平記載較少的清代中國畫家，大都會藝術博物館將其花卉畫與毘陵派傳統相聯繫。"
+  },
+  "art-comparisons-artist-1a7a09126359": {
+    "ko": "도라지꽃 부채를 그린 실명 미상의 일본 화가로, 한 거장의 화풍을 따른다는 한정 귀속",
+    "en-US": "An unidentified Japanese painter credited as following an earlier master’s style in a bellflower fan",
+    "ja": "桔梗の扇を描いた実名不詳の日本画家で、先人の様式に従うとされた限定付きの帰属",
+    "zh-TW": "桔梗扇面的匿名日本畫家，歸屬被限定為採用前代大師風格的製作者"
+  },
+  "art-comparisons-artist-c79bed8b8251": {
+    "ko": "1849–1916 · 미국 화가입니다.",
+    "en-US": "1849–1916 · an American painter.",
+    "ja": "1849–1916 · アメリカの画家です。",
+    "zh-TW": "1849–1916 · 美國畫家。"
+  },
+  "art-comparisons-artist-56a588531603": {
+    "ko": "16세기 초 일본에서 활동한 수묵 화조화가입니다.",
+    "en-US": "a Japanese painter active in the early sixteenth century, represented here by an ink bird-and-flower painting.",
+    "ja": "16世紀初めの日本で活動した水墨花鳥画家です。",
+    "zh-TW": "十六世紀初活躍於日本的水墨花鳥畫家。"
+  },
+  "art-comparisons-artist-d9207eb2fba9": {
+    "ko": "18세기 인도에서 자연사 그림을 그린 화가이며, 이 박쥐 그림은 그 또는 추종자의 작품으로 추정됩니다.",
+    "en-US": "an eighteenth-century Indian natural-history painter; this bat is attributed to him or a follower.",
+    "ja": "18世紀インドで博物画を描いた画家で、このコウモリ図は本人または追随者の作と推定されています。",
+    "zh-TW": "十八世紀印度的自然史畫家，此蝙蝠圖被推定為他或追隨者所作。"
+  },
+  "art-comparisons-artist-a9e7d40e4875": {
+    "ko": "18세기 에도에서 활동하고 1789년에 사망한 일본 화가로, 그 밖의 생애는 거의 알려지지 않았습니다.",
+    "en-US": "a Japanese painter who worked in eighteenth-century Edo and died in 1789; little else is known of his life.",
+    "ja": "18世紀の江戸で活動し1789年に没した日本の画家で、それ以外の生涯はほとんど分かっていません。",
+    "zh-TW": "十八世紀活躍於江戶、1789年去世的日本畫家，其他生平資料所知甚少。"
+  },
+  "art-comparisons-artist-313d8c8f00c8": {
+    "ko": "18세기 초 인도 북부의 해당 궁정에서 활동한 실명 미상의 화가",
+    "en-US": "An unnamed painter working for this northern Indian court in the early eighteenth century",
+    "ja": "18世紀初めにインド北部の当該宮廷で活動した実名不詳の画家",
+    "zh-TW": "十八世紀初於印度北部該宮廷活動、真實姓名不詳的畫家"
+  },
+  "art-comparisons-artist-f376d839819a": {
+    "ko": "메트 기록상 약 1862~1908년에 활동한 중국 화가로, 초상 속 조지겸은 그림의 제문을 쓴 인물입니다.",
+    "en-US": "a Chinese painter active about 1862–1908 according to The Met; the sitter Zhao Zhiqian wrote the portrait’s inscription.",
+    "ja": "メトロポリタン美術館の記録では1862年頃〜1908年に活動した中国の画家で、描かれた趙之謙は画中の題文を記しました。",
+    "zh-TW": "據大都會藝術博物館記錄約於1862至1908年間活動的中國畫家；畫中的趙之謙撰寫了題文。"
+  },
+  "art-comparisons-artist-7ec8567e64fb": {
+    "ko": "1760–1849 · 일본 화가입니다.",
+    "en-US": "1760–1849 · a Japanese painter.",
+    "ja": "1760–1849 · 日本の画家です。",
+    "zh-TW": "1760–1849 · 日本畫家。"
+  },
+  "art-comparisons-artist-3a322be62d08": {
+    "ko": "1797–1858 · 일본 화가입니다.",
+    "en-US": "1797–1858 · a Japanese painter.",
+    "ja": "1797–1858 · 日本の画家です。",
+    "zh-TW": "1797–1858 · 日本畫家。"
+  },
+  "art-comparisons-artist-a7da1e381230": {
+    "ko": "1745–1820 · 일본 화가입니다.",
+    "en-US": "1745–1820 · a Japanese painter.",
+    "ja": "1745–1820 · 日本の画家です。",
+    "zh-TW": "1745–1820 · 日本畫家。"
+  },
+  "art-impressionism-artist-ee6db909dec3": {
+    "ko": "1841–1919 · 프랑스 화가입니다.",
+    "en-US": "1841–1919 · a French painter.",
+    "ja": "1841–1919 · フランスの画家です。",
+    "zh-TW": "1841–1919 · 法國畫家。"
+  },
+  "art-impressionism-artist-df0d7f6398cd": {
+    "ko": "1839–1899 · 영국계 화가입니다.",
+    "en-US": "1839–1899 · a British painter.",
+    "ja": "1839–1899 · イギリス系の画家です。",
+    "zh-TW": "1839–1899 · 英國籍畫家。"
+  },
+  "art-impressionism-artist-acdf63c40613": {
+    "ko": "1853–1890 · 네덜란드 화가입니다.",
+    "en-US": "1853–1890 · a Dutch painter.",
+    "ja": "1853–1890 · オランダの画家です。",
+    "zh-TW": "1853–1890 · 荷蘭畫家。"
+  },
+  "art-impressionism-artist-0231a48f62ce": {
+    "ko": "1834–1917 · 프랑스 화가입니다.",
+    "en-US": "1834–1917 · a French painter.",
+    "ja": "1834–1917 · フランスの画家です。",
+    "zh-TW": "1834–1917 · 法國畫家。"
+  },
+  "art-impressionism-artist-5a7dd26ac17f": {
+    "ko": "1841–1895 · 프랑스 화가입니다.",
+    "en-US": "1841–1895 · a French painter.",
+    "ja": "1841–1895 · フランスの画家です。",
+    "zh-TW": "1841–1895 · 法國畫家。"
+  },
+  "art-impressionism-artist-d3fbb94317ad": {
+    "ko": "1832–1883 · 프랑스 화가입니다.",
+    "en-US": "1832–1883 · a French painter.",
+    "ja": "1832–1883 · フランスの画家です。",
+    "zh-TW": "1832–1883 · 法國畫家。"
+  },
+  "art-impressionism-artist-3fee799b8139": {
+    "ko": "1839–1906 · 프랑스 화가입니다.",
+    "en-US": "1839–1906 · a French painter.",
+    "ja": "1839–1906 · フランスの画家です。",
+    "zh-TW": "1839–1906 · 法國畫家。"
+  },
+  "art-japanese-artist-21fa77381db5": {
+    "ko": "1559–1635 · 일본 가노파 화가이며, 이 공연 장면은 그의 작품으로 추정됩니다.",
+    "en-US": "1559–1635 · a Japanese Kano-school painter; the performance scene is attributed to him.",
+    "ja": "1559〜1635 · 日本の狩野派の画家で、この上演場面は彼の作と推定されています。",
+    "zh-TW": "1559–1635 · 日本狩野派畫家，此表演場景被推定為其作品。"
+  },
+  "art-japanese-artist-a9e7d40e4875": {
+    "ko": "18세기 에도에서 활동하고 1789년에 사망한 일본 화가로, 그 밖의 생애는 거의 알려지지 않았습니다.",
+    "en-US": "a Japanese painter who worked in eighteenth-century Edo and died in 1789; little else is known of his life.",
+    "ja": "18世紀の江戸で活動し1789年に没した日本の画家で、それ以外の生涯はほとんど分かっていません。",
+    "zh-TW": "十八世紀活躍於江戶、1789年去世的日本畫家，其他生平資料所知甚少。"
+  },
+  "art-japanese-artist-a7da1e381230": {
+    "ko": "1745–1820 · 일본 화가입니다.",
+    "en-US": "1745–1820 · a Japanese painter.",
+    "ja": "1745–1820 · 日本の画家です。",
+    "zh-TW": "1745–1820 · 日本畫家。"
+  },
+  "art-japanese-artist-56a588531603": {
+    "ko": "16세기 초 일본에서 활동한 수묵 화조화가입니다.",
+    "en-US": "a Japanese painter active in the early sixteenth century, represented here by an ink bird-and-flower painting.",
+    "ja": "16世紀初めの日本で活動した水墨花鳥画家です。",
+    "zh-TW": "十六世紀初活躍於日本的水墨花鳥畫家。"
+  },
+  "art-japanese-artist-9d117fedf65b": {
+    "ko": "1776–1853 · 일본 화가입니다.",
+    "en-US": "1776–1853 · a Japanese painter.",
+    "ja": "1776–1853 · 日本の画家です。",
+    "zh-TW": "1776–1853 · 日本畫家。"
+  },
+  "art-japanese-artist-3e766a5301fa": {
+    "ko": "1636–1713 · 일본 화가입니다.",
+    "en-US": "1636–1713 · a Japanese painter.",
+    "ja": "1636–1713 · 日本の画家です。",
+    "zh-TW": "1636–1713 · 日本畫家。"
+  },
+  "art-japanese-artist-1a7a09126359": {
+    "ko": "도라지꽃 부채를 그린 실명 미상의 일본 화가로, 한 거장의 화풍을 따른다는 한정 귀속",
+    "en-US": "An unidentified Japanese painter credited as following an earlier master’s style in a bellflower fan",
+    "ja": "桔梗の扇を描いた実名不詳の日本画家で、先人の様式に従うとされた限定付きの帰属",
+    "zh-TW": "桔梗扇面的匿名日本畫家，歸屬被限定為採用前代大師風格的製作者"
+  },
+  "art-japanese-artist-bf55f1b6de37": {
+    "ko": "1763–1840 · 일본 화가입니다.",
+    "en-US": "1763–1840 · a Japanese painter.",
+    "ja": "1763–1840 · 日本の画家です。",
+    "zh-TW": "1763–1840 · 日本畫家。"
+  },
+  "art-japanese-artist-afa4b87a556a": {
+    "ko": "1779–1821 · 일본 화가입니다.",
+    "en-US": "1779–1821 · a Japanese painter.",
+    "ja": "1779–1821 · 日本の画家です。",
+    "zh-TW": "1779–1821 · 日本畫家。"
+  },
+  "art-japanese-artist-7ec8567e64fb": {
+    "ko": "1760–1849 · 일본 화가입니다.",
+    "en-US": "1760–1849 · a Japanese painter.",
+    "ja": "1760–1849 · 日本の画家です。",
+    "zh-TW": "1760–1849 · 日本畫家。"
+  },
+  "art-japanese-artist-3a322be62d08": {
+    "ko": "1797–1858 · 일본 화가입니다.",
+    "en-US": "1797–1858 · a Japanese painter.",
+    "ja": "1797–1858 · 日本の画家です。",
+    "zh-TW": "1797–1858 · 日本畫家。"
+  },
+  "art-korean-artist-674bb9ff2791": {
+    "ko": "1814–1888 · 시·서화에 능했고 고종 때 영의정을 지낸 조선의 문신입니다.",
+    "en-US": "1814–1888 · a Joseon scholar-official, painter, poet and calligrapher who served as chief state councillor under Gojong.",
+    "ja": "1814〜1888 · 詩書画に通じ、高宗期に領議政を務めた朝鮮の文官です。",
+    "zh-TW": "1814–1888 · 擅長詩書畫、於高宗時期擔任領議政的朝鮮文臣。"
+  },
+  "art-korean-artist-52f8447a03c2": {
+    "ko": "18세기 말~19세기 초 조선의 화가로, 서명·인장이 남은 소수 작품 외에 생애 자료는 적습니다.",
+    "en-US": "a Joseon painter active in the late eighteenth and early nineteenth centuries; little is known beyond a few signed and sealed works.",
+    "ja": "18世紀末から19世紀初めに活動した朝鮮の画家で、署名・印のある少数の作品以外に伝記資料は乏しい人物です。",
+    "zh-TW": "十八世紀末至十九世紀初活躍的朝鮮畫家，除少數有署名與印章的作品外，生平資料有限。"
+  },
+  "art-korean-artist-02f41dfa8a0d": {
+    "ko": "1785–1866 · 정선의 금강산 그림을 본받으면서 이중 윤곽의 봉우리를 그린 조선 화가입니다.",
+    "en-US": "1785–1866 · a Joseon painter who followed Jeong Seon’s Geumgang compositions while using distinctive double-outlined peaks.",
+    "ja": "1785〜1866 · 鄭敾の金剛山図に学び、二重の輪郭線による峰を描いた朝鮮の画家です。",
+    "zh-TW": "1785–1866 · 師法鄭敾金剛山構圖、以雙重輪廓描繪山峰的朝鮮畫家。"
+  },
+  "art-looking-artist-f3ac2282511a": {
+    "ko": "13세기 말과 14세기 초 시에나에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in Siena in the late thirteenth and early fourteenth centuries.",
+    "ja": "13世紀末から14世紀初めにシエナで活動したイタリアの画家です。",
+    "zh-TW": "十三世紀末至十四世紀初活躍於西恩納的義大利畫家。"
+  },
+  "art-looking-artist-fc91b82f4dc5": {
+    "ko": "14세기 전반 로마냐와 마르케에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in Romagna and the Marches in the first half of the fourteenth century.",
+    "ja": "14世紀前半にロマーニャとマルケで活動したイタリアの画家です。",
+    "zh-TW": "十四世紀前半葉活躍於羅馬涅與馬爾凱的義大利畫家。"
+  },
+  "art-looking-artist-b6a4b5228a85": {
+    "ko": "1503–1572 · 이탈리아 화가입니다.",
+    "en-US": "1503–1572 · an Italian painter.",
+    "ja": "1503–1572 · イタリアの画家です。",
+    "zh-TW": "1503–1572 · 義大利畫家。"
+  },
+  "art-looking-artist-49be1115209f": {
+    "ko": "서민의 삶과 풍경을 그린 16세기 남부 네덜란드의 화가이자 소묘가입니다.",
+    "en-US": "a sixteenth-century Netherlandish painter and draughtsman who depicted everyday life and landscape.",
+    "ja": "庶民の生活や風景を描いた16世紀ネーデルラントの画家・素描家です。",
+    "zh-TW": "描繪庶民生活與風景的十六世紀尼德蘭畫家兼素描家。"
+  },
+  "art-looking-artist-7ea37fb27fdf": {
+    "ko": "15세기 브뤼허에서 활동한 네덜란드 지역의 화가입니다.",
+    "en-US": "a Netherlandish painter active in fifteenth-century Bruges.",
+    "ja": "15世紀ブルッヘで活動したネーデルラントの画家です。",
+    "zh-TW": "十五世紀活躍於布魯日的尼德蘭畫家。"
+  },
+  "art-looking-artist-ec0e7ba59bd3": {
+    "ko": "15세기 피렌체에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in fifteenth-century Florence.",
+    "ja": "15世紀フィレンツェで活動したイタリアの画家です。",
+    "zh-TW": "十五世紀活躍於佛羅倫斯的義大利畫家。"
+  },
+  "art-looking-artist-a3cd33da26f0": {
+    "ko": "15세기와 16세기 초 만토바에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in Mantua in the fifteenth and early sixteenth centuries.",
+    "ja": "15世紀から16世紀初めにマントヴァで活動したイタリアの画家です。",
+    "zh-TW": "十五世紀至十六世紀初活躍於曼托瓦的義大利畫家。"
+  },
+  "art-looking-artist-f6e273ac104a": {
+    "ko": "약 1445–1510 · 피렌체의 화가이자 소묘가입니다.",
+    "en-US": "about 1445–1510 · a Florentine painter and draughtsman.",
+    "ja": "1445年頃〜1510年 · フィレンツェの画家・素描家です。",
+    "zh-TW": "約1445–1510 · 佛羅倫斯的畫家兼素描家。"
+  },
+  "art-looking-artist-7ec8567e64fb": {
+    "ko": "1760–1849 · 일본 화가입니다.",
+    "en-US": "1760–1849 · a Japanese painter.",
+    "ja": "1760–1849 · 日本の画家です。",
+    "zh-TW": "1760–1849 · 日本畫家。"
+  },
+  "art-looking-artist-d9207eb2fba9": {
+    "ko": "18세기 인도에서 자연사 그림을 그린 화가이며, 이 박쥐 그림은 그 또는 추종자의 작품으로 추정됩니다.",
+    "en-US": "an eighteenth-century Indian natural-history painter; this bat is attributed to him or a follower.",
+    "ja": "18世紀インドで博物画を描いた画家で、このコウモリ図は本人または追随者の作と推定されています。",
+    "zh-TW": "十八世紀印度的自然史畫家，此蝙蝠圖被推定為他或追隨者所作。"
+  },
+  "art-materials-artist-f3ac2282511a": {
+    "ko": "13세기 말과 14세기 초 시에나에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in Siena in the late thirteenth and early fourteenth centuries.",
+    "ja": "13世紀末から14世紀初めにシエナで活動したイタリアの画家です。",
+    "zh-TW": "十三世紀末至十四世紀初活躍於西恩納的義大利畫家。"
+  },
+  "art-materials-artist-bd976af7026f": {
+    "ko": "15세기 브뤼허에서 활동한 네덜란드 지역의 화가입니다.",
+    "en-US": "a Netherlandish painter active in fifteenth-century Bruges.",
+    "ja": "15世紀ブルッヘで活動したネーデルラントの画家です。",
+    "zh-TW": "十五世紀活躍於布魯日的尼德蘭畫家。"
+  },
+  "art-materials-artist-fef6e30f000d": {
+    "ko": "16세기 베네치아에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in sixteenth-century Venice.",
+    "ja": "16世紀ヴェネツィアで活動したイタリアの画家です。",
+    "zh-TW": "十六世紀活躍於威尼斯的義大利畫家。"
+  },
+  "art-materials-artist-7ec8567e64fb": {
+    "ko": "1760–1849 · 일본 화가입니다.",
+    "en-US": "1760–1849 · a Japanese painter.",
+    "ja": "1760–1849 · 日本の画家です。",
+    "zh-TW": "1760–1849 · 日本畫家。"
+  },
+  "art-materials-artist-d9207eb2fba9": {
+    "ko": "18세기 인도에서 자연사 그림을 그린 화가이며, 이 박쥐 그림은 그 또는 추종자의 작품으로 추정됩니다.",
+    "en-US": "an eighteenth-century Indian natural-history painter; this bat is attributed to him or a follower.",
+    "ja": "18世紀インドで博物画を描いた画家で、このコウモリ図は本人または追随者の作と推定されています。",
+    "zh-TW": "十八世紀印度的自然史畫家，此蝙蝠圖被推定為他或追隨者所作。"
+  },
+  "art-modern-artist-3fee799b8139": {
+    "ko": "1839–1906 · 프랑스 화가입니다.",
+    "en-US": "1839–1906 · a French painter.",
+    "ja": "1839–1906 · フランスの画家です。",
+    "zh-TW": "1839–1906 · 法國畫家。"
+  },
+  "art-modern-artist-c72a1e7366f8": {
+    "ko": "1859–1891 · 프랑스 화가입니다.",
+    "en-US": "1859–1891 · a French painter.",
+    "ja": "1859–1891 · フランスの画家です。",
+    "zh-TW": "1859–1891 · 法國畫家。"
+  },
+  "art-modern-artist-4bc5de554230": {
+    "ko": "1864–1901 · 프랑스 화가입니다.",
+    "en-US": "1864–1901 · a French painter.",
+    "ja": "1864–1901 · フランスの画家です。",
+    "zh-TW": "1864–1901 · 法國畫家。"
+  },
+  "art-modern-artist-d3fbb94317ad": {
+    "ko": "1832–1883 · 프랑스 화가입니다.",
+    "en-US": "1832–1883 · a French painter.",
+    "ja": "1832–1883 · フランスの画家です。",
+    "zh-TW": "1832–1883 · 法國畫家。"
+  },
+  "art-modern-artist-acea262af00b": {
+    "ko": "1844–1910 · 프랑스 화가입니다.",
+    "en-US": "1844–1910 · a French painter.",
+    "ja": "1844–1910 · フランスの画家です。",
+    "zh-TW": "1844–1910 · 法國畫家。"
+  },
+  "art-modern-artist-5cc2ea21da32": {
+    "ko": "1848–1903 · 프랑스 화가입니다.",
+    "en-US": "1848–1903 · a French painter.",
+    "ja": "1848–1903 · フランスの画家です。",
+    "zh-TW": "1848–1903 · 法國畫家。"
+  },
+  "art-nineteenth-century-artist-077d9fae6869": {
+    "ko": "1748–1825 · 프랑스 화가입니다.",
+    "en-US": "1748–1825 · a French painter.",
+    "ja": "1748–1825 · フランスの画家です。",
+    "zh-TW": "1748–1825 · 法國畫家。"
+  },
+  "art-nineteenth-century-artist-a3ae4c2791c3": {
+    "ko": "1780–1867년에 살았던 프랑스 화가와 그의 작업실이 함께 제작에 관여했다는 귀속",
+    "en-US": "A joint attribution to a French painter who lived in 1780–1867 and his studio",
+    "ja": "1780〜1867年に生きたフランスの画家と、その工房の共同関与を示す帰属",
+    "zh-TW": "指1780至1867年間在世的法國畫家與其畫室共同參與製作的歸屬"
+  },
+  "art-nineteenth-century-artist-c3ab43e907e8": {
+    "ko": "1798–1863 · 프랑스 화가입니다.",
+    "en-US": "1798–1863 · a French painter.",
+    "ja": "1798–1863 · フランスの画家です。",
+    "zh-TW": "1798–1863 · 法國畫家。"
+  },
+  "art-nineteenth-century-artist-f675b1333905": {
+    "ko": "1791–1824 · 프랑스 화가입니다.",
+    "en-US": "1791–1824 · a French painter.",
+    "ja": "1791–1824 · フランスの画家です。",
+    "zh-TW": "1791–1824 · 法國畫家。"
+  },
+  "art-nineteenth-century-artist-8a96926de27d": {
+    "ko": "1774–1840 · 독일 화가입니다.",
+    "en-US": "1774–1840 · a German painter.",
+    "ja": "1774–1840 · ドイツの画家です。",
+    "zh-TW": "1774–1840 · 德國畫家。"
+  },
+  "art-nineteenth-century-artist-f26619320c2e": {
+    "ko": "1775–1851 · 영국계 화가입니다.",
+    "en-US": "1775–1851 · a British painter.",
+    "ja": "1775–1851 · イギリス系の画家です。",
+    "zh-TW": "1775–1851 · 英國籍畫家。"
+  },
+  "art-nineteenth-century-artist-03979e8130a8": {
+    "ko": "1819–1877 · 프랑스 화가입니다.",
+    "en-US": "1819–1877 · a French painter.",
+    "ja": "1819–1877 · フランスの画家です。",
+    "zh-TW": "1819–1877 · 法國畫家。"
+  },
+  "art-nineteenth-century-artist-972581be4a41": {
+    "ko": "1814–1875 · 프랑스 화가입니다.",
+    "en-US": "1814–1875 · a French painter.",
+    "ja": "1814–1875 · フランスの画家です。",
+    "zh-TW": "1814–1875 · 法國畫家。"
+  },
+  "art-nineteenth-century-artist-35ce6457265a": {
+    "ko": "1796–1875 · 프랑스 화가입니다.",
+    "en-US": "1796–1875 · a French painter.",
+    "ja": "1796–1875 · フランスの画家です。",
+    "zh-TW": "1796–1875 · 法國畫家。"
+  },
+  "art-nineteenth-century-artist-765e53ea53ba": {
+    "ko": "1812–1867 · 프랑스 화가입니다.",
+    "en-US": "1812–1867 · a French painter.",
+    "ja": "1812–1867 · フランスの画家です。",
+    "zh-TW": "1812–1867 · 法國畫家。"
+  },
+  "art-people-life-artist-be7cf30fa481": {
+    "ko": "16세기 명대 중국의 화가이며, 이 어부와 가족 그림은 그의 작품으로 추정됩니다.",
+    "en-US": "a sixteenth-century Ming Chinese painter; the fisherman-and-family painting is attributed to him.",
+    "ja": "16世紀明代中国の画家で、この漁師と家族の絵は彼の作品と推定されています。",
+    "zh-TW": "十六世紀明代中國畫家，此漁夫與家人圖被推定為其作品。"
+  },
+  "art-people-life-artist-a9e7d40e4875": {
+    "ko": "18세기 에도에서 활동하고 1789년에 사망한 일본 화가로, 그 밖의 생애는 거의 알려지지 않았습니다.",
+    "en-US": "a Japanese painter who worked in eighteenth-century Edo and died in 1789; little else is known of his life.",
+    "ja": "18世紀の江戸で活動し1789年に没した日本の画家で、それ以外の生涯はほとんど分かっていません。",
+    "zh-TW": "十八世紀活躍於江戶、1789年去世的日本畫家，其他生平資料所知甚少。"
+  },
+  "art-people-life-artist-21fa77381db5": {
+    "ko": "1559–1635 · 일본 가노파 화가이며, 이 공연 장면은 그의 작품으로 추정됩니다.",
+    "en-US": "1559–1635 · a Japanese Kano-school painter; the performance scene is attributed to him.",
+    "ja": "1559〜1635 · 日本の狩野派の画家で、この上演場面は彼の作と推定されています。",
+    "zh-TW": "1559–1635 · 日本狩野派畫家，此表演場景被推定為其作品。"
+  },
+  "art-people-life-artist-313d8c8f00c8": {
+    "ko": "18세기 초 인도 북부의 해당 궁정에서 활동한 실명 미상의 화가",
+    "en-US": "An unnamed painter working for this northern Indian court in the early eighteenth century",
+    "ja": "18世紀初めにインド北部の当該宮廷で活動した実名不詳の画家",
+    "zh-TW": "十八世紀初於印度北部該宮廷活動、真實姓名不詳的畫家"
+  },
+  "art-people-life-artist-1aa22e3641aa": {
+    "ko": "14세기 말~15세기 초 에티오피아 복음서의 실명 미상 제작자에게 붙인 지역 표기",
+    "en-US": "A regional designation for the unidentified maker of a late-fourteenth- or early-fifteenth-century Ethiopian Gospel book",
+    "ja": "14世紀末〜15世紀初めのエチオピア福音書の実名不詳の制作者を指す地域表記",
+    "zh-TW": "指十四世紀末至十五世紀初衣索比亞福音書匿名製作者的地區稱呼"
+  },
+  "art-people-life-artist-97e999c33244": {
+    "ko": "17세기 말 에티오피아 필경사로, 이 기도서의 제작자로 추정되는 인물",
+    "en-US": "A late-seventeenth-century Ethiopian scribe to whom this prayer book is attributed",
+    "ja": "この祈祷書の制作者と推定される17世紀末エチオピアの写字生",
+    "zh-TW": "十七世紀末衣索比亞抄寫員，此祈禱書被推定為其作品"
+  },
+  "art-people-life-artist-3a322be62d08": {
+    "ko": "1797–1858 · 일본 화가입니다.",
+    "en-US": "1797–1858 · a Japanese painter.",
+    "ja": "1797–1858 · 日本の画家です。",
+    "zh-TW": "1797–1858 · 日本畫家。"
+  },
+  "art-people-life-artist-7ec8567e64fb": {
+    "ko": "1760–1849 · 일본 화가입니다.",
+    "en-US": "1760–1849 · a Japanese painter.",
+    "ja": "1760–1849 · 日本の画家です。",
+    "zh-TW": "1760–1849 · 日本畫家。"
+  },
+  "art-renaissance-artist-b0214bd4f0d1": {
+    "ko": "15세기와 16세기 초 베네치아에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in Venice in the fifteenth and early sixteenth centuries.",
+    "ja": "15世紀から16世紀初めにヴェネツィアで活動したイタリアの画家です。",
+    "zh-TW": "十五世紀至十六世紀初活躍於威尼斯的義大利畫家。"
+  },
+  "art-renaissance-artist-b6a4b5228a85": {
+    "ko": "1503–1572 · 이탈리아 화가입니다.",
+    "en-US": "1503–1572 · an Italian painter.",
+    "ja": "1503–1572 · イタリアの画家です。",
+    "zh-TW": "1503–1572 · 義大利畫家。"
+  },
+  "art-renaissance-artist-49be1115209f": {
+    "ko": "서민의 삶과 풍경을 그린 16세기 남부 네덜란드의 화가이자 소묘가입니다.",
+    "en-US": "a sixteenth-century Netherlandish painter and draughtsman who depicted everyday life and landscape.",
+    "ja": "庶民の生活や風景を描いた16世紀ネーデルラントの画家・素描家です。",
+    "zh-TW": "描繪庶民生活與風景的十六世紀尼德蘭畫家兼素描家。"
+  },
+  "art-renaissance-artist-7ea37fb27fdf": {
+    "ko": "15세기 브뤼허에서 활동한 네덜란드 지역의 화가입니다.",
+    "en-US": "a Netherlandish painter active in fifteenth-century Bruges.",
+    "ja": "15世紀ブルッヘで活動したネーデルラントの画家です。",
+    "zh-TW": "十五世紀活躍於布魯日的尼德蘭畫家。"
+  },
+  "art-renaissance-artist-bd976af7026f": {
+    "ko": "15세기 브뤼허에서 활동한 네덜란드 지역의 화가입니다.",
+    "en-US": "a Netherlandish painter active in fifteenth-century Bruges.",
+    "ja": "15世紀ブルッヘで活動したネーデルラントの画家です。",
+    "zh-TW": "十五世紀活躍於布魯日的尼德蘭畫家。"
+  },
+  "art-renaissance-artist-d60887bf47f1": {
+    "ko": "16세기 독일에서 태어나 런던에서도 활동한 화가입니다.",
+    "en-US": "a sixteenth-century German-born painter who also worked in London.",
+    "ja": "16世紀のドイツ生まれの画家で、ロンドンでも活動しました。",
+    "zh-TW": "十六世紀出生於德國、也在倫敦活動的畫家。"
+  },
+  "art-renaissance-artist-ec0e7ba59bd3": {
+    "ko": "15세기 피렌체에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in fifteenth-century Florence.",
+    "ja": "15世紀フィレンツェで活動したイタリアの画家です。",
+    "zh-TW": "十五世紀活躍於佛羅倫斯的義大利畫家。"
+  },
+  "art-renaissance-artist-a3cd33da26f0": {
+    "ko": "15세기와 16세기 초 만토바에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in Mantua in the fifteenth and early sixteenth centuries.",
+    "ja": "15世紀から16世紀初めにマントヴァで活動したイタリアの画家です。",
+    "zh-TW": "十五世紀至十六世紀初活躍於曼托瓦的義大利畫家。"
+  },
+  "art-renaissance-artist-79bdb9235f0f": {
+    "ko": "1483–1520 · 이탈리아 화가입니다.",
+    "en-US": "1483–1520 · an Italian painter.",
+    "ja": "1483–1520 · イタリアの画家です。",
+    "zh-TW": "1483–1520 · 義大利畫家。"
+  },
+  "art-renaissance-artist-4ba908368a3c": {
+    "ko": "15세기 브뤼셀에서 활동한 네덜란드 지역의 화가입니다.",
+    "en-US": "a Netherlandish painter active in fifteenth-century Brussels.",
+    "ja": "15世紀ブリュッセルで活動したネーデルラントの画家です。",
+    "zh-TW": "十五世紀活躍於布魯塞爾的尼德蘭畫家。"
+  },
+  "art-renaissance-artist-550b496770aa": {
+    "ko": "15세기 브뤼허에서 활동한 네덜란드 지역의 화가입니다.",
+    "en-US": "a Netherlandish painter active in fifteenth-century Bruges.",
+    "ja": "15世紀ブルッヘで活動したネーデルラントの画家です。",
+    "zh-TW": "十五世紀活躍於布魯日的尼德蘭畫家。"
+  },
+  "art-renaissance-artist-fef6e30f000d": {
+    "ko": "16세기 베네치아에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in sixteenth-century Venice.",
+    "ja": "16世紀ヴェネツィアで活動したイタリアの画家です。",
+    "zh-TW": "十六世紀活躍於威尼斯的義大利畫家。"
+  },
+  "art-visual-elements-artist-f397bca611ad": {
+    "ko": "1320~1344년 시에나에서 활동한 것으로 기록된 이탈리아 화가입니다.",
+    "en-US": "an Italian painter documented as active in Siena in 1320–44.",
+    "ja": "1320〜1344年にシエナで活動したと記録されるイタリアの画家です。",
+    "zh-TW": "有記錄於1320至1344年間活躍於西恩納的義大利畫家。"
+  },
+  "art-visual-elements-artist-b0214bd4f0d1": {
+    "ko": "15세기와 16세기 초 베네치아에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in Venice in the fifteenth and early sixteenth centuries.",
+    "ja": "15世紀から16世紀初めにヴェネツィアで活動したイタリアの画家です。",
+    "zh-TW": "十五世紀至十六世紀初活躍於威尼斯的義大利畫家。"
+  },
+  "art-visual-elements-artist-49be1115209f": {
+    "ko": "서민의 삶과 풍경을 그린 16세기 남부 네덜란드의 화가이자 소묘가입니다.",
+    "en-US": "a sixteenth-century Netherlandish painter and draughtsman who depicted everyday life and landscape.",
+    "ja": "庶民の生活や風景を描いた16世紀ネーデルラントの画家・素描家です。",
+    "zh-TW": "描繪庶民生活與風景的十六世紀尼德蘭畫家兼素描家。"
+  },
+  "art-visual-elements-artist-d60887bf47f1": {
+    "ko": "16세기 독일에서 태어나 런던에서도 활동한 화가입니다.",
+    "en-US": "a sixteenth-century German-born painter who also worked in London.",
+    "ja": "16世紀のドイツ生まれの画家で、ロンドンでも活動しました。",
+    "zh-TW": "十六世紀出生於德國、也在倫敦活動的畫家。"
+  },
+  "art-visual-elements-artist-ec0e7ba59bd3": {
+    "ko": "15세기 피렌체에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in fifteenth-century Florence.",
+    "ja": "15世紀フィレンツェで活動したイタリアの画家です。",
+    "zh-TW": "十五世紀活躍於佛羅倫斯的義大利畫家。"
+  },
+  "art-visual-elements-artist-79bdb9235f0f": {
+    "ko": "1483–1520 · 이탈리아 화가입니다.",
+    "en-US": "1483–1520 · an Italian painter.",
+    "ja": "1483–1520 · イタリアの画家です。",
+    "zh-TW": "1483–1520 · 義大利畫家。"
+  },
+  "art-visual-elements-artist-fef6e30f000d": {
+    "ko": "16세기 베네치아에서 활동한 이탈리아 화가입니다.",
+    "en-US": "an Italian painter active in sixteenth-century Venice.",
+    "ja": "16世紀ヴェネツィアで活動したイタリアの画家です。",
+    "zh-TW": "十六世紀活躍於威尼斯的義大利畫家。"
+  },
+  "art-visual-elements-artist-7ec8567e64fb": {
+    "ko": "1760–1849 · 일본 화가입니다.",
+    "en-US": "1760–1849 · a Japanese painter.",
+    "ja": "1760–1849 · 日本の画家です。",
+    "zh-TW": "1760–1849 · 日本畫家。"
+  },
+  "art-world-artist-1aa22e3641aa": {
+    "ko": "14세기 말~15세기 초 에티오피아 복음서의 실명 미상 제작자에게 붙인 지역 표기",
+    "en-US": "A regional designation for the unidentified maker of a late-fourteenth- or early-fifteenth-century Ethiopian Gospel book",
+    "ja": "14世紀末〜15世紀初めのエチオピア福音書の実名不詳の制作者を指す地域表記",
+    "zh-TW": "指十四世紀末至十五世紀初衣索比亞福音書匿名製作者的地區稱呼"
+  },
+  "art-world-artist-313d8c8f00c8": {
+    "ko": "18세기 초 인도 북부의 해당 궁정에서 활동한 실명 미상의 화가",
+    "en-US": "An unnamed painter working for this northern Indian court in the early eighteenth century",
+    "ja": "18世紀初めにインド北部の当該宮廷で活動した実名不詳の画家",
+    "zh-TW": "十八世紀初於印度北部該宮廷活動、真實姓名不詳的畫家"
+  },
+  "art-world-artist-d9207eb2fba9": {
+    "ko": "18세기 인도에서 자연사 그림을 그린 화가이며, 이 박쥐 그림은 그 또는 추종자의 작품으로 추정됩니다.",
+    "en-US": "an eighteenth-century Indian natural-history painter; this bat is attributed to him or a follower.",
+    "ja": "18世紀インドで博物画を描いた画家で、このコウモリ図は本人または追随者の作と推定されています。",
+    "zh-TW": "十八世紀印度的自然史畫家，此蝙蝠圖被推定為他或追隨者所作。"
+  },
+  "art-world-artist-3d3014ff94ca": {
+    "ko": "17세기 이란의 『샤나메』 필사본에 참여한 복수의 서예가·화가·장식가를 뜻합니다.",
+    "en-US": "the calligraphers, painters and decorators involved in a seventeenth-century Iranian Shahnama manuscript.",
+    "ja": "17世紀イランの『シャー・ナーメ』写本に関わった書家・画家・装飾家を指します。",
+    "zh-TW": "參與十七世紀伊朗《列王紀》抄本的書法家、畫家與裝飾者。"
+  },
+  "art-world-artist-dffba8886e4d": {
+    "ko": "1801–1848 · 미국 화가입니다.",
+    "en-US": "1801–1848 · an American painter.",
+    "ja": "1801–1848 · アメリカの画家です。",
+    "zh-TW": "1801–1848 · 美國畫家。"
+  },
+  "art-world-artist-c79bed8b8251": {
+    "ko": "1849–1916 · 미국 화가입니다.",
+    "en-US": "1849–1916 · an American painter.",
+    "ja": "1849–1916 · アメリカの画家です。",
+    "zh-TW": "1849–1916 · 美國畫家。"
+  },
+  "art-world-artist-7ec8567e64fb": {
+    "ko": "1760–1849 · 일본 화가입니다.",
+    "en-US": "1760–1849 · a Japanese painter.",
+    "ja": "1760–1849 · 日本の画家です。",
+    "zh-TW": "1760–1849 · 日本畫家。"
+  },
+  "art-world-artist-3a322be62d08": {
+    "ko": "1797–1858 · 일본 화가입니다.",
+    "en-US": "1797–1858 · a Japanese painter.",
+    "ja": "1797–1858 · 日本の画家です。",
+    "zh-TW": "1797–1858 · 日本畫家。"
+  },
+  "art-world-artist-55dcf2949af5": {
+    "ko": "1632–1717 · 중국 화가입니다.",
+    "en-US": "1632–1717 · a Chinese painter.",
+    "ja": "1632–1717 · 中国の画家です。",
+    "zh-TW": "1632–1717 · 中國畫家。"
+  },
+  "art-world-artist-4d85bce6d417": {
+    "ko": "생애 기록이 적은 청대 중국 화가로, 메트는 그의 꽃 그림을 비릉파 전통과 연결합니다.",
+    "en-US": "a little-documented Qing Chinese painter whose flower painting The Met relates to the Piling School.",
+    "ja": "伝記資料の少ない清代中国の画家で、メトロポリタン美術館はその花の絵を毘陵派の伝統に結びつけています。",
+    "zh-TW": "生平記載較少的清代中國畫家，大都會藝術博物館將其花卉畫與毘陵派傳統相聯繫。"
+  },
+  "math-numbers-add": {
+    "zh-TW": "把相容單位的數量合併求總量的運算"
+  },
+  "math-numbers-subtract": {
+    "zh-TW": "求剩餘量或兩數之差的運算"
+  },
+  "math-numbers-integer": {
+    "ko": "소수 부분 없이 양수·0·음수를 포함하는 수의 범위",
+    "ja": "小数部分をもたず、正・ゼロ・負を含む数の範囲",
+    "zh-TW": "不含小數部分、包含正數、零與負數的數值範圍"
+  },
+  "math-numbers-ratio": {
+    "ko": "두 양을 정해진 순서로 견주는 관계",
+    "ja": "二つの量を決めた順序で対応させる関係",
+    "zh-TW": "依固定先後順序呈現兩個數量的關係"
+  },
+  "math-statistics-independence": {
+    "ja": "二事象の共通部分の確率が、それぞれの確率の積になる関係",
+    "zh-TW": "兩事件交集的機率等於各自機率乘積的關係"
+  },
+  "math-calculus-continuity": {
+    "ko": "한 점에서 함수값이 정의되고 그 점으로 접근할 때의 극한과 일치하는 성질",
+    "ja": "ある点の関数値が定義され、その点での極限値と一致する性質",
+    "zh-TW": "函數在某點有定義，且該值等於趨近該點時的極限值之性質"
+  },
+  "math-calculus-tangent": {
+    "ko": "미분 가능한 점에서 도함수 값을 기울기로 갖고 그 점을 지나는 직선",
+    "ja": "微分可能な点を通り、その点の導関数の値を傾きにもつ直線",
+    "zh-TW": "通過可微點，且以該點導數值為斜率的直線"
+  },
+  "physics-measurement-dimension": {
+    "zh-TW": "物理量對長度、時間、質量等基本量的依存形式，不隨單位選擇改變"
+  },
+  "physics-energy-power": {
+    "zh-TW": "單位時間內所做的功或傳遞的能量，瞬時值可由力與速度的內積求得"
+  },
+  "physics-electromagnetism-current": {
+    "zh-TW": "每單位時間通過截面的淨電荷量"
+  },
+  "physics-electromagnetism-capacitance": {
+    "zh-TW": "一對導體中單片極板電荷量大小與兩板電壓大小的比值"
+  },
+  "chemistry-matter-atom": {
+    "ja": "元素の同一性を保ち、正電荷の核と電子からなる基本単位",
+    "zh-TW": "保持元素身分、由帶正電的核與電子構成的基本單位"
+  },
+  "chemistry-matter-element": {
+    "ja": "陽子数で区別される同じ種類の原子",
+    "zh-TW": "由相同質子數界定的原子種類",
+    "en-US": "A kind of atom defined by its number of protons"
+  },
+  "chemistry-bonding-resonance": {
+    "ko": "원자 위치는 같고 전자 배치만 다른 여러 루이스 표현으로 하나의 비편재화된 전자 구조를 나타내는 방식"
+  },
+  "chemistry-phases-partial-pressure": {
+    "ja": "理想気体混合物で、ある成分のモル分率と全圧の積で求める成分ごとの圧力",
+    "zh-TW": "理想氣體混合物中，某成分莫耳分率乘以總壓所得的個別壓力",
+    "ko": "이상 기체 혼합물에서 각 성분의 몰분율과 전체 압력을 곱해 구하는 개별 성분의 압력"
+  },
+  "chemistry-thermochemistry-enthalpy": {
+    "ko": "내부에너지에 압력과 부피의 곱을 더한 상태량",
+    "en-US": "A state quantity defined as internal energy plus pressure times volume",
+    "ja": "内部エネルギーに圧力と体積の積を足した状態量",
+    "zh-TW": "定義為內能加上壓力與體積乘積的狀態量"
+  },
+  "chemistry-acids-neutralization": {
+    "ja": "酸と塩基の反応を扱い、プロトン移動の化学量論から残る物質を求める計算",
+    "zh-TW": "酸鹼反應中，先依質子轉移的化學計量求出剩餘反應物的計算"
+  },
+  "chemistry-organic-ethers": {
+    "zh-TW": "氧以單鍵連接兩個有機碳基團的化合物"
+  },
+  "chemistry-organic-aldehydes": {
+    "zh-TW": "羰基碳至少連接一個氫、具有–CHO基的化合物"
+  },
+  "chemistry-organic-ketones": {
+    "zh-TW": "羰基碳連接兩個碳基團的化合物"
+  },
+  "chemistry-organic-carboxylic-acids": {
+    "zh-TW": "在同一碳上具有C=O與–OH，可在水中作弱酸的有機化合物"
+  },
+  "chemistry-organic-amines": {
+    "zh-TW": "相當於氨的氫被有機基團取代後的含氮化合物"
+  },
+  "biology-life-cell": {
+    "ko": "막으로 내부를 구획하고 생명 활동을 수행하는 기본 단위",
+    "ja": "膜で内部を区切り、生命活動を行う基本単位",
+    "zh-TW": "以膜區隔內外並進行生命活動的基本單位",
+    "en-US": "A membrane-bounded basic unit of life"
+  },
+  "biology-life-carbohydrates": {
+    "zh-TW": "由糖單位及其連接形式組成，參與能量供應、儲存、構造支持與辨識的物質"
+  },
+  "biology-membranes-tonicity": {
+    "zh-TW": "不易穿膜溶質對持續水分移動及細胞體積所造成的相對影響"
+  },
+  "biology-expression-translation": {
+    "zh-TW": "核糖體讀取mRNA密碼子，連接tRNA攜帶的胺基酸而形成多肽的過程"
+  },
+  "biology-plants-water-potential": {
+    "zh-TW": "描述水移動傾向的量；有可通透路徑時，水由較高值處淨移向較低值處"
+  },
+  "biology-plants-xylem": {
+    "ja": "道管要素と仮道管が通常成熟時に死細胞となり、水と無機養分を長距離輸送する組織",
+    "ko": "성숙 시 주로 죽은 도관·헛물관 세포를 통해 물과 무기 양분을 장거리 운반하는 식물 조직"
+  },
+  "biology-plants-transpiration": {
+    "ko": "잎 내부의 물이 증발해 기공으로 나가 수분 퍼텐셜을 낮추고 물 이동을 유도하는 현상"
+  },
+  "biology-homeostasis-circulation": {
+    "ko": "액체의 벌크 흐름으로 물질을 장거리 운반해 확산만으로 생기는 거리 제약을 줄이는 기능",
+    "ja": "液体の流れで物質を長距離輸送し、拡散だけに頼る場合の距離制約を減らす機能",
+    "zh-TW": "以液體整體流動長距離運送物質，降低只靠擴散所受的距離限制"
+  },
+  "biology-inheritance-chromosome": {
+    "zh-TW": "由DNA與結合蛋白質構成、承載遺傳資訊的結構"
+  },
+  "economics-games-screening": {
+    "zh-TW": "資訊較少的一方設計選項或測試，以了解對方隱藏特質的做法"
+  },
+  "business-accounting-depreciation": {
+    "zh-TW": "將長期使用資產的成本依耐用期間分攤的會計程序"
+  },
+  "philosophy-chinese-ren": {
+    "ko": "타자를 존중하며 관계 속에서 길러 가는 유가의 핵심 덕목"
+  },
+  "literature-myth-epic-rama": {
+    "ko": "고대 인도 서사시의 중심 왕자로, 많은 힌두 전통에서 신적 존재로 숭배되는 인물",
+    "zh-TW": "古印度史詩的核心王子，在許多印度教傳統中受到神聖崇敬的人物",
+    "en-US": "The central prince of an ancient Indian epic, revered as divine in many Hindu traditions",
+    "ja": "古代インド叙事詩の中心的な王子で、多くのヒンドゥー教伝統で神として崇敬される人物"
+  },
+  "literature-east-asian-classics-waka": {
+    "zh-TW": "日本傳統詩歌，宮廷作品常採五七五七七音拍的短歌形式"
+  },
+  "art-visual-elements-value": {
+    "ja": "色相とは別に、相対的な明るさの差で形をまとめる要素",
+    "zh-TW": "相對亮度的差異，可在色相不同時仍將形體組合"
+  },
+  "art-modern-met-437980": {
+    "ko": "불꽃 같은 두 나무와 소용돌이치는 하늘이 같은 곡선을 반복한다.",
+    "en-US": "Flamelike trees and a swirling sky repeat similar curves.",
+    "ja": "炎のような木と渦巻く空が似た曲線を反復する。",
+    "zh-TW": "火焰般的樹與旋轉天空反覆出現相似曲線。"
+  },
+  "art-chinese-met-36071": {
+    "en-US": "Rocky peaks rise above tightly clustered trees, with a small building near the lower edge.",
+    "ko": "빽빽한 나무 위로 바위산이 솟고 아래 가장자리 가까이에 작은 건물이 있다.",
+    "ja": "密集した木々の上に岩山がそびえ、下端近くに小さな建物がある。",
+    "zh-TW": "岩峰聳立於密集樹木上方，下緣附近可見小建築。"
+  },
+  "art-world-met-10497": {
+    "en-US": "Storm-dark trees at left overlook a sunlit river bend and patterned fields to the right.",
+    "ko": "왼쪽의 폭풍 속 어두운 나무가 오른쪽의 햇빛 든 굽은 강과 구획된 들판을 내려다본다.",
+    "ja": "左の嵐に暗い木々が、右の日の当たる川の湾曲と区画された畑を見下ろす。",
+    "zh-TW": "左方風暴中的暗樹俯瞰右方陽光下的蜿蜒河流與分割田地。"
+  },
+  "music-rhythm-rests": {
+    "ko": "소리를 내지 않되 지정된 길이만큼 시간을 유지하도록 표시하는 기호",
+    "en-US": "A sign requiring silence for its specified duration",
+    "ja": "音を鳴らさず、指定された長さだけ時間を保つ記号",
+    "zh-TW": "表示不發聲但仍須維持指定時值的符號"
+  },
+  "astronomy-light-frequency": {
+    "zh-TW": "每秒振動次數；在真空中，此值與波長的乘積等於光速",
+    "ko": "초당 파동 반복 횟수로, 진공에서 파장과 곱하면 광속이 되는 값",
+    "ja": "毎秒の波の繰り返し回数で、真空中では波長との積が光速となる値"
+  },
+  "astronomy-light-microwave": {
+    "zh-TW": "常見電磁分類中，介於較長電波與紅外線之間的波段"
+  },
+  "astronomy-light-spectrum": {
+    "zh-TW": "按波長或每秒振動次數記錄接收到多少輻射的分布"
+  },
+  "astronomy-sun-sun": {
+    "ko": "지구가 속한 행성계에서 질량 대부분을 차지하는 중심별",
+    "ja": "地球が属する惑星系の質量のほとんどを占める中心の恒星",
+    "zh-TW": "佔地球所屬行星系幾乎全部質量的中心恆星"
+  },
+  "astronomy-solar-system-moon": {
+    "ko": "지구 주위를 돌며 충돌과 오래된 화산 활동의 흔적을 표면에 남긴 암석 위성",
+    "ja": "地球を回り、衝突や古い火山活動を表面に記録した岩石衛星"
+  },
+  "astronomy-formation-meteor": {
+    "ko": "작은 천체가 대기를 통과하며 만들어 내는 발광 현상",
+    "ja": "小さな天体が大気を通過するときに起こる発光現象",
+    "zh-TW": "小天體穿越大氣時產生的發光現象",
+    "en-US": "The luminous phenomenon produced when a small solid body passes through an atmosphere"
+  },
+  "art-world-met-36071": {
+    "en-US": "Rocky peaks rise above tightly clustered trees, with a small building near the lower edge.",
+    "ko": "빽빽한 나무 위로 바위산이 솟고 아래 가장자리 가까이에 작은 건물이 있다.",
+    "ja": "密集した木々の上に岩山がそびえ、下端近くに小さな建物がある。",
+    "zh-TW": "岩峰聳立於密集樹木上方，下緣附近可見小建築。"
+  },
+  "art-comparisons-met-36071": {
+    "en-US": "Rocky peaks rise above tightly clustered trees, with a small building near the lower edge.",
+    "ko": "빽빽한 나무 위로 바위산이 솟고 아래 가장자리 가까이에 작은 건물이 있다.",
+    "ja": "密集した木々の上に岩山がそびえ、下端近くに小さな建物がある。",
+    "zh-TW": "岩峰聳立於密集樹木上方，下緣附近可見小建築。"
+  },
+  "math-algebra-terms": {
+    "ko": "덧셈으로 구분되는 부분 / 문자에 곱해진 수",
+    "ja": "加法で区切った部分／文字部分に掛かる数"
+  },
+  "math-geometry-circle-measure": {
+    "ko": "반지름 r로 원의 경계 길이는 2πr, 내부 크기는 πr²로 구하는 계산",
+    "en-US": "Calculating a circle’s boundary length as 2πr and its interior area as πr² from radius r",
+    "ja": "半径rから円の境界の長さを2πr、内部の広さをπr²で求める計算",
+    "zh-TW": "由半徑r求圓的邊界長度2πr及內部大小πr²的計算"
+  },
+  "math-geometry-sphere": {
+    "ko": "반지름 r인 공 모양 입체의 내부 크기를 4πr³/3, 표면 크기를 4πr²로 구하는 계산",
+    "en-US": "For a round solid of radius r, calculating enclosed space as 4πr³/3 and surface size as 4πr²",
+    "ja": "半径rの丸い立体の内部の大きさを4πr³/3、表面の広さを4πr²で求める計算",
+    "zh-TW": "由半徑r求圓球所占空間4πr³/3及外表大小4πr²的計算"
+  },
+  "math-statistics-sample": {
+    "ko": "관심 대상 전체 / 그중 관측한 일부",
+    "en-US": "the full group of interest / the observed subset",
+    "ja": "関心対象全体／観測した一部",
+    "zh-TW": "研究對象全體／觀察到的其中一部分"
+  },
+  "math-statistics-frequency": {
+    "ko": "관측 횟수 / 전체 관측 수에 대한 비율",
+    "ja": "観測回数／総数に対する割合",
+    "zh-TW": "觀測筆數／其占總筆數的比例"
+  },
+  "math-statistics-space": {
+    "ko": "가능한 결과 전체 / 그 부분집합",
+    "ja": "可能な結果全体／その部分集合"
+  },
+  "physics-measurement-scalar-vector": {
+    "ko": "하나의 수치로 나타내고 / 크기와 방향을 함께 가져 벡터 덧셈 법칙을 따른다. 온도는 스칼라이고 변위는 벡터",
+    "ja": "一つの数値で表し／大きさと向きを持ち、ベクトルの加法に従う。温度はスカラー、変位はベクトル"
+  },
+  "physics-measurement-precision-accuracy": {
+    "ko": "반복 측정값들이 서로 가까운 정도 / 측정값이 참값에 가까운 정도이다. 실제 평가는 신뢰할 수 있는 기준값을 이용한다.",
+    "ja": "繰返し測定の値が互いに近い程度／真値に近い程度を指す。実際には信頼できる基準値と比べる"
+  },
+  "physics-mechanics-displacement": {
+    "ko": "정한 원점·축에 대한 좌표와, 나중 좌표에서 처음 좌표를 뺀 변화량의 구별",
+    "en-US": "A coordinate relative to an origin and axis, contrasted with the change from initial to final coordinate",
+    "ja": "原点・軸に対する座標と、終わりの座標から初めの座標を引いた変化量の区別",
+    "zh-TW": "相對原點與座標軸的座標，與末座標減初座標所得變化量的區別"
+  },
+  "physics-mechanics-velocity": {
+    "ko": "변위를 경과시간으로 나눈 구간의 값과, 그 시간 간격을 0으로 보낸 극한값의 구별",
+    "en-US": "Displacement over elapsed time for an interval, contrasted with its limit as that interval tends to zero",
+    "ja": "変位を経過時間で割った区間の値と、その時間間隔をゼロに近づけた極限値の区別",
+    "zh-TW": "位移除以經過時間的區間值，與時間間隔趨近零時極限值的區別"
+  },
+  "physics-mechanics-weight": {
+    "ko": "관성의 척도 / 물체에 작용하는 중력의 크기이다. 같은 질량도 중력장이 달라지면 무게가 달라진다.",
+    "ja": "慣性の尺度／物体に働く重力の大きさである。同じ質量でも重力場が変われば重さは変わる"
+  },
+  "physics-waves-period-frequency": {
+    "ko": "한 번 반복되는 시간 / 초당 반복 횟수",
+    "ja": "一回の繰り返しの時間／一秒あたりの繰り返し数",
+    "zh-TW": "重複一次所需時間／每秒重複次數"
+  },
+  "physics-thermodynamics-convection": {
+    "ko": "부력 / 팬이나 펌프가 흐름을 만든다.",
+    "ja": "浮力／ファンやポンプで生じる"
+  },
+  "chemistry-matter-mixture": {
+    "ko": "화학적 정체성이 일정한 물질과 여러 물질이 함께 있어 조성이 달라질 수 있는 경우의 구별",
+    "en-US": "A substance of fixed chemical identity, contrasted with several substances combined in variable proportions",
+    "ja": "化学的同一性が一定の物質と、複数の物質が可変の割合で共存する場合の区別",
+    "zh-TW": "化學身分固定的物質，與數種物質以可變比例共存情況的區別"
+  },
+  "chemistry-bonding-lone-pair-shape": {
+    "ko": "비공유 전자쌍까지 포함하지만 / 원자핵의 상대적 위치로 이름 붙인다.",
+    "ja": "非共有電子対も含むが／原子核の相対位置で名づける"
+  },
+  "chemistry-phases-concentration": {
+    "ko": "용액 부피당 용질 몰수 / 용매 질량 kg당 용질 몰수",
+    "en-US": "solute amount per solution volume / solute amount per kilogram of solvent",
+    "ja": "溶液体積当たりの溶質mol数／溶媒1 kg当たりの溶質mol数",
+    "zh-TW": "每溶液體積的溶質莫耳數／每kg溶劑的溶質莫耳數"
+  },
+  "chemistry-thermochemistry-system": {
+    "ko": "분석 대상으로 정한 물질 또는 공간 / 그 밖의 부분이다. 에너지 출입의 부호는 계를 기준으로 정한다."
+  },
+  "chemistry-thermochemistry-heat-work": {
+    "ko": "온도 차로 전달되는 에너지 / 힘에 의한 변위 등 다른 방식으로 전달되는 에너지",
+    "ja": "温度差によるエネルギー移動／力と変位など別の仕組みによる移動"
+  },
+  "chemistry-acids-proton-transfer": {
+    "ko": "양성자를 주고 / 양성자를 받는다.",
+    "ja": "プロトンを与え／プロトンを受け取る"
+  },
+  "chemistry-acids-strong-weak": {
+    "ko": "이온화 경향 / 용액에 들어 있는 산의 양을 부피로 나눈 값",
+    "ja": "電離しやすさであり／溶液体積当たりに含む酸の量"
+  },
+  "chemistry-electrochemistry-redox": {
+    "ko": "산화수가 증가하는 변화 / 산화수가 감소하는 변화다.",
+    "ja": "酸化数が増える変化／酸化数が減る変化"
+  },
+  "chemistry-electrochemistry-agents": {
+    "ko": "상대를 산화시키며 자신은 환원되고 / 상대를 환원시키며 자신은 산화된다.",
+    "ja": "相手を酸化して自分は還元され／相手を還元して自分は酸化される"
+  },
+  "chemistry-organic-unsaturated": {
+    "ko": "탄소 이중 결합 또는 삼중 결합을 갖는 탄화수소의 구분",
+    "en-US": "Hydrocarbons distinguished by carbon–carbon double versus triple bonds",
+    "ja": "炭素間二重結合をもつ炭化水素と三重結合をもつ炭化水素の区別",
+    "zh-TW": "依含碳碳雙鍵或三鍵區分的碳氫化合物"
+  },
+  "biology-cells-nucleus": {
+    "ko": "진핵 세포의 DNA 대부분을 보관하며, 핵막의 / 핵과 세포질 사이의 RNA·단백질 이동을 선택적으로 조절한다.",
+    "ja": "真核細胞のDNAの大部分を収め／核と細胞質の間のRNAやタンパク質の移動を選択的に調節する"
+  },
+  "biology-membranes-diffusion": {
+    "ko": "입자의 무작위 운동으로, 농도 차이가 있을 때 같은 물질의 / 보통 높은 농도에서 낮은 농도로 나타난다."
+  },
+  "biology-membranes-channels-carriers": {
+    "ko": "선택적인 통로를 제공하고 / 물질을 결합한 뒤 구조를 바꾸어 막 반대쪽으로 전달한다.",
+    "ja": "選択的な通路を提供し／物質を結合して形を変え、膜の反対側へ提示する"
+  },
+  "biology-metabolism-metabolism": {
+    "ja": "細胞の化学反応全体であり、分解経路と合成／物質やエネルギーの受け渡しで結びつく"
+  },
+  "biology-inheritance-gene": {
+    "ko": "기능성 RNA·단백질 생성에 기여하는 DNA 구간과 그 구간의 염색체상 위치의 구별",
+    "en-US": "A DNA region contributing to functional RNA or protein, contrasted with its position on a chromosome",
+    "ja": "機能性RNAやタンパク質の生成に関わるDNA領域と、その染色体上の位置の区別",
+    "zh-TW": "參與產生功能性RNA或蛋白質的DNA區段，與其染色體上位置的區別"
+  },
+  "biology-inheritance-genotype": {
+    "ko": "대립유전자 구성과, 그 구성·환경의 상호작용으로 나타나는 관찰 가능한 특성의 구별",
+    "en-US": "Allele composition, contrasted with observable traits arising from its interaction with the environment",
+    "ja": "対立遺伝子の構成と、その構成と環境の相互作用で現れる観察可能な特性の区別",
+    "zh-TW": "等位基因組合，與該組合和環境交互作用後可觀察特徵的區別"
+  },
+  "biology-inheritance-homologs": {
+    "ko": "대응하는 유전자좌를 가진 한 쌍이며, 자매 / 한 염색체가 복제되어 생긴 사본",
+    "ja": "対応する遺伝子座をもつ対で、姉妹／1本の染色体の複製によって生じる"
+  },
+  "biology-expression-strands": {
+    "ko": "대체로 연속 합성되고 / 짧은 절편으로 합성된 뒤 연결된다.",
+    "ja": "ほぼ連続的に／後でつなぐ短い断片として合成される"
+  },
+  "biology-evolution-population": {
+    "ko": "같은 지역에 사는 같은 종의 개체 무리와 그 무리의 대립유전자 전체의 구별",
+    "en-US": "A local group of one species, contrasted with the complete set of alleles it carries",
+    "ja": "同じ地域にいる同種の個体群と、その群れがもつ対立遺伝子全体の区別",
+    "zh-TW": "同一地區同種個體的群體，與該群體全部等位基因的區別"
+  },
+  "biology-neuroendocrine-insulin-glucagon": {
+    "ko": "혈당 감소와 저장을 돕고 / 간의 포도당 방출을 촉진하여 혈당 조절에 기여한다."
+  },
+  "biology-immunity-bacteria-viruses": {
+    "ko": "세포로 이루어진 생물인 반면 / 숙주 세포의 기구를 이용해야 증식하는 감염 인자",
+    "en-US": "cellular organisms / infectious agents that depend on host-cell machinery to reproduce",
+    "ja": "細胞からなる生物であり／増殖に宿主細胞の仕組みを必要とする感染因子",
+    "zh-TW": "細胞型生物／依賴宿主細胞機制才能增殖的感染因子"
+  },
+  "biology-immunity-t-cells": {
+    "ko": "다른 면역세포의 반응을 조정하고 / 적절한 항원을 제시하는 표적 세포를 제거한다.",
+    "ja": "他の免疫細胞の反応を調整し／適切な抗原を提示する標的細胞を除く"
+  },
+  "biology-ecology-population": {
+    "ko": "개체 수 / 단위 면적이나 부피당 개체 수",
+    "ja": "個体数／単位面積または単位体積当たりの個体数"
+  },
+  "biology-ecology-niche": {
+    "ko": "사는 장소 / 이용 자원·환경 조건·다른 생물과의 상호작용을 포함한다.",
+    "ja": "住む場所／利用資源、耐えられる環境条件、他の生物との相互作用を含む"
+  },
+  "biology-ecology-decomposition": {
+    "ja": "有機物を壊す過程／元素を無機形態に戻して栄養分の再利用に寄与する"
+  },
+  "biology-ecology-keystone": {
+    "ko": "풍부도에 비해 군집에 큰 영향을 주며 / 먹이망을 통한 간접 변화",
+    "ja": "個体量に比して群集への影響が大きく／摂食網を介した間接効果"
+  },
+  "economics-public-goods-properties": {
+    "ko": "한 사람의 사용이 타인의 사용 가능량을 줄이는 성질 / 접근을 실질적으로 제한할 수 있는 성질",
+    "ja": "1人の使用が他者の利用可能量を減らす性質／アクセスを実際に制限できる性質"
+  },
+  "economics-labor-income-wealth": {
+    "ko": "일정 기간에 받는 유량이고, 순 / 특정 시점의 자산에서 부채를 뺀 저량",
+    "en-US": "a flow received over a period; net / a stock of assets minus liabilities at a point in time",
+    "ja": "一定期間に受け取るフローで、純／ある時点の資産から負債を引いたストック",
+    "zh-TW": "一定期間收到的流量；淨／某一時點資產減負債的存量"
+  },
+  "economics-labor-poverty": {
+    "ko": "실질 자원 기준선을 쓰고 / 주변 소득분포에 연계된 기준선을 쓴다.",
+    "ja": "実質的な資源の基準線を用い／周囲の所得分布に連動した基準線を用いる"
+  },
+  "economics-labor-mobility": {
+    "ko": "한 시점의 분포를 / 시간이나 세대에 걸친 개인의 소득 수준·순위 변화를 나타낸다.",
+    "ja": "ある時点の分布を表し／時点や世代をまたぐ個人の所得水準や順位の変化を追う"
+  },
+  "economics-indicators-stock-flow": {
+    "ko": "특정 시점의 양 / 일정 기간에 걸쳐 발생한 양",
+    "en-US": "measured at a point in time / measured over an interval",
+    "ja": "一時点の量であり／一定期間に生じた量",
+    "zh-TW": "在某一時點衡量的數量／在一段期間內發生的數量"
+  },
+  "economics-indicators-disinflation": {
+    "ko": "물가상승률의 하락 / 전반적인 물가 수준의 하락",
+    "en-US": "slower inflation / a fall in the overall price level",
+    "ja": "物価上昇率の低下／全般的な物価水準の下落"
+  },
+  "economics-international-appreciation": {
+    "ko": "같은 자국통화로 더 많은 외화를 살 수 있는 변화 / 그 반대다."
+  },
+  "business-foundations-leading": {
+    "ko": "이후 결과의 단서를 / 이미 발생한 결과를 측정한다.",
+    "ja": "将来の結果の手がかりを／既に生じた結果を測る"
+  },
+  "business-models-cash": {
+    "ko": "일정 기간의 순현금 감소 / 현재 현금으로 버틸 수 있는 추정 기간",
+    "ja": "一定期間の現金純減少／手元現金で活動を続けられる推定期間"
+  },
+  "business-behavior-conflict": {
+    "ko": "일의 내용에 대한 의견 차이 / 개인 간 긴장이나 반감",
+    "ja": "仕事の内容に関する意見の違い／対人緊張や反感を指す"
+  },
+  "business-marketing-sources": {
+    "ko": "현재 목적을 위해 새로 수집하고 / 다른 목적으로 이미 수집된 자료다.",
+    "ja": "今回の目的のために新しく収集し／別の目的で既に集められた資料"
+  },
+  "business-marketing-stated": {
+    "ko": "말로 표현한 선택·의향 / 실제 조건에서 한 행동",
+    "ja": "言葉で示す選択や意向であり／実際の条件で取った行動",
+    "zh-TW": "口頭表達的選擇或意願／在實際限制下採取的行動"
+  },
+  "business-marketing-brand": {
+    "ko": "기업이 표현하려는 의미 / 고객이 실제로 형성한 인식",
+    "en-US": "the meaning a firm intends to convey; brand / the perception customers actually form",
+    "ja": "企業が伝えたい意味／顧客が実際に形成した認識"
+  },
+  "business-product-retention": {
+    "ko": "관계나 이용이 계속되는 행동 / 선호·애착 등 태도를 포함할 수 있다.",
+    "ja": "利用や関係の継続という行動／選好や愛着などの態度も含みうる"
+  },
+  "business-accounting-resources": {
+    "ko": "기업이 통제하는 경제적 자원 / 자원을 이전해야 하는 현재 의무다.",
+    "en-US": "economic resources controlled by the entity / present obligations to transfer resources",
+    "ja": "企業が支配する経済的資源／資源を移転する現在の義務",
+    "zh-TW": "企業控制的經濟資源／移轉資源的現時義務"
+  },
+  "business-control-leading": {
+    "ja": "結果に先立つ信号／すでに実現した結果を測る"
+  },
+  "business-operations-process": {
+    "ko": "투입을 산출로 바꾸는 활동의 연결 / 그 과정을 따라 추적하는 대상",
+    "ja": "投入を産出に変える活動のつながり／その中で追跡する対象",
+    "zh-TW": "將投入轉為產出的活動連結／沿流程追蹤的對象"
+  },
+  "business-operations-flow": {
+    "ko": "시간당 완료량 / 한 흐름 단위가 정한 경계 안에 머무는 총시간",
+    "en-US": "completed units per time / the total time a unit spends inside the chosen boundary",
+    "ja": "単位時間当たり完了数／対象が定めた境界内に滞在する総時間",
+    "zh-TW": "每單位時間完成的數量／單位停留在指定邊界內的總時間"
+  },
+  "business-operations-lean": {
+    "ko": "고객 가치에 기여하지 않는 낭비를 줄 / 후속 단계의 필요 신호에 맞춰 투입을 조절한다.",
+    "ja": "顧客価値に寄与しない無駄を減らし／後工程の需要信号に合わせて投入を調整する"
+  },
+  "psychology-brain-structure": {
+    "ko": "주로 입력을 받고 / 신호를 다른 세포 쪽으로 전달한다.",
+    "ja": "主に入力を受け／別の細胞へ向けて信号を伝える"
+  },
+  "psychology-brain-glia-myelin": {
+    "ko": "뉴런의 환경을 조절하며, 일부 교세포가 만드는 / 축삭의 신호 전도를 빠르게 한다.",
+    "ja": "神経の環境を調節し、その一部が作る／軸索での伝導を速める"
+  },
+  "psychology-brain-systems": {
+    "ja": "脳と脊髄からなり／それらと身体との信号伝達に関わる"
+  },
+  "psychology-perception-sensation-perception": {
+    "ko": "자극 정보를 받아들이는 과정 / 그 정보를 조직하고 해석하는 과정",
+    "ja": "刺激の情報を受け取る過程／それを組織して解釈する過程"
+  },
+  "psychology-language-norms": {
+    "ko": "정해진 비교 집단의 수행 자료 / 그 집단에 대한 상대적 위치를 나타낸다.",
+    "ja": "比較集団の遂行データであり／その集団に対する相対的位置を示す"
+  },
+  "psychology-language-fluid-crystallized": {
+    "ko": "새로운 관계를 추론하는 능력 / 경험으로 축적한 지식과 기술에 초점을 둔다.",
+    "ja": "新しい関係の推論に／経験で蓄えた知識や技能に焦点を当てる"
+  },
+  "psychology-personality-states": {
+    "ko": "비교적 지속적인 경향 / 특정 시점과 상황에서 나타나는 경험이나 행동",
+    "en-US": "a relatively enduring tendency / an experience or behavior at a particular time and in a particular setting",
+    "ja": "比較的持続する傾向であり／特定の時点や場面での経験や行動"
+  },
+  "psychology-personality-neuroticism": {
+    "ko": "부정 정서를 경험하기 쉬운 경향 / 보통 그 반대 방향을 가리킨다.",
+    "ja": "否定的感情を経験しやすい傾向／通常その反対方向を指す"
+  },
+  "psychology-social-norms": {
+    "ko": "사람들이 보통 하는 행동 / 사람들이 승인하거나 기대하는 행동",
+    "ja": "人々が普段すること／人々が望ましいと認めたり期待したりすること"
+  },
+  "psychology-social-stereotypes": {
+    "ko": "집단에 대한 일반화된 믿음 / 집단이나 그 구성원에 대한 평가적 태도다.",
+    "en-US": "generalized beliefs about a group / an evaluative attitude toward a group or its members",
+    "ja": "集団への一般化された信念であり／集団や成員に対する評価的態度"
+  },
+  "philosophy-empiricism-simple-complex": {
+    "ko": "수동적으로 받아들이는 재료 / 마음이 그 재료를 결합한 것",
+    "ja": "受け取る素材であり／心がその素材を組み合わせたもの"
+  },
+  "math-calculus-extrema": {
+    "ko": "도함수가 0이거나 존재하지 않아, 함수의 국소 최대·최소 여부를 더 확인해야 하는 내부점"
+  },
+  "physics-mechanics-acceleration": {
+    "zh-TW": "速度隨時間改變的快慢，大小或方向的改變都包括在內"
+  },
+  "physics-mechanics-static-friction": {
+    "zh-TW": "接觸面尚未相對滑動時，大小隨需求調整以阻止滑動趨勢、但有上限的接觸力"
+  },
+  "physics-mechanics-kinetic-friction": {
+    "zh-TW": "接觸面相對滑動時反抗該滑動的接觸力，在簡化模型中大小與正向力成正比"
+  },
+  "physics-rotation-circular-orbit": {
+    "zh-TW": "由重力提供向心力時，維持圓形公轉路徑所需的速率"
+  },
+  "physics-electromagnetism-series": {
+    "ko": "갈림길 없는 한 경로의 소자들에 같은 전류가 흐르고 전압 강하가 더해지는 연결"
+  },
+  "chemistry-atomic-atomic-number": {
+    "ko": "핵 속 양성자의 수로, 원자의 종류를 결정하는 값"
+  },
+  "chemistry-atomic-mass-number": {
+    "ko": "원자핵 속 양성자 수와 중성자 수의 합"
+  },
+  "chemistry-atomic-valence": {
+    "zh-TW": "主要參與鍵結與反應的電子，在主族原子中通常是最外殼層的s與p電子"
+  },
+  "chemistry-bonding-multiple-bonds": {
+    "zh-TW": "在路易斯模型中，依兩原子共享一對、兩對或三對電子而區分的鍵結類型"
+  },
+  "chemistry-bonding-octet-exceptions": {
+    "zh-TW": "奇數電子物種、缺電子中心及擴展路易斯結構，顯示外層八電子並非通用要求的情況"
+  },
+  "chemistry-phases-colligative": {
+    "zh-TW": "稀溶液相較純溶劑更難凝固、更難沸騰的溫度變化，與溶質粒子數有關"
+  },
+  "chemistry-thermochemistry-state-function": {
+    "ko": "변화량이 처음과 나중 상태로만 정해지고 거치는 경로에는 의존하지 않는 양",
+    "zh-TW": "變化量只取決於初末狀態，而不依賴過程路徑的物理量"
+  },
+  "chemistry-thermochemistry-heat-capacity": {
+    "ko": "상전이 없이 물질을 데울 때 질량·단위 질량당 필요한 열·온도 차를 곱해 에너지 전달량을 구하는 계산"
+  },
+  "chemistry-kinetics-reaction-quotient": {
+    "ko": "현재 조성으로 계산한 활동도 비로, 평형 상수와 비교해 순반응 방향을 예측하는 값"
+  },
+  "chemistry-acids-solubility-product": {
+    "ko": "난용성 이온 고체와 평형인 용액에서, 반응식 계수에 따른 거듭제곱을 적용한 이온 활동도들의 곱"
+  },
+  "biology-life-hydrophobic-effect": {
+    "zh-TW": "非極性區域在水中傾向聚集以減少與水接觸面積，從而幫助組成生物構造的現象"
+  },
+  "biology-cells-prokaryote": {
+    "ja": "細菌と古細菌に見られ、膜で囲まれた核がなく、DNAが主に核様体にある細胞",
+    "zh-TW": "細菌與古菌中沒有膜包圍的核、DNA主要位於擬核區的細胞"
+  },
+  "biology-cells-mitochondrion": {
+    "zh-TW": "許多真核細胞中，將燃料氧化與內膜質子梯度連結以促進ATP製造的胞器"
+  },
+  "biology-cells-chloroplast": {
+    "zh-TW": "植物與許多藻類中，將光轉為化學能並用以固定二氧化碳的胞器"
+  },
+  "biology-membranes-electrochemical": {
+    "ja": "イオンの移動傾向を決める、濃度差と電位差の組み合わせ",
+    "zh-TW": "由濃度差與電位差共同決定的離子移動驅動力"
+  },
+  "biology-inheritance-cycle": {
+    "zh-TW": "真核細胞協調生長、DNA複製、染色體分離與分裂的過程"
+  },
+  "biology-expression-polymerase": {
+    "zh-TW": "將核苷酸加到既有3′端，以5′→3′方向合成互補DNA鏈的複製酵素"
+  },
+  "biology-homeostasis-negative-feedback": {
+    "ja": "感知器と調節系が変化を検出し、効果器の反応が元の偏りを小さくする調節",
+    "zh-TW": "感受器與控制系統偵測變化後，效應器反應使原先偏差縮小的調節"
+  },
+  "economics-cycles-supply-shock": {
+    "zh-TW": "成本或產能的突變；不利情況下，可能同時降低產出並推高物價"
+  },
+  "economics-money-central-bank": {
+    "ko": "본원 화폐를 공급하고 정책 체계에 따라 금리·유동성·지급결제를 관리하는 기관",
+    "en-US": "An institution supplying the monetary base and managing rates, liquidity and payments under its policy framework"
+  },
+  "economics-international-absolute": {
+    "zh-TW": "以同樣投入生產更多，或以較少投入生產同樣產出的生產能力"
+  },
+  "economics-international-comparative": {
+    "zh-TW": "生產某財貨時，所犧牲其他財貨的機會成本相對較低的生產條件"
+  },
+  "economics-international-quota": {
+    "zh-TW": "限制外國商品輸入數量的規則，具約束力時可由國內外價格差產生租金"
+  },
+  "business-product-cac": {
+    "ko": "정한 범위의 신규 고객 유치에 쓴 금액을 그에 대응하는 신규 고객 수로 나눈 값"
+  },
+  "business-control-controllability": {
+    "ko": "평가 대상자가 영향을 줄 수 있는 성과와 외부 요인을 나누어 책임을 해석하는 원칙"
+  },
+  "psychology-brain-potentiation": {
+    "ko": "일부 시냅스에서 특정 활동 패턴 뒤 신호 전달 효율이 오랫동안 높아지는 현상"
+  },
+  "psychology-perception-outcomes": {
+    "ko": "신호의 실제 유무와 있다고 답했는지를 교차해 탐지 결과를 네 가지로 나누는 구분"
+  },
+  "psychology-learning-generalization": {
+    "ko": "학습한 단서와 비슷한 다른 자극에도 반응이 나타나는 현상"
+  },
+  "psychology-motivation-drive-reduction": {
+    "en-US": "An account of motivation in which physiological imbalance creates an urge toward corrective behavior"
+  },
+  "astronomy-distances-parsec": {
+    "zh-TW": "對應年周視差為一角秒的距離單位"
+  },
+  "astronomy-light-electromagnetic": {
+    "ko": "빛이 연속적인 파장 범위에 걸쳐 속하는 전기장·자기장의 파동"
+  },
+  "astronomy-light-ultraviolet": {
+    "ko": "가시광선보다 파장이 짧고 광자 에너지가 높은 복사 영역"
+  },
+  "astronomy-light-xray": {
+    "zh-TW": "常用來追蹤極熱氣體或高能粒子的高能宇宙輻射波段"
+  },
+  "astronomy-gravity-freefall": {
+    "ko": "지지력 없이 중력에 따라 움직이는 운동"
+  },
+  "astronomy-gravity-barycenter": {
+    "ko": "서로 공전하는 천체들의 위치를 각 질량으로 가중 평균한 공통 운동의 기준점"
+  },
+  "astronomy-sun-magnetism": {
+    "ko": "태양 내부 전도성 물질의 운동이 만들고 바꾸는 자기적 구조",
+    "zh-TW": "由恆星內部導電物質運動產生並重塑的磁性結構"
+  },
+  "astronomy-solar-system-dwarf": {
+    "zh-TW": "繞太陽運行、近乎圓形、不是衛星，但未清除軌道附近天體的一類天體"
+  },
+  "astronomy-milky-way-sky-band": {
+    "zh-TW": "從星系盤內沿盤面望去，大量恆星光線重疊形成的天空亮帶"
+  },
+  "physics-mechanics-speed": {
+    "ko": "이동한 경로 전체의 길이와, 이를 경과시간으로 나누거나 순간 속도 벡터의 크기로 나타내는 빠르기",
+    "en-US": "Total path length and how fast it is covered, averaged over time or given by the magnitude of instantaneous velocity",
+    "ja": "移動した経路全体の長さと、時間平均または瞬間の速度ベクトルの大きさで表す速さ",
+    "zh-TW": "移動路徑總長，以及用經過時間平均或以瞬間速度向量大小表示的快慢"
+  },
+  "math-algebra-rational-domain": {
+    "ko": "문자식에서 분모가 0이 되는 입력을 제외해야 한다는 제한",
+    "en-US": "A restriction excluding inputs that make an algebraic denominator zero",
+    "ja": "文字式の分母がゼロになる入力を除外する制限",
+    "zh-TW": "代數式中必須排除使分母等於零之輸入的限制"
+  },
+  "music-chords-major": {
+    "ko": "근음에서 0·4·7반음 위치의 3개 음을 함께 울리는 구성",
+    "en-US": "A 3-note chord with tones 0, 4, 7 semitones above its root",
+    "ja": "根音から0·4·7半音の位置にある3音を同時に鳴らす構成",
+    "zh-TW": "由根音上方0·4·7半音位置的3個音同時發聲的組成"
+  },
+  "music-chords-minor": {
+    "ko": "근음에서 0·3·7반음 위치의 3개 음을 함께 울리는 구성",
+    "en-US": "A 3-note chord with tones 0, 3, 7 semitones above its root",
+    "ja": "根音から0·3·7半音の位置にある3音を同時に鳴らす構成",
+    "zh-TW": "由根音上方0·3·7半音位置的3個音同時發聲的組成"
+  },
+  "music-chords-diminished": {
+    "ko": "근음에서 0·3·6반음 위치의 3개 음을 함께 울리는 구성",
+    "en-US": "A 3-note chord with tones 0, 3, 6 semitones above its root",
+    "ja": "根音から0·3·6半音の位置にある3音を同時に鳴らす構成",
+    "zh-TW": "由根音上方0·3·6半音位置的3個音同時發聲的組成"
+  },
+  "music-chords-augmented": {
+    "ko": "근음에서 0·4·8반음 위치의 3개 음을 함께 울리는 구성",
+    "en-US": "A 3-note chord with tones 0, 4, 8 semitones above its root",
+    "ja": "根音から0·4·8半音の位置にある3音を同時に鳴らす構成",
+    "zh-TW": "由根音上方0·4·8半音位置的3個音同時發聲的組成"
+  },
+  "music-chords-dominant-seventh": {
+    "ko": "근음에서 0·4·7·10반음 위치의 4개 음을 함께 울리는 구성",
+    "en-US": "A 4-note chord with tones 0, 4, 7, 10 semitones above its root",
+    "ja": "根音から0·4·7·10半音の位置にある4音を同時に鳴らす構成",
+    "zh-TW": "由根音上方0·4·7·10半音位置的4個音同時發聲的組成"
+  },
+  "music-chords-minor-seventh": {
+    "ko": "근음에서 0·3·7·10반음 위치의 4개 음을 함께 울리는 구성",
+    "en-US": "A 4-note chord with tones 0, 3, 7, 10 semitones above its root",
+    "ja": "根音から0·3·7·10半音の位置にある4音を同時に鳴らす構成",
+    "zh-TW": "由根音上方0·3·7·10半音位置的4個音同時發聲的組成"
+  },
+  "music-chords-half-diminished": {
+    "ko": "근음에서 0·3·6·10반음 위치의 4개 음을 함께 울리는 구성",
+    "en-US": "A 4-note chord with tones 0, 3, 6, 10 semitones above its root",
+    "ja": "根音から0·3·6·10半音の位置にある4音を同時に鳴らす構成",
+    "zh-TW": "由根音上方0·3·6·10半音位置的4個音同時發聲的組成"
+  },
+  "music-intervals-unison": {
+    "ko": "12평균율에서 0반음 간격이며 음이름 1자리에 걸친 음정",
+    "en-US": "An interval spanning 1 letter-name positions and 0 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で0半音離れ、音名の1つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距0個半音、跨越1個音名位置的音程"
+  },
+  "music-intervals-minor-second": {
+    "ko": "12평균율에서 1반음 간격이며 음이름 2자리에 걸친 음정",
+    "en-US": "An interval spanning 2 letter-name positions and 1 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で1半音離れ、音名の2つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距1個半音、跨越2個音名位置的音程"
+  },
+  "music-intervals-major-second": {
+    "ko": "12평균율에서 2반음 간격이며 음이름 2자리에 걸친 음정",
+    "en-US": "An interval spanning 2 letter-name positions and 2 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で2半音離れ、音名の2つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距2個半音、跨越2個音名位置的音程"
+  },
+  "music-intervals-minor-third": {
+    "ko": "12평균율에서 3반음 간격이며 음이름 3자리에 걸친 음정",
+    "en-US": "An interval spanning 3 letter-name positions and 3 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で3半音離れ、音名の3つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距3個半音、跨越3個音名位置的音程"
+  },
+  "music-intervals-major-third": {
+    "ko": "12평균율에서 4반음 간격이며 음이름 3자리에 걸친 음정",
+    "en-US": "An interval spanning 3 letter-name positions and 4 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で4半音離れ、音名の3つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距4個半音、跨越3個音名位置的音程"
+  },
+  "music-intervals-fourth": {
+    "ko": "12평균율에서 5반음 간격이며 음이름 4자리에 걸친 음정",
+    "en-US": "An interval spanning 4 letter-name positions and 5 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で5半音離れ、音名の4つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距5個半音、跨越4個音名位置的音程"
+  },
+  "music-intervals-tritone": {
+    "ko": "12평균율에서 6반음 간격이며 음이름 4자리에 걸친 음정",
+    "en-US": "An interval spanning 4 letter-name positions and 6 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で6半音離れ、音名の4つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距6個半音、跨越4個音名位置的音程"
+  },
+  "music-intervals-minor-sixth": {
+    "ko": "12평균율에서 8반음 간격이며 음이름 6자리에 걸친 음정",
+    "en-US": "An interval spanning 6 letter-name positions and 8 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で8半音離れ、音名の6つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距8個半音、跨越6個音名位置的音程"
+  },
+  "music-intervals-major-sixth": {
+    "ko": "12평균율에서 9반음 간격이며 음이름 6자리에 걸친 음정",
+    "en-US": "An interval spanning 6 letter-name positions and 9 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で9半音離れ、音名の6つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距9個半音、跨越6個音名位置的音程"
+  },
+  "music-intervals-minor-seventh": {
+    "ko": "12평균율에서 10반음 간격이며 음이름 7자리에 걸친 음정",
+    "en-US": "An interval spanning 7 letter-name positions and 10 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で10半音離れ、音名の7つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距10個半音、跨越7個音名位置的音程"
+  },
+  "music-intervals-major-seventh": {
+    "ko": "12평균율에서 11반음 간격이며 음이름 7자리에 걸친 음정",
+    "en-US": "An interval spanning 7 letter-name positions and 11 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で11半音離れ、音名の7つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距11個半音、跨越7個音名位置的音程"
+  },
+  "music-intervals-octave": {
+    "ko": "12평균율에서 12반음 간격이며 음이름 8자리에 걸친 음정",
+    "en-US": "An interval spanning 8 letter-name positions and 12 semitones in twelve-tone equal temperament",
+    "ja": "12平均律で12半音離れ、音名の8つの位置にわたる音程",
+    "zh-TW": "十二平均律中相距12個半音、跨越8個音名位置的音程"
+  },
+  "music-scales-major": {
+    "ko": "온음·온음·반음·온음·온음·온음·반음 순서의 일곱 음 구성",
+    "en-US": "A seven-note pattern of whole–whole–half–whole–whole–whole–half steps",
+    "ja": "全・全・半・全・全・全・半音の順に進む七音の構成",
+    "zh-TW": "依全、全、半、全、全、全、半音順序排列的七音組成"
+  },
+  "music-scales-natural-minor": {
+    "ko": "같은 중심음의 장음계보다 3·6·7번째 음이 반음 낮은 일곱 음 구성",
+    "en-US": "A seven-note pattern lowering degrees 3, 6 and 7 of the major scale on the same tonic by a semitone",
+    "ja": "同じ主音の長音階より第3・6・7音が半音低い七音の構成",
+    "zh-TW": "比同主音大音階的第三、六、七音各低半音的七音組成"
+  },
+  "music-scales-melodic-minor": {
+    "ko": "고전적 상행형에서 자연단음계의 6·7번째 음을 반음 올린 구성",
+    "en-US": "The classical ascending form raising degrees 6 and 7 of natural minor by a semitone",
+    "ja": "古典的な上行形で自然短音階の第6・7音を半音上げた構成",
+    "zh-TW": "古典上行形將自然小音階第六、七音各升高半音的組成"
+  },
+  "music-scales-major-pentatonic": {
+    "ko": "장음계의 1·2·3·5·6번째 음을 골라 쓰는 다섯 음 구성",
+    "en-US": "A five-note pattern using degrees 1, 2, 3, 5 and 6 of a major scale",
+    "ja": "長音階の第1・2・3・5・6音を用いる五音の構成",
+    "zh-TW": "取大音階第一、二、三、五、六音的五音組成"
+  },
+  "music-scales-minor-pentatonic": {
+    "ko": "자연단음계의 1·3·4·5·7번째 음을 골라 쓰는 다섯 음 구성",
+    "en-US": "A five-note pattern using degrees 1, 3, 4, 5 and 7 of natural minor",
+    "ja": "自然短音階の第1・3・4・5・7音を用いる五音の構成",
+    "zh-TW": "取自然小音階第一、三、四、五、七音的五音組成"
+  },
+  "music-scales-chromatic": {
+    "ko": "한 옥타브의 열두 음 종류를 반음씩 이어 놓는 구성",
+    "en-US": "A pattern linking all twelve pitch classes in an octave by semitone steps",
+    "ja": "一オクターブの十二の音高クラスを半音ずつつなぐ構成",
+    "zh-TW": "以半音連接一個八度內十二種音級的組成"
+  },
+  "music-scales-whole-tone": {
+    "ko": "한 옥타브에 여섯 음 종류가 있고 이웃한 음이 모두 온음 간격인 구성",
+    "en-US": "A pattern of six pitch classes per octave with a whole step between every adjacent pair",
+    "ja": "一オクターブに六種類の音があり、隣接する音がすべて全音間隔の構成",
+    "zh-TW": "每八度有六種音、相鄰音皆相隔全音的組成"
+  },
+  "music-rhythm-quarters": {
+    "ko": "4/4박자에서 하나를 한 박으로 세는 음표의 길이",
+    "en-US": "A note duration counted as one beat in 4/4 meter",
+    "ja": "4/4拍子で一つを一拍として数える音符の長さ",
+    "zh-TW": "在4/4拍中一個計為一拍的音符時值"
+  },
+  "music-rhythm-eighths": {
+    "ko": "4/4 예시에서 한 박을 같은 길이의 두 부분으로 나눈 리듬",
+    "en-US": "A subdivision into two equal parts per beat in the 4/4 example",
+    "ja": "4/4拍子の例で一拍を等しい二つに分けるリズム",
+    "zh-TW": "在4/4拍範例中把一拍均分為兩份的節奏"
+  },
+  "music-rhythm-sixteenths": {
+    "ko": "4/4 예시에서 한 박을 같은 길이의 네 부분으로 나눈 리듬",
+    "en-US": "A subdivision into four equal parts per beat in the 4/4 example",
+    "ja": "4/4拍子の例で一拍を等しい四つに分けるリズム",
+    "zh-TW": "在4/4拍範例中把一拍均分為四份的節奏"
+  },
+  "music-rhythm-dotted": {
+    "ko": "원래 음표 길이에 그 절반을 더해 1.5배로 만드는 표시",
+    "en-US": "A mark adding half of a note’s original duration, making it one and a half times as long",
+    "ja": "元の音符の長さにその半分を加え、1.5倍にする記号",
+    "zh-TW": "在原音符時值上增加一半、使其成為1.5倍的記號"
+  },
+  "music-rhythm-syncopation": {
+    "ko": "약한 위치의 시작이나 지속이 기본 박과 어긋나도록 만드는 리듬",
+    "en-US": "A rhythm whose onsets or continuations in weak positions depart from the underlying beat pattern",
+    "ja": "弱い位置の発音や持続を基本の拍からずらすリズム",
+    "zh-TW": "讓弱位置的起音或延續與基本拍點錯開的節奏"
+  },
+  "music-rhythm-compound": {
+    "ko": "보통 점4분음표 두 박을 각각 8분음표 셋으로 나누어 세는 복합박자",
+    "en-US": "A compound meter commonly counted as two dotted-quarter beats, each split into three eighth notes",
+    "ja": "通常、付点四分音符二拍をそれぞれ八分音符三つに分けて数える複合拍子",
+    "zh-TW": "通常以兩個附點四分音符大拍計數、每拍分為三個八分音符的複拍子"
+  },
+  "art-looking-met-438754": {
+    "en-US": "A dark-cloaked woman holds a child above a narrow ledge against gold.",
+    "ko": "금빛 바탕 앞에서 짙은 망토의 여인이 좁은 난간 위로 아이를 안고 있다.",
+    "ja": "金地を背景に、暗いマントの女性が細い欄干の上で子を抱いている。",
+    "zh-TW": "金色背景前，披深色斗篷的女子在窄欄杆上方抱著孩子。"
+  },
+  "art-looking-met-436504": {
+    "en-US": "A red-robed kneeling figure faces a child below a wooden shelter; angels hover above.",
+    "ko": "붉은 옷을 입고 무릎 꿇은 인물이 나무 지붕 아래의 아이를 향하고 위에는 천사들이 떠 있다.",
+    "ja": "赤い衣の跪く人物が木の屋根の下の子に向かい、上には天使が浮かぶ。",
+    "zh-TW": "穿紅袍跪下的人面向木棚下的孩子，上方有飛翔的天使。"
+  },
+  "art-looking-met-474236": {
+    "en-US": "An open book pairs a pale written page with a framed, richly colored image and text.",
+    "ko": "펼친 책에서 옅은 글씨의 페이지가 틀 안의 화려한 그림과 글이 있는 페이지와 마주한다.",
+    "ja": "開いた本で、淡い文字の頁と、枠の中に鮮やかな絵と文字を配した頁が向き合う。",
+    "zh-TW": "攤開的書本中，淡色文字頁與帶框的鮮豔圖像及文字頁相對。"
+  },
+  "art-looking-met-547860": {
+    "en-US": "A frontal female face has dark curls, a gold-colored wreath, and a reddish garment on a narrow wooden panel.",
+    "ko": "좁은 나무판에 정면을 향한 여성의 얼굴과 검은 곱슬머리, 금빛 화관, 붉은 옷이 보인다.",
+    "ja": "細長い板に正面向きの女性の顔、黒い巻き毛、金色の冠、赤みのある衣服が見える。",
+    "zh-TW": "狹長木板上有正面的女性臉孔、黑捲髮、金色花冠及紅色衣裳。"
+  },
+  "art-looking-met-552476": {
+    "en-US": "A standing man in a white kilt balances a pole on his shoulders, with birds hanging at both sides.",
+    "ko": "흰 킬트의 남자가 어깨에 장대를 메고 서 있으며 양쪽에 새들이 매달려 있다.",
+    "ja": "白い腰布の男性が肩に棒を担ぎ、両側に鳥が吊られている。",
+    "zh-TW": "穿白色腰布的男子站立著，肩扛長桿，兩側懸掛鳥隻。"
+  },
+  "art-looking-met-32831": {
+    "en-US": "A large green curling letter encloses two scenes of haloed figures against blue and pink areas.",
+    "ko": "커다란 초록 곡선 글자가 파랑과 분홍 바탕의 후광 있는 인물 두 장면을 감싼다.",
+    "ja": "大きく曲がる緑の文字が、青と桃色の背景に光輪のある人物を描いた二場面を囲む。",
+    "zh-TW": "大型彎曲綠字包圍兩個場景，藍、粉色區域中有人物光環。"
+  },
+  "art-looking-met-435802": {
+    "en-US": "A young man in black rests one hand on a book and places the other on his hip in a stone interior.",
+    "ko": "검은 옷의 청년이 석조 실내에서 한 손을 책에 얹고 다른 손을 허리에 댄다.",
+    "ja": "黒衣の青年が石造の室内で片手を本に置き、もう一方を腰に当てる。",
+    "zh-TW": "黑衣青年站在石造室內，一手扶書，另一手叉腰。"
+  },
+  "art-looking-met-435809": {
+    "en-US": "Workers cut golden grain while others eat or rest beneath a tree; fields recede toward distant water.",
+    "ko": "사람들이 황금빛 곡물을 베고 다른 이들은 나무 아래서 먹거나 쉰다. 밭은 먼 물가까지 이어진다.",
+    "ja": "人々が黄金色の穀物を刈り、別の人々は木陰で食べたり休んだりする。畑は遠い水辺へ続く。",
+    "zh-TW": "有人割金黃穀物，有人在樹下用餐或休息；田野延伸至遠方水面。"
+  },
+  "art-looking-met-435896": {
+    "en-US": "A bearded man in a white hooded garment appears inside a painted frame against deep red.",
+    "ko": "흰 두건 옷의 수염 난 남자가 짙은 빨강을 배경으로 그려진 틀 안에 나타난다.",
+    "ja": "白いフード付きの衣の髭の男性が、深い赤を背景に描かれた枠の中に現れる。",
+    "zh-TW": "穿白色連帽衣的蓄鬚男子在深紅背景前，出現於繪製的框內。"
+  },
+  "art-looking-met-436896": {
+    "en-US": "A richly dressed woman appears in profile; a man peers through an opening at left within nested room frames.",
+    "ko": "화려한 옷의 여인이 옆모습으로 있고 왼쪽 개구부로 남자가 들여다보며 방의 틀이 겹쳐 있다.",
+    "ja": "華やかな衣服の女性が横顔を見せ、左の開口部から男性が覗き、部屋の枠が重なる。",
+    "zh-TW": "華服女子以側面出現，男子從左邊開口探望，室內框架層層相套。"
+  },
+  "art-looking-met-436966": {
+    "en-US": "Kneeling figures surround a small child in rocky ground, with paths and buildings extending into a distant landscape.",
+    "ko": "돌 많은 땅의 작은 아이를 무릎 꿇은 사람들이 둘러싸고 길과 건물은 먼 풍경으로 이어진다.",
+    "ja": "岩の多い地面の小さな子を跪く人々が囲み、道と建物が遠景へ続く。",
+    "zh-TW": "跪下的人們圍繞岩地上的幼兒，道路與建築延展至遠景。"
+  },
+  "art-looking-met-459016": {
+    "en-US": "An angel and a kneeling woman occupy separate bays of a colonnaded interior, divided by a hanging curtain.",
+    "ko": "천사와 무릎 꿇은 여인이 기둥 있는 실내의 서로 다른 칸에 있고 매달린 커튼이 둘을 나눈다.",
+    "ja": "天使と跪く女性が列柱の室内の別々の区画にいて、垂れた幕が二人を分ける。",
+    "zh-TW": "天使與跪著的女子分處列柱室內不同區間，由垂簾隔開。"
+  },
+  "art-looking-met-45434": {
+    "en-US": "A curling blue wave towers over long boats; a small snow-topped mountain sits in the distant opening.",
+    "ko": "굽이치는 푸른 파도가 긴 배 위로 솟고 먼 빈틈에는 눈 덮인 작은 산이 있다.",
+    "ja": "巻き上がる青い波が長い舟を覆い、遠くの隙間に雪を頂く小さな山がある。",
+    "zh-TW": "捲曲藍浪高聳於長舟上方，遠方空隙中有白雪覆頂的小山。"
+  },
+  "art-looking-met-456949": {
+    "en-US": "A bat spreads one long dark wing while folding the other against a nearly blank pale ground.",
+    "ko": "박쥐가 거의 빈 옅은 바탕 앞에서 긴 검은 날개 하나를 펼치고 다른 날개는 접는다.",
+    "ja": "コウモリがほぼ空白の淡い地の上で、一方の長い暗い翼を広げ、もう一方を折り曲げる。",
+    "zh-TW": "蝙蝠在近乎空白的淡底上展開一隻長黑翼，另一翼則折起。"
+  },
+  "art-visual-elements-met-544502": {
+    "en-US": "Repeating spirals and rosette-like circles alternate across red and blue areas of a painted fragment.",
+    "ko": "채색 조각의 빨강과 파랑 영역 사이로 나선과 꽃 모양 원이 반복된다.",
+    "ja": "彩色断片の赤と青の部分に、渦巻きと花形の円が繰り返される。",
+    "zh-TW": "彩繪殘片的紅、藍色區域中，螺旋與花形圓圈交替重複。"
+  },
+  "art-visual-elements-met-250930": {
+    "en-US": "Slender golden architectural lines surround a tiny landscape on a broad black field above a red band.",
+    "ko": "가는 금빛 건축 선이 넓은 검정 바탕의 작은 풍경을 두르고 아래에는 붉은 띠가 있다.",
+    "ja": "細い金色の建築線が広い黒地の小風景を囲み、下には赤い帯がある。",
+    "zh-TW": "纖細金色建築線條環繞寬闊黑底中的微小風景，下方有紅色帶。"
+  },
+  "art-visual-elements-met-438605": {
+    "en-US": "Three crosses rise above a crowded group of standing figures and mounted riders.",
+    "ko": "세 십자가가 서 있는 사람들과 말을 탄 이들이 모인 군중 위로 솟아 있다.",
+    "ja": "三本の十字架が、立つ人々と騎馬の人物が集まる群衆の上に立つ。",
+    "zh-TW": "三座十字架高聳於站立人物與騎馬者組成的人群之上。"
+  },
+  "art-visual-elements-met-436908": {
+    "en-US": "A crowned standing woman holds a green palm; her patterned dress contrasts with a gold ground.",
+    "ko": "왕관을 쓴 여인이 초록 종려 가지를 들고 있으며 무늬 있는 옷이 금빛 바탕과 대조된다.",
+    "ja": "冠をかぶる女性が緑の棕櫚を持ち、模様のある衣服が金地と対照をなす。",
+    "zh-TW": "戴冠的女子拿著綠色棕櫚枝，花紋衣裳與金底形成對比。"
+  },
+  "art-visual-elements-met-437675": {
+    "en-US": "A bearded man in a pale pink mantle holds a red book against a patterned gold ground.",
+    "ko": "연분홍 망토의 수염 난 남자가 붉은 책을 들고 있으며 뒤에는 무늬 있는 금빛 바탕이 있다.",
+    "ja": "淡い桃色のマントをまとう髭の男性が赤い本を持ち、背後は文様のある金地である。",
+    "zh-TW": "披淡粉色斗篷的蓄鬚男子拿著紅書，背後是有紋樣的金色背景。"
+  },
+  "art-visual-elements-met-547859": {
+    "en-US": "A gray-haired woman with a gold-colored wreath looks outward; light and dark strokes shape her cheeks.",
+    "ko": "금빛 화관의 회색 머리 여인이 정면을 바라보고 밝고 어두운 붓질이 뺨을 만든다.",
+    "ja": "金色の冠をつけた白髪の女性が外を見つめ、明暗の筆跡が頬を形作る。",
+    "zh-TW": "灰髮女子戴金色花冠向外凝視，明暗筆觸塑造雙頰。"
+  },
+  "art-visual-elements-met-435640": {
+    "en-US": "A veiled woman joins her hands above a sleeping child; a distant landscape lies behind a curved opening.",
+    "ko": "베일을 쓴 여인이 잠든 아이 위로 두 손을 모으고 곡선 개구부 너머에는 먼 풍경이 있다.",
+    "ja": "ヴェールを着けた女性が眠る子の上で手を合わせ、曲線の開口部の奥に遠景が広がる。",
+    "zh-TW": "戴面紗的女子在熟睡孩子上方合掌，弧形開口後方有遠景。"
+  },
+  "art-visual-elements-met-435809": {
+    "en-US": "Workers cut golden grain while others eat or rest beneath a tree; fields recede toward distant water.",
+    "ko": "사람들이 황금빛 곡물을 베고 다른 이들은 나무 아래서 먹거나 쉰다. 밭은 먼 물가까지 이어진다.",
+    "ja": "人々が黄金色の穀物を刈り、別の人々は木陰で食べたり休んだりする。畑は遠い水辺へ続く。",
+    "zh-TW": "有人割金黃穀物，有人在樹下用餐或休息；田野延伸至遠方水面。"
+  },
+  "art-visual-elements-met-436658": {
+    "en-US": "A black-capped man folds his hands above a green table; a small book rests at left against a blue background.",
+    "ko": "검은 모자의 남자가 초록 탁자 위에 손을 모으고 왼쪽에는 작은 책, 뒤에는 파란 바탕이 있다.",
+    "ja": "黒い帽子の男性が緑の卓上で手を組み、左に小さな本、背後に青い背景がある。",
+    "zh-TW": "戴黑帽的男子在綠桌上交握雙手，左側放小書，背後為藍色。"
+  },
+  "art-visual-elements-met-436896": {
+    "en-US": "A richly dressed woman appears in profile; a man peers through an opening at left within nested room frames.",
+    "ko": "화려한 옷의 여인이 옆모습으로 있고 왼쪽 개구부로 남자가 들여다보며 방의 틀이 겹쳐 있다.",
+    "ja": "華やかな衣服の女性が横顔を見せ、左の開口部から男性が覗き、部屋の枠が重なる。",
+    "zh-TW": "華服女子以側面出現，男子從左邊開口探望，室內框架層層相套。"
+  },
+  "art-visual-elements-met-437372": {
+    "en-US": "A mother and child occupy a central throne above steps, flanked by saints beneath an arched upper scene.",
+    "ko": "계단 위 중앙 옥좌의 모자 양옆에 성인들이 서고 위에는 아치 모양 장면이 있다.",
+    "ja": "階段上の中央の玉座に母子が座り、左右に聖人が立ち、上にはアーチ形の場面がある。",
+    "zh-TW": "母子坐在階梯上方的中央寶座，兩側有諸聖，上方另有拱形場景。"
+  },
+  "art-visual-elements-met-437823": {
+    "en-US": "A seated elderly bearded man wears dark and white garments; his hands rest apart and one holds a book.",
+    "ko": "앉은 노년의 수염 난 남자가 어두운 옷과 흰 옷을 입고 양손을 따로 두며 한 손에는 책을 들었다.",
+    "ja": "座る髭の老人が暗色と白の衣をまとい、両手を離して置き、片手に本を持つ。",
+    "zh-TW": "坐著的蓄鬚老人穿深色與白色衣物，雙手分放，一手持書。"
+  },
+  "art-visual-elements-met-45434": {
+    "en-US": "A curling blue wave towers over long boats; a small snow-topped mountain sits in the distant opening.",
+    "ko": "굽이치는 푸른 파도가 긴 배 위로 솟고 먼 빈틈에는 눈 덮인 작은 산이 있다.",
+    "ja": "巻き上がる青い波が長い舟を覆い、遠くの隙間に雪を頂く小さな山がある。",
+    "zh-TW": "捲曲藍浪高聳於長舟上方，遠方空隙中有白雪覆頂的小山。"
+  },
+  "art-visual-elements-met-36457": {
+    "en-US": "Long curling vines cross an open silk ground; clusters of dark grapes hang among broad leaves.",
+    "ko": "긴 덩굴이 비어 있는 비단 바탕을 가로지르고 넓은 잎 사이로 짙은 포도송이가 늘어진다.",
+    "ja": "長く曲がる蔓が余白のある絹地を横切り、大きな葉の間に濃い葡萄の房が垂れる。",
+    "zh-TW": "長而彎曲的藤蔓穿過留白的絹地，寬葉之間垂著深色葡萄串。"
+  },
+  "art-materials-met-438754": {
+    "en-US": "A dark-cloaked woman holds a child above a narrow ledge against gold.",
+    "ko": "금빛 바탕 앞에서 짙은 망토의 여인이 좁은 난간 위로 아이를 안고 있다.",
+    "ja": "金地を背景に、暗いマントの女性が細い欄干の上で子を抱いている。",
+    "zh-TW": "金色背景前，披深色斗篷的女子在窄欄杆上方抱著孩子。"
+  },
+  "art-materials-met-474236": {
+    "en-US": "An open book pairs a pale written page with a framed, richly colored image and text.",
+    "ko": "펼친 책에서 옅은 글씨의 페이지가 틀 안의 화려한 그림과 글이 있는 페이지와 마주한다.",
+    "ja": "開いた本で、淡い文字の頁と、枠の中に鮮やかな絵と文字を配した頁が向き合う。",
+    "zh-TW": "攤開的書本中，淡色文字頁與帶框的鮮豔圖像及文字頁相對。"
+  },
+  "art-materials-met-547860": {
+    "en-US": "A frontal female face has dark curls, a gold-colored wreath, and a reddish garment on a narrow wooden panel.",
+    "ko": "좁은 나무판에 정면을 향한 여성의 얼굴과 검은 곱슬머리, 금빛 화관, 붉은 옷이 보인다.",
+    "ja": "細長い板に正面向きの女性の顔、黒い巻き毛、金色の冠、赤みのある衣服が見える。",
+    "zh-TW": "狹長木板上有正面的女性臉孔、黑捲髮、金色花冠及紅色衣裳。"
+  },
+  "art-materials-met-547859": {
+    "en-US": "A gray-haired woman with a gold-colored wreath looks outward; light and dark strokes shape her cheeks.",
+    "ko": "금빛 화관의 회색 머리 여인이 정면을 바라보고 밝고 어두운 붓질이 뺨을 만든다.",
+    "ja": "金色の冠をつけた白髪の女性が外を見つめ、明暗の筆跡が頬を形作る。",
+    "zh-TW": "灰髮女子戴金色花冠向外凝視，明暗筆觸塑造雙頰。"
+  },
+  "art-materials-met-544502": {
+    "en-US": "Repeating spirals and rosette-like circles alternate across red and blue areas of a painted fragment.",
+    "ko": "채색 조각의 빨강과 파랑 영역 사이로 나선과 꽃 모양 원이 반복된다.",
+    "ja": "彩色断片の赤と青の部分に、渦巻きと花形の円が繰り返される。",
+    "zh-TW": "彩繪殘片的紅、藍色區域中，螺旋與花形圓圈交替重複。"
+  },
+  "art-materials-met-552476": {
+    "en-US": "A standing man in a white kilt balances a pole on his shoulders, with birds hanging at both sides.",
+    "ko": "흰 킬트의 남자가 어깨에 장대를 메고 서 있으며 양쪽에 새들이 매달려 있다.",
+    "ja": "白い腰布の男性が肩に棒を担ぎ、両側に鳥が吊られている。",
+    "zh-TW": "穿白色腰布的男子站立著，肩扛長桿，兩側懸掛鳥隻。"
+  },
+  "art-materials-met-247015": {
+    "en-US": "A tall fluted column stands beside nested red architectural rectangles above a painted base.",
+    "ko": "세로 홈이 있는 높은 기둥이 겹친 붉은 건축 사각형 옆에 서 있고 아래에는 그려진 받침이 있다.",
+    "ja": "溝のある高い柱が入れ子状の赤い建築の矩形の横に立ち、下には描かれた台座がある。",
+    "zh-TW": "高聳凹槽柱立於層層紅色建築矩形旁，下方畫有基座。"
+  },
+  "art-materials-met-250930": {
+    "en-US": "Slender golden architectural lines surround a tiny landscape on a broad black field above a red band.",
+    "ko": "가는 금빛 건축 선이 넓은 검정 바탕의 작은 풍경을 두르고 아래에는 붉은 띠가 있다.",
+    "ja": "細い金色の建築線が広い黒地の小風景を囲み、下には赤い帯がある。",
+    "zh-TW": "纖細金色建築線條環繞寬闊黑底中的微小風景，下方有紅色帶。"
+  },
+  "art-materials-met-435809": {
+    "en-US": "Workers cut golden grain while others eat or rest beneath a tree; fields recede toward distant water.",
+    "ko": "사람들이 황금빛 곡물을 베고 다른 이들은 나무 아래서 먹거나 쉰다. 밭은 먼 물가까지 이어진다.",
+    "ja": "人々が黄金色の穀物を刈り、別の人々は木陰で食べたり休んだりする。畑は遠い水辺へ続く。",
+    "zh-TW": "有人割金黃穀物，有人在樹下用餐或休息；田野延伸至遠方水面。"
+  },
+  "art-materials-met-436282": {
+    "en-US": "Two tall panels pair a crowded crucifixion scene with stacked zones of heaven, earth, and darkness.",
+    "ko": "두 긴 패널은 군중의 십자가 장면과 하늘·땅·어둠이 층층이 쌓인 장면을 나란히 놓는다.",
+    "ja": "縦長の二画面が、群衆の磔刑場面と天・地・暗闇を積み重ねた場面を並べる。",
+    "zh-TW": "兩幅長畫板並列擁擠的受難場景與天、地、黑暗層層排列的場景。"
+  },
+  "art-materials-met-437823": {
+    "en-US": "A seated elderly bearded man wears dark and white garments; his hands rest apart and one holds a book.",
+    "ko": "앉은 노년의 수염 난 남자가 어두운 옷과 흰 옷을 입고 양손을 따로 두며 한 손에는 책을 들었다.",
+    "ja": "座る髭の老人が暗色と白の衣をまとい、両手を離して置き、片手に本を持つ。",
+    "zh-TW": "坐著的蓄鬚老人穿深色與白色衣物，雙手分放，一手持書。"
+  },
+  "art-materials-met-36457": {
+    "en-US": "Long curling vines cross an open silk ground; clusters of dark grapes hang among broad leaves.",
+    "ko": "긴 덩굴이 비어 있는 비단 바탕을 가로지르고 넓은 잎 사이로 짙은 포도송이가 늘어진다.",
+    "ja": "長く曲がる蔓が余白のある絹地を横切り、大きな葉の間に濃い葡萄の房が垂れる。",
+    "zh-TW": "長而彎曲的藤蔓穿過留白的絹地，寬葉之間垂著深色葡萄串。"
+  },
+  "art-materials-met-45434": {
+    "en-US": "A curling blue wave towers over long boats; a small snow-topped mountain sits in the distant opening.",
+    "ko": "굽이치는 푸른 파도가 긴 배 위로 솟고 먼 빈틈에는 눈 덮인 작은 산이 있다.",
+    "ja": "巻き上がる青い波が長い舟を覆い、遠くの隙間に雪を頂く小さな山がある。",
+    "zh-TW": "捲曲藍浪高聳於長舟上方，遠方空隙中有白雪覆頂的小山。"
+  },
+  "art-materials-met-456949": {
+    "en-US": "A bat spreads one long dark wing while folding the other against a nearly blank pale ground.",
+    "ko": "박쥐가 거의 빈 옅은 바탕 앞에서 긴 검은 날개 하나를 펼치고 다른 날개는 접는다.",
+    "ja": "コウモリがほぼ空白の淡い地の上で、一方の長い暗い翼を広げ、もう一方を折り曲げる。",
+    "zh-TW": "蝙蝠在近乎空白的淡底上展開一隻長黑翼，另一翼則折起。"
+  },
+  "art-ancient-medieval-met-438754": {
+    "en-US": "A dark-cloaked woman holds a child above a narrow ledge against gold.",
+    "ko": "금빛 바탕 앞에서 짙은 망토의 여인이 좁은 난간 위로 아이를 안고 있다.",
+    "ja": "金地を背景に、暗いマントの女性が細い欄干の上で子を抱いている。",
+    "zh-TW": "金色背景前，披深色斗篷的女子在窄欄杆上方抱著孩子。"
+  },
+  "art-ancient-medieval-met-436504": {
+    "en-US": "A red-robed kneeling figure faces a child below a wooden shelter; angels hover above.",
+    "ko": "붉은 옷을 입고 무릎 꿇은 인물이 나무 지붕 아래의 아이를 향하고 위에는 천사들이 떠 있다.",
+    "ja": "赤い衣の跪く人物が木の屋根の下の子に向かい、上には天使が浮かぶ。",
+    "zh-TW": "穿紅袍跪下的人面向木棚下的孩子，上方有飛翔的天使。"
+  },
+  "art-ancient-medieval-met-437675": {
+    "en-US": "A bearded man in a pale pink mantle holds a red book against a patterned gold ground.",
+    "ko": "연분홍 망토의 수염 난 남자가 붉은 책을 들고 있으며 뒤에는 무늬 있는 금빛 바탕이 있다.",
+    "ja": "淡い桃色のマントをまとう髭の男性が赤い本を持ち、背後は文様のある金地である。",
+    "zh-TW": "披淡粉色斗篷的蓄鬚男子拿著紅書，背後是有紋樣的金色背景。"
+  },
+  "art-ancient-medieval-met-438605": {
+    "en-US": "Three crosses rise above a crowded group of standing figures and mounted riders.",
+    "ko": "세 십자가가 서 있는 사람들과 말을 탄 이들이 모인 군중 위로 솟아 있다.",
+    "ja": "三本の十字架が、立つ人々と騎馬の人物が集まる群衆の上に立つ。",
+    "zh-TW": "三座十字架高聳於站立人物與騎馬者組成的人群之上。"
+  },
+  "art-ancient-medieval-met-459046": {
+    "en-US": "Two haloed figures overlap in a narrow panel; a red outer garment covers the front figure.",
+    "ko": "좁은 화면에서 두 후광의 인물이 겹치고 앞 인물은 붉은 겉옷을 입었다.",
+    "ja": "細長い画面に光輪のある二人が重なり、手前の人物は赤い外衣を着る。",
+    "zh-TW": "狹長畫面中兩位有光環的人物相疊，前方人物穿紅色外袍。"
+  },
+  "art-ancient-medieval-met-459045": {
+    "en-US": "A long banquet table occupies the right; a separate action appears beneath an arch at left.",
+    "ko": "오른쪽에는 긴 연회 식탁이 있고 왼쪽 아치 아래에는 별도의 사건이 보인다.",
+    "ja": "右には長い宴席があり、左のアーチの下には別の出来事が描かれる。",
+    "zh-TW": "右側有長宴席，左側拱門下出現另一段情節。"
+  },
+  "art-ancient-medieval-met-474236": {
+    "en-US": "An open book pairs a pale written page with a framed, richly colored image and text.",
+    "ko": "펼친 책에서 옅은 글씨의 페이지가 틀 안의 화려한 그림과 글이 있는 페이지와 마주한다.",
+    "ja": "開いた本で、淡い文字の頁と、枠の中に鮮やかな絵と文字を配した頁が向き合う。",
+    "zh-TW": "攤開的書本中，淡色文字頁與帶框的鮮豔圖像及文字頁相對。"
+  },
+  "art-ancient-medieval-met-547860": {
+    "en-US": "A frontal female face has dark curls, a gold-colored wreath, and a reddish garment on a narrow wooden panel.",
+    "ko": "좁은 나무판에 정면을 향한 여성의 얼굴과 검은 곱슬머리, 금빛 화관, 붉은 옷이 보인다.",
+    "ja": "細長い板に正面向きの女性の顔、黒い巻き毛、金色の冠、赤みのある衣服が見える。",
+    "zh-TW": "狹長木板上有正面的女性臉孔、黑捲髮、金色花冠及紅色衣裳。"
+  },
+  "art-ancient-medieval-met-544502": {
+    "en-US": "Repeating spirals and rosette-like circles alternate across red and blue areas of a painted fragment.",
+    "ko": "채색 조각의 빨강과 파랑 영역 사이로 나선과 꽃 모양 원이 반복된다.",
+    "ja": "彩色断片の赤と青の部分に、渦巻きと花形の円が繰り返される。",
+    "zh-TW": "彩繪殘片的紅、藍色區域中，螺旋與花形圓圈交替重複。"
+  },
+  "art-ancient-medieval-met-250930": {
+    "en-US": "Slender golden architectural lines surround a tiny landscape on a broad black field above a red band.",
+    "ko": "가는 금빛 건축 선이 넓은 검정 바탕의 작은 풍경을 두르고 아래에는 붉은 띠가 있다.",
+    "ja": "細い金色の建築線が広い黒地の小風景を囲み、下には赤い帯がある。",
+    "zh-TW": "纖細金色建築線條環繞寬闊黑底中的微小風景，下方有紅色帶。"
+  },
+  "art-ancient-medieval-met-552476": {
+    "en-US": "A standing man in a white kilt balances a pole on his shoulders, with birds hanging at both sides.",
+    "ko": "흰 킬트의 남자가 어깨에 장대를 메고 서 있으며 양쪽에 새들이 매달려 있다.",
+    "ja": "白い腰布の男性が肩に棒を担ぎ、両側に鳥が吊られている。",
+    "zh-TW": "穿白色腰布的男子站立著，肩扛長桿，兩側懸掛鳥隻。"
+  },
+  "art-ancient-medieval-met-247015": {
+    "en-US": "A tall fluted column stands beside nested red architectural rectangles above a painted base.",
+    "ko": "세로 홈이 있는 높은 기둥이 겹친 붉은 건축 사각형 옆에 서 있고 아래에는 그려진 받침이 있다.",
+    "ja": "溝のある高い柱が入れ子状の赤い建築の矩形の横に立ち、下には描かれた台座がある。",
+    "zh-TW": "高聳凹槽柱立於層層紅色建築矩形旁，下方畫有基座。"
+  },
+  "art-ancient-medieval-met-547859": {
+    "en-US": "A gray-haired woman with a gold-colored wreath looks outward; light and dark strokes shape her cheeks.",
+    "ko": "금빛 화관의 회색 머리 여인이 정면을 바라보고 밝고 어두운 붓질이 뺨을 만든다.",
+    "ja": "金色の冠をつけた白髪の女性が外を見つめ、明暗の筆跡が頬を形作る。",
+    "zh-TW": "灰髮女子戴金色花冠向外凝視，明暗筆觸塑造雙頰。"
+  },
+  "art-ancient-medieval-met-32831": {
+    "en-US": "A large green curling letter encloses two scenes of haloed figures against blue and pink areas.",
+    "ko": "커다란 초록 곡선 글자가 파랑과 분홍 바탕의 후광 있는 인물 두 장면을 감싼다.",
+    "ja": "大きく曲がる緑の文字が、青と桃色の背景に光輪のある人物を描いた二場面を囲む。",
+    "zh-TW": "大型彎曲綠字包圍兩個場景，藍、粉色區域中有人物光環。"
+  },
+  "art-renaissance-met-435640": {
+    "en-US": "A veiled woman joins her hands above a sleeping child; a distant landscape lies behind a curved opening.",
+    "ko": "베일을 쓴 여인이 잠든 아이 위로 두 손을 모으고 곡선 개구부 너머에는 먼 풍경이 있다.",
+    "ja": "ヴェールを着けた女性が眠る子の上で手を合わせ、曲線の開口部の奥に遠景が広がる。",
+    "zh-TW": "戴面紗的女子在熟睡孩子上方合掌，弧形開口後方有遠景。"
+  },
+  "art-renaissance-met-435728": {
+    "en-US": "A small group bends toward a kneeling elderly man inside a dark, steep-roofed shelter.",
+    "ko": "어둡고 지붕이 가파른 실내에서 작은 무리가 무릎 꿇은 노인에게 몸을 기울인다.",
+    "ja": "暗い急勾配の屋根の建物で、少人数が跪く老人に身を寄せる。",
+    "zh-TW": "幽暗陡頂建築內，一小群人俯向跪著的老人。"
+  },
+  "art-renaissance-met-435809": {
+    "en-US": "Workers cut golden grain while others eat or rest beneath a tree; fields recede toward distant water.",
+    "ko": "사람들이 황금빛 곡물을 베고 다른 이들은 나무 아래서 먹거나 쉰다. 밭은 먼 물가까지 이어진다.",
+    "ja": "人々が黄金色の穀物を刈り、別の人々は木陰で食べたり休んだりする。畑は遠い水辺へ続く。",
+    "zh-TW": "有人割金黃穀物，有人在樹下用餐或休息；田野延伸至遠方水面。"
+  },
+  "art-renaissance-met-435896": {
+    "en-US": "A bearded man in a white hooded garment appears inside a painted frame against deep red.",
+    "ko": "흰 두건 옷의 수염 난 남자가 짙은 빨강을 배경으로 그려진 틀 안에 나타난다.",
+    "ja": "白いフード付きの衣の髭の男性が、深い赤を背景に描かれた枠の中に現れる。",
+    "zh-TW": "穿白色連帽衣的蓄鬚男子在深紅背景前，出現於繪製的框內。"
+  },
+  "art-renaissance-met-436282": {
+    "en-US": "Two tall panels pair a crowded crucifixion scene with stacked zones of heaven, earth, and darkness.",
+    "ko": "두 긴 패널은 군중의 십자가 장면과 하늘·땅·어둠이 층층이 쌓인 장면을 나란히 놓는다.",
+    "ja": "縦長の二画面が、群衆の磔刑場面と天・地・暗闇を積み重ねた場面を並べる。",
+    "zh-TW": "兩幅長畫板並列擁擠的受難場景與天、地、黑暗層層排列的場景。"
+  },
+  "art-renaissance-met-436658": {
+    "en-US": "A black-capped man folds his hands above a green table; a small book rests at left against a blue background.",
+    "ko": "검은 모자의 남자가 초록 탁자 위에 손을 모으고 왼쪽에는 작은 책, 뒤에는 파란 바탕이 있다.",
+    "ja": "黒い帽子の男性が緑の卓上で手を組み、左に小さな本、背後に青い背景がある。",
+    "zh-TW": "戴黑帽的男子在綠桌上交握雙手，左側放小書，背後為藍色。"
+  },
+  "art-renaissance-met-436896": {
+    "en-US": "A richly dressed woman appears in profile; a man peers through an opening at left within nested room frames.",
+    "ko": "화려한 옷의 여인이 옆모습으로 있고 왼쪽 개구부로 남자가 들여다보며 방의 틀이 겹쳐 있다.",
+    "ja": "華やかな衣服の女性が横顔を見せ、左の開口部から男性が覗き、部屋の枠が重なる。",
+    "zh-TW": "華服女子以側面出現，男子從左邊開口探望，室內框架層層相套。"
+  },
+  "art-renaissance-met-436966": {
+    "en-US": "Kneeling figures surround a small child in rocky ground, with paths and buildings extending into a distant landscape.",
+    "ko": "돌 많은 땅의 작은 아이를 무릎 꿇은 사람들이 둘러싸고 길과 건물은 먼 풍경으로 이어진다.",
+    "ja": "岩の多い地面の小さな子を跪く人々が囲み、道と建物が遠景へ続く。",
+    "zh-TW": "跪下的人們圍繞岩地上的幼兒，道路與建築延展至遠景。"
+  },
+  "art-renaissance-met-437372": {
+    "en-US": "A mother and child occupy a central throne above steps, flanked by saints beneath an arched upper scene.",
+    "ko": "계단 위 중앙 옥좌의 모자 양옆에 성인들이 서고 위에는 아치 모양 장면이 있다.",
+    "ja": "階段上の中央の玉座に母子が座り、左右に聖人が立ち、上にはアーチ形の場面がある。",
+    "zh-TW": "母子坐在階梯上方的中央寶座，兩側有諸聖，上方另有拱形場景。"
+  },
+  "art-renaissance-met-437487": {
+    "en-US": "A dark-haired man in black turns slightly to one side, holding small objects before a pale background.",
+    "ko": "검은 옷의 짙은 머리 남자가 옅은 바탕 앞에서 몸을 조금 돌리고 작은 물건들을 들고 있다.",
+    "ja": "黒衣の黒髪の男性が淡い背景の前で少し横を向き、小さな物を持つ。",
+    "zh-TW": "黑衣深髮男子在淡色背景前略側身，手持小物件。"
+  },
+  "art-renaissance-met-437490": {
+    "en-US": "An angel stands beside a kneeling woman in a room with a red bed canopy, a window, and a patterned carpet.",
+    "ko": "붉은 침대 덮개와 창문, 무늬 있는 카펫이 있는 방에서 천사가 무릎 꿇은 여인 곁에 선다.",
+    "ja": "赤い天蓋、窓、模様のある絨毯の部屋で、天使が跪く女性の横に立つ。",
+    "zh-TW": "有紅色床帳、窗戶與花紋地毯的房間中，天使站在跪下的女子旁。"
+  },
+  "art-renaissance-met-437823": {
+    "en-US": "A seated elderly bearded man wears dark and white garments; his hands rest apart and one holds a book.",
+    "ko": "앉은 노년의 수염 난 남자가 어두운 옷과 흰 옷을 입고 양손을 따로 두며 한 손에는 책을 들었다.",
+    "ja": "座る髭の老人が暗色と白の衣をまとい、両手を離して置き、片手に本を持つ。",
+    "zh-TW": "坐著的蓄鬚老人穿深色與白色衣物，雙手分放，一手持書。"
+  },
+  "art-renaissance-met-459016": {
+    "en-US": "An angel and a kneeling woman occupy separate bays of a colonnaded interior, divided by a hanging curtain.",
+    "ko": "천사와 무릎 꿇은 여인이 기둥 있는 실내의 서로 다른 칸에 있고 매달린 커튼이 둘을 나눈다.",
+    "ja": "天使と跪く女性が列柱の室内の別々の区画にいて、垂れた幕が二人を分ける。",
+    "zh-TW": "天使與跪著的女子分處列柱室內不同區間，由垂簾隔開。"
+  },
+  "art-renaissance-met-437056": {
+    "en-US": "Two framed portraits face inward; both figures join their hands against dark backgrounds.",
+    "ko": "두 틀의 초상이 안쪽을 향하고 두 인물은 어두운 바탕 앞에서 두 손을 모은다.",
+    "ja": "二つの額の肖像が内側を向き、両者とも暗い背景の前で手を合わせる。",
+    "zh-TW": "兩幅有框肖像朝向內側，兩人皆在深色背景前合掌。"
+  },
+  "art-baroque-rococo-met-437394": {
+    "ko": "어둠 속에서 얼굴, 손, 금빛 사슬이 드러난다.",
+    "en-US": "A face, hands, and a gold chain emerge from darkness.",
+    "ja": "暗闇から顔、手、金色の鎖が浮かぶ。",
+    "zh-TW": "臉、雙手與金色鍊條從暗處浮現。"
+  },
+  "art-baroque-rococo-met-437397": {
+    "ko": "검은 모자 아래 얼굴의 밝은 부분이 갈색 옷과 대비된다.",
+    "en-US": "The lit face beneath a black cap contrasts with brown clothing.",
+    "ja": "黒い帽子の下の明るい顔が茶色の服と対照をなす。",
+    "zh-TW": "黑帽下明亮的臉與棕色衣服形成對比。"
+  },
+  "art-baroque-rococo-met-437878": {
+    "ko": "고개를 괸 여인 앞의 무늬 있는 천과 열린 문이 깊이를 만든다.",
+    "en-US": "Patterned cloth before a resting woman and an open doorway create depth.",
+    "ja": "頬杖をつく女性の前の模様入りの布と開いた戸口が奥行きを作る。",
+    "zh-TW": "休息女子前方的花紋布與敞開的門口形成縱深。"
+  },
+  "art-baroque-rococo-met-437877": {
+    "ko": "체크무늬 바닥, 걷힌 커튼, 위를 보는 여인이 한 실내에 놓인다.",
+    "en-US": "A checked floor, drawn curtain, and upward-looking woman share an interior.",
+    "ja": "市松模様の床、開かれた幕、上を向く女性が室内に配される。",
+    "zh-TW": "棋盤格地板、拉開的布幕與仰望的女子同處一室。"
+  },
+  "art-baroque-rococo-met-437535": {
+    "ko": "붉은 옷을 입은 남성과 그에게 매달리는 여인의 몸이 반대 방향으로 뻗는다.",
+    "en-US": "A red-clad man and a woman clinging to him pull in opposite directions.",
+    "ja": "赤い衣の男性と彼にすがる女性の体が逆方向へ伸びる。",
+    "zh-TW": "紅衣男子與攀住他的女子朝相反方向伸展。"
+  },
+  "art-baroque-rococo-met-437532": {
+    "ko": "어른 둘의 어두운 옷 아래 아이의 밝은 옷과 손짓이 눈에 띈다.",
+    "en-US": "The child's pale clothing and gesture stand out below two dark-clad adults.",
+    "ja": "暗い服の大人二人の下で子どもの明るい服と手振りが目立つ。",
+    "zh-TW": "兩名深色衣著成人下方，孩子的淺色衣服與手勢格外顯眼。"
+  },
+  "art-baroque-rococo-met-437326": {
+    "ko": "거대한 인물이 작은 사람들과 울창한 풍경 위로 솟는다.",
+    "en-US": "A giant figure rises above smaller people and a wooded landscape.",
+    "ja": "巨大な人物が小さな人々と木々の風景の上にそびえる。",
+    "zh-TW": "巨大的身影高出小人物與林木景觀。"
+  },
+  "art-baroque-rococo-met-437329": {
+    "ko": "얽힌 팔과 움직이는 몸이 건축물의 수평선과 충돌한다.",
+    "en-US": "Interlocking arms and moving bodies interrupt the architecture's horizontal lines.",
+    "ja": "絡み合う腕と動く体が建物の水平線を断ち切る。",
+    "zh-TW": "交纏的手臂與移動的身體打斷建築的水平線。"
+  },
+  "art-baroque-rococo-met-437926": {
+    "ko": "줄무늬 의상을 입은 악사가 다리를 교차하고 고개를 젖힌다.",
+    "en-US": "A musician in striped costume crosses his legs and tilts his head.",
+    "ja": "縞の衣装の楽師が脚を交差させ、頭を傾ける。",
+    "zh-TW": "條紋戲服的樂師交叉雙腿並仰起頭。"
+  },
+  "art-baroque-rococo-met-437925": {
+    "ko": "화려한 의상의 인물들이 아치 아래 무대처럼 모인다.",
+    "en-US": "Costumed figures gather beneath arches as if on a stage.",
+    "ja": "華やかな衣装の人物がアーチの下に舞台のように集まる。",
+    "zh-TW": "華服人物聚集拱門下，彷彿置身舞臺。"
+  },
+  "art-baroque-rococo-met-435739": {
+    "ko": "청록색 커튼이 밝은 피부와 분홍 천을 둘러싼다.",
+    "en-US": "Blue-green curtains surround pale skin and pink fabric.",
+    "ja": "青緑の幕が明るい肌と桃色の布を囲む。",
+    "zh-TW": "藍綠色布幕環繞淺色肌膚與粉紅布料。"
+  },
+  "art-baroque-rococo-met-435738": {
+    "ko": "큰 나무 아래 두 인물과 양들이 비스듬한 구도를 이룬다.",
+    "en-US": "Two figures and sheep form a diagonal beneath a large tree.",
+    "ja": "大木の下で二人の人物と羊が斜めの構図を作る。",
+    "zh-TW": "大樹下的兩個人物與羊群構成斜向布局。"
+  },
+  "art-baroque-rococo-met-436322": {
+    "ko": "밝은 창 옆 여인이 종이를 들고 뒤를 돌아본다.",
+    "en-US": "Beside a bright window, a woman holds paper and turns back.",
+    "ja": "明るい窓のそばで女性が紙を持ち、振り返る。",
+    "zh-TW": "明亮窗邊的女子手持紙張，回頭望去。"
+  },
+  "art-baroque-rococo-met-436326": {
+    "ko": "두 아이의 얼굴과 분홍색, 노란색 옷이 어두운 배경에서 빛난다.",
+    "en-US": "Two children's faces and pink and yellow clothes glow against darkness.",
+    "ja": "二人の子どもの顔と桃色・黄色の服が暗い背景に浮かぶ。",
+    "zh-TW": "兩個孩子的臉與粉紅、黃色衣服在暗背景前發亮。"
+  },
+  "art-nineteenth-century-met-436105": {
+    "ko": "침상 위 남성의 치켜든 손과 내민 잔 주변으로 사람들이 배열된다.",
+    "en-US": "Figures gather around a raised hand and an offered cup beside a bed.",
+    "ja": "寝台の男性の上げた手と差し出された杯の周囲に人々が並ぶ。",
+    "zh-TW": "人物圍繞床邊高舉的手與遞出的杯子排列。"
+  },
+  "art-nineteenth-century-met-436106": {
+    "ko": "부부 옆의 유리 기구와 붉은 탁자보가 정교하게 묘사된다.",
+    "en-US": "Glass instruments and a red tablecloth are carefully defined beside a couple.",
+    "ja": "夫婦のそばのガラス器具と赤いテーブルクロスが精密に描かれる。",
+    "zh-TW": "夫婦身旁的玻璃儀器與紅桌布描繪細緻。"
+  },
+  "art-nineteenth-century-met-436708": {
+    "ko": "회색조로 누운 몸의 긴 윤곽과 커튼의 주름이 강조된다.",
+    "en-US": "Gray tones emphasize an elongated reclining contour and curtain folds.",
+    "ja": "灰色の濃淡が横たわる体の長い輪郭と幕のひだを強調する。",
+    "zh-TW": "灰色深淺強調橫臥身體的修長輪廓與布幕褶皺。"
+  },
+  "art-nineteenth-century-met-436176": {
+    "ko": "작은 배의 인물들이 거친 푸른 파도 속에 모여 있다.",
+    "en-US": "Figures crowd into a small boat amid rough blue waves.",
+    "ja": "荒い青い波の中、小舟に人物が密集する。",
+    "zh-TW": "人物擠在小船中，四周是洶湧的藍色波浪。"
+  },
+  "art-nineteenth-century-met-438814": {
+    "ko": "말과 인물의 대각선 위로 어두운 연기가 피어오른다.",
+    "en-US": "Dark smoke rises above the diagonals of a horse and struggling figures.",
+    "ja": "馬と争う人物の対角線の上に暗い煙が立つ。",
+    "zh-TW": "馬匹與掙扎人物形成斜線，上方升起黑煙。"
+  },
+  "art-nineteenth-century-met-436455": {
+    "ko": "폐허와 수도교가 낮은 햇빛 속에 겹겹이 멀어진다.",
+    "en-US": "Ruins and an aqueduct recede in layers under low sunlight.",
+    "ja": "低い日差しの中、廃墟と水道橋が層をなして遠ざかる。",
+    "zh-TW": "低斜陽光中，廢墟與水道橋層層退向遠方。"
+  },
+  "art-nineteenth-century-met-438417": {
+    "ko": "등을 보인 두 사람이 굽은 나무 사이로 작은 달을 본다.",
+    "en-US": "Two figures seen from behind face a small moon between bent trees.",
+    "ja": "背を向けた二人が曲がった木々の間の小さな月を見つめる。",
+    "zh-TW": "背向觀者的兩人透過彎曲樹木凝望小小月亮。"
+  },
+  "art-nineteenth-century-met-437853": {
+    "ko": "밝은 하늘과 물 사이에서 건축물과 배의 윤곽이 부드러워진다.",
+    "en-US": "Buildings and boats soften between luminous sky and water.",
+    "ja": "明るい空と水の間で建物と船の輪郭が和らぐ。",
+    "zh-TW": "明亮天空與水面之間，建築和船隻的輪廓變得柔和。"
+  },
+  "art-nineteenth-century-met-437854": {
+    "ko": "희뿌연 빛과 물보라가 배와 어두운 전경의 형태를 흐린다.",
+    "en-US": "Pale light and spray blur ships and a dark foreground form.",
+    "ja": "白い光と水しぶきが船や暗い前景の形をぼかす。",
+    "zh-TW": "淡光與浪花模糊船隻及前景深色形體。"
+  },
+  "art-nineteenth-century-met-436023": {
+    "ko": "검은 동굴 입구 아래 흰 물살과 거친 바위가 대비된다.",
+    "en-US": "White rushing water and rough rock contrast beneath a black cave opening.",
+    "ja": "黒い洞窟の入口の下で白い流れと粗い岩が対照をなす。",
+    "zh-TW": "黑色洞口下方，白色急流與粗糙岩石形成對比。"
+  },
+  "art-nineteenth-century-met-438820": {
+    "ko": "세 여인과 소녀, 개, 소들이 넓은 풀밭에 함께 놓인다.",
+    "en-US": "Three women, a girl, a dog, and cattle share a broad grassy setting.",
+    "ja": "三人の女性、少女、犬、牛が広い草地に配される。",
+    "zh-TW": "三名女子、女孩、狗與牛同處寬闊草地。"
+  },
+  "art-nineteenth-century-met-437098": {
+    "ko": "나무 그늘 아래 앉은 인물이 손을 내려다보고 뒤에는 양들이 보인다.",
+    "en-US": "A seated figure looks down at her hands under trees, with sheep behind.",
+    "ja": "木陰の座った人物が手元を見つめ、後ろに羊が見える。",
+    "zh-TW": "樹下坐著的人低頭看雙手，後方可見羊群。"
+  },
+  "art-nineteenth-century-met-435988": {
+    "ko": "잔잔한 물과 가는 나무줄기가 흐린 빛 속에서 겹친다.",
+    "en-US": "Still water and slender tree trunks overlap in subdued light.",
+    "ja": "静かな水と細い木の幹が穏やかな光の中で重なる。",
+    "zh-TW": "寧靜水面與細樹幹在柔暗光線中重疊。"
+  },
+  "art-nineteenth-century-met-438816": {
+    "ko": "앙상한 가지들이 어두운 그물처럼 붉은 하늘을 가른다.",
+    "en-US": "Bare branches cut across a reddish sky like a dark network.",
+    "ja": "裸の枝が暗い網のように赤みの空を横切る。",
+    "zh-TW": "光禿枝條如深色網絡，劃過泛紅天空。"
+  },
+  "art-impressionism-met-437434": {
+    "ko": "두 인물의 옷과 주변 잎이 짧고 부드러운 색 자국으로 이어진다.",
+    "en-US": "Two figures' clothing and surrounding leaves merge through soft, short color marks.",
+    "ja": "二人の服と周囲の葉が柔らかく短い色の筆触でつながる。",
+    "zh-TW": "兩人的衣服與周圍葉片透過柔短色筆觸相連。"
+  },
+  "art-impressionism-met-438738": {
+    "ko": "둥근 건초더미와 수직 나무들이 밝은 풀밭을 나눈다.",
+    "en-US": "Rounded haystacks and upright trees divide a bright meadow.",
+    "ja": "丸い干草の山と垂直の木々が明るい草地を区切る。",
+    "zh-TW": "圓乾草堆與直立樹木分割明亮草地。"
+  },
+  "art-impressionism-met-437984": {
+    "ko": "초록 옷의 굵은 윤곽과 배경의 반복되는 꽃무늬가 두드러진다.",
+    "en-US": "Strong outlines of green clothing meet repeated flowers in the background.",
+    "ja": "緑の服の強い輪郭と背景の反復する花模様が目立つ。",
+    "zh-TW": "綠衣的鮮明輪廓呼應背景反覆的花紋。"
+  },
+  "art-impressionism-met-438817": {
+    "ko": "넓은 마룻바닥이 쉬거나 연습하는 무용수들 사이를 가른다.",
+    "en-US": "A broad wooden floor separates dancers resting or practicing.",
+    "ja": "広い板張りの床が休む踊り子や練習する踊り子の間を隔てる。",
+    "zh-TW": "寬闊木地板隔開休息或練習的舞者。"
+  },
+  "art-impressionism-met-436139": {
+    "ko": "두 무용수의 기울어진 몸과 긴 가로 막대가 빈 바닥 위에 놓인다.",
+    "en-US": "Two leaning dancers and a long horizontal barre occupy space above an empty floor.",
+    "ja": "傾いた二人の踊り子と長い横棒が空いた床の上に配される。",
+    "zh-TW": "兩位傾身舞者與長橫把位於空曠地板上方。"
+  },
+  "art-impressionism-met-437430": {
+    "ko": "여인의 선명한 얼굴 뒤로 바다와 절벽이 느슨한 색으로 풀어진다.",
+    "en-US": "Behind a woman's defined face, sea and cliffs dissolve into loose color.",
+    "ja": "はっきりした女性の顔の後ろで海と崖が緩い色彩にほどける。",
+    "zh-TW": "女子清晰的臉後方，海與懸崖化成鬆散色彩。"
+  },
+  "art-impressionism-met-438815": {
+    "ko": "검은 드레스의 어머니 옆에 밝은 옷의 아이들과 큰 개가 모인다.",
+    "en-US": "Lightly dressed children and a large dog cluster beside a mother in black.",
+    "ja": "黒いドレスの母親のそばに明るい服の子どもたちと大きな犬が集まる。",
+    "zh-TW": "淺色衣著的孩子與大狗聚在黑衣母親身旁。"
+  },
+  "art-impressionism-met-437310": {
+    "ko": "높은 시점에서 본 거리의 마차와 사람들이 건물 사이로 작아진다.",
+    "en-US": "Carriages and people diminish between buildings in an elevated street view.",
+    "ja": "高所から見た街路で馬車と人々が建物の間へ小さくなる。",
+    "zh-TW": "從高處俯瞰街道，馬車與行人在建築間逐漸縮小。"
+  },
+  "art-impressionism-met-437299": {
+    "ko": "집들과 길이 겹겹의 초록 경사면을 가로지른다.",
+    "en-US": "Houses and paths cross layered green slopes.",
+    "ja": "家と道が幾重もの緑の斜面を横切る。",
+    "zh-TW": "房屋與道路穿過層疊綠坡。"
+  },
+  "art-impressionism-met-437680": {
+    "ko": "다리의 단단한 사선 아래 물에 짧은 색 반사가 흩어진다.",
+    "en-US": "Short colored reflections scatter beneath the bridge's firm diagonal.",
+    "ja": "橋の強い斜線の下で短い色の反射が水面に散る。",
+    "zh-TW": "橋的鮮明斜線下方，短促彩色倒影散布水面。"
+  },
+  "art-impressionism-met-437159": {
+    "ko": "밝은 정원에서 고개 숙인 여인의 옷과 꽃이 가벼운 붓질로 섞인다.",
+    "en-US": "Light brushwork mingles a bowed woman's clothing with flowers in a bright garden.",
+    "ja": "明るい庭でうつむく女性の服と花が軽い筆触で混じる。",
+    "zh-TW": "明亮花園中，低頭女子的衣服與花朵以輕盈筆觸交融。"
+  },
+  "art-impressionism-met-436947": {
+    "ko": "잘린 배의 가장자리와 돛줄이 두 인물을 비스듬히 둘러싼다.",
+    "en-US": "Cropped boat edges and rigging frame two figures at an angle.",
+    "ja": "画面で切れた舟の縁と索具が二人を斜めに囲む。",
+    "zh-TW": "被畫框截斷的船緣與繩索斜向框住兩個人物。"
+  },
+  "art-impressionism-met-436535": {
+    "ko": "구름과 나무의 굽은 붓질이 노란 들판 위로 반복된다.",
+    "en-US": "Curving strokes repeat across clouds and trees above a yellow field.",
+    "ja": "黄色い畑の上で雲と木々に曲がった筆触が繰り返される。",
+    "zh-TW": "黃色田野上方，雲與樹木反覆出現彎曲筆觸。"
+  },
+  "art-impressionism-met-435882": {
+    "ko": "흰 천의 꺾인 면 사이에 둥근 과일과 잎이 배치된다.",
+    "en-US": "Round fruit and leaves sit among angular folds of white cloth.",
+    "ja": "白い布の角張ったひだの間に丸い果物と葉が置かれる。",
+    "zh-TW": "圓水果與葉片置於白布帶角度的褶面之間。"
+  },
+  "art-modern-met-435878": {
+    "ko": "각진 색면들이 들판에서 먼 산까지 이어진다.",
+    "en-US": "Angular patches of color link fields to a distant mountain.",
+    "ja": "角張った色面が畑から遠い山までつながる。",
+    "zh-TW": "帶角度的色塊將田野連向遠山。"
+  },
+  "art-modern-met-435868": {
+    "ko": "테이블 주위의 인물들이 모자와 팔, 몸의 단단한 형태로 묶인다.",
+    "en-US": "Hats, arms, and solid bodies bind figures around a table.",
+    "ja": "帽子、腕、量感のある体が卓を囲む人物をまとめる。",
+    "zh-TW": "帽子、手臂與厚實身體把桌邊人物連結起來。"
+  },
+  "art-modern-met-436528": {
+    "ko": "파란 꽃과 길고 뾰족한 잎이 흰 꽃병에서 사방으로 퍼진다.",
+    "en-US": "Blue flowers and long pointed leaves spread from a white vase.",
+    "ja": "青い花と長く尖った葉が白い花瓶から四方へ広がる。",
+    "zh-TW": "藍花與長尖葉從白花瓶向四方伸展。"
+  },
+  "art-modern-met-437654": {
+    "ko": "줄지은 불빛 아래 무대 인물과 관객의 실루엣이 수평 띠를 이룬다.",
+    "en-US": "Under aligned lights, stage figures and audience silhouettes form horizontal bands.",
+    "ja": "並ぶ灯りの下で舞台の人物と観客の影が水平の帯を作る。",
+    "zh-TW": "排列燈光下，臺上人物與觀眾剪影構成水平帶。"
+  },
+  "art-modern-met-437658": {
+    "ko": "나무 그늘과 햇빛의 띠 사이로 작은 인물들이 점점이 놓인다.",
+    "en-US": "Small figures punctuate bands of tree shade and sunlight.",
+    "ja": "木陰と日光の帯の間に小さな人物が点在する。",
+    "zh-TW": "小人物點綴在樹蔭與日光的帶狀區域之間。"
+  },
+  "art-modern-met-437835": {
+    "ko": "크게 잘린 두 인물 사이로 검은 모자와 흰 칼라가 솟는다.",
+    "en-US": "A black hat and white collar rise between two sharply cropped figures.",
+    "ja": "大きく切られた二人の間から黒い帽子と白い襟が現れる。",
+    "zh-TW": "兩個被大幅裁切的人物之間，黑帽與白領向上突出。"
+  },
+  "art-modern-met-438018": {
+    "ko": "등을 보인 인물과 거울 속 반사가 좁은 실내에 겹친다.",
+    "en-US": "A figure seen from behind overlaps her reflection in a narrow interior.",
+    "ja": "背を向けた人物と鏡の反射が狭い室内で重なる。",
+    "zh-TW": "背向觀者的人物與鏡中倒影在狹窄室內重疊。"
+  },
+  "art-modern-met-436964": {
+    "ko": "긴 옅은 드레스와 앵무새가 어두운 바탕 앞에 나란히 선다.",
+    "en-US": "A long pale dress and a parrot stand side by side against darkness.",
+    "ja": "長い淡色のドレスとオウムが暗い背景の前に並ぶ。",
+    "zh-TW": "淺色長裙與鸚鵡並列於暗色背景前。"
+  },
+  "art-modern-met-436952": {
+    "ko": "작은 행렬이 어두운 나무 사이를 지나고 먼 도시가 위로 펼쳐진다.",
+    "en-US": "A small procession passes among dark trees beneath a distant city.",
+    "ja": "小さな行列が暗い木々の間を通り、遠い街が上に広がる。",
+    "zh-TW": "小行列穿過深色樹木，遠方城市展現在上方。"
+  },
+  "art-modern-met-438822": {
+    "ko": "커다란 잎과 꽃이 겹쳐지고 작은 사자가 낮은 풀 사이에 놓인다.",
+    "en-US": "Large leaves and flowers overlap above a small lion in low foliage.",
+    "ja": "大きな葉と花が重なり、低い茂みに小さなライオンがいる。",
+    "zh-TW": "大片葉與花朵重疊，低矮植叢中有小獅子。"
+  },
+  "art-modern-met-437512": {
+    "ko": "길가의 가는 나무들이 반복되는 아치처럼 하늘을 가른다.",
+    "en-US": "Slender roadside trees divide the sky like repeated arches.",
+    "ja": "道端の細い木々が反復するアーチのように空を分ける。",
+    "zh-TW": "路旁細樹如反覆拱形，分割天空。"
+  },
+  "art-modern-met-436446": {
+    "ko": "두 인물이 얕은 공간에 나란히 서서 붉은 꽃과 쟁반을 든다.",
+    "en-US": "Two figures stand side by side in shallow space, holding red flowers and a tray.",
+    "ja": "二人が浅い空間に並び、赤い花と盆を持つ。",
+    "zh-TW": "兩人在淺空間中並立，拿著紅花與托盤。"
+  },
+  "art-modern-met-438821": {
+    "ko": "과일과 잎 너머 인물들의 후광과 다채로운 옷이 보인다.",
+    "en-US": "Halos and colorful clothes appear beyond foreground fruit and foliage.",
+    "ja": "前景の果物と葉の向こうに光輪と色鮮やかな衣が見える。",
+    "zh-TW": "前景水果與葉片後方，可見光環與鮮豔衣服。"
+  },
+  "art-korean-met-40073": {
+    "ko": "긴 꼬리의 새와 붉은 줄기, 꽃이 좁은 세로 화면을 채운다.",
+    "en-US": "A long-tailed bird, red trunk, and flowers fill a narrow vertical field.",
+    "ja": "長い尾の鳥、赤い幹、花が細長い縦の画面を満たす。",
+    "zh-TW": "長尾鳥、紅色樹幹與花朵填滿狹長直幅。"
+  },
+  "art-korean-met-36029": {
+    "ko": "한쪽 다리를 세운 인물의 섬세한 옷이 어두운 바위 앞에 드러난다.",
+    "en-US": "A figure with one raised knee wears delicate robes before dark rock.",
+    "ja": "片膝を立てた人物の繊細な衣が暗い岩の前に浮かぶ。",
+    "zh-TW": "屈起一膝的人物穿精細衣袍，位於深色岩石前。"
+  },
+  "art-korean-met-39881": {
+    "ko": "후광을 지닌 두 인물이 어두운 바탕에 나란히 선다.",
+    "en-US": "Two haloed figures stand side by side against darkness.",
+    "ja": "光背を持つ二人が暗い背景に並んで立つ。",
+    "zh-TW": "兩尊有光環的人物並立於暗背景前。"
+  },
+  "art-korean-met-39882": {
+    "ko": "높이 앉은 중앙 인물 아래 양옆의 두 인물이 균형을 이룬다.",
+    "en-US": "Two flanking figures balance beneath an elevated seated central figure.",
+    "ja": "高く座る中央像の下で左右の二体が釣り合う。",
+    "zh-TW": "高坐中央人物下方，兩側人物形成平衡。"
+  },
+  "art-korean-met-39883": {
+    "ko": "둥근 후광과 길게 내려오는 옷이 선 인물의 세로축을 강조한다.",
+    "en-US": "A circular halo and long robes emphasize a standing figure's vertical axis.",
+    "ja": "円い光背と長い衣が立像の縦軸を強調する。",
+    "zh-TW": "圓光環與長袍強調站立人物的垂直軸。"
+  },
+  "art-korean-met-39887": {
+    "ko": "중앙의 큰 인물 주위로 작은 얼굴과 화려한 옷이 빽빽하게 모인다.",
+    "en-US": "Small faces and elaborate robes crowd around a large central figure.",
+    "ja": "大きな中央像の周りに小さな顔と華やかな衣が密集する。",
+    "zh-TW": "小臉與華麗衣袍密集環繞中央大人物。"
+  },
+  "art-korean-met-39888": {
+    "ko": "먼 산과 물가 사이의 넓은 빈 공간이 낮은 섬들을 분리한다.",
+    "en-US": "Broad open space between distant mountains and shore separates low islands.",
+    "ja": "遠山と岸辺の間の広い余白が低い島々を隔てる。",
+    "zh-TW": "遠山與岸邊之間的廣闊留白分開低矮島嶼。"
+  },
+  "art-korean-met-40445": {
+    "ko": "굵고 꺾인 가지에서 가는 꽃가지가 빈 바탕으로 뻗는다.",
+    "en-US": "Fine flowering twigs extend into open ground from a thick angular branch.",
+    "ja": "太く折れ曲がる枝から細い花枝が余白へ伸びる。",
+    "zh-TW": "細花枝由粗壯折轉枝幹伸向留白。"
+  },
+  "art-korean-met-44760": {
+    "ko": "여러 폭에 꽃과 새가 반복되지만 가지의 방향은 달라진다.",
+    "en-US": "Flowers and birds repeat across panels while branches change direction.",
+    "ja": "花と鳥が各幅で反復し、枝の向きは変化する。",
+    "zh-TW": "花鳥在各扇反覆出現，枝條方向卻各不相同。"
+  },
+  "art-korean-met-50486": {
+    "ko": "가느다란 줄기와 뾰족한 잎 묶음 위로 글씨가 놓인다.",
+    "en-US": "Writing appears above slender stalks and clusters of pointed leaves.",
+    "ja": "細い茎と尖った葉の束の上に文字が置かれる。",
+    "zh-TW": "細竹莖與尖葉簇上方配置文字。"
+  },
+  "art-korean-met-73134": {
+    "ko": "책과 그릇 등 작은 물건들이 각 폭에 세로로 쌓여 있다.",
+    "en-US": "Books, vessels, and small objects stack vertically in separate panels.",
+    "ja": "書物、器、小物が各幅に縦に積み重なる。",
+    "zh-TW": "書籍、器皿與小物在各扇中垂直堆疊。"
+  },
+  "art-korean-met-73188": {
+    "ko": "겹친 산과 나무 사이로 옅은 안개 띠가 흐른다.",
+    "en-US": "Pale bands of mist run between overlapping mountains and trees.",
+    "ja": "重なる山と木々の間に淡い霧の帯が流れる。",
+    "zh-TW": "淡霧帶流經重疊山巒與樹木之間。"
+  },
+  "art-korean-met-74448": {
+    "ko": "상단의 글과 아래의 산수가 나뉘고, 사람들은 풍경 속에 작게 놓인다.",
+    "en-US": "Text above and landscape below are separated; people appear small within the scenery.",
+    "ja": "上の文章と下の山水が分かれ、人物は景色の中に小さく描かれる。",
+    "zh-TW": "上方文字與下方山水分區，人物在景色中顯得微小。"
+  },
+  "art-korean-met-748432": {
+    "ko": "뾰족한 봉우리들이 긴 가로 화면 전체에 촘촘히 이어진다.",
+    "en-US": "Pointed peaks extend densely across a long horizontal field.",
+    "ja": "尖った峰々が長い横画面いっぱいに密につながる。",
+    "zh-TW": "尖峰密集延伸，遍布長橫幅。"
+  },
+  "art-chinese-met-35992": {
+    "en-US": "A river separates dark foreground trees from pale distant ridges within a curved fan.",
+    "ko": "부채꼴 화면에서 강이 짙은 앞쪽 나무와 옅은 먼 산을 나눈다.",
+    "ja": "扇形の画面で、川が手前の濃い木々と遠くの淡い山を隔てる。",
+    "zh-TW": "扇形畫面中，河流分隔前景深色樹木與遠方淡色山巒。"
+  },
+  "art-chinese-met-36023": {
+    "en-US": "A seated figure and child occupy a small boat beside a rocky, wooded bank; a fishing pole reaches left.",
+    "ko": "앉은 인물과 아이가 바위와 나무 옆 작은 배에 있고 낚싯대가 왼쪽으로 뻗는다.",
+    "ja": "座る人物と子どもが岩と木の岸辺の小舟におり、釣り竿が左へ伸びる。",
+    "zh-TW": "坐著的人物與孩子位於岩岸樹旁的小船上，釣竿向左伸出。"
+  },
+  "art-chinese-met-35994": {
+    "en-US": "Dense brushwork describing a wooded rise contrasts with open water at the sides of a fan.",
+    "ko": "나무 덮인 언덕의 조밀한 붓질이 부채 양옆의 열린 물 공간과 대비된다.",
+    "ja": "木々のある丘の密な筆致と、扇面の両側に広がる水面が対照をなす。",
+    "zh-TW": "樹木山丘的密集筆觸，與扇面兩旁開闊的水面形成對比。"
+  },
+  "art-chinese-met-51705": {
+    "en-US": "A large dark horse faces a smaller standing attendant; lines of writing surround them.",
+    "ko": "커다란 짙은 말이 작은 시종을 향하고 주변에 글줄이 놓여 있다.",
+    "ja": "大きな黒い馬が小さな従者と向き合い、周囲に文字が並ぶ。",
+    "zh-TW": "高大的深色馬匹面向較小的侍者，周圍排列文字。"
+  },
+  "art-chinese-met-51423": {
+    "en-US": "A seated figure occupies the upper center while standing figures and children cluster below.",
+    "ko": "앉은 인물이 위쪽 중앙에 있고 서 있는 인물과 아이들이 아래에 모여 있다.",
+    "ja": "座る人物が上部中央を占め、立つ人物や子どもが下方に集まる。",
+    "zh-TW": "端坐人物位於上方中央，站立人物與孩童聚集於下方。"
+  },
+  "art-chinese-met-49454": {
+    "en-US": "Bare branches and pale rocks cross the foreground of a fan beneath tall, softly shaded cliffs.",
+    "ko": "앙상한 가지와 옅은 바위가 높은 절벽 아래 부채꼴 앞부분을 가로지른다.",
+    "ja": "裸の枝と淡い岩が、高く柔らかな陰影の崖の下で扇面の手前を横切る。",
+    "zh-TW": "裸枝與淡色岩石橫過扇面前景，上方是柔和暈染的高崖。"
+  },
+  "art-chinese-met-754013": {
+    "en-US": "Broad rounded leaves and pink blossoms rise on long stems above small fish near the bottom.",
+    "ko": "넓고 둥근 잎과 분홍 꽃이 긴 줄기에 달리고 아래에 작은 물고기가 있다.",
+    "ja": "丸く大きな葉と桃色の花が長い茎の上に広がり、下方に小さな魚がいる。",
+    "zh-TW": "寬圓荷葉與粉紅花朵沿長莖伸展，下方可見小魚。"
+  },
+  "art-chinese-met-49453": {
+    "en-US": "A small full-length figure in a pale blue robe stands beneath a large block of calligraphy.",
+    "ko": "옅은 파란 옷을 입은 작은 전신 인물 위에 큰 서예 덩어리가 놓여 있다.",
+    "ja": "淡青色の衣を着た小さな全身像の上に、大きな書のまとまりがある。",
+    "zh-TW": "淡藍衣袍的全身小像上方，排列大片書法。"
+  },
+  "art-chinese-met-49448": {
+    "en-US": "Two twisting branches spread blossoms across an otherwise open fan-shaped field.",
+    "ko": "두 구불거리는 가지의 꽃이 여백 많은 부채꼴 화면을 가로질러 퍼진다.",
+    "ja": "曲がる二本の枝の花が、余白の多い扇形の画面に広がる。",
+    "zh-TW": "兩段蜿蜒枝條的花朵，延伸於留白充足的扇形畫面。"
+  },
+  "art-chinese-met-13003": {
+    "en-US": "A sailing ship is presented broadside, its masts and rigging rising above the water.",
+    "ko": "범선이 옆모습으로 제시되고 돛대와 밧줄이 수면 위로 솟아 있다.",
+    "ja": "帆船が横から描かれ、マストと索具が水面の上にそびえる。",
+    "zh-TW": "帆船以側面呈現，桅杆與纜索聳立水面之上。"
+  },
+  "art-chinese-met-12865": {
+    "en-US": "Fire and smoke interrupt a waterfront lined with buildings and boats.",
+    "ko": "건물과 배가 늘어선 해안 풍경 사이로 불길과 연기가 솟는다.",
+    "ja": "建物や船が並ぶ水辺の風景に、炎と煙が割り込む。",
+    "zh-TW": "火光與煙霧打斷沿岸建築與船隻排列的景象。"
+  },
+  "art-chinese-met-13027": {
+    "en-US": "A formally dressed man is isolated as the main subject of the portrait.",
+    "ko": "정장을 입은 남성이 초상의 중심 대상으로 따로 제시된다.",
+    "ja": "正装した男性が、肖像の中心的な対象として描かれる。",
+    "zh-TW": "身穿正式服裝的男子，獨立成為肖像的主要對象。"
+  },
+  "art-chinese-met-12928": {
+    "en-US": "A woman in a flowing white dress raises one hand toward a large bird, with a small flag above her.",
+    "ko": "흐르는 흰 드레스의 여성이 큰 새를 향해 한 손을 들고 머리 위에 작은 깃발이 있다.",
+    "ja": "流れる白い服の女性が大きな鳥へ片手を上げ、頭上に小さな旗がある。",
+    "zh-TW": "穿飄逸白裙的女子向大鳥舉起一手，上方有小旗。"
+  },
+  "art-japanese-met-843267": {
+    "en-US": "Groups of robed figures occupy a long screen, separated by trees and open intervals.",
+    "ko": "긴 병풍 속 옷 입은 인물 무리들이 나무와 빈 간격으로 나뉜다.",
+    "ja": "長い屏風の衣を着た人物群が、木々と空白の間隔で分けられる。",
+    "zh-TW": "長幅屏風上的衣袍人物群，由樹木與空隙分隔。"
+  },
+  "art-japanese-met-667297": {
+    "en-US": "A dark branching trunk cuts diagonally across a golden upright screen, with sparse blossoms.",
+    "ko": "드문 꽃이 달린 검은 가지가 금빛 세로 가리개를 비스듬히 가른다.",
+    "ja": "花をまばらにつけた暗い幹が、金色の衝立を斜めに横切る。",
+    "zh-TW": "深色樹幹斜穿金色立屏，其上疏落開花。"
+  },
+  "art-japanese-met-49082": {
+    "en-US": "Standing and seated figures face one another against a gold ground on a two-panel screen.",
+    "ko": "두 폭 병풍의 금빛 바탕에서 서 있는 인물과 앉은 인물이 마주한다.",
+    "ja": "二曲屏風の金地で、立つ人物と座る人物が向き合う。",
+    "zh-TW": "二曲屏風的金地上，站立與端坐人物彼此相對。"
+  },
+  "art-japanese-met-77191": {
+    "en-US": "Dark groves gather below a jagged peak, while pale gaps separate successive mountain forms.",
+    "ko": "톱니 같은 봉우리 아래 짙은 숲이 모이고 옅은 틈이 겹겹의 산을 나눈다.",
+    "ja": "鋸歯状の峰の下に濃い林が集まり、淡い隙間が重なる山を分ける。",
+    "zh-TW": "鋸齒般山峰下聚集深色樹叢，淡色間隙分隔層疊山形。"
+  },
+  "art-japanese-met-45326": {
+    "en-US": "A long-tailed bird perches between clusters of white flowers and broad green leaves.",
+    "ko": "긴 꼬리의 새가 흰 꽃송이와 넓은 초록 잎 사이 가지에 앉아 있다.",
+    "ja": "尾の長い鳥が、白い花の房と広い緑の葉の間にとまる。",
+    "zh-TW": "長尾鳥停棲於白色花簇與寬綠葉之間。"
+  },
+  "art-japanese-met-897136": {
+    "en-US": "Green-blue mountains fill a tall scroll, with a narrow pale waterfall cutting through rocky slopes.",
+    "ko": "청록빛 산이 긴 족자를 채우고 가느다란 밝은 폭포가 바위 비탈을 가른다.",
+    "ja": "青緑の山々が縦長の軸を満たし、細く淡い滝が岩の斜面を切る。",
+    "zh-TW": "青綠山巒填滿長軸，細白瀑布穿越岩坡。"
+  },
+  "art-japanese-met-74462": {
+    "en-US": "A yellow-breasted bird sits on a branching spray with small pale flowers against a light ground.",
+    "ko": "밝은 바탕에서 노란 가슴의 새가 작은 옅은 꽃이 핀 가지에 앉아 있다.",
+    "ja": "明るい地に、黄色い胸の鳥が小さく淡い花の咲く枝にとまる。",
+    "zh-TW": "淺色背景上，黃胸鳥停在開著淡色小花的枝條。"
+  },
+  "art-japanese-met-45329": {
+    "en-US": "Blue and white star-shaped flowers rise on thin stems across a light fan-shaped field.",
+    "ko": "가느다란 줄기의 파란색과 흰색 별 모양 꽃이 밝은 부채꼴 화면에 펼쳐진다.",
+    "ja": "細い茎の青と白の星形の花が、明るい扇面に広がる。",
+    "zh-TW": "纖細莖上的藍白星形花朵，展開於淺色扇面。"
+  },
+  "art-japanese-met-49003": {
+    "en-US": "A peacock’s long patterned tail descends beside pink blossoms and twisted branches.",
+    "ko": "공작의 길고 무늬 있는 꼬리가 분홍 꽃과 뒤틀린 가지 옆으로 내려온다.",
+    "ja": "孔雀の長い模様のある尾が、桃色の花とねじれた枝の脇に垂れる。",
+    "zh-TW": "孔雀長而有紋的尾羽，垂於粉紅花朵與扭曲枝條旁。"
+  },
+  "art-japanese-met-53458": {
+    "en-US": "Dotted ink textures gather around mountains and a low settlement inside a small fan.",
+    "ko": "점 같은 먹 질감이 작은 부채 속 산과 낮은 마을 주위에 모인다.",
+    "ja": "点状の墨の質感が、小さな扇面の山と低い集落の周りに集まる。",
+    "zh-TW": "點狀墨痕聚集於小扇面內的山體與低矮村落周圍。"
+  },
+  "art-japanese-met-78584": {
+    "en-US": "Printed pages combine compact motifs and brushlike lines in a bound illustrated book.",
+    "ko": "삽화가 든 인쇄본의 지면에 작은 모티프와 붓질 같은 선이 결합한다.",
+    "ja": "挿絵入りの版本で、小さな図柄と筆のような線が組み合わされる。",
+    "zh-TW": "有插圖的印本頁面結合小型圖樣與近似筆觸的線條。"
+  },
+  "art-japanese-met-45434": {
+    "en-US": "A huge curling blue wave arches over narrow boats, while a small snow-capped mountain appears in the distance.",
+    "ko": "거대한 푸른 파도가 좁은 배 위로 휘어지고 멀리 작은 설산이 보인다.",
+    "ja": "巨大な青い波が細い舟の上に覆いかぶさり、遠くに小さな雪山が見える。",
+    "zh-TW": "巨大藍浪拱起於狹長船隻上方，遠方露出小小雪山。"
+  },
+  "art-japanese-met-36521": {
+    "en-US": "Slanting rain lines cross bent travelers and a steep road, with dark trees leaning behind them.",
+    "ko": "비스듬한 빗줄기가 몸을 굽힌 여행자와 가파른 길을 가로지르고 뒤의 어두운 나무가 기운다.",
+    "ja": "斜めの雨線が身をかがめる旅人と急な道を横切り、背後の暗い木々が傾く。",
+    "zh-TW": "斜雨線穿過彎身旅人與陡路，後方暗樹傾斜。"
+  },
+  "art-japanese-met-53681": {
+    "en-US": "Flowering trees frame tiny visitors in an orchard beneath a band of pink sky.",
+    "ko": "분홍 하늘 띠 아래 꽃 핀 나무들이 과수원의 작은 방문객을 둘러싼다.",
+    "ja": "桃色の空の帯の下で、花咲く木々が梅園の小さな訪問者を囲む。",
+    "zh-TW": "粉紅天空帶下，開花樹木環繞園中小小遊人。"
+  },
+  "art-world-met-317618": {
+    "en-US": "A figure inside a red circle appears above rows of robed people, surrounded by winged beings.",
+    "ko": "붉은 원 안의 인물이 줄지은 긴 옷의 사람들 위에 있고 날개 달린 존재가 둘러싼다.",
+    "ja": "赤い円の中の人物が衣を着た人々の列の上に現れ、翼のある存在に囲まれる。",
+    "zh-TW": "紅圓內的人物出現於衣袍人群上方，四周環繞有翼形象。"
+  },
+  "art-world-met-733038": {
+    "en-US": "A frontal, haloed figure raises both hands inside a border of red, black, and pale triangles.",
+    "ko": "정면을 향한 광배 인물이 빨강·검정·밝은 삼각형 테두리 안에서 양손을 든다.",
+    "ja": "正面向きの光輪のある人物が、赤・黒・淡色の三角形の縁内で両手を上げる。",
+    "zh-TW": "有光環的正面人物，在紅、黑、淺色三角邊框內舉起雙手。"
+  },
+  "art-world-met-38016": {
+    "en-US": "Large seated men face one another on a raised platform, while smaller attendants and animals gather below.",
+    "ko": "높은 단 위에서 큰 좌상들이 마주하고 아래에 작은 시종과 동물이 모인다.",
+    "ja": "高い台の上で大きな座像が向き合い、下には小さな従者と動物が集まる。",
+    "zh-TW": "大幅端坐人物在高台上相對，下方聚集較小侍從與動物。"
+  },
+  "art-world-met-456949": {
+    "en-US": "A bat spreads one large veined wing, contrasting its thin membrane with the furry body.",
+    "ko": "박쥐가 핏줄 같은 무늬의 큰 날개 하나를 펴 얇은 막과 털 덮인 몸을 대비시킨다.",
+    "ja": "コウモリが筋の見える大きな片翼を広げ、薄い膜と毛のある胴が対照をなす。",
+    "zh-TW": "蝙蝠展開一側有脈紋的大翼，薄膜與毛茸身體形成對比。"
+  },
+  "art-world-met-454054": {
+    "en-US": "Women in long garments gather around a fountain, surrounded by vegetation and pairs of animals.",
+    "ko": "긴 옷의 여성들이 식물과 짝지은 동물에 둘러싸인 분수 주위에 모인다.",
+    "ja": "長い衣の女性たちが、植物や対の動物に囲まれた噴水の周囲に集う。",
+    "zh-TW": "長衣女子聚集於噴泉周圍，四周是植物與成對動物。"
+  },
+  "art-world-met-446551": {
+    "en-US": "Seated and standing figures gather beneath a striped canopy beside a pool, with text above and below.",
+    "ko": "앉거나 선 인물들이 줄무늬 차양 아래 연못 옆에 모이고 위아래에 글이 있다.",
+    "ja": "座る人物と立つ人物が縞の日覆いの下の池辺に集まり、上下に文字がある。",
+    "zh-TW": "坐立人物聚集在條紋遮棚下的池旁，上下皆有文字。"
+  },
+  "art-world-met-446550": {
+    "en-US": "A rider and a twisting tree occupy a blue-backed scene above short columns of script.",
+    "ko": "기마 인물과 뒤틀린 나무가 짧은 글단 위 푸른 배경의 장면을 채운다.",
+    "ja": "騎乗する人物と曲がる木が、短い文字の段の上の青い地の場面を占める。",
+    "zh-TW": "騎乘人物與扭曲樹木占據藍底場景，下方有短文字欄。"
+  },
+  "art-world-met-10473": {
+    "en-US": "Pink flowers and branching foliage emerge from a decorated vase.",
+    "ko": "분홍 꽃과 갈라지는 잎줄기가 장식된 화병에서 뻗어 나온다.",
+    "ja": "桃色の花と枝葉が、装飾された花瓶から伸びる。",
+    "zh-TW": "粉紅花朵與分枝綠葉從裝飾花瓶中伸出。"
+  },
+  "art-world-met-45434": {
+    "en-US": "A huge curling blue wave arches over narrow boats, while a small snow-capped mountain appears in the distance.",
+    "ko": "거대한 푸른 파도가 좁은 배 위로 휘어지고 멀리 작은 설산이 보인다.",
+    "ja": "巨大な青い波が細い舟の上に覆いかぶさり、遠くに小さな雪山が見える。",
+    "zh-TW": "巨大藍浪拱起於狹長船隻上方，遠方露出小小雪山。"
+  },
+  "art-world-met-36521": {
+    "en-US": "Slanting rain lines cross bent travelers and a steep road, with dark trees leaning behind them.",
+    "ko": "비스듬한 빗줄기가 몸을 굽힌 여행자와 가파른 길을 가로지르고 뒤의 어두운 나무가 기운다.",
+    "ja": "斜めの雨線が身をかがめる旅人と急な道を横切り、背後の暗い木々が傾く。",
+    "zh-TW": "斜雨線穿過彎身旅人與陡路，後方暗樹傾斜。"
+  },
+  "art-world-met-754013": {
+    "en-US": "Broad rounded leaves and pink blossoms rise on long stems above small fish near the bottom.",
+    "ko": "넓고 둥근 잎과 분홍 꽃이 긴 줄기에 달리고 아래에 작은 물고기가 있다.",
+    "ja": "丸く大きな葉と桃色の花が長い茎の上に広がり、下方に小さな魚がいる。",
+    "zh-TW": "寬圓荷葉與粉紅花朵沿長莖伸展，下方可見小魚。"
+  },
+  "art-world-met-51705": {
+    "en-US": "A large dark horse faces a smaller standing attendant; lines of writing surround them.",
+    "ko": "커다란 짙은 말이 작은 시종을 향하고 주변에 글줄이 놓여 있다.",
+    "ja": "大きな黒い馬が小さな従者と向き合い、周囲に文字が並ぶ。",
+    "zh-TW": "高大的深色馬匹面向較小的侍者，周圍排列文字。"
+  },
+  "art-people-life-met-36023": {
+    "en-US": "A seated figure and child occupy a small boat beside a rocky, wooded bank; a fishing pole reaches left.",
+    "ko": "앉은 인물과 아이가 바위와 나무 옆 작은 배에 있고 낚싯대가 왼쪽으로 뻗는다.",
+    "ja": "座る人物と子どもが岩と木の岸辺の小舟におり、釣り竿が左へ伸びる。",
+    "zh-TW": "坐著的人物與孩子位於岩岸樹旁的小船上，釣竿向左伸出。"
+  },
+  "art-people-life-met-51705": {
+    "en-US": "A large dark horse faces a smaller standing attendant; lines of writing surround them.",
+    "ko": "커다란 짙은 말이 작은 시종을 향하고 주변에 글줄이 놓여 있다.",
+    "ja": "大きな黒い馬が小さな従者と向き合い、周囲に文字が並ぶ。",
+    "zh-TW": "高大的深色馬匹面向較小的侍者，周圍排列文字。"
+  },
+  "art-people-life-met-49453": {
+    "en-US": "A small full-length figure in a pale blue robe stands beneath a large block of calligraphy.",
+    "ko": "옅은 파란 옷을 입은 작은 전신 인물 위에 큰 서예 덩어리가 놓여 있다.",
+    "ja": "淡青色の衣を着た小さな全身像の上に、大きな書のまとまりがある。",
+    "zh-TW": "淡藍衣袍的全身小像上方，排列大片書法。"
+  },
+  "art-people-life-met-13027": {
+    "en-US": "A formally dressed man is isolated as the main subject of the portrait.",
+    "ko": "정장을 입은 남성이 초상의 중심 대상으로 따로 제시된다.",
+    "ja": "正装した男性が、肖像の中心的な対象として描かれる。",
+    "zh-TW": "身穿正式服裝的男子，獨立成為肖像的主要對象。"
+  },
+  "art-people-life-met-12928": {
+    "en-US": "A woman in a flowing white dress raises one hand toward a large bird, with a small flag above her.",
+    "ko": "흐르는 흰 드레스의 여성이 큰 새를 향해 한 손을 들고 머리 위에 작은 깃발이 있다.",
+    "ja": "流れる白い服の女性が大きな鳥へ片手を上げ、頭上に小さな旗がある。",
+    "zh-TW": "穿飄逸白裙的女子向大鳥舉起一手，上方有小旗。"
+  },
+  "art-people-life-met-49082": {
+    "en-US": "Standing and seated figures face one another against a gold ground on a two-panel screen.",
+    "ko": "두 폭 병풍의 금빛 바탕에서 서 있는 인물과 앉은 인물이 마주한다.",
+    "ja": "二曲屏風の金地で、立つ人物と座る人物が向き合う。",
+    "zh-TW": "二曲屏風的金地上，站立與端坐人物彼此相對。"
+  },
+  "art-people-life-met-843267": {
+    "en-US": "Groups of robed figures occupy a long screen, separated by trees and open intervals.",
+    "ko": "긴 병풍 속 옷 입은 인물 무리들이 나무와 빈 간격으로 나뉜다.",
+    "ja": "長い屏風の衣を着た人物群が、木々と空白の間隔で分けられる。",
+    "zh-TW": "長幅屏風上的衣袍人物群，由樹木與空隙分隔。"
+  },
+  "art-people-life-met-38016": {
+    "en-US": "Large seated men face one another on a raised platform, while smaller attendants and animals gather below.",
+    "ko": "높은 단 위에서 큰 좌상들이 마주하고 아래에 작은 시종과 동물이 모인다.",
+    "ja": "高い台の上で大きな座像が向き合い、下には小さな従者と動物が集まる。",
+    "zh-TW": "大幅端坐人物在高台上相對，下方聚集較小侍從與動物。"
+  },
+  "art-people-life-met-454054": {
+    "en-US": "Women in long garments gather around a fountain, surrounded by vegetation and pairs of animals.",
+    "ko": "긴 옷의 여성들이 식물과 짝지은 동물에 둘러싸인 분수 주위에 모인다.",
+    "ja": "長い衣の女性たちが、植物や対の動物に囲まれた噴水の周囲に集う。",
+    "zh-TW": "長衣女子聚集於噴泉周圍，四周是植物與成對動物。"
+  },
+  "art-people-life-met-317618": {
+    "en-US": "A figure inside a red circle appears above rows of robed people, surrounded by winged beings.",
+    "ko": "붉은 원 안의 인물이 줄지은 긴 옷의 사람들 위에 있고 날개 달린 존재가 둘러싼다.",
+    "ja": "赤い円の中の人物が衣を着た人々の列の上に現れ、翼のある存在に囲まれる。",
+    "zh-TW": "紅圓內的人物出現於衣袍人群上方，四周環繞有翼形象。"
+  },
+  "art-people-life-met-733038": {
+    "en-US": "A frontal, haloed figure raises both hands inside a border of red, black, and pale triangles.",
+    "ko": "정면을 향한 광배 인물이 빨강·검정·밝은 삼각형 테두리 안에서 양손을 든다.",
+    "ja": "正面向きの光輪のある人物が、赤・黒・淡色の三角形の縁内で両手を上げる。",
+    "zh-TW": "有光環的正面人物，在紅、黑、淺色三角邊框內舉起雙手。"
+  },
+  "art-people-life-met-320635": {
+    "en-US": "A long narrow strip alternates bands of writing with colored figures and geometric panels.",
+    "ko": "길고 좁은 띠에서 글줄과 채색 인물·기하학 패널이 교대로 나타난다.",
+    "ja": "細長い帯の中で、文字の帯と彩色された人物・幾何学区画が交互に現れる。",
+    "zh-TW": "狹長帶狀卷軸上，文字段落與彩色人物、幾何區塊交替出現。"
+  },
+  "art-people-life-met-36521": {
+    "en-US": "Slanting rain lines cross bent travelers and a steep road, with dark trees leaning behind them.",
+    "ko": "비스듬한 빗줄기가 몸을 굽힌 여행자와 가파른 길을 가로지르고 뒤의 어두운 나무가 기운다.",
+    "ja": "斜めの雨線が身をかがめる旅人と急な道を横切り、背後の暗い木々が傾く。",
+    "zh-TW": "斜雨線穿過彎身旅人與陡路，後方暗樹傾斜。"
+  },
+  "art-people-life-met-45434": {
+    "en-US": "A huge curling blue wave arches over narrow boats, while a small snow-capped mountain appears in the distance.",
+    "ko": "거대한 푸른 파도가 좁은 배 위로 휘어지고 멀리 작은 설산이 보인다.",
+    "ja": "巨大な青い波が細い舟の上に覆いかぶさり、遠くに小さな雪山が見える。",
+    "zh-TW": "巨大藍浪拱起於狹長船隻上方，遠方露出小小雪山。"
+  },
+  "art-comparisons-met-35992": {
+    "en-US": "A river separates dark foreground trees from pale distant ridges within a curved fan.",
+    "ko": "부채꼴 화면에서 강이 짙은 앞쪽 나무와 옅은 먼 산을 나눈다.",
+    "ja": "扇形の画面で、川が手前の濃い木々と遠くの淡い山を隔てる。",
+    "zh-TW": "扇形畫面中，河流分隔前景深色樹木與遠方淡色山巒。"
+  },
+  "art-comparisons-met-754013": {
+    "en-US": "Broad rounded leaves and pink blossoms rise on long stems above small fish near the bottom.",
+    "ko": "넓고 둥근 잎과 분홍 꽃이 긴 줄기에 달리고 아래에 작은 물고기가 있다.",
+    "ja": "丸く大きな葉と桃色の花が長い茎の上に広がり、下方に小さな魚がいる。",
+    "zh-TW": "寬圓荷葉與粉紅花朵沿長莖伸展，下方可見小魚。"
+  },
+  "art-comparisons-met-45329": {
+    "en-US": "Blue and white star-shaped flowers rise on thin stems across a light fan-shaped field.",
+    "ko": "가느다란 줄기의 파란색과 흰색 별 모양 꽃이 밝은 부채꼴 화면에 펼쳐진다.",
+    "ja": "細い茎の青と白の星形の花が、明るい扇面に広がる。",
+    "zh-TW": "纖細莖上的藍白星形花朵，展開於淺色扇面。"
+  },
+  "art-comparisons-met-10473": {
+    "en-US": "Pink flowers and branching foliage emerge from a decorated vase.",
+    "ko": "분홍 꽃과 갈라지는 잎줄기가 장식된 화병에서 뻗어 나온다.",
+    "ja": "桃色の花と枝葉が、装飾された花瓶から伸びる。",
+    "zh-TW": "粉紅花朵與分枝綠葉從裝飾花瓶中伸出。"
+  },
+  "art-comparisons-met-51705": {
+    "en-US": "A large dark horse faces a smaller standing attendant; lines of writing surround them.",
+    "ko": "커다란 짙은 말이 작은 시종을 향하고 주변에 글줄이 놓여 있다.",
+    "ja": "大きな黒い馬が小さな従者と向き合い、周囲に文字が並ぶ。",
+    "zh-TW": "高大的深色馬匹面向較小的侍者，周圍排列文字。"
+  },
+  "art-comparisons-met-45326": {
+    "en-US": "A long-tailed bird perches between clusters of white flowers and broad green leaves.",
+    "ko": "긴 꼬리의 새가 흰 꽃송이와 넓은 초록 잎 사이 가지에 앉아 있다.",
+    "ja": "尾の長い鳥が、白い花の房と広い緑の葉の間にとまる。",
+    "zh-TW": "長尾鳥停棲於白色花簇與寬綠葉之間。"
+  },
+  "art-comparisons-met-456949": {
+    "en-US": "A bat spreads one large veined wing, contrasting its thin membrane with the furry body.",
+    "ko": "박쥐가 핏줄 같은 무늬의 큰 날개 하나를 펴 얇은 막과 털 덮인 몸을 대비시킨다.",
+    "ja": "コウモリが筋の見える大きな片翼を広げ、薄い膜と毛のある胴が対照をなす。",
+    "zh-TW": "蝙蝠展開一側有脈紋的大翼，薄膜與毛茸身體形成對比。"
+  },
+  "art-comparisons-met-49082": {
+    "en-US": "Standing and seated figures face one another against a gold ground on a two-panel screen.",
+    "ko": "두 폭 병풍의 금빛 바탕에서 서 있는 인물과 앉은 인물이 마주한다.",
+    "ja": "二曲屏風の金地で、立つ人物と座る人物が向き合う。",
+    "zh-TW": "二曲屏風的金地上，站立與端坐人物彼此相對。"
+  },
+  "art-comparisons-met-38016": {
+    "en-US": "Large seated men face one another on a raised platform, while smaller attendants and animals gather below.",
+    "ko": "높은 단 위에서 큰 좌상들이 마주하고 아래에 작은 시종과 동물이 모인다.",
+    "ja": "高い台の上で大きな座像が向き合い、下には小さな従者と動物が集まる。",
+    "zh-TW": "大幅端坐人物在高台上相對，下方聚集較小侍從與動物。"
+  },
+  "art-comparisons-met-49453": {
+    "en-US": "A small full-length figure in a pale blue robe stands beneath a large block of calligraphy.",
+    "ko": "옅은 파란 옷을 입은 작은 전신 인물 위에 큰 서예 덩어리가 놓여 있다.",
+    "ja": "淡青色の衣を着た小さな全身像の上に、大きな書のまとまりがある。",
+    "zh-TW": "淡藍衣袍的全身小像上方，排列大片書法。"
+  },
+  "art-comparisons-met-45434": {
+    "en-US": "A huge curling blue wave arches over narrow boats, while a small snow-capped mountain appears in the distance.",
+    "ko": "거대한 푸른 파도가 좁은 배 위로 휘어지고 멀리 작은 설산이 보인다.",
+    "ja": "巨大な青い波が細い舟の上に覆いかぶさり、遠くに小さな雪山が見える。",
+    "zh-TW": "巨大藍浪拱起於狹長船隻上方，遠方露出小小雪山。"
+  },
+  "art-comparisons-met-36521": {
+    "en-US": "Slanting rain lines cross bent travelers and a steep road, with dark trees leaning behind them.",
+    "ko": "비스듬한 빗줄기가 몸을 굽힌 여행자와 가파른 길을 가로지르고 뒤의 어두운 나무가 기운다.",
+    "ja": "斜めの雨線が身をかがめる旅人と急な道を横切り、背後の暗い木々が傾く。",
+    "zh-TW": "斜雨線穿過彎身旅人與陡路，後方暗樹傾斜。"
+  },
+  "art-comparisons-met-53458": {
+    "en-US": "Dotted ink textures gather around mountains and a low settlement inside a small fan.",
+    "ko": "점 같은 먹 질감이 작은 부채 속 산과 낮은 마을 주위에 모인다.",
+    "ja": "点状の墨の質感が、小さな扇面の山と低い集落の周りに集まる。",
+    "zh-TW": "點狀墨痕聚集於小扇面內的山體與低矮村落周圍。"
+  },
+  "quotes-courage-self-trust": {
+    "ko": "거짓과 불의에 맞설 때 타인의 승인보다 자기 판단을 지키는 태도에 용기의 근거를 두는 주장",
+    "en-US": "A claim grounding courage against falsehood and injustice in one’s own judgment rather than others’ approval",
+    "ja": "虚偽や不正に抗するとき、他人の承認より自分の判断を保つことに勇気の根拠を置く主張",
+    "zh-TW": "將對抗虛假與不義的勇氣，建立在維持自身判斷而非他人認可上的主張"
+  },
+  "quotes-courage-one-step": {
+    "ko": "거대한 일도 작고 구체적인 착수에서 출발한다는 비유",
+    "en-US": "A metaphor presenting a large undertaking as beginning with a small concrete action",
+    "ja": "大きな事業も小さく具体的な着手から始まることを示す比喩",
+    "zh-TW": "以微小而具體的行動作為重大事業起點的比喻"
+  },
+  "quotes-courage-right-action": {
+    "ko": "옳다고 본 행동을 실행하지 못하는 태도를 용기의 문제와 연결하는 말",
+    "en-US": "A saying linking failure to act on what one judges right with a lack of courage",
+    "ja": "正しいと判断した行動を実行しない態度を、勇気の問題に結びつける言葉",
+    "zh-TW": "把明知正當卻不實行的態度，連結到勇氣問題的說法"
+  },
+  "quotes-perseverance-one-step": {
+    "ko": "거대한 일도 작고 구체적인 착수에서 출발한다는 비유",
+    "en-US": "A metaphor presenting a large undertaking as beginning with a small concrete action",
+    "ja": "大きな事業も小さく具体的な着手から始まることを示す比喩",
+    "zh-TW": "以微小而具體的行動作為重大事業起點的比喻"
+  },
+  "quotes-resilience-worn-new": {
+    "ko": "낮추고 비우는 태도를 온전해짐의 가능성과 연결하는 역설",
+    "en-US": "A paradox linking humility and emptiness with the possibility of becoming whole",
+    "ja": "謙虚さや空虚さを、完全になる可能性と結びつける逆説",
+    "zh-TW": "將謙下與空虛連結到趨於完整之可能性的悖論"
+  },
+  "quotes-resilience-abandon-faults": {
+    "ko": "자기 실수를 확인했을 때 그것을 바꾸는 일을 회피하지 말라는 권고",
+    "en-US": "Advice not to avoid correcting a fault once it is recognized",
+    "ja": "自分の誤りを認めたとき、その訂正を避けないよう求める助言",
+    "zh-TW": "勸人確認自身錯誤後，不要逃避改正的忠告"
+  },
+  "quotes-judgment-few-desires": {
+    "ko": "과도한 추구가 오히려 길을 잃게 하고 절제된 바람이 얻음으로 이어진다는 역설",
+    "en-US": "A paradox contrasting excessive striving that loses its way with restrained desire that attains",
+    "ja": "過度な追求は道を失わせ、欲求を控えることは得ることにつながるという逆説",
+    "zh-TW": "對比過度追求使人迷失，而節制欲望反能有所得的悖論"
+  },
+  "quotes-judgment-examine-multitude": {
+    "ko": "대중의 호오와 별개로 사람을 판단할 근거를 직접 살피라는 권고",
+    "en-US": "Advice to examine grounds for judging a person independently of public liking or dislike",
+    "ja": "世間の好き嫌いとは別に、人を判断する根拠を自ら吟味するよう求める助言",
+    "zh-TW": "勸人不受大眾好惡支配，親自檢驗評斷他人依據的忠告"
+  },
+  "quotes-creativity-weigh-borrowings": {
+    "ko": "인용한 권위의 개수보다 자신의 생각을 표현하는 데 얼마나 기여하는지 따지는 태도",
+    "en-US": "An approach judging borrowed authorities by their contribution to expressing one’s thought rather than by their number",
+    "ja": "引用した権威の数より、自分の考えの表現にどれだけ寄与するかを問う態度",
+    "zh-TW": "衡量引用權威對表達自身思想的貢獻，而非計算引用數量的態度"
+  },
+  "quotes-identity-not-a-utensil": {
+    "ko": "훌륭한 사람의 가치를 정해진 한 가지 용도에만 제한하지 않는다는 비유",
+    "en-US": "A metaphor refusing to limit an excellent person to a single predetermined use",
+    "ja": "優れた人の価値を一つの決まった用途に限定しないという比喩",
+    "zh-TW": "以比喻表示優秀者的價值不應限於單一既定用途"
+  },
+  "quotes-identity-knowing-self": {
+    "ko": "타인을 파악하는 능력과 자신을 성찰하는 밝음을 구별하는 주장",
+    "en-US": "A claim distinguishing discernment of others from the insight involved in knowing oneself",
+    "ja": "他者を見抜く力と、自分を省みる明晰さを区別する主張",
+    "zh-TW": "區分辨識他人的能力與認識自身之明察的主張"
+  },
+  "quotes-equanimity-stillness-root": {
+    "ko": "통치자가 화려한 광경이나 성급한 움직임에 흔들리지 않고 차분함을 지켜야 한다는 비유",
+    "en-US": "A metaphor urging rulers to retain composure amid dazzling sights or hasty action",
+    "ja": "君主が華やかな光景や軽率な動きに乱されず、落ち着きを保つべきだとする比喩",
+    "zh-TW": "勸統治者不因華麗景象或輕率行動而失去沉穩的比喻"
+  },
+  "quotes-equanimity-contentment-enough": {
+    "ko": "욕망을 계속 늘리기보다 충족을 자각하는 태도가 오래가는 충분함을 이룬다는 주장",
+    "en-US": "A claim that recognizing sufficiency, rather than endlessly enlarging desire, sustains lasting contentment",
+    "ja": "欲望を際限なく増やすより、足りていると知る態度が持続する充足を生むという主張",
+    "zh-TW": "主張覺察已經足夠，而非不斷擴張欲望，能維持長久充足的觀點"
+  },
+  "quotes-work-care-for-craft": {
+    "ko": "자신이 익힌 작은 기술도 존중하며 삶의 만족을 그 안에서 찾으라는 권고",
+    "en-US": "Advice to value even a modest acquired craft and find satisfaction in it",
+    "ja": "身につけた小さな技術も尊び、その中に満足を見いだすよう求める助言",
+    "zh-TW": "勸人珍惜自身習得的微小技藝，並從中找到滿足的忠告"
+  }
+}

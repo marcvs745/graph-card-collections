@@ -1,0 +1,134 @@
+{
+  "builtin-zh-conversation-colloquial::builtin-zh-conversation-colloquial-142d843e71639506": {
+    "ko": "어떤 지위나 역할을 맡거나 특정한 구실을 함",
+    "en-US": "Serve in a position, act in a role, or function as something",
+    "ja": "ある地位や役割を務めたり、何かの働きをしたりすること",
+    "zh-TW": "擔任某種職位、扮演某種角色或充作某種用途"
+  },
+  "builtin-zh-conversation-colloquial::builtin-zh-conversation-colloquial-5de1b913e76a9005": {
+    "ko": "번개로 공기가 급격히 팽창하며 나는 큰 소리",
+    "en-US": "The loud sound produced by air expanding rapidly around lightning",
+    "ja": "稲妻で空気が急激に膨張して生じる大きな音",
+    "zh-TW": "閃電使空氣迅速膨脹而產生的轟鳴聲"
+  },
+  "builtin-zh-conversation-colloquial::builtin-zh-conversation-colloquial-4862540a299762b3": {
+    "ko": "주변 지면보다 높이 솟아오른 지형",
+    "en-US": "A landform rising prominently above the surrounding ground",
+    "ja": "周囲の地面より高く盛り上がった地形",
+    "zh-TW": "地面明顯隆起、具有一定高度的地形"
+  },
+  "builtin-zh-conversation-colloquial::builtin-zh-conversation-colloquial-ce576aa808acaf39": {
+    "ko": "두꺼운 털과 큰 몸을 지니고 발바닥 전체로 걷는 포유류",
+    "en-US": "A large, thick-furred mammal that usually walks on the soles of its feet",
+    "ja": "厚い毛に覆われた大きな体をもち、足裏全体で歩く哺乳類",
+    "zh-TW": "體型較大、身有厚毛且多以全腳掌著地的哺乳動物"
+  },
+  "builtin-zh-literary-reading::builtin-zh-literary-reading-86b296ab68b63288": {
+    "ko": "문어에서 말하는 사람 자신을 가리키는 일인칭 대명사",
+    "en-US": "A literary first-person pronoun referring to the speaker",
+    "ja": "文語で話し手自身を示す一人称代名詞",
+    "zh-TW": "文言中說話者稱呼本人的第一人稱代詞"
+  },
+  "builtin-zh-literary-reading::builtin-zh-literary-reading-2a3f99d211c89c55": {
+    "ko": "사서 가운데 하나로 수양과 치우치지 않는 삶의 원리를 논하는 유교 경전",
+    "en-US": "One of the Four Books, discussing self-cultivation and an impartial, balanced way of life",
+    "ja": "四書の一つで、修養と偏らない生き方を論じる儒教の古典",
+    "zh-TW": "四書之一，論述修身與不偏不倚之道的儒家經典"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-eea50f4175bf5349": {
+    "ko": "행동이나 판단의 근거가 되는 규칙·기준·순서를 나타내는 말",
+    "en-US": "Marks the rule, standard, or order according to which something is done",
+    "ja": "行動や判断が従う規則・基準・順序を示す語",
+    "zh-TW": "表示所依據的規則、標準或順序"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-ab158a8483c3b86e": {
+    "ko": "차이를 판단할 때 기준이 되는 비교 대상을 이끄는 말",
+    "en-US": "Introduces the reference against which a difference or degree is assessed",
+    "ja": "差や程度を判断する基準となる対象を導く語",
+    "zh-TW": "引出衡量差異時作為參考的對象"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-322272e54a20981c": {
+    "ko": "특정 대상을 제외하거나 그 밖의 내용을 덧붙일 때 쓰는 말",
+    "en-US": "Excludes an item from consideration or introduces something additional",
+    "ja": "ある対象を除外したり、それ以外の内容を付け加えたりする語",
+    "zh-TW": "表示把某個對象排開不計，也可在其以外另作補充"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-142d843e71639506": {
+    "ko": "일이 일어나는 때나 맡고 있는 신분·역할을 나타내는 말",
+    "en-US": "Marks the occasion when something happens or the capacity in which someone serves",
+    "ja": "出来事が起きる時点や、務める身分・役割を示す語",
+    "zh-TW": "表示某件事發生之際，也可表示擔任某種身分"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-383a53d95c2c2cea": {
+    "ko": "함께하는 사람이나 동반·비교의 대상을 이끄는 말",
+    "en-US": "Introduces a companion or the object of accompaniment or comparison",
+    "ja": "一緒に行動する相手や、同伴・比較の対象を導く語",
+    "zh-TW": "表示與某人一起，或引出伴隨、比較的對象"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-75527e5b5cba4a88": {
+    "ko": "처리할 대상을 동사 앞에 놓거나 아직 일어나지 않은 일을 나타내는 말",
+    "en-US": "Places an affected object before the verb or marks an event as still in the future",
+    "ja": "処置の対象を動詞の前に置いたり、まだ起きていない出来事を示したりする語",
+    "zh-TW": "把受處置的對象提前放到動詞前，也可表示事情尚未發生"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-2b264025e323409f": {
+    "ko": "남의 물건을 잠시 쓰도록 받거나 자기 물건을 잠시 내어주는 일",
+    "en-US": "Temporarily receive another person’s property for use or let someone use one’s own",
+    "ja": "人の物を一時的に使わせてもらうこと、または自分の物を一時的に使わせること",
+    "zh-TW": "暫時取得別人的物品，或把物品暫時交給別人使用"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-8ad0d045ec679357": {
+    "ko": "일정한 경로·과정·절차를 거친다는 뜻을 나타내는 말",
+    "en-US": "Indicates passing through a route, process, or procedure",
+    "ja": "ある道筋・過程・手続きを通ることを示す語",
+    "zh-TW": "表示通過某一途徑、過程或程序"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-55d1b3f35f5d1ebf": {
+    "ko": "두 위치가 서로 떨어진 길이를 나타내는 말",
+    "en-US": "Indicates how far apart two positions are",
+    "ja": "二つの位置がどれだけ離れているかを示す語",
+    "zh-TW": "表示兩個位置之間相隔的長度"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-da8b4cde304b1488": {
+    "ko": "이동이 향하는 방향이나 목적지를 나타내는 말",
+    "en-US": "Indicates the direction or destination toward which movement proceeds",
+    "ja": "移動が向かう方向や目的地を示す語",
+    "zh-TW": "指出移動所朝的方向或目的地"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-8d9b7bd566242593": {
+    "ko": "선·경계·길의 방향을 따라 움직임을 나타내는 말",
+    "en-US": "Indicates movement following a line, boundary, or path",
+    "ja": "線・境界・道筋に従って進むことを示す語",
+    "zh-TW": "表示順著某條線、邊界或路徑前進"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-b231f17270e5fbdc": {
+    "ko": "규칙·조건·요구를 근거로 삼아 행동함을 나타내는 말",
+    "en-US": "Indicates acting according to a rule, condition, or requirement",
+    "ja": "規則・条件・要求を根拠に行動することを示す語",
+    "zh-TW": "表示根據某種規則、條件或要求行事"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-04e45efb3be890e7": {
+    "ko": "도구·재료·방법을 수단으로 삼아 목적을 이룸을 나타내는 말",
+    "en-US": "Marks the tool, material, or method employed to achieve a purpose",
+    "ja": "目的を果たすための道具・材料・方法を示す語",
+    "zh-TW": "表示拿某種工具、材料或方法來達成目的"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-d6578de029fac6b4": {
+    "ko": "일정한 기준·방식·요구를 따라 행동함을 나타내는 말",
+    "en-US": "Indicates following a standard, manner, or requirement",
+    "ja": "ある基準・方式・要求に従って行動することを示す語",
+    "zh-TW": "表示遵循某個標準、方式或要求行事"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-b3e27dd13a7af053": {
+    "ko": "시간이나 공간의 출발점을 나타내는 말",
+    "en-US": "Marks a starting point in time or space",
+    "ja": "時間または空間の起点を示す語",
+    "zh-TW": "標示時間或空間的起點"
+  },
+  "builtin-zh-prepositions-coverbs::builtin-zh-prepositions-coverbs-813d8b9fe6ef0e52": {
+    "ko": "과거의 한 시점부터 지금까지 상황이 이어짐을 나타내는 말",
+    "en-US": "Introduces a past starting point from which a situation continues",
+    "ja": "過去のある時点から現在まで状況が続くことを示す語",
+    "zh-TW": "引出某個過去的時間點，表示情況由那時持續至今"
+  }
+}

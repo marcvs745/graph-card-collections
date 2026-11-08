@@ -1,0 +1,326 @@
+{
+  "builtin-psychology-attention::psychology-attention-consciousness": {
+    "ko": "주관적으로 경험하고 자각하는 것과, 정보를 골라 우선 처리하는 것은 서로 다른 과정이다.",
+    "en-US": "Subjective experience and awareness differ from selecting information for priority processing.",
+    "ja": "主観的な経験や自覚と、情報を選んで優先的に処理する働きは異なる。",
+    "zh-TW": "主觀經驗與覺察，不等同於選擇資訊並優先處理的過程。"
+  },
+  "builtin-business-operations::business-operations-process": {
+    "ko": "투입을 산출로 바꾸는 활동의 연결과, 그 연결을 따라 추적하는 사람·물품 등의 대상을 함께 정의한다.",
+    "en-US": "Operations link activities that turn inputs into outputs and specify which item is tracked along that chain.",
+    "ja": "投入を産出に変える活動の連鎖と、その連鎖に沿って追跡する対象を定める。",
+    "zh-TW": "定義將投入轉為產出的活動鏈，以及沿這條鏈追蹤的人或物。"
+  },
+  "builtin-business-operations::business-operations-lean": {
+    "ko": "고객 가치에 기여하지 않는 낭비를 줄이고, 후속 단계의 필요 신호에 맞추어 투입을 조절하는 운영 원리.",
+    "en-US": "Operating principles that reduce non-value-adding waste and release work in response to downstream demand.",
+    "ja": "顧客価値に寄与しない無駄を減らし、後工程の需要信号に応じて投入を調整する運営原理。",
+    "zh-TW": "減少無助於顧客價值的浪費，並依下游需求訊號控制投入的營運原則。"
+  },
+  "builtin-business-marketing::business-marketing-sources": {
+    "ko": "현재 연구 목적에 맞추어 새로 수집한 정보와, 다른 목적으로 이미 모인 정보를 구별한다.",
+    "en-US": "Distinguishes information newly collected for the current study from information already gathered for another purpose.",
+    "ja": "今回の研究目的で新しく集める情報と、別の目的で既に集められた情報を区別する。",
+    "zh-TW": "區分為本次研究新蒐集的資訊，以及先前因其他目的蒐集的資訊。"
+  },
+  "builtin-business-marketing::business-marketing-stated": {
+    "ko": "말로 밝힌 선택 의향과 실제 제약 아래에서 한 행동을 구별해 구매 판단을 살피는 비교.",
+    "en-US": "Comparing choices people say they intend to make with actions they take under actual constraints.",
+    "ja": "言葉で示す選択意向と、実際の制約下で取った行動を区別して購買を調べる比較。",
+    "zh-TW": "比較人們口頭表示的選擇意願，以及在實際限制下採取的行動。"
+  },
+  "builtin-economics-consumers::economics-consumers-income-change": {
+    "ko": "가격이 그대로일 때 가용 금액의 증감은 살 수 있는 조합의 경계를 평행 이동시킨다.",
+    "en-US": "With prices unchanged, a rise or fall in available funds shifts the boundary of affordable bundles in parallel.",
+    "ja": "価格が一定なら、使える金額の増減は購入可能な組合せの境界を平行移動させる。",
+    "zh-TW": "價格不變時，可用金額增減會使可購買組合的邊界平行移動。"
+  },
+  "builtin-psychology-learning::psychology-learning-conditioning-terms": {
+    "ko": "어떤 자극은 관련 학습 없이 반응을 일으키지만, 다른 자극은 학습을 통해 반응을 일으키게 된다.",
+    "en-US": "Some stimuli elicit a response without relevant learning; others acquire that ability through learning.",
+    "ja": "関連する学習なしに反応を起こす刺激と、学習によってその働きを得る刺激を区別する。",
+    "zh-TW": "有些刺激無須相關學習即可引發反應，另一些則經由學習取得此作用。"
+  },
+  "builtin-psychology-learning::psychology-learning-positive-negative": {
+    "ko": "행동 뒤 자극이 추가되거나 제거·회피되면서, 그 행동이 이후 더 자주 나타나는 두 과정.",
+    "en-US": "Two processes that increase later behavior by adding a stimulus or removing or avoiding one after the behavior.",
+    "ja": "行動後に刺激を加える、または除去・回避することで、その後の行動を増やす二つの過程。",
+    "zh-TW": "行為後加入刺激，或移除、避開刺激，使該行為日後更常出現的兩種過程。"
+  },
+  "builtin-biology-expression::biology-expression-strands": {
+    "ko": "DNA 복제 갈림점에서 한 가닥은 대체로 연속해서, 다른 가닥은 짧은 절편들을 나중에 이어 합성한다.",
+    "en-US": "At a DNA replication fork, one new chain is mostly continuous; the other consists of short pieces joined later.",
+    "ja": "DNA複製の分岐点で、一方の新しい鎖はほぼ連続的に、他方は短い断片を後でつないで合成される。",
+    "zh-TW": "DNA複製分岔處，一條新鏈大致連續合成，另一條先形成短片段再接合。"
+  },
+  "builtin-economics-production::economics-production-marginal-average": {
+    "ko": "추가 한 단위를 만드는 비용이 기존 단위당 비용보다 낮으면 단위당 값이 내려가고, 높으면 올라간다.",
+    "en-US": "An extra unit lowers the existing per-unit expense when cheaper than it, and raises it when more expensive.",
+    "ja": "追加一単位の費用が既存の一単位当たり費用より低ければ後者を下げ、高ければ上げる。",
+    "zh-TW": "新增一單位的花費若低於原有每單位花費，會拉低後者；高於則會拉高。"
+  },
+  "builtin-biology-evolution::biology-evolution-ancestry": {
+    "ko": "여러 계통이 갈라지기 전의 생물에서 이어받았기 때문에 특징이 닮아 있는 관계.",
+    "en-US": "Traits resemble one another because descendant lineages inherited them from a predecessor before diverging.",
+    "ja": "複数の系統が分かれる前の生物から受け継いだために、特徴が似ている関係。",
+    "zh-TW": "不同譜系因繼承分歧前生物的特徵，而具有相似構造或性質的關係。"
+  },
+  "builtin-economics-money::economics-money-bank-run": {
+    "ko": "당장 지급할 현금이 모자라는 상황과, 보유 자산의 가치가 부채를 감당하지 못하는 상황을 구별한다.",
+    "en-US": "Distinguishes a shortage of cash for immediate payments from asset values insufficient to cover liabilities.",
+    "ja": "当面の支払資金が足りない場合と、資産価値が負債を賄えない場合を区別する。",
+    "zh-TW": "區分眼前缺乏付款現金，以及資產價值不足以償付負債的兩種情況。"
+  },
+  "builtin-biology-ecology::biology-ecology-population": {
+    "ko": "생물 집단에 속한 개체의 총수와, 이를 서식 공간의 면적이나 부피로 나눈 값을 구별한다.",
+    "en-US": "Distinguishes the total count of organisms in a group from that count divided by occupied area or volume.",
+    "ja": "生物集団の個体の総数と、それを生息空間の面積や体積で割った値を区別する。",
+    "zh-TW": "區分生物群體的個體總數，以及總數除以棲息面積或體積所得的值。"
+  },
+  "builtin-biology-ecology::biology-ecology-capacity": {
+    "ko": "단순 로지스틱 모형에서 개체가 많아질수록 개체당 순성장률이 낮아져, 환경이 지탱할 수 있는 규모 K 근처에서 성장이 둔화된다.",
+    "en-US": "In a simple logistic model, per-capita growth falls as numbers rise, slowing near the environment-supported level K.",
+    "ja": "単純なロジスティックモデルでは個体が増すほど一個体当たりの増加率が下がり、環境が支えられる規模K付近で増加が鈍る。",
+    "zh-TW": "簡單邏輯斯模型中，個體增加使每個體成長率下降，接近環境可支撐的規模K時成長趨緩。"
+  },
+  "builtin-biology-ecology::biology-ecology-niche": {
+    "ko": "생물이 사는 물리적 장소와, 그 생물이 이용하는 자원·견디는 조건·다른 생물과 맺는 관계를 구별한다.",
+    "en-US": "Distinguishes an organism’s physical living place from the resources, tolerated conditions and interactions defining its role.",
+    "ja": "生物が暮らす物理的な場所と、利用資源・耐えられる条件・他の生物との関係を区別する。",
+    "zh-TW": "區分生物居住的物理場所，以及其利用資源、耐受條件與其他生物的互動關係。"
+  },
+  "builtin-biology-ecology::biology-ecology-decomposition": {
+    "ko": "유기물을 작은 물질로 바꾸는 과정과, 그 원소를 다시 쓸 수 있는 무기 형태로 돌려놓는 과정을 연결한다.",
+    "en-US": "Links the breakdown of organic matter with returning its elements to reusable inorganic forms.",
+    "ja": "有機物を小さな物質へ変える過程と、その元素を再利用できる無機形態に戻す過程を結びつける。",
+    "zh-TW": "連結有機物裂解的過程，以及將其元素轉回可再利用無機形式的過程。"
+  },
+  "builtin-biology-ecology::biology-ecology-keystone": {
+    "ko": "수에 비해 군집에 큰 영향을 미치는 생물과, 먹고 먹히는 관계를 따라 여러 단계로 퍼지는 간접 효과를 다룬다.",
+    "en-US": "Covers organisms with unusually large community effects for their abundance and indirect effects transmitted across feeding levels.",
+    "ja": "個体量に比して群集への影響が大きい生物と、摂食関係を通じて複数段階に及ぶ間接効果を扱う。",
+    "zh-TW": "討論相對數量而言對群集影響特大的生物，以及沿取食層級傳遞的間接效果。"
+  },
+  "builtin-philosophy-empiricism::philosophy-empiricism-simple-complex": {
+    "ko": "로크가 마음이 수동적으로 받아들이는 재료와, 그 재료를 결합해 만드는 내용을 구별하는 설명.",
+    "en-US": "Locke distinguishes materials passively received by the mind from contents it forms by combining those materials.",
+    "ja": "ロックが、心が受動的に受け取る素材と、それらを結びつけて作る内容を区別する説明。",
+    "zh-TW": "洛克區分心靈被動接受的材料，以及心靈組合這些材料所形成的內容。"
+  },
+  "builtin-philosophy-empiricism::philosophy-empiricism-perceived": {
+    "ko": "버클리가 감각으로 접하는 사물은 마음에 나타나는 경험과 분리되어 존재하지 않는다고 보는 원리.",
+    "en-US": "Berkeley’s principle that sensible objects cannot exist separately from their presence in experience.",
+    "ja": "バークリが、感覚で捉える物は心に現れる経験と切り離して存在しないと考える原理。",
+    "zh-TW": "貝克萊主張感官所接觸的事物，不能脫離其在心靈經驗中的呈現而存在。"
+  },
+  "builtin-psychology-health::psychology-health-stress": {
+    "ko": "부담을 주는 사건·조건과, 그것에 대응할 때 겪는 심리적·신체적 경험을 구별한다.",
+    "en-US": "Distinguishes demanding events or conditions from the psychological and bodily experience of responding to them.",
+    "ja": "負担を与える出来事や条件と、それに対応する際の心理的・身体的経験を区別する。",
+    "zh-TW": "區分造成負擔的事件或條件，以及回應它們時產生的心理與身體經驗。"
+  },
+  "builtin-business-finance::business-finance-sensitivity": {
+    "ko": "한 가정만 바꾸어 결과를 보는 방법과, 일관된 여러 가정을 묶어 바꾸는 방법을 구별한다.",
+    "en-US": "Distinguishes changing one assumption at a time from changing a coherent set of assumptions together.",
+    "ja": "一つの仮定だけを変えて結果を見る方法と、整合的な複数の仮定をまとめて変える方法を区別する。",
+    "zh-TW": "區分每次只改變單一假設，以及同時改變一組相互一致假設的分析方式。"
+  },
+  "builtin-psychology-perception::psychology-perception-sensation-perception": {
+    "ko": "외부 자극의 정보를 받아들이는 단계와, 그 정보를 조직해 의미를 부여하는 단계를 구별한다.",
+    "en-US": "Distinguishes registering information from external stimuli from organizing it and assigning meaning.",
+    "ja": "外部刺激の情報を受け取る段階と、その情報を組織して意味づける段階を区別する。",
+    "zh-TW": "區分接收外界刺激資訊，以及組織這些資訊並賦予意義的兩個階段。"
+  },
+  "builtin-business-product::business-product-retention": {
+    "ko": "고객이 이용을 계속하는 행동과, 선호·애착 같은 태도를 구별해 관계를 평가한다.",
+    "en-US": "Evaluates customer relationships by distinguishing continued use from attitudes such as preference and attachment.",
+    "ja": "顧客が利用を続ける行動と、好みや愛着などの態度を区別して関係を評価する。",
+    "zh-TW": "區分顧客持續使用的行為，以及偏好、依附等態度，以評估顧客關係。"
+  },
+  "builtin-economics-labor::economics-labor-poverty": {
+    "ko": "생활에 필요한 실질 자원의 고정 기준으로 부족을 판단하는 방식과, 주변 소득분포에 연계해 판단하는 방식을 구별한다.",
+    "en-US": "Distinguishes deprivation judged against a real-resource threshold from deprivation judged relative to surrounding incomes.",
+    "ja": "生活資源の実質的な基準で不足を測る方法と、周囲の所得分布に連動する基準で測る方法を区別する。",
+    "zh-TW": "區分依實質生活資源門檻判斷匱乏，以及依周圍所得分布設定門檻的方式。"
+  },
+  "builtin-economics-labor::economics-labor-mobility": {
+    "ko": "한 시점의 소득 격차와, 개인의 소득 수준·순위가 시간이나 세대를 거쳐 달라지는 현상을 구별한다.",
+    "en-US": "Distinguishes income differences at one time from changes in individuals’ income levels or ranks across time or generations.",
+    "ja": "ある時点の所得格差と、個人の所得水準や順位が時間・世代を通じて変わる現象を区別する。",
+    "zh-TW": "區分某一時點的所得差距，以及個人所得水準或排名隨時間、世代改變的現象。"
+  },
+  "builtin-business-control::business-control-leading": {
+    "ko": "결과가 나오기 전에 변화를 알리는 측정값과, 이미 실현된 성과를 확인하는 측정값을 구별한다.",
+    "en-US": "Distinguishes measures that signal a later outcome from measures of results already realized.",
+    "ja": "結果より先に変化を知らせる測定値と、既に実現した成果を確認する測定値を区別する。",
+    "zh-TW": "區分在結果發生前提供訊號的測量值，以及衡量已實現成果的測量值。"
+  },
+  "builtin-biology-immunity::biology-immunity-t-cells": {
+    "ko": "다른 면역세포의 반응을 조정하는 역할과, 적절한 항원을 제시하는 표적을 제거하는 역할로 나뉘는 림프구의 두 유형.",
+    "en-US": "Two lymphocyte types: one coordinates other immune cells, while the other removes targets displaying the appropriate antigen.",
+    "ja": "他の免疫細胞の反応を調整する役割と、適切な抗原を示す標的を除く役割に分かれる二種類のリンパ球。",
+    "zh-TW": "兩類淋巴球分別協調其他免疫細胞，或移除呈現適當抗原的標的細胞。"
+  },
+  "builtin-biology-neuroendocrine::biology-neuroendocrine-insulin-glucagon": {
+    "ko": "포유류에서 한 호르몬은 포도당 저장과 혈당 감소를 돕고, 다른 호르몬은 간의 포도당 방출을 촉진한다.",
+    "en-US": "In mammals, one hormone favors glucose storage and lower blood glucose; another promotes glucose release from the liver.",
+    "ja": "哺乳類で、一方のホルモンは糖の貯蔵と血糖低下を助け、もう一方は肝臓からの糖放出を促す。",
+    "zh-TW": "哺乳類中，一種激素促進葡萄糖儲存並降低血糖，另一種促進肝臟釋放葡萄糖。"
+  },
+  "builtin-art-materials::art-materials-support": {
+    "ko": "그림을 이루는 재료를 색을 내는 입자, 입자를 붙잡는 물질, 그림을 받치는 면이라는 세 역할로 구별한다.",
+    "en-US": "Distinguishes three material roles in a painting: colored particles, a substance holding them together, and the surface carrying the image.",
+    "ja": "絵を構成する材料を、発色する粒子・粒子をつなぐ物質・絵を載せる面という三つの役割で区別する。",
+    "zh-TW": "將繪畫材料區分為提供顏色的粒子、固定粒子的物質，以及承載圖像的表面三種角色。"
+  },
+  "builtin-psychology-social::psychology-social-norms": {
+    "ko": "사람들이 실제로 자주 하는 행동과, 사람들이 바람직하다고 승인하거나 기대하는 행동을 구별한다.",
+    "en-US": "Distinguishes what people commonly do from what they approve of or expect others to do.",
+    "ja": "人々が実際によくする行動と、望ましいと認めたり他者に期待したりする行動を区別する。",
+    "zh-TW": "區分人們實際常做的行為，以及人們贊同或期待別人採取的行為。"
+  },
+  "builtin-art-looking::art-looking-evidence": {
+    "ko": "눈에 보이는 특징을 서술하는 일과, 그 특징이 무엇을 뜻하는지 제안하는 일을 구별한다.",
+    "en-US": "Distinguishes describing visible features from proposing what those features mean.",
+    "ja": "目に見える特徴を述べることと、その特徴が何を意味するかを提案することを区別する。",
+    "zh-TW": "區分描述眼睛可見的特徵，以及提出這些特徵可能代表的意義。"
+  },
+  "builtin-psychology-language::psychology-language-norms": {
+    "ko": "비교 집단의 검사 수행 자료를 바탕으로, 한 사람의 결과가 그 집단에서 어느 위치인지 표현하는 체계.",
+    "en-US": "A system using a reference group’s test results to express where an individual result lies relative to that group.",
+    "ja": "比較集団の検査成績をもとに、個人の結果がその集団のどこに位置するかを表す仕組み。",
+    "zh-TW": "依據參照群體的測驗表現，表達個人成績在該群體中相對位置的體系。"
+  },
+  "builtin-psychology-language::psychology-language-fluid-crystallized": {
+    "ko": "낯선 관계를 추론하는 능력과, 경험으로 축적한 지식·기술을 활용하는 능력을 구별한다.",
+    "en-US": "Distinguishes reasoning about unfamiliar relationships from using knowledge and skills accumulated through experience.",
+    "ja": "未知の関係を推論する力と、経験で蓄えた知識や技能を使う力を区別する。",
+    "zh-TW": "區分推理陌生關係的能力，以及運用經驗累積之知識與技能的能力。"
+  },
+  "builtin-biology-inheritance::biology-inheritance-homologs": {
+    "ko": "부모에게서 하나씩 받아 대응 유전자좌를 가진 쌍과, 하나의 DNA 복제에서 생긴 두 사본을 구별한다.",
+    "en-US": "Distinguishes a parental pair bearing corresponding gene loci from the two copies produced by one DNA replication.",
+    "ja": "両親から一本ずつ受け継ぎ対応する遺伝子座をもつ対と、一本のDNA複製で生じた二つのコピーを区別する。",
+    "zh-TW": "區分分別來自雙親、帶有對應基因座的一對構造，以及單次DNA複製產生的兩份拷貝。"
+  },
+  "builtin-psychology-brain::psychology-brain-structure": {
+    "ko": "신경세포의 돌기 중 보통 입력을 받는 부분과, 다른 세포로 신호를 보내는 부분을 구별한다.",
+    "en-US": "Distinguishes the neuronal projections that usually receive input from the projection carrying signals toward other cells.",
+    "ja": "神経細胞の突起のうち、通常入力を受ける部分と、他の細胞へ信号を送る部分を区別する。",
+    "zh-TW": "區分神經細胞突起中通常接收輸入的部分，以及將訊號傳往其他細胞的部分。"
+  },
+  "builtin-psychology-brain::psychology-brain-glia-myelin": {
+    "ko": "신경세포 주변 환경을 조절하는 세포들과, 그 일부가 만들어 축삭 전도를 빠르게 하는 절연층의 관계.",
+    "en-US": "Cells regulate the neural environment; some form an insulating layer that speeds signal conduction along axons.",
+    "ja": "神経細胞の周囲環境を調節する細胞と、その一部が作り軸索の伝導を速める絶縁層との関係。",
+    "zh-TW": "調節神經環境的細胞，其中部分會形成絕緣層，使軸突訊號傳導更快。"
+  },
+  "builtin-psychology-brain::psychology-brain-systems": {
+    "ko": "뇌와 척수에서 정보를 통합하는 부분과, 이들을 몸의 감각·운동 경로에 연결하는 부분으로 나눈다.",
+    "en-US": "Divides neural organization into brain-and-spinal-cord integration and the pathways connecting them with the body.",
+    "ja": "脳と脊髄で情報を統合する部分と、それらを身体の感覚・運動経路につなぐ部分に分ける。",
+    "zh-TW": "將神經系統區分為在腦與脊髓整合資訊的部分，以及連結身體感覺、運動路徑的部分。"
+  },
+  "builtin-business-behavior::business-behavior-intrinsic": {
+    "ko": "활동 자체가 즐거워서 하는 경우와, 활동 밖의 보상을 얻거나 결과를 이루려 하는 경우를 구별한다.",
+    "en-US": "Distinguishes acting for enjoyment of an activity itself from acting for rewards or outcomes separable from it.",
+    "ja": "活動そのものが楽しくて行う場合と、活動とは別の報酬や結果のために行う場合を区別する。",
+    "zh-TW": "區分因活動本身有樂趣而行動，以及為取得活動以外的獎勵或結果而行動。"
+  },
+  "builtin-business-behavior::business-behavior-goals": {
+    "ko": "구체적이고 도전적인 도달 기준은 수용·능력·진행 정보가 뒷받침될 때 노력을 집중시키기 쉽다.",
+    "en-US": "Specific, challenging targets can focus effort when accepted and supported by ability and information about progress.",
+    "ja": "具体的で挑戦的な到達基準は、本人の受容・能力・進み具合の情報があれば努力を集中させやすい。",
+    "zh-TW": "具體且有挑戰性的達成標準，在獲得認同、具備能力與進度資訊時，能幫助集中努力。"
+  },
+  "builtin-business-behavior::business-behavior-conflict": {
+    "ko": "일을 어떻게 할지에 관한 의견 차이와, 사람 사이의 긴장·반감에서 생기는 충돌을 구별한다.",
+    "en-US": "Distinguishes disagreement over how work should be done from interpersonal tension or dislike.",
+    "ja": "仕事の進め方に関する意見の違いと、人々の緊張や反感から生じる対立を区別する。",
+    "zh-TW": "區分對工作做法的意見差異，以及人際緊張或反感造成的衝突。"
+  },
+  "builtin-economics-public::economics-public-goods-properties": {
+    "ko": "한 사람의 이용이 남의 몫을 줄이는지와, 특정 이용자의 접근을 실제로 막을 수 있는지로 재화를 구분한다.",
+    "en-US": "Classifies goods by whether one user reduces others’ available use and whether access can feasibly be restricted.",
+    "ja": "一人の利用が他人の利用可能量を減らすかと、特定の利用者のアクセスを実際に制限できるかで財を分ける。",
+    "zh-TW": "依一人使用是否減少他人可用量，以及能否有效限制使用者進入，區分財貨性質。"
+  },
+  "builtin-business-models::business-models-cash": {
+    "ko": "기간별 순현금 감소량을 측정하고, 현재 현금이 같은 소진 속도에서 얼마나 오래 운영을 지탱할지 추정한다.",
+    "en-US": "Measures net cash depletion per period and estimates how long available funds support operations at that depletion rate.",
+    "ja": "期間ごとの現金純減少を測り、その減少ペースで手元資金が何期間の運営を支えられるかを見積もる。",
+    "zh-TW": "衡量每期現金淨減少量，並估計現有資金按此消耗速度可維持營運多久。"
+  },
+  "builtin-economics-cycles::economics-cycles-expectations": {
+    "ko": "앞으로 물가가 어떻게 변할지에 대한 예상은 임금 협상·판매가격 결정·현재 지출에 영향을 줄 수 있다.",
+    "en-US": "Beliefs about future inflation can influence wage bargains, selling prices and current spending.",
+    "ja": "今後の物価変動に関する見通しは、賃金交渉・販売価格の決定・現在の支出に影響しうる。",
+    "zh-TW": "對未來物價走勢的判斷，可能影響工資協商、售價決定及當期支出。"
+  },
+  "builtin-biology-metabolism::biology-metabolism-metabolism": {
+    "ko": "세포의 화학 반응 전체를 이루는 분해와 합성의 연속 단계는 물질·에너지 전달을 통해 서로 연결된다.",
+    "en-US": "Cellular chemical reactions form linked sequences of breakdown and synthesis that exchange matter and energy.",
+    "ja": "細胞の化学反応全体をなす分解と合成の連続段階は、物質とエネルギーの受け渡しで結びつく。",
+    "zh-TW": "細胞化學反應中，分解與合成的連續步驟透過物質及能量傳遞相互連結。"
+  },
+  "builtin-biology-diversity::biology-diversity-nutrition": {
+    "ko": "생물의 영양 방식을 빛·화학 반응으로 얻는 동력과, 무기·유기 화합물에서 얻는 유기 분자의 골격 재료로 나누어 설명한다.",
+    "en-US": "Nutritional modes separately track power obtained from light or chemicals and organic-backbone atoms obtained from inorganic or organic compounds.",
+    "ja": "栄養様式を、光や化学反応から得る動力と、無機・有機化合物から得る有機分子の骨格材料に分けて説明する。",
+    "zh-TW": "營養方式分別追蹤來自光或化學反應的動力，以及取自無機或有機化合物的有機分子骨架材料。"
+  },
+  "builtin-economics-competition::economics-competition-marginal-choice": {
+    "ko": "한 단위를 더 팔아 늘어나는 수입이 그 단위를 만드는 추가 비용보다 크면 생산 확대가 이윤을 높인다.",
+    "en-US": "Producing one more unit raises profit if its additional sales income exceeds its additional production expense.",
+    "ja": "一単位を追加販売して増える収入が、その追加生産に必要な費用を上回れば利潤が増える。",
+    "zh-TW": "多售一單位帶來的新增收入若高於該單位新增生產花費，擴大產量便會增加利潤。"
+  },
+  "builtin-biology-membranes::biology-membranes-diffusion": {
+    "ko": "입자의 무작위 운동 때문에, 같은 물질은 농도 차이가 있을 때 보통 높은 쪽에서 낮은 쪽으로 전체적으로 퍼진다.",
+    "en-US": "Random particle motion generally produces overall transfer of the same substance from higher to lower concentration when a gradient exists.",
+    "ja": "粒子の無作為な運動により、濃度差があれば同じ物質は通常、高い側から低い側へ全体として広がる。",
+    "zh-TW": "粒子的隨機運動使同種物質在有濃度差時，通常整體由高濃度處向低濃度處傳移。"
+  },
+  "builtin-biology-membranes::biology-membranes-channels-carriers": {
+    "ko": "막 단백질 중 선택적 구멍을 내는 유형과, 물질을 결합한 뒤 모양을 바꾸어 반대편에 드러내는 유형을 구별한다.",
+    "en-US": "Distinguishes membrane proteins forming selective pores from those that bind cargo and change shape to expose it on the other side.",
+    "ja": "膜タンパク質を、選択的な孔を作る型と、物質を結合後に形を変えて反対側に示す型に分ける。",
+    "zh-TW": "區分形成選擇性孔洞的膜蛋白，以及結合物質後改變形狀、使其露於膜另一側的膜蛋白。"
+  },
+  "builtin-psychology-personality::psychology-personality-neuroticism": {
+    "ko": "부정적 감정을 쉽게 경험하는 경향과, 그 반대 방향의 차분하고 흔들림 적은 경향을 하나의 차원에서 비교한다.",
+    "en-US": "Compares proneness to negative emotions with the opposite tendency toward calmness on a shared personality dimension.",
+    "ja": "否定的感情を経験しやすい傾向と、反対方向の落ち着いた傾向を一つの性格次元で比べる。",
+    "zh-TW": "在同一人格向度上，比較容易出現負向情緒的傾向，以及相反方向的平靜傾向。"
+  },
+  "builtin-biology-homeostasis::biology-homeostasis-exchange": {
+    "ko": "입자의 무작위 운동에 의한 물질 이동은 짧은 거리에서 효과적이며, 넓고 얇은 표면은 이동을 돕는다.",
+    "en-US": "Random particle motion transfers substances effectively over short distances; broad, thin surfaces assist this transfer.",
+    "ja": "粒子の無作為な運動による物質移動は短距離で有効で、広く薄い表面は移動を助ける。",
+    "zh-TW": "粒子隨機運動造成的物質傳移在短距離較有效，寬廣而薄的表面有助於傳移。"
+  },
+  "builtin-economics-indicators::economics-indicators-value-added": {
+    "ko": "생산물 가치에서 중간 투입 가치를 뺀 금액으로, 생산 단계별로 합하면 중복 계산을 피한다.",
+    "en-US": "Output value minus purchased intermediate inputs, summed across production stages to avoid double counting.",
+    "ja": "生産物の価値から中間投入の価値を引いた額で、段階ごとに合計すると二重計算を避けられる。",
+    "zh-TW": "產出價值扣除中間投入價值所得的金額，各生產階段加總可避免重複計算。"
+  },
+  "builtin-biology-immunity::biology-immunity-primary-secondary": {
+    "ko": "같은 항원에 처음 노출될 때 형성되는 반응과, 기억세포 덕분에 보통 더 빠르고 강해지는 재노출 반응을 구별한다.",
+    "en-US": "Distinguishes the response to a first antigen exposure from a usually faster, stronger response to the same antigen aided by memory cells.",
+    "ja": "同じ抗原への初回曝露時の反応と、記憶細胞により通常は速く強くなる再曝露時の反応を区別する。",
+    "zh-TW": "區分首次接觸抗原時形成的反應，以及記憶細胞使同一抗原再次暴露時通常更快、更強的反應。"
+  },
+  "builtin-biology-life::biology-life-structure-function": {
+    "ko": "생체분자가 하는 일은 입체 모양과 화학적 성질에 좌우되며, 모양이 바뀌면 결합 상대나 활성도 달라질 수 있다.",
+    "en-US": "A biological molecule’s activity depends on its three-dimensional shape and chemistry; reshaping it can alter binding or activity.",
+    "ja": "生体分子の働きは立体的な形や化学的性質に左右され、形の変化は結合相手や活性を変えうる。",
+    "zh-TW": "生物分子的作用取決於立體形狀與化學性質；形狀改變可能影響結合對象或活性。"
+  },
+  "builtin-psychology-personality::psychology-personality-facets": {
+    "ko": "넓은 성격 범주는 관련된 세부 성향들을 묶으므로, 같은 총점이라도 세부 조합은 다를 수 있다.",
+    "en-US": "Broad personality categories combine related narrower tendencies, so equal overall scores can hide different detailed profiles.",
+    "ja": "幅広い性格の区分は関連する細かな傾向をまとめるため、同じ総得点でも内訳は異なりうる。",
+    "zh-TW": "較廣的人格類別整合相關的細部傾向，因此相同總分可能具有不同的細部組合。"
+  }
+}

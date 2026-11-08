@@ -8,6 +8,16 @@ When updating a collection, keep its collection ID and existing card IDs stable,
 
 For language data sources and coverage, see the [Graph Card source documentation](https://github.com/marcvs745/memory-card/tree/f261623/content/languages). Collection descriptions and cards include source credits.
 
+## Editorial maintenance
+
+This repository is the authoritative distribution source. The Graph Card app keeps discovery metadata and downloads collection content and hash-verified images from here; it does not ship a second copy of the cards.
+
+`description` remains the learner-facing explanation. `summary` is a separate, single-line meaning clue used by the system and quizzes, not visible card-view copy. Keep it within 160 UTF-16 code units and avoid the answer title and revealing answer aliases. Provide `summary` on the base card and in each of the four existing locale translations (`ko`, `en-US`, `ja`, `zh-TW`); the base value matches Korean. Do not rewrite descriptions just to add clues.
+
+The 2026-11-08 editorial update adds clues throughout the catalogue and limits description changes to the 137 IDs recorded in [the description target list](tools/editorial-description-targets.json). IDs, titles, relationships, source credits, images and all other descriptions are preserved.
+
+Run `python3 tools/verify_editorial.py` for coverage and title checks. Before publishing this update, run `python3 tools/verify_editorial.py --baseline-ref 13d9693989c9ba9d52ddb88a5bd0a5a6da7c1443` to additionally verify the exact description scope and preserve other content and image bytes. Automated structural checks do not constitute independent linguistic or educator review.
+
 ## Catalogue
 
 | Collection | Cards | Source file |
