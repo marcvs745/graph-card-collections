@@ -1,6 +1,6 @@
 # Graph Card Built-in Collections
 
-This repository hosts all 208 public built-in collections for Graph Card, including their image files. Supported languages and sources vary by collection.
+This repository hosts all 213 public built-in collections for Graph Card, including their image files. Supported languages and sources vary by collection.
 
 To import a collection, open **My Collections → Import → Link** in Graph Card and paste the GitHub URL for its `collection.json` file.
 
@@ -22,6 +22,11 @@ Run `python3 tools/verify_editorial.py` for coverage and title checks. Before pu
 
 | Collection | Cards | Source file |
 | --- | ---: | --- |
+| Beginner English vocabulary | 800 | [collection.json](collections/en-renewal-beginner/collection.json) |
+| Intermediate English vocabulary | 1600 | [collection.json](collections/en-renewal-intermediate/collection.json) |
+| Advanced English vocabulary | 3200 | [collection.json](collections/en-renewal-advanced/collection.json) |
+| English conversation vocabulary | 3000 | [collection.json](collections/en-renewal-conversation/collection.json) |
+| Academic English vocabulary | 6000 | [collection.json](collections/en-renewal-academic/collection.json) |
 | Elementary English · Korean curriculum · 800 words | 800 | [collection.json](collections/en-school-elementary/collection.json) |
 | Secondary English · Korean common curriculum · 1,200 words | 1200 | [collection.json](collections/en-school-secondary/collection.json) |
 | Extended high school English · Korean curriculum · 1,000 words | 1000 | [collection.json](collections/en-school-high/collection.json) |
