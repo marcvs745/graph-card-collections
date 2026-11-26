@@ -53,6 +53,7 @@ Run `python3 tools/verify_editorial.py` for coverage and title checks. Before pu
 | Japanese · Advanced reading · Literary narration | 12 | [collection.json](collections/ja-reading-advanced/collection.json) |
 | Japanese · Intermediate exam reading · Information and conditions | 8 | [collection.json](collections/ja-exam-intermediate/collection.json) |
 | Japanese · Advanced exam reading · Claims and inference | 8 | [collection.json](collections/ja-exam-advanced/collection.json) |
+| Taiwanese Mandarin · Beginner | 41 | [collection.json](collections/zh-tw-mandarin-beginner/collection.json) |
 | Chinese · HSK 2.0 Level 1 additional vocabulary · English meanings | 150 | [collection.json](collections/zh-hsk2-level-1/collection.json) |
 | Chinese · HSK 2.0 Level 2 additional vocabulary · English definitions | 147 | [collection.json](collections/zh-hsk2-level-2/collection.json) |
 | Chinese · HSK 2.0 Level 3 additional vocabulary · English definitions | 298 | [collection.json](collections/zh-hsk2-level-3/collection.json) |
