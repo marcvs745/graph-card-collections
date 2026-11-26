@@ -42,10 +42,21 @@ def make_card(row):
         hint = row['en' if locale == 'en-US' else locale]
         if title in hint or title not in row['example-zh']:
             raise ValueError(f'Invalid clue or example: {title}')
-        details = [f"**{hint}**", f"**{pinyin}** {row['pinyin']}  \n**{zhuyin}** {row['zhuyin']}",
-                   f"*{row['example-zh']}*"]
-        if locale != 'zh-TW':
-            details[-1] += '\n' + row['example-' + ('en' if locale == 'en-US' else locale)]
+        word_aid = row.get('word-reading-' + locale)
+        reading_note = f' ({word_aid})' if word_aid else ''
+        pinyin_line = f"**{pinyin}** {row['pinyin']}{reading_note}"
+        zhuyin_line = f"**{zhuyin}** {row['zhuyin']}"
+        reading_lines = [zhuyin_line, pinyin_line] if locale == 'zh-TW' else [pinyin_line, zhuyin_line]
+        example_locale = 'en' if locale == 'en-US' else locale
+        example_translation = row['example-' + example_locale]
+        example_pronunciation = row['example-reading-' + example_locale]
+        if not example_translation or not example_pronunciation or example_translation == row['example-zh']:
+            raise ValueError(f'Incomplete localized example: {title} ({locale})')
+        details = [
+            f'**{hint}**',
+            '  \n'.join(reading_lines),
+            f"*{row['example-zh']}*\n{example_translation}\n*{example_pronunciation}*",
+        ]
         if row['readingSource'] == 'MOE':
             credit = f'[教育部《重編國語辭典修訂本》你]({MOE_NI}) · [好]({MOE_HAO})'
         else:
@@ -70,7 +81,7 @@ def main():
     assert len(ids) == len(cards) and all(relation['targetCardId'] in ids for card in cards for relation in card['relations'])
     translations = {locale: {'title': info[0], 'description': info[1]} for locale, info in LEVELS.items()}
     deck = {'protocolVersion': 2, 'collectionId': 'builtin-' + SLUG, **translations['ko'],
-            'contentVersion': f'taiwan-mandarin-{date.date()}-1', 'publishedAt': args.published_at,
+            'contentVersion': f'taiwan-mandarin-{date.date()}-2', 'publishedAt': args.published_at,
             'viewMode': 'both', 'tags': ['vocabulary'], 'topics': TOPICS, 'assets': [], 'cards': cards,
             'customRelations': [RELATION], 'localization': {'sourceLocale': 'ko', 'translations': translations}}
     output = ROOT / 'collections' / SLUG / 'collection.json'
