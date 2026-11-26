@@ -18,6 +18,8 @@ The 2026-11-08 editorial update adds clues throughout the catalogue and limits d
 
 Run `python3 tools/verify_editorial.py` for coverage and title checks. Before publishing this update, run `python3 tools/verify_editorial.py --baseline-ref 13d9693989c9ba9d52ddb88a5bd0a5a6da7c1443` to additionally verify the exact description scope and preserve other content and image bytes. Automated structural checks do not constitute independent linguistic or educator review.
 
+[Japanese kanji scope, readings and attribution](editorial/japanese-kanji.md)
+
 ## Catalogue
 
 | Collection | Cards | Source file |
@@ -35,6 +37,11 @@ Run `python3 tools/verify_editorial.py` for coverage and title checks. Before pu
 | English academic vocabulary · TOEFL and IELTS | 957 | [collection.json](collections/en-academic-nawl/collection.json) |
 | English · Phrasal verbs | 457 | [collection.json](collections/en-phrasal-verbs/collection.json) |
 | English · Literary expressions and narrative techniques | 40 | [collection.json](collections/en-literary-expressions/collection.json) |
+| Beginner Japanese · vocabulary and kanji | 1223 | [collection.json](collections/ja-renewal-beginner/collection.json) |
+| Intermediate Japanese · vocabulary and kanji | 2508 | [collection.json](collections/ja-renewal-intermediate/collection.json) |
+| Advanced Japanese · vocabulary and kanji | 4573 | [collection.json](collections/ja-renewal-advanced/collection.json) |
+| Japanese conversation · vocabulary and kanji | 4086 | [collection.json](collections/ja-renewal-conversation/collection.json) |
+| Academic Japanese · vocabulary and kanji | 7556 | [collection.json](collections/ja-renewal-academic/collection.json) |
 | Japanese reading vocabulary · 1 · newspaper frequency 1–10 | 4909 | [collection.json](collections/ja-priority-1/collection.json) |
 | Japanese Reading Vocabulary · 2 · Newspaper Frequency 11–25 | 6961 | [collection.json](collections/ja-priority-2/collection.json) |
 | Japanese Reading Vocabulary · 3 · Newspaper Frequency 26–48 | 3280 | [collection.json](collections/ja-priority-3/collection.json) |
