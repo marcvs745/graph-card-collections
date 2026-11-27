@@ -53,7 +53,11 @@ Run `python3 tools/verify_editorial.py` for coverage and title checks. Before pu
 | Japanese · Advanced reading · Literary narration | 12 | [collection.json](collections/ja-reading-advanced/collection.json) |
 | Japanese · Intermediate exam reading · Information and conditions | 8 | [collection.json](collections/ja-exam-intermediate/collection.json) |
 | Japanese · Advanced exam reading · Claims and inference | 8 | [collection.json](collections/ja-exam-advanced/collection.json) |
-| Taiwanese Mandarin · Beginner · vocabulary and Hanzi | 107 | [collection.json](collections/zh-tw-mandarin-beginner/collection.json) |
+| Taiwanese Mandarin · Beginner · vocabulary and Hanzi | 1,391 | [collection.json](collections/zh-tw-mandarin-beginner/collection.json) |
+| Taiwanese Mandarin · Intermediate · vocabulary and Hanzi | 2,688 | [collection.json](collections/zh-tw-mandarin-intermediate/collection.json) |
+| Taiwanese Mandarin · Advanced · vocabulary and Hanzi | 4,531 | [collection.json](collections/zh-tw-mandarin-advanced/collection.json) |
+| Taiwanese Mandarin · Conversation · vocabulary and Hanzi | 4,416 | [collection.json](collections/zh-tw-mandarin-conversation/collection.json) |
+| Taiwanese Mandarin · Academic · vocabulary and Hanzi | 7,584 | [collection.json](collections/zh-tw-mandarin-academic/collection.json) |
 | Chinese · HSK 2.0 Level 1 additional vocabulary · English meanings | 150 | [collection.json](collections/zh-hsk2-level-1/collection.json) |
 | Chinese · HSK 2.0 Level 2 additional vocabulary · English definitions | 147 | [collection.json](collections/zh-hsk2-level-2/collection.json) |
 | Chinese · HSK 2.0 Level 3 additional vocabulary · English definitions | 298 | [collection.json](collections/zh-hsk2-level-3/collection.json) |
